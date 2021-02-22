@@ -3,12 +3,12 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz."
 heroID: 61901
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: es
 ref: "Ezio"
 toc: true
 ---
- **Description:** A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz.
+ **Descripción:** A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz.
 ## Details
  **Profession:** 
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Asesinato con hoja oculta
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas a cierta distancia y <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas a cierta distancia y <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 2 Spell: Sigilo
- **Description:** Otorga Sigilo a las unidades amistosas en una zona grande, haciéndolas inmunes al daño de la unidad durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+ **Descripción:** Otorga Sigilo a las unidades amistosas en una zona grande, haciéndolas inmunes al daño de la unidad durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
 ### 3 Spell: Silencio
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 4 Spell: Vista de águila
- **Description:** Otorga <span style="color: #e07c44;font-size:20px">Ojo de halcón</span><span style="color: black"> a todas las unidades amistosas mientras aumenta el golpe crítico y la precisión en 900 durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+ **Descripción:** Otorga <span style="color: #e07c44;font-size:20px">Ojo de halcón</span><span style="color: black"> a todas las unidades amistosas mientras aumenta el golpe crítico y la precisión en 900 durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Una persona misteriosa de un mundo diferente. Posee una habilidad extraordinaria para el asesinato.</span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Una persona misteriosa de un mundo diferente. Posee una habilidad extraordinaria para el asesinato.</span>
 
 
 ### Skin 2: **Revelations**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Tras experimentar incontables muertes y gloria, sus pasos ya no tiemblan.</span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Tras experimentar incontables muertes y gloria, sus pasos ya no tiemblan.</span>
 
  **Skin features:** 
 

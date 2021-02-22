@@ -1,0 +1,244 @@
+---
+title: "Grifo"
+permalink: /units/Griffin/
+excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
+unitID: 103
+last_modified_at: 2021-02-22
+locale: es
+ref: "Grifo"
+toc: true
+---
+## General information
+ **Descripción:** Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento.
+
+ **Clase:** [Carga](/units/Unit Class Charging/)
+
+ **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
+
+ **Facción: ** [Castillo](/units/Faction Castle/)
+
+ **Race:** Bestia
+
+ **Members:** [x9](/units/Unit Member x9/)
+
+ **Rank:** [SR](/units/Unit Rank SR/)
+
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+
+ **Unit description:** Picado: inflige daño a 3 unidades del oponente al atacar.
+
+ **Short description:** Unidad aérea. Contraataques ilimitados.
+
+ **Position :** Inflige daño rápido al inicio de la partida. Contraataca frecuentemente e inflige daño de área.
+
+ **Recommend:** Si aumentas tu velocidad de movimiento, tus ejércitos serán mucho más eficaces.
+
+## Atributos básicos
+ **Base HP: 1850.0**
+
+ **Base ATK: 151.4**
+
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+
+  |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
+  |:--------------------|:--------:|:--------:|:--------:|
+  | Verde | 75.7 | 6.25 | 1387.5 |
+  | Azul | 151.4 | 12.5 | 2775.0 |
+  | Azul +1 | 227.1 | 18.75 | 4162.5 |
+  | Azul +2 | 317.94 | 26.25 | 5827.5 |
+  | Violeta | 408.78 | 33.75 | 7492.5 |
+  | Violeta +1 | 499.62 | 41.25 | 9157.5 |
+  | Violeta +2 | 605.6 | 50.0 | 11100.0 |
+  | Violeta +3 | 711.58 | 58.75 | 13042.5 |
+  | Naranja | 817.56 | 67.5 | 14985.0 |
+  | Naranja +1 | 938.68 | 77.5 | 17205.0 |
+  | Naranja +2 | 1059.8 | 87.5 | 19425.0 |
+  | Orange +3 | 1180.92 | 97.5 | 21645.0 |
+  | Naranja +4 | 1302.04 | 107.5 | 23865.0 |
+  | Naranja +5 | 1483.72 | 122.5 | 27195.0 |
+  | Rojo | 1725.96 | 142.5 | 31635.0 |
+
+  |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
+  |:--------------------|:----------:|:----------:|:---------:|:-------------:|
+  | **2x** <i class="fas fa-star"/> | 18.168 | 0.5 | 3.13 | 222.0 |
+  | **3x** <i class="fas fa-star"/> | 21.196 | 0.53 | 3.75 | 259.0 |
+  | **4x** <i class="fas fa-star"/> | 24.224 | 0.55 | 4.38 | 296.0 |
+  | **5x** <i class="fas fa-star"/> | 27.252 | 0.58 | 5.0 | 333.0 |
+  | **6x** <i class="fas fa-star"/> | 30.28 | 0.6 | 5.63 | 370.0 |
+
+## Equipo
+
+  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-------------|:-------------:|:------------:|
+  | [Garras Dentadas](/equipment/Garras Dentadas/) | **ATQ** | **DEF** | 
+  | [Yelmo de Placas de Velocidad](/equipment/Yelmo de Placas de Velocidad/) | **PV** | **DEF** | 
+  | [Pluma de Archigrifo](/equipment/Pluma de Archigrifo/) | **ATQ** | **DEF** | 
+  | [Blasón del Imperio](/equipment/Blasón del Imperio/) | **PV** | **DEF** | 
+
+## Emblemas Sagrados recomendados
+
+* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
+* [Testigo](/Emblem/Witness/) (Bien)
+
+## Información de combinación
+
+* [Moral alta](/combination/Moral alta/) 
+
+
+## Skills
+ <form id="form">
+  <label>Skill level: <input type="number" id="level" name="level" placeholder="Skill level" min="1" max="19" value="15"/><br/></label>
+  <label style="display:none;">Unit Attack: <input type="number" id="atk" name="atk" placeholder="Attack" min="1" max="999999" value="100000"/><br/></label>
+  <label style="display:none;">Unit level: <input type="number" id="unitlevel" name="unitlevel" placeholder="Unit Level" min="1" max="120" value="100"/><br/></label>
+  <button type="submit">Calculate SKILLs</button>
+  <p id="log"></p>
+  </form>
+### Habilidad definitiva: Contraataque en picado
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se ataca a los Grifos, estos tienen una probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades (el ataque normal tiene una probabilidad de activar Picado).</span><span style="color: black">
+
+### Habilidad normal 1 : Torre del comandante
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando los Grifos están en el campo de batalla, el ATQ de todas tus unidades voladoras aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y su velocidad de ataque, un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+
+### Habilidad normal 2 : Carga gloriosa
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando las unidades de Grifos tengan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">, obtienen 30 de velocidad de movimiento adicional. Aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> el daño de unidad y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> puntos el valor de golpe crítico durante 15 s.</span><span style="color: black">
+
+### Habilidad normal 3 : Arcángel
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Grifo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Otorga un 10% de PV adicionales a los Grifos por cada unidad voladora amistosa en el campo de batalla.</span><span style="color: black">
+
+### Habilidad especial de la facción I : Combate de asedio
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+
+### Habilidad especial de la facción II : Resonancia de defensa
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+
+  <script language="JavaScript">
+  function skillCalc(event) {
+    var LEVEL = document.getElementById('level').value;
+    var ATK = document.getElementById('atk').value;
+    var TLEVEL = document.getElementById('unitlevel').value;
+    let str7 = "(LEVEL*1.5+2.5)"
+    let str8 = "(LEVEL*0.5+2.5)"
+    let str5 = "LEVEL*10+50"
+    let str6 = "LEVEL*5+25"
+    let str3 = "LEVEL*0.5+2.5"
+    let str4 = "LEVEL*1+5"
+    let str1 = "LEVEL*6+94"
+    let str2 = "LEVEL*1+9"
+    let res="ERR";
+    try {
+     res = eval(str7); document.getElementById('str7').textContent = res;
+     res = eval(str8); document.getElementById('str8').textContent = res;
+     res = eval(str5); document.getElementById('str5').textContent = res;
+     res = eval(str6); document.getElementById('str6').textContent = res;
+     res = eval(str3); document.getElementById('str3').textContent = res;
+     res = eval(str4); document.getElementById('str4').textContent = res;
+     res = eval(str1); document.getElementById('str1').textContent = res;
+     res = eval(str2); document.getElementById('str2').textContent = res;
+    } catch (e) { log.textContent = "Issue with calculation!";}
+    if (event!=null)
+      event.preventDefault();
+  }
+  const form = document.getElementById('form');
+  const log = document.getElementById('log');
+  form.addEventListener('submit', skillCalc);
+  window.onload = skillCalc;
+  </script>
+## Relevancia
+### Conexión de lista
+
+* **Castillo**  (Lista de Castillo)
+* **Carga**  (Lista de unidades de carga)
+
+### Bonificación de Héroe
+* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+
+## Talento
+
+* Ataque
+* PV
+* Daño de la unidad
+* Reducción de daño de la unidad
+
+
+## Awaking
+### Awaking Details
+ **Is it possible right now?** NO
+
+ **Awaking Name:** null
+
+ **Awaking Descripción:** null
+
+### Awaking Tasks
+ 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+
+ 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+
+## Awaken Skills
+
+### 1st Skill (or 2nd): Barrido de formación de lanzas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+
+### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+
+### 3rd Skill (or 4th): Formación densa
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+
+### 4th Skill (or 3rd): Formación traicionera
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+
+### 5th Skill (or 6th): Estrategia de infiltración
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+
+### 6th Skill (or 5th): Ataque debilitador
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+
+## Technical info
+ **runart:** 1
+
+ **summon:** 1
+
+ **defshow:** 4.0
+
+ **Rush:** 2
+
+ **Speedattack:** 160
+
+ **Attack Show:** 6.0
+
+ **Attack Area:** 80
+
+ **Attack Range:** 300
+
+ **Attack Speed Show:** 6.0
+
+ **Defense Show:** 4.0
+
+ **Score:** 761
+
+ **HP Show:** 7
+
+ **disrdcvol:** 40
+
+ **Dead Type:** 1
+
+ **s:** 1
+
+ **label1:** 2
+
+ **speedmove:** 120
+
+ **posclass:** 3
+
+ **talk1:** ¡Ningún hombre puede escapar de mis garras!
+
+ **talk2:** ¿Quieres enfrentarte con estas garras?
+
+ **talk3:** ¡Nunca me atraparás!
+

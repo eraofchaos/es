@@ -3,12 +3,12 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora."
 heroID: 60802
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: es
 ref: "Rashka"
 toc: true
 ---
- **Description:** Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora.
+ **Descripción:** Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora.
 ## Details
  **Profession:** Demoníaco
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flecha de fuego
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en un área determinada y las <span style="color: #e07c44;font-size:20px">quema</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en un área determinada y las <span style="color: #e07c44;font-size:20px">quema</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 2 Spell: Maldición
- **Description:** Disminuye el ATQ de las unidades del objetivo enemigo en una zona grande un <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Descripción:** Disminuye el ATQ de las unidades del objetivo enemigo en una zona grande un <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Ansia de sangre
- **Description:** Aumenta el ATQ en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% y la absorción de vida en {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% para las unidades amistosas en una zona grande durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
+ **Descripción:** Aumenta el ATQ en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% y la absorción de vida en {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% para las unidades amistosas en una zona grande durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
 
 ### 4 Spell: Llama infernal
- **Description:** Invoca una Fisura de Infierno que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas alrededor de la fisura cada 0,5 s durante {$olast11/1000} s. El daño se reduce a la mitad para las unidades del Infierno
+ **Descripción:** Invoca una Fisura de Infierno que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas alrededor de la fisura cada 0,5 s durante {$olast11/1000} s. El daño se reduce a la mitad para las unidades del Infierno
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Clásico**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Estas llamas han pavimentado mi camino a la victoria. </span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Estas llamas han pavimentado mi camino a la victoria. </span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Tirano de las cenizas**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Rashka gobernó con puño de hierro sobre la Tierra de las Cenizas, el nuevo nombre que le dio a Erathia tras su caída. </span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Rashka gobernó con puño de hierro sobre la Tierra de las Cenizas, el nuevo nombre que le dio a Erathia tras su caída. </span>
 
  **Skin features:** 
 

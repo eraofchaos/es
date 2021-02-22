@@ -1,0 +1,30 @@
+---
+title: "Emblema Sagrado - Aliento del Rey Dragón"
+permalink: /Emblem/Dragon King's Breath/
+excerpt: "Era of Chaos Aliento del Rey Dragón. Aliento del Rey Dragón. Era of Chaos Emblema Sagrado Aliento del Rey Dragón. Era of Chaos Maligno Aliento del Rey Dragón"
+last_modified_at: 2021-02-22
+locale: es
+ref: "Dragon King's Breath.md"
+toc: false
+classes: wide
+---
+
+ **Name:** Aliento del Rey Dragón
+
+ **Type:** [Maligno](/Emblem/Type Evil/)
+
+  [Orden](/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/Emblem/Type Evil/){: .btn .btn--primary} 
+
+  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |:-----------------------:|:-------------------|:-----------------|----------------| 
+  | [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +1,5, Emblema Sagrado de DEF +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;congeladas, aturdidas o petrificadas&gt;, recuperan un 2% de sus PV. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +4, Emblema Sagrado de DEF +4</span> | 
+  | [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +4,5, Emblema Sagrado de DEF +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;congeladas, aturdidas o petrificadas&gt;, recuperan un 4% de sus PV. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +11,5, Emblema Sagrado de DEF +11,5</span> | 
+  | [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +9, Emblema Sagrado de DEF +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;congeladas, aturdidas o petrificadas&gt;, recuperan un 6% de sus PV. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +22,5, Emblema Sagrado de DEF +22,5</span> | 
+  | [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +15, Emblema Sagrado de DEF +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Whenever deployed units are &lt;frozen, stunned, or petrified&gt;, their HP is restored by 10%. CD is 10s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +37,5, Emblema Sagrado de DEF +37,5</span> | 
+
+  |         Descripción            | 
+  |:-------------------------------|
+  | Cuando tengas un Emblema Sagrado azul, tiene garantizado tener 2 atributos básicos y 1-2 atributos adicionales que se generan aleatoriamente. |
+  | Cuando tengas un Emblema Sagrado naranja, tiene garantizado tener 2 atributos básicos y 3-4 atributos adicionales que se generan aleatoriamente. |
+  | Cuando obtengas un Emblema Sagrado verde, tiene garantizado tener 2 atributos básicos y 1 atributo adicional que se generan aleatoriamente. |
+  | Cuando tengas un Emblema Sagrado violeta, tiene garantizado tener 2 atributos básicos y 2-3 atributos adicionales que se generan aleatoriamente. |
