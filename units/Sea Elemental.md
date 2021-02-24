@@ -3,7 +3,7 @@ title: "Elemental del Mar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Elemental del Mar"
 toc: true
@@ -165,7 +165,7 @@ toc: true
 
  **Awaking Name:** Elemental de la Marea
 
- **Awaking Descripción:** 
+ **Awaking Descripción:** ¡Leva anclas y a navegar! ¡Hazlo todo pedazos! ¡Saquea y conquístalo todo! ¡Haz de estos mares tu propio patio de juegos!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Despliega a una Naga y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Torre para pasar el nivel campeón o superior de la Utopía del Dragón</span><span style="color: #1ca216;font-size:18px"> 1</span><span style="color: #3c2a1e;font-size:18px"> vez. (La incursión no cuenta para la misión).</span>

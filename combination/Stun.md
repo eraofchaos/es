@@ -2,7 +2,7 @@
 title: "Información de combinación for Aturdimiento"
 permalink: /combination/Stun/
 excerpt: "Información de combinación - Aturdimiento. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Aturdimiento.md"
 toc: false

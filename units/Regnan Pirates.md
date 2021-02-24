@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Piratas Regnan"
 toc: true
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Rey de los Piratas
 
- **Awaking Descripción:** 
+ **Awaking Descripción:** ¡Leva anclas y a navegar! ¡Hazlo todo pedazos! ¡Saquea y conquístalo todo! ¡Haz de estos mares tu propio patio de juegos!
 
 ### Awaking Tasks
  1. 

@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Profeta Verde"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Profeta Verde. Profeta Verde. Era of Chaos Emblema Sagrado Profeta Verde. Era of Chaos Bien Profeta Verde"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Green Prophet.md"
 toc: false

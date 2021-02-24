@@ -2,7 +2,7 @@
 title: "Información de combinación for Petrificar"
 permalink: /combination/Petrify/
 excerpt: "Información de combinación - Petrificar. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Petrificar.md"
 toc: false

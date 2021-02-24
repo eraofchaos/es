@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esfinge questions and correct answers"
 permalink: /sphinx/
 excerpt: "Era of Chaos Esfinge. Esfinge. List of ALL Esfinge questions with correct answers in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "index.md"
 toc: false
@@ -159,41 +159,41 @@ classes: wide
   | 146 |  Son silenciosas como estatuas cuando están quietas, y rápidas como el viento cuando se mueven. ¿Qué son?  | **Gárgola de Piedra** | Sabueso Infernal | Gólem de Hierro | Roc |
   | 147 |  The biggest peninsula in Europe is located in?  | **Europa Septentrional** | Europa Oriental | Europa Occidental | Europa Meridional |
   | 148 |  Vuelven de entre los muertos y son Caballeros inmortales. ¿Qué son?  | **Caballero Negro** | Caballería | Jinete Lupino | Centauro |
-  | 149 |  What’s the name of Roland’s bother?  | **Archibald** | Adelaide | Arquímedes | Archimonde |
-  | 150 |  What’s the name of the creatures who sing at sea to lure sailors and kill them in Ancient Greek mythology?  | **Sirenas** | Esfinge | Hidra | Medusa |
-  | 151 |  Which war is the background of the famous literary work Gone with the Wind?  | **La Guerra Civil Norteamericana** | La Primera Guerra Mundial | La Segunda Guerra Mundial | La Guerra del Golfo |
-  | 152 |  Who invented the Arabic numerals?  | **Los indios** | Los árabes | Los estadounidenses | Los jerosolimitanos |
-  | 153 |  ¿A cuántos grados Celsius alcanza el agua su mayor densidad?  | **4 grados Celsius** | 0 grados Celsius | 10 grados Celsius | 100 grados Celsius |
-  | 154 |  ¿A qué Héroe le queda mejor la ropa de hombre?  | **Roland** | Mephala | Luna | Adelaide |
-  | 155 |  ¿A qué Héroe le queda mejor la ropa de mujer?  | **Vidomina** | Rashka | Crag Hack | Lord Haart |
-  | 156 |  ¿A qué grupo étnico pertenecen los corsos?  | **Europeo occidental** | Europeo oriental | Norteamericano | Sudamericano |
-  | 157 |  ¿A qué nivel están disponibles las 5 islas desde el Astillero?  | **65** | 33 | 55 | 75 |
-  | 158 |  ¿A qué nivel se considera que el viento es fuerte?  | **6** | 5 | 7 | 8 |
-  | 159 |  ¿A qué país pertenece el himno nacional de La Marsellesa?  | **Francia** | América | Reino Unido | Alemania |
-  | 160 |  ¿A qué país pertenecía la flota que puso nombre al Cabo de Buena Esperanza?  | **Portugal** | España | Suecia | Grecia |
-  | 161 |  ¿Cada cuántos años se celebran los Juegos Olímpicos?  | **4** | 6 | 8 | 2 |
-  | 162 |  ¿Con qué unidad está relacionada Catherine en el juego?  | **Espadachín** | Caballero Imperial | Arquero | Piquero |
-  | 163 |  ¿Con qué unidad está relacionado Ryland en el juego?  | **Guardia Dendroide** | Unicornio | Centauro | Dragón Verde |
-  | 164 |  ¿Cuál de estos hechizos es de la Escuela de Tierra?  | **Frenesí** | Orden de asesinato | Pesar | Onda de muerte |
-  | 165 |  ¿Cuál de estos hechizos es de la Escuela del Agua?  | **Plegaria** | Puerta de fuego | Relámpago | Matagigantes |
-  | 166 |  ¿Cuál de estos hechizos es de la Escuela del Aire?  | **Piel pétrea** | Relámpago | Ataque rápido | Rayo en cadena |
-  | 167 |  ¿Cuál de estos hechizos es de la Escuela del Fuego?  | **Frenesí** | Ventisca | Flecha de tierra | Muro de viento |
-  | 168 |  ¿Cuál de estos no fue uno de los cuatro comandantes más importantes de la historia de Europa?  | **David** | César | Alejandro | Napoleón |
-  | 169 |  ¿Cuál de las siguientes es una de las cuatro tragedias más importantes que ha escrito Shakespeare?  | **Hamlet** | Notre Dame de Paris | Romeo y Julieta | El mercader de Venecia |
-  | 170 |  ¿Cuál de las siguientes obras está relacionada con la mitología nórdica?  | **El Cantar de los Nibelungos** | La Divina Comedia | El Ramayana | El Libro de los Muertos |
-  | 171 |  ¿Cuál de las siguientes obras no está relacionada con la mitología hinduista?  | **La Teogonía** | El Mahábharata | El Ramayana | Los Vedas |
-  | 172 |  ¿Cuál de las siguientes obras no está relacionada con la mitología nórdica?  | **La Odisea** | Ada | El Cantar de los Nibelungos | La Bendición de Odín |
-  | 173 |  ¿Cuál de los siguientes escritores no es francés?  | **Heinrich** | Hugo | Maupassant | Balzac |
-  | 174 |  ¿Cuál de los siguientes héroes aparece en Might & Magic: Era of Chaos?  | **Catherine** | Cao Cao | Sun Quan | Liu Bei |
-  | 175 |  ¿Cuál de los siguientes héroes no aparece en Might & Magic: Era of Chaos?  | **Cao Cao** | Shiva | Rashka | Crag Hack |
-  | 176 |  ¿Cuál de los siguientes no es uno de los tres maestros del Renacimiento?  | **Milan** | Da Vinci | Miguel Ángel | Raphael |
-  | 177 |  ¿Cuál es el compuesto químico principal del sol?  | **Hidrógeno** | Nitrógeno | Oxígeno | Carbono |
-  | 178 |  ¿Cuál es el estilo arquitectónico de Notre Dame?  | **Gótico** | Barroco | Rococó | Romano |
-  | 179 |  ¿Cuál es el mayor rango del Duelo de Campeones?  | **Leyenda** | Campeón | Rey | Experto |
-  | 180 |  ¿Cuál es el río más largo del mundo?  | **El río Volga** | El río Misisipi | El río Ganges | El río Amazonas |
-  | 181 |  ¿Cuál es el río más largo que desemboca en el Atlántico?  | **El río Amazonas** | The Ganges River | El río Misisipi | El río Amarillo |
-  | 182 |  ¿Cuál es el segundo mayor de los siete continentes?  | **África** | Europa | Asia | Oceanía |
-  | 183 |  ¿Cuál es el símbolo de Anubis, dios de los muertos de la mitología egipcia?  | **Chacal** | Elefante | Águila | León |
+  | 149 |  What is the symbol of Anubis, the god of the dead, in Egyptian mythology?  | **Chacal** | Elefante | Águila | León |
+  | 150 |  What’s the name of Roland’s bother?  | **Archibald** | Adelaide | Arquímedes | Archimonde |
+  | 151 |  What’s the name of the creatures who sing at sea to lure sailors and kill them in Ancient Greek mythology?  | **Sirenas** | Esfinge | Hidra | Medusa |
+  | 152 |  Which war is the background of the famous literary work Gone with the Wind?  | **La Guerra Civil Norteamericana** | La Primera Guerra Mundial | La Segunda Guerra Mundial | La Guerra del Golfo |
+  | 153 |  Who invented the Arabic numerals?  | **Los indios** | Los árabes | Los estadounidenses | Los jerosolimitanos |
+  | 154 |  ¿A cuántos grados Celsius alcanza el agua su mayor densidad?  | **4 grados Celsius** | 0 grados Celsius | 10 grados Celsius | 100 grados Celsius |
+  | 155 |  ¿A qué Héroe le queda mejor la ropa de hombre?  | **Roland** | Mephala | Luna | Adelaide |
+  | 156 |  ¿A qué Héroe le queda mejor la ropa de mujer?  | **Vidomina** | Rashka | Crag Hack | Lord Haart |
+  | 157 |  ¿A qué grupo étnico pertenecen los corsos?  | **Europeo occidental** | Europeo oriental | Norteamericano | Sudamericano |
+  | 158 |  ¿A qué nivel están disponibles las 5 islas desde el Astillero?  | **65** | 33 | 55 | 75 |
+  | 159 |  ¿A qué nivel se considera que el viento es fuerte?  | **6** | 5 | 7 | 8 |
+  | 160 |  ¿A qué país pertenece el himno nacional de La Marsellesa?  | **Francia** | América | Reino Unido | Alemania |
+  | 161 |  ¿A qué país pertenecía la flota que puso nombre al Cabo de Buena Esperanza?  | **Portugal** | España | Suecia | Grecia |
+  | 162 |  ¿Cada cuántos años se celebran los Juegos Olímpicos?  | **4** | 6 | 8 | 2 |
+  | 163 |  ¿Con qué unidad está relacionada Catherine en el juego?  | **Espadachín** | Caballero Imperial | Arquero | Piquero |
+  | 164 |  ¿Con qué unidad está relacionado Ryland en el juego?  | **Guardia Dendroide** | Unicornio | Centauro | Dragón Verde |
+  | 165 |  ¿Cuál de estos hechizos es de la Escuela de Tierra?  | **Frenesí** | Orden de asesinato | Pesar | Onda de muerte |
+  | 166 |  ¿Cuál de estos hechizos es de la Escuela del Agua?  | **Plegaria** | Puerta de fuego | Relámpago | Matagigantes |
+  | 167 |  ¿Cuál de estos hechizos es de la Escuela del Aire?  | **Piel pétrea** | Relámpago | Ataque rápido | Rayo en cadena |
+  | 168 |  ¿Cuál de estos hechizos es de la Escuela del Fuego?  | **Frenesí** | Ventisca | Flecha de tierra | Muro de viento |
+  | 169 |  ¿Cuál de estos no fue uno de los cuatro comandantes más importantes de la historia de Europa?  | **David** | César | Alejandro | Napoleón |
+  | 170 |  ¿Cuál de las siguientes es una de las cuatro tragedias más importantes que ha escrito Shakespeare?  | **Hamlet** | Notre Dame de Paris | Romeo y Julieta | El mercader de Venecia |
+  | 171 |  ¿Cuál de las siguientes obras está relacionada con la mitología nórdica?  | **El Cantar de los Nibelungos** | La Divina Comedia | El Ramayana | El Libro de los Muertos |
+  | 172 |  ¿Cuál de las siguientes obras no está relacionada con la mitología hinduista?  | **La Teogonía** | El Mahábharata | El Ramayana | Los Vedas |
+  | 173 |  ¿Cuál de las siguientes obras no está relacionada con la mitología nórdica?  | **La Odisea** | Ada | El Cantar de los Nibelungos | La Bendición de Odín |
+  | 174 |  ¿Cuál de los siguientes escritores no es francés?  | **Heinrich** | Hugo | Maupassant | Balzac |
+  | 175 |  ¿Cuál de los siguientes héroes aparece en Might & Magic: Era of Chaos?  | **Catherine** | Cao Cao | Sun Quan | Liu Bei |
+  | 176 |  ¿Cuál de los siguientes héroes no aparece en Might & Magic: Era of Chaos?  | **Cao Cao** | Shiva | Rashka | Crag Hack |
+  | 177 |  ¿Cuál de los siguientes no es uno de los tres maestros del Renacimiento?  | **Milan** | Da Vinci | Miguel Ángel | Raphael |
+  | 178 |  ¿Cuál es el compuesto químico principal del sol?  | **Hidrógeno** | Nitrógeno | Oxígeno | Carbono |
+  | 179 |  ¿Cuál es el estilo arquitectónico de Notre Dame?  | **Gótico** | Barroco | Rococó | Romano |
+  | 180 |  ¿Cuál es el mayor rango del Duelo de Campeones?  | **Leyenda** | Campeón | Rey | Experto |
+  | 181 |  ¿Cuál es el río más largo del mundo?  | **El río Volga** | El río Misisipi | El río Ganges | El río Amazonas |
+  | 182 |  ¿Cuál es el río más largo que desemboca en el Atlántico?  | **El río Amazonas** | The Ganges River | El río Misisipi | El río Amarillo |
+  | 183 |  ¿Cuál es el segundo mayor de los siete continentes?  | **África** | Europa | Asia | Oceanía |
   | 184 |  ¿Cuál es el talento definitivo de la Academia de la tierra en el juego?  | **Golpe de maná** | Aumento de Maná | Maná dañado | Regeneración de maná |
   | 185 |  ¿Cuál es el talento definitivo de la Academia del agua en el juego?  | **Mana Increase** | Maná dañado | Regeneración de maná | Golpe de maná |
   | 186 |  ¿Cuál es el talento definitivo de la Academia del aire en el juego?  | **Regeneración de maná** | Aumento de Maná | Maná dañado | Golpe de maná |

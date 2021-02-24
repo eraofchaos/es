@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Demonio del Abismo"
 toc: true
@@ -96,7 +96,7 @@ toc: true
 ### Habilidad definitiva: Fuente ígnea
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Demonios del Abismo dejan un Manantial de fuego a su paso que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos de las unidades amistosas en una zona grande delante de ellas cada 2 s durante 8 s.</span><span style="color: black">
 
-### Habilidad normal 1 : Invocación del Señor
+### Habilidad normal 1 : Lord's Summon
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Demonios del Abismo en el campo de batalla, esta invoca 4 Demonios para que luchen. Los Demonios tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 de DEF y 500 de índice de golpe crítico, y duran toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 2 : Calor

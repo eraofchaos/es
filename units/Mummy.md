@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Momia"
 toc: true
@@ -188,7 +188,7 @@ toc: true
 ### 3rd Skill (or 4th): Cruzado con armadura
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Shroud&gt; aumenta en 5 s. Aumenta la reducción de daño adicional de la unidad un 20% para las unidades amistosas a cierta distancia y recupera un 5% de sus PV máximos.</span>
 
-### 4th Skill (or 3rd): Velo endurecido
+### 4th Skill (or 3rd): The Hardened Shroud
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Velo&gt;</span><span style="color: #645252;font-size:18px">: La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Velo&gt; aumenta a 5 s. Aumenta la reducción de daño de la unidad un 20% adicional para todas las unidades de Necrópolis y recupera un 5% de sus PV máximos</span>
 
 ### 5th Skill (or 6th): Mutación de enfermedad

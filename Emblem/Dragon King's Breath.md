@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Aliento del Rey Dragón"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Aliento del Rey Dragón. Aliento del Rey Dragón. Era of Chaos Emblema Sagrado Aliento del Rey Dragón. Era of Chaos Maligno Aliento del Rey Dragón"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Dragon King's Breath.md"
 toc: false

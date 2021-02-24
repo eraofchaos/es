@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Descripción:** 
+ **Awaking Descripción:** Las damas piratas tienen ojos rojos que infunden temor en los corazones de los hombres. Los necios ignorantes se quedan extasiados al verlos, pero aquellos dotados de verdadera inteligencia nunca permiten que su mirada los atrape.
 
 ### Awaking Tasks
  1. 

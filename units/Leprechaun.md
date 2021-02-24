@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Duendecillo"
 toc: true
@@ -196,10 +196,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Golpe pesado
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo tiene quemadura, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está quemado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 2nd Skill (or 1st): Golpe directo
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 3rd Skill (or 4th): Número de la suerte
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> La acumulación del efecto de la habilidad propia del Duendecillo aumenta a 5-12 acumulaciones.</span>

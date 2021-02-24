@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Star 2"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | [Piratas Regnan](/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Rey de los Piratas  |
   | 21 | [Guardia Dendroide](/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Soldado Dendroide  |
   | 22 | [Elemental de Tormenta](/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Tormenta de rayos  |
-  | 23 | [Aparición](/units/Wight/) | Lanzador | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
+  | 23 | [Aparición](/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
   | 24 | [Unicornio](/units/Unicorn/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Unicornio de Guerra  |
   | 25 | [Elemental de Hielo](/units/Ice Elemental/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Espíritu de las Nieves Silencioso  |
   | 26 | [Vampiro](/units/Vampire/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Señor Vampiro  |

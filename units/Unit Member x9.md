@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Unit Member x9"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 17 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
   | 18 | [Esqueleto](/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 19 | [Muerto Viviente](/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |
-  | 20 | [Aparición](/units/Wight/) | Lanzador | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
+  | 20 | [Aparición](/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
   | 21 | [Druida](/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Archidruida  |
   | 22 | [Goblin](/units/Goblin/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgoblin  |
   | 23 | [Jinete Lupino](/units/Wolf Rider/) | Carga | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  Incursor Lupino  |

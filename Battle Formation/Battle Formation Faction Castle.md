@@ -2,7 +2,7 @@
 title: "Formación de batalla Castillo"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Formación de batalla Castillo"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "BattleFormationFactionCastle"
 toc: false
@@ -56,13 +56,13 @@ classes: wide
   | 1 | Castle - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Piquero](/units/Pikeman) |
   | 2 | Castle - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Castle - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Espadachín](/units/Swordsman) |
+  | 4 | Castle - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Swordsman](/units/Swordsman) |
   | 5 | Castle - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 7 | Castle - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Monje](/units/Monk) |
   | 8 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Castle - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Castle - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Espadachín](/units/Swordsman) |
+  | 10 | Castle - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Swordsman](/units/Swordsman) |
   | 11 | Castle - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Castle - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 13 | Castle - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Monje](/units/Monk) |

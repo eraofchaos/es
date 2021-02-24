@@ -3,7 +3,7 @@ title: "Hechicera Maligna"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios."
 unitID: 709
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Hechicera Maligna"
 toc: true

@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Orco"
 toc: true

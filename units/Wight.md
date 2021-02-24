@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Aparición"
 toc: true
@@ -160,7 +160,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Espectro
 
@@ -184,16 +184,16 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Invisibility&gt;</span><span style="color: #645252;font-size:18px">Duplica la resistencia mágica de Invisibilidad. Cuando la Aparición reciba daño de hechizo de los enemigos, lanza una bendición letal que aumenta la reducción de daño de la unidad para las unidades de Necrópolis amistosas un 10%. Dura toda la batalla y se acumula hasta 3 veces</span>
 
 ### 3rd Skill (or 4th): Trastorno de pánico
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Las unidades silenciadas por Chillido horripilante reciben una reducción de resistencia mágica del 50% durante el silencio</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Chillido horripilante&gt;</span><span style="color: #645252;font-size:18px"> Reduce un 50% la resistencia mágica y un 20% el daño de unidad de todas las unidades silenciadas por &lt;Chillido horripilante&gt; mientras dura el efecto.</span>
 
 ### 4th Skill (or 3rd): Dominio del chillido
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Horrific Shrieking&gt;</span><span style="color: #645252;font-size:18px">Aumenta la resistencia mágica adicional un 50% para las unidades de Necrópolis amistosas en la misma fila durante los próximos 25 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Chillido horripilante&gt;</span><span style="color: #645252;font-size:18px"> Aumenta un 50% la resistencia mágica y un 20% el daño de unidad de las unidades de Necrópolis amistosas en el mismo camino durante los 25 segundos siguientes.</span>
 
 ### 5th Skill (or 6th): Quaky Soul
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de todas las unidades hostiles un 8%. Dura toda la batalla y se acumula hasta 20 veces. El efecto no se puede disipar</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Encarnación del horror&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la DEF de la Aparición un 10%. Cuando los héroes amistosos lancen hechizos de tierra, la Aparición restablecerá 5 puntos de maná para los héroes y reducirá la resistencia a la magia de tierra y el daño de unidad de todas las unidades enemigas un 4% y un 2%, respectivamente. Estos efectos se pueden acumular hasta 20 veces, no se pueden disipar y duran toda la batalla.</span>
 
 ### 6th Skill (or 5th): Escena horrorosa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Incarnation of Horror&gt;</span><span style="color: #645252;font-size:18px">Cuando un Héroe amistoso lance un hechizo de tierra, la Aparición recupera 5 de maná a los Héroes y disminuye la resistencia mágica de tierra de los enemigos un 16%. Dura toda la batalla y se acumula hasta 6 veces. Este efecto no se puede disipar.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Encarnación del horror&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la DEF de la Aparición un 10%. Cuando los héroes amistosos lancen hechizos de tierra, la Aparición restablecerá 5 puntos de maná para los héroes y reducirá la resistencia a la magia de tierra y el daño de unidad de los enemigos un 8% y un 4%, respectivamente. Estos efectos se pueden acumular hasta 6 veces, no se pueden disipar y duran toda la batalla.</span>
 
 ## Technical info
  **runart:** 0

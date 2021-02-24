@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
 unitID: 805
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Gorgona"
 toc: true

@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan es el yerno mayor del Rey Tralossk y el segundo en la línea de sucesión a la corona. Está esperando al día de su ascenso al trono."
 heroID: 61504
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Wystan"
 toc: true

@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "BattleFormationFactionTower"
 toc: false

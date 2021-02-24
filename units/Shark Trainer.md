@@ -3,7 +3,7 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Domador de Tiburones"
 toc: true
@@ -225,7 +225,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tiburón sanguinario&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la reducción de daño de unidad y la velocidad de ataque de los Domadores de Tiburones un 15%. El efecto se duplica al luchar contra unidades a distancia/lanzadoras.</span>
 
 ### 3rd Skill (or 4th): Búsqueda de sangre
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 segundos. La unidad marcada queda con el daño de unidad y la velocidad de ataque reducidas en 15% cada una durante 5 segundos. Cuando la marca desparece, el tiburón salta desde las profundidades para destrozar a la unidad objetivo, infligiendo daño igual al 40% de su propio ataque. Este daño se duplica cuando la unidad objetivo está &lt;demacrada&gt;. Tras el frenesí, el tiburón obtiene daño igual al 7% de sus PV máximos. Esta habilidad no se puede silenciar.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 se                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 
 ### 4th Skill (or 3rd): Despedazar
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 segundos. La unidad marcada tiene una reducción del daño de unidad y la defensa reducida un 15% cada 5 segundos. Cuando la marca desparece, el tiburón salta desde las profundidades para destrozar a la unidad objetivo, infligiendo daño igual al 40% de su propio ataque. Este daño se duplica cuando la unidad objetivo está &lt;demacrada&gt;. Tras el frenesí, el tiburón obtiene daño igual al 7% de sus PV máximos. Esta habilidad no se puede silenciar.</span>

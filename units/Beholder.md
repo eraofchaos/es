@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: es
 ref: "Observador"
 toc: true
