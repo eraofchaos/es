@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Roc"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Unicornio
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 792.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Alas de Relámpago](/equipment/Alas de Relámpago/) | **PV** | **DEF** | 
   | [Garras de Rayo](/equipment/Garras de Rayo/) | **ATQ** | **DEF** | 
   | [Armadura del Relámpago](/equipment/Armadura del Relámpago/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Canto Arcano](/Exclusive/Roc Arcane Chant/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

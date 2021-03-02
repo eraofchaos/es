@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Catafracto"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/units/Faction Castle/)
 
  **Race:** Humano
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -77,6 +77,15 @@ toc: true
   | [Visera de Defensa](/equipment/Visera de Defensa/) | **PV** | **DEF** | 
   | [Escudo de Protección](/equipment/Escudo de Protección/) | **ATQ** | **DEF** | 
   | [Hombrera de Paladín](/equipment/Hombrera de Paladín/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Carga Honorífica](/Exclusive/Cavalier Knight Pike/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

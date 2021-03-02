@@ -3,7 +3,7 @@ title: "Unicornio"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Unicornio"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Unicornio
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Piedras de Soñador](/equipment/Piedras de Soñador/) | **PV** | **DEF** | 
   | [Pezuñas de Cristal](/equipment/Pezuñas de Cristal/) | **ATQ** | **DEF** | 
   | [Melena Brumosa](/equipment/Melena Brumosa/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Carga Honorífica](/Exclusive/Unicorn Knight Pike/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

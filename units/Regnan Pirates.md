@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Piratas Regnan"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/units/Faction Cove/)
 
  **Race:** Pirata
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 99.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Camisa de Marinero](/equipment/Camisa de Marinero/) | **PV** | **DEF** | 
   | [Cintillo de Rectitud](/equipment/Cintillo de Rectitud/) | **ATQ** | **DEF** | 
   | [Pantalones de Marinero](/equipment/Pantalones de Marinero/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Espada](/Exclusive/Regnan Pirates Sword/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

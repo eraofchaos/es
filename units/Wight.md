@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Aparición"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/units/Faction Necropolis/)
 
  **Race:** Humano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armadura Ligera del Réquiem](/equipment/Armadura Ligera del Réquiem/) | **PV** | **DEF** | 
   | [Alma Impía](/equipment/Alma Impía/) | **ATQ** | **DEF** | 
   | [Vestido del Réquiem](/equipment/Vestido del Réquiem/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Canto Arcano](/Exclusive/Wight Arcane Chant/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

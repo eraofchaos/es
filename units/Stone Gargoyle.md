@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Stone Gargoyle"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/units/Faction Tower/)
 
  **Race:** Humano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 48.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Alas de Piedra](/equipment/Alas de Piedra/) | **PV** | **DEF** | 
   | [Garras de Roca Afilada](/equipment/Garras de Roca Afilada/) | **ATQ** | **DEF** | 
   | [Cola Encantada](/equipment/Cola Encantada/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Espada](/Exclusive/Stone Gargoyle Sword/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Goblin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Orco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Cinturón de cuero](/equipment/Cinturón de cuero/) | **PV** | **DEF** | 
   | [Collar de Hueso](/equipment/Collar de Hueso/) | **ATQ** | **DEF** | 
   | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Espada](/Exclusive/Goblin Sword/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

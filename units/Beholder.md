@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Observador"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/units/Faction Dungeon/)
 
  **Race:** Espíritu maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pupilo de la Muerte](/equipment/Pupilo de la Muerte/) | **PV** | **DEF** | 
   | [Colmillo Maligno](/equipment/Colmillo Maligno/) | **ATQ** | **DEF** | 
   | [Tentáculos del Abismo](/equipment/Tentáculos del Abismo/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Mirada Oscura](/Exclusive/Beholder Dark Gaze/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

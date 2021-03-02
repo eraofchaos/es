@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/units/Faction Inferno/)
 
  **Race:** Bestia
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 77.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armadura Infernal](/equipment/Armadura Infernal/) | **PV** | **DEF** | 
   | [Garras Hirvientes](/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
   | [Melena de Llamas](/equipment/Melena de Llamas/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Carga Honorífica](/Exclusive/Hell Hound Knight Pike/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

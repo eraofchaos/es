@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Momia"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/units/Faction Necropolis/)
 
  **Race:** No muerto
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 141.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Vendaje Ancestral](/equipment/Vendaje Ancestral/) | **PV** | **DEF** | 
   | [Pupilo de los Difuntos](/equipment/Pupilo de los Difuntos/) | **ATQ** | **DEF** | 
   | [Aliento de Muerte](/equipment/Aliento de Muerte/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Gasa](/Exclusive/Mummy Gauze/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

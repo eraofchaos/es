@@ -3,7 +3,7 @@ title: "Demonio"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Demonio"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 114.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Collar de acero](/equipment/Collar de acero/) | **PV** | **DEF** | 
   | [Garras Hirvientes](/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
   | [Brazaletes de Púas](/equipment/Brazaletes de Púas/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Escudo Iris](/Exclusive/Demon Iris Shield/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,12 +3,12 @@ title: "Trol"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Troles son criaturas muy inteligentes que emplean pedruscos pesados como armas. Suelen posicionarse en la vanguardia de los combates para luchar contra los enemigos asestando violentos y demoledores golpes."
 unitID: 409
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Trol"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Amaestrador
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1018.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Poder de los Señores](/equipment/Poder de los Señores/) | **PV** | **DEF** | 
   | [Fisura de armadura](/equipment/Fisura de armadura/) | **ATQ** | **DEF** | 
   | [Botas de guarnición](/equipment/Botas de guarnición/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

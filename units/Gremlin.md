@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Gremlin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/units/Faction Tower/)
 
  **Race:** Humano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Capucha Encantada](/equipment/Capucha Encantada/) | **PV** | **DEF** | 
   | [Guantes Encantados](/equipment/Guantes Encantados/) | **ATQ** | **DEF** | 
   | [Capa Cortavientos](/equipment/Capa Cortavientos/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco largo](/Exclusive/Gremlin Long Bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

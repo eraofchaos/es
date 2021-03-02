@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 212.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Estrella Celestial](/equipment/Estrella Celestial/) | **PV** | **DEF** | 
   | [Corona de Espíritu Estelar](/equipment/Corona de Espíritu Estelar/) | **ATQ** | **DEF** | 
   | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Núcleo Espiritual](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

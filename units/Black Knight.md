@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Caballero Negro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/units/Faction Necropolis/)
 
  **Race:** No muerto
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Visera de los Muertos](/equipment/Visera de los Muertos/) | **PV** | **DEF** | 
   | [Brazalete de Pesadilla](/equipment/Brazalete de Pesadilla/) | **ATQ** | **DEF** | 
   | [Hombreras de Pesadilla](/equipment/Hombreras de Pesadilla/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Sable del Inframundo](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

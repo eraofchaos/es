@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Orco"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Orco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Cinturón de Constricción](/equipment/Cinturón de Constricción/) | **PV** | **DEF** | 
   | [Hombreras de hierro](/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
   | [Hombreras de Sed de Sangre](/equipment/Hombreras de Sed de Sangre/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco largo](/Exclusive/Orc Long Bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

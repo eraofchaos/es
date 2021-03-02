@@ -3,7 +3,7 @@ title: "Archimaga"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Archimaga"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/units/Faction Tower/)
 
  **Race:** Humano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Corona de Cristal de Magia](/equipment/Corona de Cristal de Magia/) | **PV** | **DEF** | 
   | [Orbe Místico de Maná](/equipment/Orbe Místico de Maná/) | **ATQ** | **DEF** | 
   | [Manto del Mago](/equipment/Manto del Mago/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Canto Arcano](/Exclusive/Arch Mage Arcane Chant/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

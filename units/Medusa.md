@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Medusa"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/units/Faction Dungeon/)
 
  **Race:** Espíritu maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 202.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Cabellera de Serpientes](/equipment/Cabellera de Serpientes/) | **PV** | **DEF** | 
   | [Corona de la Reina](/equipment/Corona de la Reina/) | **ATQ** | **DEF** | 
   | [Armadura del Abismo](/equipment/Armadura del Abismo/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco de Medusa](/Exclusive/Medusa Medusa's bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

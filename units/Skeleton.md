@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/units/Faction Necropolis/)
 
  **Race:** No muerto
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 57.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Yelmo Oxidado](/equipment/Yelmo Oxidado/) | **PV** | **DEF** | 
   | [Escudo Impía](/equipment/Escudo Impía/) | **ATQ** | **DEF** | 
   | [Hombreras Oxidadas](/equipment/Hombreras Oxidadas/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Escudo Iris](/Exclusive/Skeleton Iris Shield/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

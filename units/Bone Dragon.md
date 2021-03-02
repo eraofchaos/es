@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/units/Faction Necropolis/)
 
  **Race:** Dragón
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 758.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Cráneo Draconiano](/equipment/Cráneo Draconiano/) | **PV** | **DEF** | 
   | [Garras Perforadoras](/equipment/Garras Perforadoras/) | **ATQ** | **DEF** | 
   | [Gema de Alma](/equipment/Gema de Alma/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Hueso de Dragón Inmortal](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

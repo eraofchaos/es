@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Ogro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Cinturón del Ritual](/equipment/Cinturón del Ritual/) | **PV** | **DEF** | 
   | [Talismán Tribal](/equipment/Talismán Tribal/) | **ATQ** | **DEF** | 
   | [Hombreras del Ritual](/equipment/Hombreras del Ritual/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Escudo Iris](/Exclusive/Ogre Iris Shield/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

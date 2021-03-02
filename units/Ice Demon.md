@@ -3,12 +3,12 @@ title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Demonio de Hielo"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Toque gélido](/equipment/Toque gélido/) | **PV** | **DEF** | 
   | [Yelmo frígido](/equipment/Yelmo frígido/) | **ATQ** | **DEF** | 
   | [Trono de hielo](/equipment/Trono de hielo/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

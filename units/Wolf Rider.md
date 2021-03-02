@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Jinete Lupino"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/units/Faction Stronghold/)
 
  **Race:** Orco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 72.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Cinturón Poderoso](/equipment/Cinturón Poderoso/) | **PV** | **DEF** | 
   | [Brazalete del Lobo](/equipment/Brazalete del Lobo/) | **ATQ** | **DEF** | 
   | [Hombreras de Lengua de Lobo](/equipment/Hombreras de Lengua de Lobo/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Carga Honorífica](/Exclusive/Wolf Rider Knight Pike/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 99.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Núcleo de Trueno](/equipment/Núcleo de Trueno/) | **PV** | **DEF** | 
   | [Garra Mágica](/equipment/Garra Mágica/) | **ATQ** | **DEF** | 
   | [Observador de Relámpago](/equipment/Observador de Relámpago/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco largo](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

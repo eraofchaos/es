@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Asesino"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción: ** [Ejército Neutral](/units/Faction Neutral Army/)
+ **Facción:** [Ejército Neutral](/units/Faction Neutral Army/)
 
  **Race:** Gremio de Asesinos
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 269.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Hoja oculta](/equipment/Hoja oculta/) | **PV** | **DEF** | 
   | [Cinturón de Asesino](/equipment/Cinturón de Asesino/) | **ATQ** | **DEF** | 
   | [Botas de cuero](/equipment/Botas de cuero/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Guerreros espartanos"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Ejército Neutral](/units/Faction Neutral Army/)
+ **Facción:** [Ejército Neutral](/units/Faction Neutral Army/)
 
  **Race:** Gremio de Asesinos
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 216.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Escudo de acero](/equipment/Escudo de acero/) | **PV** | **DEF** | 
   | [Lanza perforadora](/equipment/Lanza perforadora/) | **ATQ** | **DEF** | 
   | [Paño para los pies](/equipment/Paño para los pies/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,12 +3,12 @@ title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
 unitID: 609
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Gólem Dragón"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/units/Faction Tower/)
 
  **Race:** Dragón
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 396.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Cabeza de Dragón de Titanio](/equipment/Cabeza de Dragón de Titanio/) | **PV** | **DEF** | 
   | [Palanca de control principal](/equipment/Palanca de control principal/) | **ATQ** | **DEF** | 
   | [Armadura de aleación](/equipment/Armadura de aleación/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elemental de Hielo"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Tocado de las Mareas](/equipment/Tocado de las Mareas/) | **PV** | **DEF** | 
   | [Marca del Océano](/equipment/Marca del Océano/) | **ATQ** | **DEF** | 
   | [Paño de la Sirena](/equipment/Paño de la Sirena/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Canto Arcano](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

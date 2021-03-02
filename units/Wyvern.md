@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Guiverno"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/units/Faction Fortress/)
 
  **Race:** Bestia
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 500.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Colmillo de Plaga](/equipment/Colmillo de Plaga/) | **PV** | **DEF** | 
   | [Púas Traseras de Diablillo](/equipment/Púas Traseras de Diablillo/) | **ATQ** | **DEF** | 
   | [Alas de Dragón](/equipment/Alas de Dragón/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Cola de Guiverno](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

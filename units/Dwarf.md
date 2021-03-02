@@ -3,7 +3,7 @@ title: "Enano"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Enano"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Bosque
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Yelmo Astado](/equipment/Yelmo Astado/) | **PV** | **DEF** | 
   | [Guanteletes del Fuego de Hogar](/equipment/Guanteletes del Fuego de Hogar/) | **ATQ** | **DEF** | 
   | [Hombreras del Fuego de Hogar](/equipment/Hombreras del Fuego de Hogar/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Escudo Iris](/Exclusive/Dwarf Iris Shield/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Paladín"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/units/Faction Castle/)
 
  **Race:** Humano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 128.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Yelmo del Juramento](/equipment/Yelmo del Juramento/) | **PV** | **DEF** | 
   | [Hombreras de hierro](/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
   | [Forged Bracers](/equipment/Forged Bracers/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [](/Exclusive/Paladin /) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

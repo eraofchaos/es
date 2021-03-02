@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Troglodita"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 86.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Cráneo Huésped](/equipment/Cráneo Huésped/) | **PV** | **DEF** | 
   | [Puñalada Rompecolumnas](/equipment/Puñalada Rompecolumnas/) | **ATQ** | **DEF** | 
   | [Sangre de Ácido Potente](/equipment/Sangre de Ácido Potente/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Espada](/Exclusive/Troglodyte Sword/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

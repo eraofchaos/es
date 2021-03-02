@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elemental de Fuego"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 195.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Escudo Sofocante](/equipment/Escudo Sofocante/) | **PV** | **DEF** | 
   | [Observador de Zafiro](/equipment/Observador de Zafiro/) | **ATQ** | **DEF** | 
   | [Garra Afilada Añil](/equipment/Garra Afilada Añil/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Energía de fuego](/Exclusive/Fire Elemental Fire Energy/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

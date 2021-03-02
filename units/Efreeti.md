@@ -3,7 +3,7 @@ title: "Efrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Efrit"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/units/Faction Inferno/)
 
  **Race:** Espíritu maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 225.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armadura Ligera de Llamas](/equipment/Armadura Ligera de Llamas/) | **PV** | **DEF** | 
   | [Brazaletes de Llamas](/equipment/Brazaletes de Llamas/) | **ATQ** | **DEF** | 
   | [Hombreras de Llamas](/equipment/Hombreras de Llamas/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Canto Arcano](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

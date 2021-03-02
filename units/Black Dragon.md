@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/units/Faction Dungeon/)
 
  **Race:** Dragón
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Fuego Devastador](/equipment/Fuego Devastador/) | **PV** | **DEF** | 
   | [Alas Tapacielos](/equipment/Alas Tapacielos/) | **ATQ** | **DEF** | 
   | [Escama Blindada](/equipment/Escama Blindada/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Escama de Dragón Negro](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

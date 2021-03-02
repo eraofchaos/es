@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Hombre Lagarto"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/units/Faction Fortress/)
 
  **Race:** Amaestrador
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Brazaletes del Guerrero](/equipment/Brazaletes del Guerrero/) | **PV** | **DEF** | 
   | [Escápula del Guerrero](/equipment/Escápula del Guerrero/) | **ATQ** | **DEF** | 
   | [Arco Largo de Caza](/equipment/Arco Largo de Caza/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco largo](/Exclusive/Lizardman Long Bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

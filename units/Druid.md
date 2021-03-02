@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Druida"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Bosque
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Báculo de los Ancianos](/equipment/Báculo de los Ancianos/) | **PV** | **DEF** | 
   | [Túnica de Rabia Tormentosa](/equipment/Túnica de Rabia Tormentosa/) | **ATQ** | **DEF** | 
   | [Botas Altas del Bosque](/equipment/Botas Altas del Bosque/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Báculo de Resurgimiento](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

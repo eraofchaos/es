@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Gnoll"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/units/Faction Fortress/)
 
  **Race:** Amaestrador
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Tarja de Licántropo](/equipment/Tarja de Licántropo/) | **PV** | **DEF** | 
   | [Cadena de Licántropo](/equipment/Cadena de Licántropo/) | **ATQ** | **DEF** | 
   | [Guanteletes de Licántropo](/equipment/Guanteletes de Licántropo/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Espada](/Exclusive/Gnoll Sword/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

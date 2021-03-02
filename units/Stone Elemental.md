@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elemental de Piedra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 121.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Magma Explosivo](/equipment/Magma Explosivo/) | **PV** | **DEF** | 
   | [Piedra del Crepúsculo](/equipment/Piedra del Crepúsculo/) | **ATQ** | **DEF** | 
   | [Corona de Piedra](/equipment/Corona de Piedra/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Núcleo de Energía](/Exclusive/Stone Elemental Energy Core/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

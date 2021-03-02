@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Adjudicadora"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/units/Faction Castle/)
 
  **Race:** Humano
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Capucha Celestial de la Felicidad](/equipment/Capucha Celestial de la Felicidad/) | **PV** | **DEF** | 
   | [Capa ligera](/equipment/Capa ligera/) | **ATQ** | **DEF** | 
   | [Avambrazo Divino](/equipment/Avambrazo Divino/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [](/Exclusive/Judicator /) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

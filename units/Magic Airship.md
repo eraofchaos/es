@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Aeronave Mágica"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/units/Faction Tower/)
 
  **Race:** Humano
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 208.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Sistema de control](/equipment/Sistema de control/) | **PV** | **DEF** | 
   | [Torre de control principal](/equipment/Torre de control principal/) | **ATQ** | **DEF** | 
   | [Puesto de observación](/equipment/Puesto de observación/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

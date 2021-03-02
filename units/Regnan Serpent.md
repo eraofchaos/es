@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Serpiente Regnan"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/units/Faction Cove/)
 
  **Race:** Los Inframares
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Cuerno de Caparazón](/equipment/Cuerno de Caparazón/) | **PV** | **DEF** | 
   | [Garras de Sirena](/equipment/Garras de Sirena/) | **ATQ** | **DEF** | 
   | [Aleta Añil](/equipment/Aleta Añil/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Mareas Diurnas](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

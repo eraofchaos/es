@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Dragón
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 1018.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Armadura de Escamas de Dragón](/equipment/Armadura de Escamas de Dragón/) | **PV** | **DEF** | 
   | [Garras de Descomposición](/equipment/Garras de Descomposición/) | **ATQ** | **DEF** | 
   | [Sangre de Dragón Venenoso](/equipment/Sangre de Dragón Venenoso/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Ala de Dragón Resplandeciente](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

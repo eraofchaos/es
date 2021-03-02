@@ -3,7 +3,7 @@ title: "Hierbavispa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
 unitID: 808
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Hierbavispa"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/units/Faction Fortress/)
 
  **Race:** Bestia
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 950.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Espina Tóxica](/equipment/Espina Tóxica/) | **PV** | **DEF** | 
   | [Adalid Floral](/equipment/Adalid Floral/) | **ATQ** | **DEF** | 
   | [Abeja Asesina](/equipment/Abeja Asesina/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

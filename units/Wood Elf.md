@@ -3,7 +3,7 @@ title: "Elfa del Bosque"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Elfa del Bosque"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Bosque
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 92.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Diadema de Hojas Exuberantes](/equipment/Diadema de Hojas Exuberantes/) | **PV** | **DEF** | 
   | [Flechas de Jade](/equipment/Flechas de Jade/) | **ATQ** | **DEF** | 
   | [Túnica Corta de Hojas Exuberantes](/equipment/Túnica Corta de Hojas Exuberantes/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Arco largo](/Exclusive/Wood Elf Long Bow/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

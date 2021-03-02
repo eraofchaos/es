@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Unicornio
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 848.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Runa de Revivir](/equipment/Runa de Revivir/) | **PV** | **DEF** | 
   | [Garras de Llama Virulenta](/equipment/Garras de Llama Virulenta/) | **ATQ** | **DEF** | 
   | [Alas de Plumas Arcoíris](/equipment/Alas de Plumas Arcoíris/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Llama eterna](/Exclusive/Firebird Eternal Flame/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

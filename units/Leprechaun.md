@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
 unitID: 909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Duendecillo"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción: ** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/units/Faction Conflux/)
 
  **Race:** Unicornio
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 134.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Fuentedeenergía](/equipment/Fuentedeenergía/) | **PV** | **DEF** | 
   | [Guardavidas](/equipment/Guardavidas/) | **ATQ** | **DEF** | 
   | [Laligerezadelviento](/equipment/Laligerezadelviento/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 

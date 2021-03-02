@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Hidra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/units/Faction Fortress/)
 
  **Race:** Unicornio
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Pendientes del Gobernante](/equipment/Pendientes del Gobernante/) | **PV** | **DEF** | 
   | [Garra de Dragón de Plaga](/equipment/Garra de Dragón de Plaga/) | **ATQ** | **DEF** | 
   | [Púas Traseras Afiladas](/equipment/Púas Traseras Afiladas/) | **PV** | **DEF** | 
+
+## Exclusivo
+
+ **Name:** [Cabeza de Hidra](/Exclusive/Hydra Hydra's Head/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
+
 
 ## Emblemas Sagrados recomendados
 

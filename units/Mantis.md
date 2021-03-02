@@ -3,12 +3,12 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad."
 unitID: 209
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Mantis"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción: ** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/units/Faction Rampart/)
 
  **Race:** Unicornio
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1140.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
   | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
   | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
+
+## Exclusivo
+
 
 ## Emblemas Sagrados recomendados
 
