@@ -53,7 +53,7 @@ toc: true
   | Naranja | 455.76 | 94.5 | 5224.5 |
   | Naranja +1 | 523.28 | 108.5 | 5998.5 |
   | Naranja +2 | 590.8 | 122.5 | 6772.5 |
-  | Orange +3 | 658.32 | 136.5 | 7546.5 |
+  | Naranja +3 | 658.32 | 136.5 | 7546.5 |
   | Naranja +4 | 725.84 | 150.5 | 8320.5 |
   | Naranja +5 | 827.12 | 171.5 | 9481.5 |
   | Rojo | 962.16 | 199.5 | 11029.5 |
@@ -119,7 +119,7 @@ toc: true
 ### Habilidad especial de la facción I : Combate de asedio
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Habilidad especial de la facción II : Defense Resonance
+### Habilidad especial de la facción II : Resonancia de defensa
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -185,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -193,10 +193,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

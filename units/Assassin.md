@@ -49,7 +49,7 @@ toc: true
   | Naranja | 1452.6 | 81.0 | 17163.9 |
   | Naranja +1 | 1667.8 | 93.0 | 19706.7 |
   | Naranja +2 | 1883.0 | 105.0 | 22249.5 |
-  | Orange +3 | 2098.2 | 117.0 | 24792.3 |
+  | Naranja +3 | 2098.2 | 117.0 | 24792.3 |
   | Naranja +4 | 2313.4 | 129.0 | 27335.1 |
   | Naranja +5 | 2636.2 | 147.0 | 31149.3 |
   | Rojo | 3066.6 | 171.0 | 36234.9 |
@@ -148,7 +148,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Neutral**  (Neutral Roster)
+* **Unidad neutral**  (Lista neutral)
 * **Carga**  (Lista de unidades de carga)
 
 ### Bonificación de Héroe
@@ -178,7 +178,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -186,10 +186,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

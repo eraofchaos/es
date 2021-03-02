@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Goblin](/units/Goblin/) | [Espada](/Exclusive/Goblin Sword/) | - | Carga | - | - |
-  | 2  | [Jinete Lupino](/units/Wolf Rider/) | [Carga Honorífica](/Exclusive/Wolf Rider Knight Pike/) | - | Carga | - | - |
+  | 2  | [Jinete Lupino](/units/Wolf Rider/) | [Pica de Caballero](/Exclusive/Wolf Rider Knight Pike/) | - | Carga | - | - |
   | 3  | [Orco](/units/Orc/) | [Arco largo](/Exclusive/Orc Long Bow/) | - | Carga | - | - |
   | 4  | [Ogro](/units/Ogre/) | [Escudo Iris](/Exclusive/Ogre Iris Shield/) | - | Carga | - | - |
   | 5  | [Roc](/units/Roc/) | [Canto Arcano](/Exclusive/Roc Arcane Chant/) | - | Carga | - | - |
-  | 6  | [Cíclope](/units/Cyclops/) | [Arco largo](/Exclusive/Cyclops Long Bow/) | - | Carga | - | - |
+  | 6  | [Cíclope](/units/Cyclops/) | [Arco largo](/Exclusive/Cyclops Long Bow/) | + | Carga | - | - |
   | 7  | [Behemoth](/units/Behemoth/) | [Espíritu Sanguinario](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Asistencia técnica | - | - |
   | 8  | [Berserker](/units/Berserker/) | [Hacha de Berserker](/Exclusive/Berserker Berserker's Axe/) | - | Asistencia técnica | - | - |
   | 9  | [Trol](/units/Troll/) | - | - | - | none | none |

@@ -53,7 +53,7 @@ toc: true
   | Naranja | 399.6 | 72.9 | 6966.0 |
   | Naranja +1 | 458.8 | 83.7 | 7998.0 |
   | Naranja +2 | 518.0 | 94.5 | 9030.0 |
-  | Orange +3 | 577.2 | 105.3 | 10062.0 |
+  | Naranja +3 | 577.2 | 105.3 | 10062.0 |
   | Naranja +4 | 636.4 | 116.1 | 11094.0 |
   | Naranja +5 | 725.2 | 132.3 | 12642.0 |
   | Rojo | 843.6 | 153.9 | 14706.0 |
@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Harpy Knight Pike/) 
 
  **Item to Subida de rango:** -
 
@@ -110,7 +110,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades que no pueden volar, el ataque de la Arpía aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Grito de rompehechizos
- **Descripción:** <span style="color: #645252;font-size:20px">Whenever a hostile hero casts a spell, the Harpy decreases the unit damage reduction of the units in the same path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 3 stacks.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando un Héroe hostil lanza un hechizo, la Arpía reduce la reducción de daño de unidad de las unidades en el mismo camino un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. Se acumula hasta 3 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Apuntar en el aire
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño crítico de la Arpía un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. La Arpía siempre impacta con un golpe crítico contra objetivos <span style="color: #48b946;font-size:20px">&lt;aturdidos&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -153,7 +153,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -178,7 +178,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -186,10 +186,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

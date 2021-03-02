@@ -53,7 +53,7 @@ toc: true
   | Naranja | 393.12 | 59.4 | 6966.0 |
   | Naranja +1 | 451.36 | 68.2 | 7998.0 |
   | Naranja +2 | 509.6 | 77.0 | 9030.0 |
-  | Orange +3 | 567.84 | 85.8 | 10062.0 |
+  | Naranja +3 | 567.84 | 85.8 | 10062.0 |
   | Naranja +4 | 626.08 | 94.6 | 11094.0 |
   | Naranja +5 | 713.44 | 107.8 | 12642.0 |
   | Rojo | 829.92 | 125.4 | 14706.0 |
@@ -78,7 +78,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Wolf Rider Knight Pike/) 
 
  **Item to Subida de rango:** -
 

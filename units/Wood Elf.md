@@ -55,7 +55,7 @@ toc: true
   | Naranja | 498.96 | 67.5 | 3551.04 |
   | Naranja +1 | 572.88 | 77.5 | 4077.12 |
   | Naranja +2 | 646.8 | 87.5 | 4603.2 |
-  | Orange +3 | 720.72 | 97.5 | 5129.28 |
+  | Naranja +3 | 720.72 | 97.5 | 5129.28 |
   | Naranja +4 | 794.64 | 107.5 | 5655.36 |
   | Naranja +5 | 905.52 | 122.5 | 6444.48 |
   | Rojo | 1053.36 | 142.5 | 7496.64 |
@@ -174,7 +174,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Grand Elf
+ **Awaking Name:** Gran Elfa
 
  **Awaking Descripción:** Los pájaros del bosque son sus ojos, las flechas son su llamada y la bendición de la naturaleza las precede. Son las nobles cazadoras que representan la voluntad del gran bosque, ¡las Grandes Elfas de Tularia!
 
@@ -185,11 +185,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Gran Elfa en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega a una Elfa del Bosque y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Murallas para ganar </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> batalla en el Duelo de Campeones.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Phantom Concentration
+### 1st Skill (or 2nd): Concentración fantasmal
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Lluvia de Flechas&gt;</span><span style="color: #645252;font-size:18px">Al recibir las bonificaciones de &lt;frenesí&gt;, aumenta el daño de la unidad un 20% durante 5 s.</span>
 
 ### 2nd Skill (or 1st): Diluvio

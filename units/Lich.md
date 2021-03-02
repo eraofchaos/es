@@ -1,11 +1,11 @@
 ---
-title: "Lich"
+title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
 last_modified_at: 2021-03-02
 locale: es
-ref: "Lich"
+ref: "Liche"
 toc: true
 ---
 ## General information
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 1234.98 | 43.2 | 12806.1 |
   | Naranja +1 | 1417.94 | 49.6 | 14703.3 |
   | Naranja +2 | 1600.9 | 56.0 | 16600.5 |
-  | Orange +3 | 1783.86 | 62.4 | 18497.7 |
+  | Naranja +3 | 1783.86 | 62.4 | 18497.7 |
   | Naranja +4 | 1966.82 | 68.8 | 20394.9 |
   | Naranja +5 | 2241.26 | 78.4 | 23240.7 |
   | Rojo | 2607.18 | 91.2 | 27035.1 |
@@ -182,7 +182,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Archiliche en el Subterráneo: niveles 17-2 y 17-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Despliega a Vidomina y a una Liche y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> batalla del Duelo de Campeones.</span>
 

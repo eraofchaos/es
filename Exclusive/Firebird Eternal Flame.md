@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** A distancia
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -29,10 +29,10 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Land on Fire> El Pájaro Ígneo inflige daño a las unidades hostiles en su fila cinco veces cada 10 s y las «quema» durante 8 s. |
+  |  Initial  | ? | <Tierra en llamas> El Pájaro Ígneo inflige daño 3 veces a las unidades hostiles que estén en la misma fila que el objetivo cada 10 s y las quema durante 8 s. |
   | **1x** <i class="fas fa-star"/> | ? | El Pájaro Ígneo es inmune al daño infligido con los hechizos de fuego. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pájaro Ígneo un 10% y su velocidad de ataque un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Cuando el Pájaro Ígneo se enfrenta a unidades de uno o cuatro, su ataque inflige un 60% de daño a las unidades hostiles a cierta distancia alrededor de la unidad objetivo y las <burns>. |
+  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
   | **4x** <i class="fas fa-star"/> | ? | Cuando se enfrenta a unidades con quemadura, la penetración del Pájaro Ígneo aumenta en 400. |
   | **5x** <i class="fas fa-star"/> | ? | Cuando un Héroe amistoso lanza un hechizo de fuego, restaura un 10% de los PV. Puede activarse cada 5 s. |
   | **6x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pájaro Ígneo un 20%. Cuando un Héroe hostil lanza un hechizo de fuego, aumenta el daño de la unidad y la reducción de daño de la unidad un 20%. El efecto dura 5 s. |

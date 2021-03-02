@@ -53,7 +53,7 @@ toc: true
   | Naranja | 401.76 | 67.5 | 7371.0 |
   | Naranja +1 | 461.28 | 77.5 | 8463.0 |
   | Naranja +2 | 520.8 | 87.5 | 9555.0 |
-  | Orange +3 | 580.32 | 97.5 | 10647.0 |
+  | Naranja +3 | 580.32 | 97.5 | 10647.0 |
   | Naranja +4 | 639.84 | 107.5 | 11739.0 |
   | Naranja +5 | 729.12 | 122.5 | 13377.0 |
   | Rojo | 848.16 | 142.5 | 15561.0 |
@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Vampire Knight Pike/) 
 
  **Item to Subida de rango:** -
 

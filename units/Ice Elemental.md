@@ -49,7 +49,7 @@ toc: true
   | Naranja | 599.4 | 27.0 | 6026.4 |
   | Naranja +1 | 688.2 | 31.0 | 6919.2 |
   | Naranja +2 | 777.0 | 35.0 | 7812.0 |
-  | Orange +3 | 865.8 | 39.0 | 8704.8 |
+  | Naranja +3 | 865.8 | 39.0 | 8704.8 |
   | Naranja +4 | 954.6 | 43.0 | 9597.6 |
   | Naranja +5 | 1087.8 | 49.0 | 10936.8 |
   | Rojo | 1265.4 | 57.0 | 12722.4 |
@@ -107,7 +107,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de la Elemental de Hielo tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;ralentizar&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante 15 s. Además, reduce la velocidad de ataque del objetivo un <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s, hasta un máximo de 5 acumulaciones.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuerza elemental
- **Descripción:** <span style="color: #645252;font-size:20px">When Ice Elemental unit is on the battlefield, increases water magic resistance for all friendly units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and reduces water magic resistance for all enemy units by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.When Ice Elemental is on the battlefield, increases friendly hero's Mana regeneration by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Elementales de Hielo en el campo de batalla, aumenta la reducción de daño contra hechizos de agua de las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y reduce la reducción de daño contra hechizos de agua de las unidades enemigas un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Si hay una Elemental de Hielo en el campo de batalla, aumenta la regeneración de maná del Héroe amistoso un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : null
  **Descripción:** 

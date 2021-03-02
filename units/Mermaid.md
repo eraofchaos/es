@@ -49,7 +49,7 @@ toc: true
   | Naranja | 999.0 | 37.8 | 13348.8 |
   | Naranja +1 | 1147.0 | 43.4 | 15326.4 |
   | Naranja +2 | 1295.0 | 49.0 | 17304.0 |
-  | Orange +3 | 1443.0 | 54.6 | 19281.6 |
+  | Naranja +3 | 1443.0 | 54.6 | 19281.6 |
   | Naranja +4 | 1591.0 | 60.2 | 21259.2 |
   | Naranja +5 | 1813.0 | 68.6 | 24225.6 |
   | Rojo | 2109.0 | 79.8 | 28180.8 |
@@ -72,7 +72,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Night Tides](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Mareas Nocturnas](/Exclusive/Mermaid Night Tides/) 
 
  **Item to Subida de rango:** -
 
@@ -111,7 +111,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

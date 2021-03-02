@@ -1,7 +1,7 @@
 ---
 title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power."
+excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
 last_modified_at: 2021-03-02
 locale: es
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Descripción:** The ultimate invention made with Dwarven technology. Each part, the perfect combination of machine and magic, is filled with inexhaustible power.
+ **Descripción:** Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable.
 
  **Clase:** [Defensa](/units/Unit Class Defense/)
 
@@ -52,7 +52,7 @@ toc: true
   | Naranja | 2138.4 | 178.2 | 77895.27 |
   | Naranja +1 | 2455.2 | 204.6 | 89435.31 |
   | Naranja +2 | 2772.0 | 231.0 | 100975.35 |
-  | Orange +3 | 3088.8 | 257.4 | 112515.39 |
+  | Naranja +3 | 3088.8 | 257.4 | 112515.39 |
   | Naranja +4 | 3405.6 | 283.8 | 124055.43 |
   | Naranja +5 | 3880.8 | 323.4 | 141365.49 |
   | Rojo | 4514.4 | 376.2 | 164445.57 |
@@ -157,7 +157,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Defensa**  (Lista de unidades defensivas)
 
 ### Bonificación de Héroe

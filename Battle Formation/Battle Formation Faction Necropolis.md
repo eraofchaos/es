@@ -2,7 +2,7 @@
 title: "Formación de batalla Necrópolis"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Formación de batalla Necrópolis"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
   | Level |         Effect        |
   |:------|:---------------------|
-  | **2** | **Necropolis units will receive an increase of 5% unit damage when against units in Low Morale** |
+  | **2** | **El daño de las unidades de Necrópolis aumentará un 5% cuando luchen contra unidades con la moral baja** |
   | **3** | **Aumenta los PV un 8% para todas las unidades de Necrópolis** |
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Necrópolis** |
   | **5** | **Aumenta el daño crítico un 12% para todas las unidades de Necrópolis amistosas durante 6 segundos cuando un Héroe amistoso lance un hechizo de tierra** |

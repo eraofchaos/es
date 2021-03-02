@@ -53,7 +53,7 @@ toc: true
   | Naranja | 464.4 | 45.9 | 6026.4 |
   | Naranja +1 | 533.2 | 52.7 | 6919.2 |
   | Naranja +2 | 602.0 | 59.5 | 7812.0 |
-  | Orange +3 | 670.8 | 66.3 | 8704.8 |
+  | Naranja +3 | 670.8 | 66.3 | 8704.8 |
   | Naranja +4 | 739.6 | 73.1 | 9597.6 |
   | Naranja +5 | 842.8 | 83.3 | 10936.8 |
   | Rojo | 980.4 | 96.9 | 12722.4 |
@@ -156,7 +156,7 @@ toc: true
 ### Bonificación de Héroe
 * [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -179,20 +179,20 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Troglodita en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Troglodita Oscuro en el Subterráneo: niveles 14-2 y 14-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Despliega un Troglodita con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Mazmorra y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Ferocious Assassination
+### 1st Skill (or 2nd): Asesinato feroz
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto del daño un 50% y la velocidad de ataque un 30% durante 5 s.</span>
 
 ### 2nd Skill (or 1st): Impacto de formación de lanzas
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el efecto de aturdimiento un 50% y la DEF propia un 30% durante 5 s.</span>
 
 ### 3rd Skill (or 4th): Toque perceptivo
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Slow by 1s for Troglodyte. When slowed, deals damage equal to 500% of own ATK to the target unit and increases own DEF by 15% for 7s. CD is 15s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración de la ralentización del Troglodita se reduce en 1 s. Cuando se le ralentiza, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la DEF propia un 15% durante 7 s. La recarga es de 15 s.</span>
 
 ### 4th Skill (or 3rd): Toque agudo
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Agudo&gt;</span><span style="color: #645252;font-size:18px"> La duración del sangrado del Troglodita se reduce en 1 s. Cuando sangra, inflige daño equivalente al 500% del ATQ propio a la unidad objetivo y aumenta la velocidad de ataque propia un 15% durante 7 s. La recarga es de 15 s.</span>

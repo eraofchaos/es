@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Refleja los hechizos. Domina las ventajas.
 
- **Position :** 
+ **Position :** Refleja los hechizos. Domina las ventajas.
 
 ## Atributos básicos
  **Base HP: 5770.0**
@@ -52,7 +52,7 @@ toc: true
   | Naranja | 3421.44 | 129.6 | 46737.0 |
   | Naranja +1 | 3928.32 | 148.8 | 53661.0 |
   | Naranja +2 | 4435.2 | 168.0 | 60585.0 |
-  | Orange +3 | 4942.08 | 187.2 | 67509.0 |
+  | Naranja +3 | 4942.08 | 187.2 | 67509.0 |
   | Naranja +4 | 5448.96 | 206.4 | 74433.0 |
   | Naranja +5 | 6209.28 | 235.2 | 84819.0 |
   | Rojo | 7223.04 | 273.6 | 98667.0 |
@@ -166,7 +166,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusivo - Tributo de Muerte"
 permalink: /Exclusive/Lich Death Tribute/
-excerpt: "Era of Chaos Tributo de Muerte. Tributo de Muerte. Era of Chaos Exclusivo Tributo de Muerte. Lich Exclusivo."
+excerpt: "Era of Chaos Tributo de Muerte. Tributo de Muerte. Era of Chaos Exclusivo Tributo de Muerte. Liche Exclusivo."
 last_modified_at: 2021-03-02
 locale: es
 ref: "Lich Tributo de Muerte.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Tributo de Muerte** 
 
- **Exclusivo for Unit:** [Lich](/units/Lich/) 
+ **Exclusivo for Unit:** [Liche](/units/Lich/) 
 
  **Item to Subida de rango:** -
 
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** A distancia
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 

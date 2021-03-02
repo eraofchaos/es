@@ -53,7 +53,7 @@ toc: true
   | Naranja | 1217.16 | 35.1 | 11712.6 |
   | Naranja +1 | 1397.48 | 40.3 | 13447.8 |
   | Naranja +2 | 1577.8 | 45.5 | 15183.0 |
-  | Orange +3 | 1758.12 | 50.7 | 16918.2 |
+  | Naranja +3 | 1758.12 | 50.7 | 16918.2 |
   | Naranja +4 | 1938.44 | 55.9 | 18653.4 |
   | Naranja +5 | 2208.92 | 63.7 | 21256.2 |
   | Rojo | 2569.56 | 74.1 | 24726.6 |
@@ -107,7 +107,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">El Efrit lanza una Tormenta de fuego en una zona que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a todas las tropas enemigas en la zona y causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadura</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 15 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Escudo llameante
- **Descripción:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Efrit crea un &lt;Escudo de Fuego&gt; en todas las unidades amistosas del Infierno que refleja un 15% del daño recibido durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Rojo vivo
  **Descripción:** <span style="color: #645252;font-size:20px">El &lt;Escudo de Fuego&gt; del Efrit aumenta la reducción de daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -208,7 +208,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dios del Fuego&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad de la facción de Infierno en el campo de batalla.</span>
 
 ### 6th Skill (or 5th): Tejido mágico
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">La velocidad de ataque de Efrit aumentará un 5% por cada unidad lanzahechizos en el campo de batalla</span>
 
 ## Technical info
  **runart:** 0

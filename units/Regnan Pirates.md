@@ -51,7 +51,7 @@ toc: true
   | Naranja | 536.22 | 43.2 | 5629.5 |
   | Naranja +1 | 615.66 | 49.6 | 6463.5 |
   | Naranja +2 | 695.1 | 56.0 | 7297.5 |
-  | Orange +3 | 774.54 | 62.4 | 8131.5 |
+  | Naranja +3 | 774.54 | 62.4 | 8131.5 |
   | Naranja +4 | 853.98 | 68.8 | 8965.5 |
   | Naranja +5 | 973.14 | 78.4 | 10216.5 |
   | Rojo | 1132.02 | 91.2 | 11884.5 |
@@ -115,7 +115,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -157,7 +157,7 @@ toc: true
 ### Bonificación de Héroe
 * [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [PeterLee](/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

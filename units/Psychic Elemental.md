@@ -49,7 +49,7 @@ toc: true
   | Naranja | 1144.8 | 54.0 | 14166.9 |
   | Naranja +1 | 1314.4 | 62.0 | 16265.7 |
   | Naranja +2 | 1484.0 | 70.0 | 18364.5 |
-  | Orange +3 | 1653.6 | 78.0 | 20463.3 |
+  | Naranja +3 | 1653.6 | 78.0 | 20463.3 |
   | Naranja +4 | 1823.2 | 86.0 | 22562.1 |
   | Naranja +5 | 2077.6 | 98.0 | 25710.3 |
   | Rojo | 2416.8 | 114.0 | 29907.9 |
@@ -68,7 +68,7 @@ toc: true
   | [Núcleo de la Estrella Polar](/equipment/Núcleo de la Estrella Polar/) | **ATQ** | **DEF** | 
   | [Estrella Celestial](/equipment/Estrella Celestial/) | **PV** | **DEF** | 
   | [Corona de Espíritu Estelar](/equipment/Corona de Espíritu Estelar/) | **ATQ** | **DEF** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **PV** | **DEF** | 
+  | [Avambrazo Poderoso](/equipment/Avambrazo Poderoso/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Elemental de Magia
 
- **Awaking Descripción:** It's hidden in the most neglected corner of the heart, and its existence reflects the joys and sorrows of all things in the world. It's all of the vast and unbounded world and it's the necessary unique one.
+ **Awaking Descripción:** Se esconde en los confines del corazón y su existencia refleja las penas y alegrías de todos los seres del mundo. Es el vasto e infinito mundo, y es el único necesario.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Despliega a un Elemental Psíquico para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos en la Tesorería Enana una sola vez. (La incursión no cuenta para la misión).</span>

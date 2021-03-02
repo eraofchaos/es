@@ -1,17 +1,17 @@
 ---
-title: "Exclusivo - Carga Honorífica"
+title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Cavalier Knight Pike/
-excerpt: "Era of Chaos Carga Honorífica. Carga Honorífica. Era of Chaos Exclusivo Carga Honorífica. Catafracto Exclusivo."
+excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Catafracto Exclusivo."
 last_modified_at: 2021-03-02
 locale: es
-ref: "Cavalier Carga Honorífica.md"
+ref: "Cavalier Pica de Caballero.md"
 toc: false
 classes: wide
 ---
  [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carga Honorífica** 
+ **Name: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Catafracto](/units/Cavalier/) 
 
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Jabalina sofocante> Al principio de la batalla, los Caballeros arrojan las lanzas adicionales que tienen. Esto inflige un 200% de su ATQ a una unidad hostil aleatoria y reduce la DEF del objetivo un 10% durante 30 s. Cuando se enfrenta a unidades a distancia o lanzadoras, el daño de la unidad se reduce un 20%. |
+  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Catafractos un 25% cuando reciben daño a distancia. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de los Catafractos un 20% y el daño de la unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la DEF de los Catafractos un 10%. Al principio de la batalla, aumenta la penetración de todas las unidades de Castillo amistosas en 300. Este efecto no se puede disipar |

@@ -2,14 +2,14 @@
 title: "Era of Chaos - Mar Sanador - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Mar Sanador. List of ALL Mar Sanador questions with correct answers"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "healingSea"
 toc: false
 classes: wide
 ---
 
-#### <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Normas del evento</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">1. Durante el evento, los jugadores tiran el dado para ganar recompensas increíbles.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">2. Las recompensas cuadradas se actualizan cada vez que pasas por el punto de inicio.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">3. Puedes ganar varias tiradas de dados gratuitas cada día durante el evento. Cuando uses todas las tiradas gratuitas, puedes comprar más. Las tiradas se restablecen al día siguiente.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
@@ -26,7 +26,7 @@ classes: wide
 
  -  Una ficha pequeña sin importancia. Quién sabe si vendrá bien algún día. (reward one from below)
 
-    1.  **500x Piedra de Alma** (Piedra de Alma, obtenida al desarmar Emblemas Sagrados y usada para comprar objetos en la Tienda de Emblemas) 
+    1.  **500x Piedra de Alma ** (Piedra de Alma, obtenida al desarmar Emblemas Sagrados y usada para comprar objetos en la Tienda de Emblemas) 
 
     2.  **3x Cristal violeta** (Una piedra rúnica misteriosa. Puede mejorar significativamente la percepción de habilidad de tus unidades, y otorga 450 de EXP de habilidad al usarlo.) 
 
@@ -51,7 +51,7 @@ classes: wide
 
 ##### 1. En un combate épico, ¿quién mató a más orcos? ¿El enano o la elfa del bosque? 
 
-   **Title:**  Un desafío entre amigos íntimos.
+   **Title:** Un desafío entre amigos íntimos.
 
    **Question:** En un combate épico, ¿quién mató a más orcos? ¿El enano o la elfa del bosque?
 
@@ -65,7 +65,7 @@ classes: wide
 
 ##### 2. Propagar el fuego o apagarlo, _________. 
 
-   **Title:**  Propagar el fuego o apagarlo.
+   **Title:** Propagar el fuego o apagarlo.
 
    **Question:** Propagar el fuego o apagarlo, _________.
 
@@ -93,7 +93,7 @@ classes: wide
 
 ##### 4. Hazme un muñeco de nieve. 
 
-   **Title:**  Muñeco de nieve
+   **Title:** Muñeco de nieve
 
    **Question:** Hazme un muñeco de nieve.
 
@@ -107,7 +107,7 @@ classes: wide
 
 ##### 5. El Centauro se enfrenta al Minotauro en una competición de flexiones. ¿Quién crees que gana? 
 
-   **Title:**  Flexiones
+   **Title:** Flexiones
 
    **Question:** El Centauro se enfrenta al Minotauro en una competición de flexiones. ¿Quién crees que gana?
 
@@ -119,11 +119,11 @@ classes: wide
 
 ---
 
-##### 6. Who looks more likely to interrupt an adventurer's adventure? 
+##### 6. ¿Quién tiene más probabilidades de acabar con las aventuras de un aventurero? 
 
-   **Title:**  Viejo aventurero
+   **Title:** Viejo aventurero
 
-   **Question:** Who looks more likely to interrupt an adventurer's adventure?
+   **Question:** ¿Quién tiene más probabilidades de acabar con las aventuras de un aventurero?
 
    **Correct Answer:** **B. El Tirador.** 
 
@@ -133,11 +133,11 @@ classes: wide
 
 ---
 
-##### 7. Who died and then destroyed the ice wall? 
+##### 7. ¿Quién murió y destruyó el muro de hielo? 
 
-   **Title:**  Nigromancia del Rey No Muerto
+   **Title:** Nigromancia del Rey No Muerto
 
-   **Question:** Who died and then destroyed the ice wall?
+   **Question:** ¿Quién murió y destruyó el muro de hielo?
 
    **Correct Answer:** **B. El Dragón Dorado.** 
 
@@ -149,7 +149,7 @@ classes: wide
 
 ##### 8. ¡Valor, fe y________! 
 
-   **Title:**  Lema
+   **Title:** Lema
 
    **Question:** ¡Valor, fe y________!
 
@@ -163,7 +163,7 @@ classes: wide
 
 ##### 9. El Infierno está vacío y todos los ________ están aquí. 
 
-   **Title:**  Ángeles y demonios
+   **Title:** Ángeles y demonios
 
    **Question:** El Infierno está vacío y todos los ________ están aquí.
 
@@ -177,7 +177,7 @@ classes: wide
 
 ##### 10. Si me engañas una vez, la culpa es tuya. Si me engañas dos veces, _______. 
 
-   **Title:**  Engáñame una vez
+   **Title:** Engáñame una vez
 
    **Question:** Si me engañas una vez, la culpa es tuya. Si me engañas dos veces, _______.
 

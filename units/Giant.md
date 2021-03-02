@@ -31,7 +31,7 @@ toc: true
 
  **Position :** Puede infligir daño mágico a todos los enemigos. Los hechizos de Héroes aumentan su Ataque.
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+ **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
 
 ## Atributos básicos
  **Base HP: 5431.0**
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 4276.8 | 43.2 | 53152.2 |
   | Naranja +1 | 4910.4 | 49.6 | 61026.6 |
   | Naranja +2 | 5544.0 | 56.0 | 68901.0 |
-  | Orange +3 | 6177.6 | 62.4 | 76775.4 |
+  | Naranja +3 | 6177.6 | 62.4 | 76775.4 |
   | Naranja +4 | 6811.2 | 68.8 | 84649.8 |
   | Naranja +5 | 7761.6 | 78.4 | 96461.4 |
   | Rojo | 9028.8 | 91.2 | 112210.2 |
@@ -150,7 +150,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Magia**  (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe

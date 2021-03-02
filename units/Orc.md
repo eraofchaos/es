@@ -53,7 +53,7 @@ toc: true
   | Naranja | 446.58 | 54.0 | 5362.2 |
   | Naranja +1 | 512.74 | 62.0 | 6156.6 |
   | Naranja +2 | 578.9 | 70.0 | 6951.0 |
-  | Orange +3 | 645.06 | 78.0 | 7745.4 |
+  | Naranja +3 | 645.06 | 78.0 | 7745.4 |
   | Naranja +4 | 711.22 | 86.0 | 8539.8 |
   | Naranja +5 | 810.46 | 98.0 | 9731.4 |
   | Rojo | 942.78 | 114.0 | 11320.2 |
@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Orco en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #876741;font-size:18px">Despliega un Orco con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Bastión y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 

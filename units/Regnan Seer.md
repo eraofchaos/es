@@ -52,7 +52,7 @@ toc: true
   | Naranja | 5437.26 | 48.6 | 41237.1 |
   | Naranja +1 | 6242.78 | 55.8 | 47346.3 |
   | Naranja +2 | 7048.3 | 63.0 | 53455.5 |
-  | Orange +3 | 7853.82 | 70.2 | 59564.7 |
+  | Naranja +3 | 7853.82 | 70.2 | 59564.7 |
   | Naranja +4 | 8659.34 | 77.4 | 65673.9 |
   | Naranja +5 | 9867.62 | 88.2 | 74837.7 |
   | Rojo | 11478.66 | 102.6 | 87056.1 |
@@ -116,7 +116,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 6 : Furia del océano
@@ -209,7 +209,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 0

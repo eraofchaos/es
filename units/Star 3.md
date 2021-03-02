@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Demonio de Hielo](/units/Ice Demon/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
   | 10 | [Domador de Tiburones](/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Jinete de tiburones  |
   | 11 | [Berserker](/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Aullador de Muerte  |
-  | 12 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Espíritu Guardián del Árbol Sagrado  |
+  | 12 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Duendecillo maestro  |
   | 13 | [Trol](/units/Troll/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.3 | 9051 |   -   |
   | 14 | [Arquera Regnan](/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 15 | [Diablo](/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archidiablo  |
@@ -34,7 +34,7 @@ classes: wide
   | 20 | [Engendro Venenoso](/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 21 | [Observador](/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Ojo maléfico  |
   | 22 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Reina  |
-  | 23 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 23 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
   | 24 | [Gigante](/units/Giant/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titán  |
   | 25 | [Medusa](/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  Reina Medusa  |
   | 26 | [Aeronave Mágica](/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
@@ -56,7 +56,7 @@ classes: wide
   | 42 | [Caballero Negro](/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Caballero del Terror  |
   | 43 | [Hidra](/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  Hidra del Caos  |
   | 44 | [Guerreros espartanos](/units/Spartan Warriors/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |   -   |
-  | 45 | [Lich](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
+  | 45 | [Liche](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
   | 46 | [Dragón de Hueso](/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  Dragón Fantasma  |
   | 47 | [Hierbavispa](/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |
   | 48 | [Elemental de Piedra](/units/Stone Elemental/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |   -   |

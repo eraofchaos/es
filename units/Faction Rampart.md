@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Centauro](/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitán Centauro  |
   | 2 | [Enano](/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
-  | 3 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 3 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Gran Elfa  |
   | 4 | [Pegaso](/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Plateada  |
   | 5 | [Guardia Dendroide](/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Soldado Dendroide  |
   | 6 | [Dragón Verde](/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  Dragón Dorado  |

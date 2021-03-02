@@ -2,7 +2,7 @@
 title: "Formación de batalla Murallas"
 permalink: /Battle Formation/Battle Formation Faction Rampart
 excerpt: "Formación de batalla Murallas"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | Level |         Effect        |
   |:------|:---------------------|
   | **2** | **Cuando las unidades de Murallas luchan contra unidades sangrantes y ralentizadas, aumentarán 40 de precisión por cada efecto activo.** |
-  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **3** | **Aumenta los PV un 8% para todas las unidades de Murallas** |
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Murallas** |
   | **5** | **Cuando las unidades de Murallas luchan contra unidades que estén sangrando y ralentizadas, sus golpes críticos aumentarán 25 por efecto** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Murallas** |

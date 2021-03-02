@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Aumenta el alcance del corte rápido.
 
- **Position :** 
+ **Position :** Aumenta el alcance del corte rápido.
 
 ## Atributos básicos
  **Base HP: 6336.0**
@@ -52,7 +52,7 @@ toc: true
   | Naranja | 6158.16 | 59.4 | 51321.6 |
   | Naranja +1 | 7070.48 | 68.2 | 58924.8 |
   | Naranja +2 | 7982.8 | 77.0 | 66528.0 |
-  | Orange +3 | 8895.12 | 85.8 | 74131.2 |
+  | Naranja +3 | 8895.12 | 85.8 | 74131.2 |
   | Naranja +4 | 9807.44 | 94.6 | 81734.4 |
   | Naranja +5 | 11175.92 | 107.8 | 93139.2 |
   | Rojo | 13000.56 | 125.4 | 108345.6 |

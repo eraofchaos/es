@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia."
 heroID: 61202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Dracon"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de aire a todas las unidades enemigas dentro del área de efecto.
 
 ### 4 Spell: Clon
- **Descripción:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
+ **Descripción:** Copia 1 de tus unidades. Tiene un <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> del ATQ de la unidad original y recibe un {($duplidmg11+$duplidmg12*($sklevel-1))}% más de daño. Dura 30 s.
 
 
 ## HERO Biography

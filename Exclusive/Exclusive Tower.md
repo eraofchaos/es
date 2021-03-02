@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gremlin](/units/Gremlin/) | [Arco largo](/Exclusive/Gremlin Long Bow/) | - | Carga | - | - |
-  | 2  | [Stone Gargoyle](/units/Stone Gargoyle/) | [Espada](/Exclusive/Stone Gargoyle Sword/) | - | Carga | - | - |
+  | 2  | [Gárgola de Piedra](/units/Stone Gargoyle/) | [Espada](/Exclusive/Stone Gargoyle Sword/) | - | Carga | - | - |
   | 3  | [Gólem de Hierro](/units/Iron Golem/) | [Escudo Iris](/Exclusive/Iron Golem Iris Shield/) | - | Carga | - | - |
   | 4  | [Archimaga](/units/Arch Mage/) | [Canto Arcano](/Exclusive/Arch Mage Arcane Chant/) | - | Carga | - | - |
   | 5  | [Genio](/units/Genie/) | [Lyra](/Exclusive/Genie Lyra/) | - | A distancia | - | - |
-  | 6  | [Naga](/units/Naga/) | [Espada de Naga](/Exclusive/Naga Naga Sword/) | - | Asistencia técnica | - | - |
+  | 6  | [Naga](/units/Naga/) | [Espada de Naga](/Exclusive/Naga Naga Sword/) | + | Asistencia técnica | - | - |
   | 7  | [Gigante](/units/Giant/) | [Mil Toneladas](/Exclusive/Giant Thousand Ton/) | - | Asistencia técnica | - | - |
   | 8  | [Aeronave Mágica](/units/Magic Airship/) | [Polaris](/Exclusive/Magic Airship Polaris/) | - | A distancia | - | - |
   | 9  | [Gólem Dragón](/units/Dragon Golem/) | - | - | - | none | none |

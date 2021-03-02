@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Piquero](/units/Pikeman/) | [Espada](/Exclusive/Pikeman Sword/) | - | Carga | - | - |
-  | 2  | [Ballestero](/units/Marksman/) | [Arco largo](/Exclusive/Marksman Long Bow/) | + | Carga | - | - |
-  | 3  | [Grifo](/units/Griffin/) | [Carga Honorífica](/Exclusive/Griffin Knight Pike/) | - | Carga | - | - |
+  | 2  | [Ballestero](/units/Marksman/) | [Arco largo](/Exclusive/Marksman Long Bow/) | - | Carga | - | - |
+  | 3  | [Grifo](/units/Griffin/) | [Pica de Caballero](/Exclusive/Griffin Knight Pike/) | - | Carga | - | - |
   | 4  | [Espadachín](/units/Swordsman/) | [Escudo Iris](/Exclusive/Swordsman Iris Shield/) | - | Carga | - | - |
-  | 5  | [Monje](/units/Monk/) | [Canto Arcano](/Exclusive/Monk Arcane Chant/) | + | Carga | - | - |
-  | 6  | [Catafracto](/units/Cavalier/) | [Carga Honorífica](/Exclusive/Cavalier Knight Pike/) | + | Carga | - | - |
-  | 7  | [Ángel](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | + | Asistencia técnica | - | - |
+  | 5  | [Monje](/units/Monk/) | [Canto Arcano](/Exclusive/Monk Arcane Chant/) | - | Carga | - | - |
+  | 6  | [Catafracto](/units/Cavalier/) | [Pica de Caballero](/Exclusive/Cavalier Knight Pike/) | + | Carga | - | - |
+  | 7  | [Ángel](/units/Angel/) | [Durandel](/Exclusive/Angel Durandel/) | - | Asistencia técnica | - | - |
   | 8  | [Paladín](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Asistencia técnica | - | - |
   | 9  | [Adjudicadora](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Capital | - | - |

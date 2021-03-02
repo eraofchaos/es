@@ -21,5 +21,5 @@ classes: wide
   | 5 | [Aparición](/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
   | 6 | [Vampiro](/units/Vampire/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Señor Vampiro  |
   | 7 | [Caballero Negro](/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Caballero del Terror  |
-  | 8 | [Lich](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
+  | 8 | [Liche](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
   | 9 | [Dragón de Hueso](/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  Dragón Fantasma  |

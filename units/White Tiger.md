@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
+ **Position :** El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa.
+
 ## Atributos básicos
  **Base HP: 6138.8**
 
@@ -48,7 +50,7 @@ toc: true
   | Naranja | 4581.9 | 108.0 | 39405.69 |
   | Naranja +1 | 5260.7 | 124.0 | 45243.57 |
   | Naranja +2 | 5939.5 | 140.0 | 51081.45 |
-  | Orange +3 | 6618.3 | 156.0 | 56919.33 |
+  | Naranja +3 | 6618.3 | 156.0 | 56919.33 |
   | Naranja +4 | 7297.1 | 172.0 | 62757.21 |
   | Naranja +5 | 8315.3 | 196.0 | 71514.03 |
   | Rojo | 9672.9 | 228.0 | 83189.79 |
@@ -100,12 +102,12 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de unidad del Tigre Blanco un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de unidad del Tigre Blanco un 5%, la reducción de daño de unidad un 5% y el golpe crítico en 75 por cada penalización que tenga el objetivo. Se acumula hasta 5 veces. El Tigre Blanco lanza &lt;Exterminio de Plaga&gt; sobre las unidades enemigas a corta distancia y les inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su propio ATQ por cada penalización que tengan. La recarga es de 30 s. La recarga previa es de 15 s. (Entre las penalizaciones válidas se incluyen: </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentización, sangrado, quemadura, ceguera, estática, plaga, enfermedad y confusión</span><span style="color: black"><span style="color: #645252;font-size:20px">)</span><span style="color: black">.
 
 ### Habilidad normal 3 : Ocultar
- **Descripción:** <span style="color: #645252;font-size:20px">At the start of the battle, increases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. For the next 30s, decreases White Tiger's Unit DMG Reduction by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and increases Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> every 2s. If it is resurrected, the decrease in its Unit DMG Reduction and increase in its Attack Speed are stacked afresh. Attacks have a 20% chance to inflict </span><span style="color: black"><span style="color: #48b946;font-size:20px">Turmoil</span><span style="color: black"><span style="color: #645252;font-size:20px"> on the target unit for 5s. &lt;White Tiger Spirit&gt; is triggered once every 7 attacks.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al inicio de la batalla, aumenta la reducción de daño de unidad del Tigre Blanco un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los siguientes 30 s, disminuye la reducción de daño de unidad del Tigre Blanco un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cada 2 s. Si lo reviven, la disminución de su reducción de daño de unidad y el aumento de su velocidad de ataque empiezan a acumularse de nuevo. Los ataques tienen un 20% de probabilidad de infligir </span><span style="color: black"><span style="color: #48b946;font-size:20px">confusión</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante 5 s. &lt;Espíritu de Tigre Blanco&gt; se activa cada 7 ataques.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
 ### Habilidad normal 6 : Caza Acalorada

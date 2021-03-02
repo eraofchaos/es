@@ -55,7 +55,7 @@ toc: true
   | Naranja | 5498.28 | 48.6 | 36652.5 |
   | Naranja +1 | 6312.84 | 55.8 | 42082.5 |
   | Naranja +2 | 7127.4 | 63.0 | 47512.5 |
-  | Orange +3 | 7941.96 | 70.2 | 52942.5 |
+  | Naranja +3 | 7941.96 | 70.2 | 52942.5 |
   | Naranja +4 | 8756.52 | 77.4 | 58372.5 |
   | Naranja +5 | 9978.36 | 88.2 | 66517.5 |
   | Rojo | 11607.48 | 102.6 | 77377.5 |
@@ -160,7 +160,7 @@ toc: true
 
 ### Bonificación de Héroe
 * [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento

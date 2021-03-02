@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+ **Unit description:** Aliento de dragón: Ataca a los enemigos en una zona grande y los quema.
 
  **Short description:** Defensa y ataque mágicos genéricos.
 
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 2322.0 | 156.6 | 70567.2 |
   | Naranja +1 | 2666.0 | 179.8 | 81021.6 |
   | Naranja +2 | 3010.0 | 203.0 | 91476.0 |
-  | Orange +3 | 3354.0 | 226.2 | 101930.4 |
+  | Naranja +3 | 3354.0 | 226.2 | 101930.4 |
   | Naranja +4 | 3698.0 | 249.4 | 112384.8 |
   | Naranja +5 | 4214.0 | 284.2 | 128066.4 |
   | Rojo | 4902.0 | 330.6 | 148975.2 |
@@ -158,7 +158,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -188,7 +188,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Escamas magnéticas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 1 acumulación de ventaja, hasta un máximo de 6. La ventaja no se puede disipar</span>
 
 ### 2nd Skill (or 1st): Armadura de Dragón ígnea
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 2 acumulaciones de ventaja, hasta un máximo de 4. La ventaja no se puede disipar</span>

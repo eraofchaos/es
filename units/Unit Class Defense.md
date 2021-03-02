@@ -17,13 +17,13 @@ classes: wide
   | 3 | [Ogro](/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  Mago Ogro  |
   | 4 | [Demonio](/units/Demon/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |    |
   | 5 | [Behemoth](/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Antiguo Behemoth  |
-  | 6 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Espíritu Guardián del Árbol Sagrado  |
+  | 6 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Duendecillo maestro  |
   | 7 | [Gólem de Hierro](/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gólem de Oro  |
   | 8 | [Serpiente Regnan](/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 9 | [Pesadilla](/units/Nightmare/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
   | 10 | [Engendro Venenoso](/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 11 | [Espadachín](/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Cruzado  |
-  | 12 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 12 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
   | 13 | [Centauro](/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitán Centauro  |
   | 14 | [Enano](/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotauro](/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotauro Rey  |

@@ -19,8 +19,8 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Diablillo](/units/Imp/) | [Escudo Iris](/Exclusive/Imp Iris Shield/) | - | Carga | - | - |
   | 2  | [Gog](/units/Gog/) | [Canto Arcano](/Exclusive/Gog Arcane Chant/) | - | Carga | - | - |
-  | 3  | [Sabueso Infernal](/units/Hell Hound/) | [Carga Honorífica](/Exclusive/Hell Hound Knight Pike/) | - | Carga | - | - |
-  | 4  | [Demonio](/units/Demon/) | [Escudo Iris](/Exclusive/Demon Iris Shield/) | - | Carga | - | - |
+  | 3  | [Sabueso Infernal](/units/Hell Hound/) | [Pica de Caballero](/Exclusive/Hell Hound Knight Pike/) | - | Carga | - | - |
+  | 4  | [Demonio](/units/Demon/) | [Escudo Iris](/Exclusive/Demon Iris Shield/) | + | Carga | - | - |
   | 5  | [Demonio del Abismo](/units/Pit Fiend/) | [Espada](/Exclusive/Pit Fiend Sword/) | - | Carga | - | - |
   | 6  | [Efrit](/units/Efreeti/) | [Canto Arcano](/Exclusive/Efreeti Arcane Chant/) | - | Carga | - | - |
   | 7  | [Diablo](/units/Devil/) | [Guadaña del Diablo](/Exclusive/Devil Devil Scythe/) | - | Asistencia técnica | - | - |

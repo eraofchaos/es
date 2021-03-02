@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora."
 heroID: 60802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Rashka"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** Fire Lord
+ **Specialty:** Señor del Fuego
 
  **Specialty Desc:** Bajo el liderazgo de Rashka, el Efrit mejora a Señor del Fuego. Sus habilidades de combate y ataque mejoran considerablemente.
 

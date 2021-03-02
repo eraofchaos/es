@@ -2,7 +2,7 @@
 title: "Emblema Sagrado"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Equipar Emblemas Sagrados aumenta mucho el Poder de las unidades. Los Emblemas Sagrados tienen varias combinaciones de facción y calidad. Los conjuntos de Emblemas Sagrados conceden atributos adicionales geniales."
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "index.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 1 | [Señal ominosa](/Emblem/Ominous Sign/) | Maligno | Adecuado para cualquier unidad | 
   | 2 | [Principios legales del sucesor](/Emblem/Successors' Legal Principles/) | Neutral | Recomendado para unidades defensivas | 
   | 3 | [Lujuria](/Emblem/Lust/) | Caos | Recomendado para unidades defensivas | 
-  | 4 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
+  | 4 | [Iluminación de oscuridad](/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
   | 5 | [Ficha de Aksoe](/Emblem/Aksoe Token/) | Neutral | Recomendado para unidades que ralentizan a los enemigos | 
   | 6 | [Arrogancia](/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
   | 7 | [Santuario de Kosmos](/Emblem/Sanctuary of Kosmos/) | Orden | Recomendado para unidades defensivas | 

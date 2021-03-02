@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "index.md"
 toc: false
@@ -14,9 +14,9 @@ classes: wide
 
   |  Nr  |      Name      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
-  | 1 |  **12x** Fervor(An item used to challenge bosses in the Cove Attack event.) |  **180x** <i class="fas fa-gem"/>  | **100** |
+  | 1 |  **12x** Fervor(Un objeto usado para desafiar a jefes en el evento de ataque de Cala.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** Alas de triunfo: Catherine(Se usa para obtener el aspecto de Alas de triunfo de Catherine) |  **2500x** Siclo  | **1** |
-  | 3 |  **10x** Peter Lee(Recoge 30 esquirlas de alma para invocar a PeterLee y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango.) |  **2500x** Siclo  | **3** |
+  | 3 |  **10x** Peter Lee(Recoge 30 esquirlas de alma para invocar a Peter Lee y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango.) |  **2500x** Siclo  | **3** |
   | 4 |  **10x** Alma de unidad SSR(Consigue 80 para obtener una unidad de aptitud SSR aleatoria (excepto Caballero Negro, Asesino y Guerreros espartanos).) |  **3800x** Siclo  | **4** |
   | 5 |  **10x** Alma de unidad SR(Hazte con 30 para conseguir una unidad de 2 estrellas aleatoria: Grifo, Espadachín, Monje, Catafracto, Enano, Elfa del Bosque, Pegaso, Guardia Dendroide, Unicornio, Orco, Ogro, Roc, Cíclope, Aparición, Vampiro, Sabueso Infernal, Demonio, Demonio del Abismo, Efrit, Gárgola de Piedra, Gólem de Hierro, Maga,Piratas Regnan, Elemental de Tormenta, Elemental de Hielo, Arpía, Minotauro u Hombre Lagarto.) |  **1000x** Siclo  | **3** |
   | 6 |  **1x** Cofre de componente de artefacto prémium(Úsalo para seleccionar 1 de los siguientes: 1 cofre de componente de Rey Dragón, 1 cofre de componente de escarcha o 1 cofre de componente divino.) |  **13500x** Siclo  | **1** |
@@ -25,9 +25,9 @@ classes: wide
   | 9 |  **10x** Paquete de selección de Piedra de Alma SSR(Puedes seleccionar una de las Piedras de Alma SSR cuando lo abras.) |  **3000x** Siclo  | **5** |
   | 10 |  **10x** Perla reluciente(Se puede intercambiar por Piedras de Alma de unidades raras.) |  **1250x** Siclo  | **7** |
   | 11 |  **1x** Paquete de selección de Emblema Naranja(Puedes seleccionar uno de los emblemas naranjas cuando lo abras.) |  **2500x** Siclo  | **6** |
-  | 12 |  **5x** Paquete de Piedra de Forja de opción múltiple(Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1) |  **880x** Siclo  | **6** |
+  | 12 |  **5x** Paquete de Piedra de Forja de opción múltiple(Úsalo para obtener uno de los siguientes: 1 Piedra de Forja Neutral, del Caos, el Bien, el Orden o el Mal) |  **880x** Siclo  | **6** |
   | 13 |  **1x** Mapa Polvoriento del Tesoro(Un mapa milenario y muy delicado. Cuenta la leyenda que oculta un secreto increíble. Usado para descubrir tesoros en el mapa de gremio.) |  **1250x** Siclo  | **2** |
-  | 14 |  **1x** Old Map(Un mapa viejo que parece señalar la ubicación de un montón de tesoro. Usado para descubrir tesoros en el mapa de gremio.) |  **500x** Siclo  | **3** |
+  | 14 |  **1x** Mapa Viejo(Un mapa viejo que parece señalar la ubicación de un montón de tesoro. Usado para descubrir tesoros en el mapa de gremio.) |  **500x** Siclo  | **3** |
   | 15 |  **50x** Ingredientes de poción de talento(Los ingredientes para una poción de talento. Tras elaborarla, recibirás una poción de talento para una unidad aleatoria.) |  **180x** Siclo  | **10** |
   | 16 |  **10x** Cofre de material poco común(Proporciona objetos poco comunes de mejora de equipo según el nivel del jugador.) |  **250x** Siclo  | **3** |
   | 17 |  **10x** Cristal violeta(Una piedra rúnica misteriosa. Puede mejorar significativamente la percepción de habilidad de tus unidades, y otorga 450 de EXP de habilidad al usarlo.) |  **650x** Siclo  | **5** |

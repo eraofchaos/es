@@ -53,7 +53,7 @@ toc: true
   | Naranja | 294.84 | 143.1 | 10724.4 |
   | Naranja +1 | 338.52 | 164.3 | 12313.2 |
   | Naranja +2 | 382.2 | 185.5 | 13902.0 |
-  | Orange +3 | 425.88 | 206.7 | 15490.8 |
+  | Naranja +3 | 425.88 | 206.7 | 15490.8 |
   | Naranja +4 | 469.56 | 227.9 | 17079.6 |
   | Naranja +5 | 535.08 | 259.7 | 19462.8 |
   | Rojo | 622.44 | 302.1 | 22640.4 |
@@ -119,7 +119,7 @@ toc: true
 ### Habilidad especial de la facción I : Combate de asedio
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Habilidad especial de la facción II : Defense Resonance
+### Habilidad especial de la facción II : Resonancia de defensa
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
   <script language="JavaScript">

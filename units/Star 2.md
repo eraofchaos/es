@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Demonio del Abismo](/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Señor del Abismo  |
   | 7 | [Gólem de Hierro](/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gólem de Oro  |
   | 8 | [Efrit](/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Sultán Efrit  |
-  | 9 | [Stone Gargoyle](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 9 | [Gárgola de Piedra](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 10 | [Archimaga](/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Archimaga  |
   | 11 | [Arpía](/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 12 | [Grifo](/units/Griffin/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
@@ -28,7 +28,7 @@ classes: wide
   | 14 | [Enano](/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotauro](/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotauro Rey  |
   | 16 | [Hombre Lagarto](/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 17 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 17 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Gran Elfa  |
   | 18 | [Libélula Menor](/units/Serpent Fly/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 19 | [Pegaso](/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Plateada  |
   | 20 | [Piratas Regnan](/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Rey de los Piratas  |

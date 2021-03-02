@@ -33,8 +33,8 @@ classes: wide
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Caballeros Negros un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Caballeros Negros un 25%. |
   | **3x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Caballero Negro carga hacia un punto. Es inmune a todo el daño durante este tiempo. Aparece delante de la unidad hostil al final de la fila en 6 s. Si no hay un objetivo válido, ataca a una unidad de la retaguardia aleatoria e impacta con un golpe crítico (Sin efecto de despertar. Solo tiene efecto una vez por batalla). |
-  | **4x** <i class="fas fa-star"/> | ? | Cuando impacta con un golpe crítico, el Caballero Negro gana 50 de golpe crítico. El efecto dura 5 s y se acumula hasta 10 veces. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida del Caballero Negro un 10%. Gana un 10% más de absorción de vida tras impactar con un golpe crítico durante 5 s. |
+  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
+  | **5x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida del Caballero Negro un 20%. Gana un 20% más de absorción de vida tras impactar con un golpe crítico durante 5 s. |
   | **6x** <i class="fas fa-star"/> | ? | <King's Revival> Invoca a un Caballero Negro cada 20 s. Se puede invocar a un Caballero Negro cuando la unidad objetivo haya sido derrotada. Cuando aparece un Caballero Negro, aumenta el golpe crítico de la unidad en 100 y la penetración en 50. |
 
 

@@ -49,7 +49,7 @@ toc: true
   | Naranja | 375.3 | 40.5 | 8043.3 |
   | Naranja +1 | 430.9 | 46.5 | 9234.9 |
   | Naranja +2 | 486.5 | 52.5 | 10426.5 |
-  | Orange +3 | 542.1 | 58.5 | 11618.1 |
+  | Naranja +3 | 542.1 | 58.5 | 11618.1 |
   | Naranja +4 | 597.7 | 64.5 | 12809.7 |
   | Naranja +5 | 681.1 | 73.5 | 14597.1 |
   | Rojo | 792.3 | 85.5 | 16980.3 |
@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Sprite Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Sprite Knight Pike/) 
 
  **Item to Subida de rango:** -
 
@@ -107,7 +107,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, la unidad de Hadas aumenta la resistencia mágica de todas las unidades amistosas que encuentra en su camino un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span> %</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto se duplica para la unidad de Hadas.</span><span style="color: black">
 
 ### Habilidad normal 2 : Inspiración
- **Descripción:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Hadas en el campo de batalla, el maná de los Héroes amistosos aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Dedicación
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Hada, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
@@ -179,7 +179,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,10 +187,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

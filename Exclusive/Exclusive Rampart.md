@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centauro](/units/Centaur/) | [Escudo Iris](/Exclusive/Centaur Iris Shield/) | + | Carga | - | - |
+  | 1  | [Centauro](/units/Centaur/) | [Escudo Iris](/Exclusive/Centaur Iris Shield/) | - | Carga | - | - |
   | 2  | [Enano](/units/Dwarf/) | [Escudo Iris](/Exclusive/Dwarf Iris Shield/) | - | Carga | - | - |
-  | 3  | [Elfa del Bosque](/units/Wood Elf/) | [Arco largo](/Exclusive/Wood Elf Long Bow/) | + | Carga | - | - |
+  | 3  | [Elfa del Bosque](/units/Wood Elf/) | [Arco largo](/Exclusive/Wood Elf Long Bow/) | - | Carga | - | - |
   | 4  | [Pegaso](/units/Pegasus/) | [Arco largo](/Exclusive/Pegasus Long Bow/) | + | Carga | - | - |
   | 5  | [Guardia Dendroide](/units/Dendroid Guard/) | [Escudo Iris](/Exclusive/Dendroid Guard Iris Shield/) | - | Carga | - | - |
-  | 6  | [Unicornio](/units/Unicorn/) | [Carga Honorífica](/Exclusive/Unicorn Knight Pike/) | - | Carga | - | - |
-  | 7  | [Dragón Verde](/units/Green Dragon/) | [Ala de Dragón Resplandeciente](/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Asistencia técnica | - | - |
-  | 8  | [Druida](/units/Druid/) | [Báculo de Resurgimiento](/Exclusive/Druid Staff of Regrowth/) | + | A distancia | - | - |
+  | 6  | [Unicornio](/units/Unicorn/) | [Pica de Caballero](/Exclusive/Unicorn Knight Pike/) | - | Carga | - | - |
+  | 7  | [Dragón Verde](/units/Green Dragon/) | [Ala de Dragón Resplandeciente](/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Asistencia técnica | - | - |
+  | 8  | [Druida](/units/Druid/) | [Báculo de Resurgimiento](/Exclusive/Druid Staff of Regrowth/) | - | A distancia | - | - |
   | 9  | [Mantis](/units/Mantis/) | - | - | - | none | none |

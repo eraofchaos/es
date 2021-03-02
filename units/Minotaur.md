@@ -53,7 +53,7 @@ toc: true
   | Naranja | 583.2 | 148.5 | 22072.5 |
   | Naranja +1 | 669.6 | 170.5 | 25342.5 |
   | Naranja +2 | 756.0 | 192.5 | 28612.5 |
-  | Orange +3 | 842.4 | 214.5 | 31882.5 |
+  | Naranja +3 | 842.4 | 214.5 | 31882.5 |
   | Naranja +4 | 928.8 | 236.5 | 35152.5 |
   | Naranja +5 | 1058.4 | 269.5 | 40057.5 |
   | Rojo | 1231.2 | 313.5 | 46597.5 |
@@ -157,7 +157,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Resistencia mágica
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spell Breaker's Physique&gt;</span><span style="color: #645252;font-size:18px"> Cuando un Héroe hostil lance un hechizo, el Minotauro recibirá moral alta durante 5 s y aumentará su reducción de daño de la unidad un 10%. Puede acumularse 3 veces a lo largo de la partida.</span>
 
-### 5th Skill (or 6th): Ferocious Will
+### 5th Skill (or 6th): Voluntad atroz
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Ferocidad avanzada&gt;</span><span style="color: #645252;font-size:18px">Cuando se enfrenta a un enemigo que esté «sangrando», el Minotauro recibe un aumento del 20% al daño de unidad. Si el Minotauro está «sangrando», su velocidad de ataque aumentará un 20% durante 6 s.</span>
 
 ### 6th Skill (or 5th): Ferocidad sangrienta

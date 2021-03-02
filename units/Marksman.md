@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Ataca dos veces. Eficaz contra unidades grandes.
 
- **Position :** Deal colossal burst damage and a double strike. Most effective against large units.
+ **Position :** Inflige daño rápido colosal y un golpe doble. Más eficaz contra unidades grandes.
 
  **Recommend:** Los Guerreros, Magas y Sacerdotes hacen buen equipo.
 
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 460.62 | 81.0 | 3551.04 |
   | Naranja +1 | 528.86 | 93.0 | 4077.12 |
   | Naranja +2 | 597.1 | 105.0 | 4603.2 |
-  | Orange +3 | 665.34 | 117.0 | 5129.28 |
+  | Naranja +3 | 665.34 | 117.0 | 5129.28 |
   | Naranja +4 | 733.58 | 129.0 | 5655.36 |
   | Naranja +5 | 835.94 | 147.0 | 6444.48 |
   | Rojo | 972.42 | 171.0 | 7496.64 |
@@ -120,7 +120,7 @@ toc: true
 ### Habilidad especial de la facción I : Combate de asedio
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Habilidad especial de la facción II : Defense Resonance
+### Habilidad especial de la facción II : Resonancia de defensa
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
   <script language="JavaScript">

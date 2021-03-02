@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

@@ -49,7 +49,7 @@ toc: true
   | Naranja | 3054.78 | 162.0 | 49486.14 |
   | Naranja +1 | 3507.34 | 186.0 | 56817.42 |
   | Naranja +2 | 3959.9 | 210.0 | 64148.7 |
-  | Orange +3 | 4412.46 | 234.0 | 71479.98 |
+  | Naranja +3 | 4412.46 | 234.0 | 71479.98 |
   | Naranja +4 | 4865.02 | 258.0 | 78811.26 |
   | Naranja +5 | 5543.86 | 294.0 | 89808.18 |
   | Rojo | 6448.98 | 342.0 | 104470.74 |
@@ -98,7 +98,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Habilidad definitiva: Ray of Judgment
+### Habilidad definitiva: Rayo del juicio
  **Descripción:** <span style="color: #645252;font-size:20px">La Adjudicadora invoca 2 Rayos del juicio cada 25 s. Los rayos <span style="color: #48b946;font-size:20px">aturden</span><span style="color: black"> a las unidades hostiles dentro del alcance durante 1 s cuando aparecen, e infligen daño igual al <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> de los PV máximos y reducen la curación hostil un <span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"> durante 8 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Bendición

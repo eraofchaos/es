@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis."
 heroID: 60102
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Catherine"
 toc: true
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Boda Real**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">I hope our union will bring peace to the nation and happiness to our people. </span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Espero que nuestra unión traiga paz a la nación y felicidad a nuestra gente. </span>
 
  **Skin features:** 
 
@@ -92,7 +92,7 @@ toc: true
 
    - Anfitrión generoso
    - Nuevo diseño de Héroe
-   - Unique avatar
+   - Avatar único
 
 ### Skin 5: **Alas de triunfo**
 

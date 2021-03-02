@@ -1,17 +1,17 @@
 ---
-title: "Exclusivo - Carga Honorífica"
+title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Wolf Rider Knight Pike/
-excerpt: "Era of Chaos Carga Honorífica. Carga Honorífica. Era of Chaos Exclusivo Carga Honorífica. Jinete Lupino Exclusivo."
+excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Jinete Lupino Exclusivo."
 last_modified_at: 2021-03-02
 locale: es
-ref: "Wolf Rider Carga Honorífica.md"
+ref: "Wolf Rider Pica de Caballero.md"
 toc: false
 classes: wide
 ---
  [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carga Honorífica** 
+ **Name: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Jinete Lupino](/units/Wolf Rider/) 
 

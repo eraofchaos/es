@@ -9,10 +9,10 @@ toc: false
 classes: wide
 ---
 
-  [Moral alta](/combination/High Morale/){: .btn .btn--primary} [Ralentizar](/combination/Slow/){: .btn .btn--success} [Sangrado](/combination/Bleeding/){: .btn .btn--warning} [Quemadura](/combination/Burning/){: .btn .btn--danger} [Moral baja](/combination/Low Morale/){: .btn .btn--info} [Enfermedad](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Silencio](/combination/Silence/){: .btn .btn--warning} [Aturdimiento](/combination/Stun/){: .btn .btn--danger} [Escudo](/combination/Shield/){: .btn .btn--info} [Estática](/combination/Static/){: .btn .btn--primary} [Petrificar](/combination/Petrify/){: .btn .btn--success} [Plaga](/combination/Plague/){: .btn .btn--warning} [Congelación](/combination/Freeze/){: .btn .btn--danger} [Desaliento](/combination/Deterrence/){: .btn .btn--info} 
+  [Moral alta](/combination/High Morale/){: .btn .btn--primary} [Ralentizar](/combination/Slow/){: .btn .btn--success} [Sangrado](/combination/Bleeding/){: .btn .btn--warning} [Quemadura](/combination/Burning/){: .btn .btn--danger} [Moral baja](/combination/Low Morale/){: .btn .btn--info} [Enfermedad](/combination/Disease/){: .btn .btn--primary} [Ceguera](/combination/Blind/){: .btn .btn--success} [Silencio](/combination/Silence/){: .btn .btn--warning} [Aturdimiento](/combination/Stun/){: .btn .btn--danger} [Escudo](/combination/Shield/){: .btn .btn--info} [Estática](/combination/Static/){: .btn .btn--primary} [Petrificar](/combination/Petrify/){: .btn .btn--success} [Plaga](/combination/Plague/){: .btn .btn--warning} [Congelación](/combination/Freeze/){: .btn .btn--danger} [Desaliento](/combination/Deterrence/){: .btn .btn--info} 
 
 
-#### Units and heroes that cause \"stun\"
+#### Las unidades y los Héroes causan aturdimiento
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
@@ -27,7 +27,7 @@ classes: wide
   | 9 | [Elemental Psíquico](/units/Elemental Psíquico/) | [Shiva](/heroes/Shiva/) |
   | 10 | [Elemental de Piedra](/units/Elemental de Piedra/) | [Luna](/heroes/Luna/) |
   | 11 | [Troglodita](/units/Troglodita/) | [Erdamon](/heroes/Erdamon/) |
-  | 12 | [Gnoll](/units/Gnoll/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 12 | [Gnoll](/units/Gnoll/) | [Dragona Mutare](/heroes/Dragona Mutare/) |
   | 13 | [Tortuga Dragón](/units/Tortuga Dragón/) | [Mutare](/heroes/Mutare/) |
   | 14 | [Hierbavispa](/units/Hierbavispa/) | [Sephinroth](/heroes/Sephinroth/) |
   | 15 | [Adjudicadora](/units/Adjudicadora/) | [Jeddite](/heroes/Jeddite/) |

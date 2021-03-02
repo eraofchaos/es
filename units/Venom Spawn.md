@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Roba almas para dar la vuelta a la partida. Nacido para morir.
 
- **Position :** 
+ **Position :** Roba almas para dar la vuelta a la partida. Nacido para morir.
 
 ## Atributos básicos
  **Base HP: 13350.0**
@@ -52,7 +52,7 @@ toc: true
   | Naranja | 2025.0 | 172.8 | 108135.0 |
   | Naranja +1 | 2325.0 | 198.4 | 124155.0 |
   | Naranja +2 | 2625.0 | 224.0 | 140175.0 |
-  | Orange +3 | 2925.0 | 249.6 | 156195.0 |
+  | Naranja +3 | 2925.0 | 249.6 | 156195.0 |
   | Naranja +4 | 3225.0 | 275.2 | 172215.0 |
   | Naranja +5 | 3675.0 | 313.6 | 196245.0 |
   | Rojo | 4275.0 | 364.8 | 228285.0 |

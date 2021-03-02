@@ -51,7 +51,7 @@ toc: true
   | Naranja | 455.76 | 48.6 | 6164.1 |
   | Naranja +1 | 523.28 | 55.8 | 7077.3 |
   | Naranja +2 | 590.8 | 63.0 | 7990.5 |
-  | Orange +3 | 658.32 | 70.2 | 8903.7 |
+  | Naranja +3 | 658.32 | 70.2 | 8903.7 |
   | Naranja +4 | 725.84 | 77.4 | 9816.9 |
   | Naranja +5 | 827.12 | 88.2 | 11186.7 |
   | Rojo | 962.16 | 102.6 | 13013.1 |
@@ -116,7 +116,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -171,40 +171,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Guerrero Gnoll
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Estas bestias pálidas bajo la luz de la luna son valientes guerreros de las marismas. Son soldados de élite de los clanes de Gnolls que luchan para liberar a la gente de la Fortaleza.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega un Gnoll con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Fortaleza y mata a </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #876741;font-size:18px"> Enanos en la Tesorería Enana en una única batalla. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Guerrero Gnoll en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. <span style="color: #876741;font-size:18px">Despliega un Gnoll con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Fortaleza y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Bofetada en cadena
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bofetada en cadena&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional equivalente al 400% de su propio ATQ a la unidad objetivo.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Golpe en cadena
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bofetada en cadena&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración del efecto de aturdimiento de la habilidad en 5 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+### 3rd Skill (or 4th): Llamada de lo salvaje
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Salvajismo primitivo&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la penetración en 100. El efecto se duplica contra enemigos bajo los efectos de aturdimiento.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Llamada de lo silvestre
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Salvajismo primitivo&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de golpe crítico un 15%. El efecto se duplica contra enemigos bajo los efectos de plaga.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Muerte garantizada
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:18px"> Aumenta su propio golpe crítico en 250 cuando se enfrenta a unidades con menos del 60% de PV.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Ruptura
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de unidad propio en un 20% cuando se enfrenta a unidades con menos del 60% de PV.</span>
 
 ## Technical info
  **runart:** 1

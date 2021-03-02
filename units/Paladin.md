@@ -53,7 +53,7 @@ toc: true
   | Naranja | 691.2 | 145.8 | 20970.9 |
   | Naranja +1 | 793.6 | 167.4 | 24077.7 |
   | Naranja +2 | 896.0 | 189.0 | 27184.5 |
-  | Orange +3 | 998.4 | 210.6 | 30291.3 |
+  | Naranja +3 | 998.4 | 210.6 | 30291.3 |
   | Naranja +4 | 1100.8 | 232.2 | 33398.1 |
   | Naranja +5 | 1254.4 | 264.6 | 38058.3 |
   | Rojo | 1459.2 | 307.8 | 44271.9 |
@@ -72,7 +72,7 @@ toc: true
   | [Espada del Juicio](/equipment/Espada del Juicio/) | **ATQ** | **DEF** | 
   | [Yelmo del Juramento](/equipment/Yelmo del Juramento/) | **PV** | **DEF** | 
   | [Hombreras de hierro](/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
-  | [Forged Bracers](/equipment/Forged Bracers/) | **PV** | **DEF** | 
+  | [Brazaletes forjados](/equipment/Brazaletes forjados/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
@@ -106,12 +106,12 @@ toc: true
  **Descripción:** 
 
 ### Habilidad normal 1 : Liderazgo
- **Descripción:** <span style="color: #645252;font-size:20px">Paladin unit's damage reduction increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. The effect doubles if under </span><span style="color: black"><span style="color: #48b946;font-size:20px">\"High Morale\"</span><span style="color: black"><span style="color: #645252;font-size:20px"> effect.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de Paladines un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 2 : Incentivo
  **Descripción:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. El Paladín otorga a las unidades amistosas en una zona grande y a sí mismo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;moral alta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> y 500 de golpe crítico durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### Habilidad normal 3 : Innocent Domain
+### Habilidad normal 3 : Dominio inocente
  **Descripción:** <span style="color: #645252;font-size:20px">El Paladín es inmune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;enfermedad&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la reducción de daño de todas las unidades amistosas un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> si el Paladín está en el campo de batalla.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio

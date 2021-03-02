@@ -49,7 +49,7 @@ toc: true
   | Naranja | 5131.62 | 102.6 | 44898.3 |
   | Naranja +1 | 5891.86 | 117.8 | 51549.9 |
   | Naranja +2 | 6652.1 | 133.0 | 58201.5 |
-  | Orange +3 | 7412.34 | 148.2 | 64853.1 |
+  | Naranja +3 | 7412.34 | 148.2 | 64853.1 |
   | Naranja +4 | 8172.58 | 163.4 | 71504.7 |
   | Naranja +5 | 9312.94 | 186.2 | 81482.1 |
   | Rojo | 10833.42 | 216.6 | 94785.3 |
@@ -71,6 +71,12 @@ toc: true
   | [Abeja Asesina](/equipment/Abeja Asesina/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Name:** [Hoja de Hierbavispa](/Exclusive/Waspwort Waspwort Leaf/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -109,7 +115,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -179,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,10 +193,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

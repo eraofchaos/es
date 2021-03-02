@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodita](/units/Troglodyte/) | [Espada](/Exclusive/Troglodyte Sword/) | - | Carga | - | - |
-  | 2  | [Arpía](/units/Harpy/) | [Carga Honorífica](/Exclusive/Harpy Knight Pike/) | - | Carga | - | - |
+  | 2  | [Arpía](/units/Harpy/) | [Pica de Caballero](/Exclusive/Harpy Knight Pike/) | - | Carga | - | - |
   | 3  | [Observador](/units/Beholder/) | [Mirada Oscura](/Exclusive/Beholder Dark Gaze/) | - | A distancia | - | - |
-  | 4  | [Medusa](/units/Medusa/) | [Arco de Medusa](/Exclusive/Medusa Medusa's bow/) | - | A distancia | - | - |
+  | 4  | [Medusa](/units/Medusa/) | [Arco de Medusa](/Exclusive/Medusa Medusa's Bow/) | - | A distancia | - | - |
   | 5  | [Minotauro](/units/Minotaur/) | [Escudo Iris](/Exclusive/Minotaur Iris Shield/) | - | Carga | - | - |
-  | 6  | [Mantícora](/units/Manticore/) | [Cola de Escorpión](/Exclusive/Manticore Scorpion tail/) | - | A distancia | - | - |
+  | 6  | [Mantícora](/units/Manticore/) | [Cola de Escorpión](/Exclusive/Manticore Scorpion Tail/) | + | A distancia | - | - |
   | 7  | [Dragón Negro](/units/Black Dragon/) | [Escama de Dragón Negro](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Asistencia técnica | - | - |
-  | 8  | [Dragón Rojo](/units/Red Dragon/) | - | - | - | none | none |
+  | 8  | [Dragón Rojo](/units/Red Dragon/) | [Aniquilación](/Exclusive/Red Dragon Annihilation/) | - | Asistencia técnica | - | - |
   | 9  | [Hechicera Maligna](/units/Evil Sorceress/) | - | - | - | none | none |

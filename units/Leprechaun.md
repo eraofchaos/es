@@ -1,7 +1,7 @@
 ---
 title: "Duendecillo"
 permalink: /units/Leprechaun/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo."
+excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!"
 unitID: 909
 last_modified_at: 2021-03-02
 locale: es
@@ -9,7 +9,7 @@ ref: "Duendecillo"
 toc: true
 ---
 ## General information
- **Descripción:** En su día, los Duendecillos, con sus abrigos de color verde jade, eran niños del bosque que vivían libres y sin preocupaciones bajo la protección del Árbol del Mundo. Sin embargo, el sonido de los cuernos de guerra de Erathia han despertado su valor para proteger el Árbol del Mundo.
+ **Descripción:** ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!
 
  **Clase:** [Defensa](/units/Unit Class Defense/)
 
@@ -51,7 +51,7 @@ toc: true
   | Naranja | 726.3 | 162.0 | 25612.2 |
   | Naranja +1 | 833.9 | 186.0 | 29406.6 |
   | Naranja +2 | 941.5 | 210.0 | 33201.0 |
-  | Orange +3 | 1049.1 | 234.0 | 36995.4 |
+  | Naranja +3 | 1049.1 | 234.0 | 36995.4 |
   | Naranja +4 | 1156.7 | 258.0 | 40789.8 |
   | Naranja +5 | 1318.1 | 294.0 | 46481.4 |
   | Rojo | 1533.3 | 342.0 | 54070.2 |
@@ -73,6 +73,12 @@ toc: true
   | [Laligerezadelviento](/equipment/Laligerezadelviento/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Name:** [Espinas](/Exclusive/Leprechaun Thorns/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -183,7 +189,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** Espíritu Guardián del Árbol Sagrado
+ **Awaking Name:** Duendecillo maestro
 
  **Awaking Descripción:** La leyenda habla de un inmenso Árbol del Mundo en el Plano del Conflujo. Los aventureros anhelan y temen este árbol antiguo y misterioso. Eso se debe a que un grupo de feroces guardianes está guarnecido cerca de él, preparado para eliminar a cualquier criatura que se atreva a acercarse al Árbol del Mundo. Muchos aventureros valientes han partido hacia allí por admiración, pero jamás han regresado.
 
@@ -199,10 +205,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Golpe pesado
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está quemado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo tiene quemadura, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 2nd Skill (or 1st): Golpe directo
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 3rd Skill (or 4th): Número de la suerte
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> La acumulación del efecto de la habilidad propia del Duendecillo aumenta a 5-12 acumulaciones.</span>

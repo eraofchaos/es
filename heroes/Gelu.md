@@ -3,14 +3,14 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu es un semielfo y el guerrero más famoso de Erathia. Mientras servía en el ejército de la Reina Catherine, el General Morgan Kendal lo descubrió y lo ascendió."
 heroID: 60301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Gelu"
 toc: true
 ---
  **Descripción:** Gelu es un semielfo y el guerrero más famoso de Erathia. Mientras servía en el ejército de la Reina Catherine, el General Morgan Kendal lo descubrió y lo ascendió.
 ## Details
- **Profession:** Ranger
+ **Profession:** Guardabosques
 
  **Race:** Murallas
 
@@ -54,7 +54,7 @@ toc: true
    - Saber de Gelu 5
 
 ## HERO Skins
-### Skin 1: **Classic**
+### Skin 1: **Clásico**
 
  **Descripción:** <span style="color: #ffffff;font-size:20px">La vida de Gelu está envuelta en misterio. Lo único de lo que está segura la gente es de que es un semielfo, probablemente con sangre Vori en su parte élfica. </span>
 

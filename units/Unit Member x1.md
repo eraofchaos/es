@@ -20,13 +20,13 @@ classes: wide
   | 6 | [Demonio de Hielo](/units/Ice Demon/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
   | 7 | [Domador de Tiburones](/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Jinete de tiburones  |
   | 8 | [Berserker](/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Aullador de Muerte  |
-  | 9 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Espíritu Guardián del Árbol Sagrado  |
+  | 9 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Duendecillo maestro  |
   | 10 | [Trol](/units/Troll/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.3 | 9051 |   -   |
   | 11 | [Arquera Regnan](/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 12 | [Diablo](/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archidiablo  |
   | 13 | [Engendro Venenoso](/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 14 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Reina  |
-  | 15 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 15 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
   | 16 | [Gigante](/units/Giant/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titán  |
   | 17 | [Gólem Dragón](/units/Dragon Golem/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |   -   |
   | 18 | [Paladín](/units/Paladin/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladín Supremo  |

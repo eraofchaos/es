@@ -53,7 +53,7 @@ toc: true
   | Naranja | 4276.8 | 51.3 | 43991.1 |
   | Naranja +1 | 4910.4 | 58.9 | 50508.3 |
   | Naranja +2 | 5544.0 | 66.5 | 57025.5 |
-  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Naranja +3 | 6177.6 | 74.1 | 63542.7 |
   | Naranja +4 | 6811.2 | 81.7 | 70059.9 |
   | Naranja +5 | 7761.6 | 93.1 | 79835.7 |
   | Rojo | 9028.8 | 108.3 | 92870.1 |
@@ -109,7 +109,7 @@ toc: true
 ### Habilidad normal 1 : Tortura cruel
  **Descripción:** <span style="color: #645252;font-size:20px">Inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles aleatorias. El golpe crítico aumenta en 500 contra unidades con </span><span style="color: black"><span style="color: #e07c44;font-size:20px">&lt;quemadura&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
-### Habilidad normal 2 : Withering
+### Habilidad normal 2 : Marchitamiento
  **Descripción:** <span style="color: #645252;font-size:20px">Si esta unidad está en el campo de batalla, inflige daño igual al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a todas las unidades hostiles durante 2 s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Mataalmas

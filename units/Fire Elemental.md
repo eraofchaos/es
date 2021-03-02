@@ -49,7 +49,7 @@ toc: true
   | Naranja | 1053.0 | 48.6 | 13624.2 |
   | Naranja +1 | 1209.0 | 55.8 | 15642.6 |
   | Naranja +2 | 1365.0 | 63.0 | 17661.0 |
-  | Orange +3 | 1521.0 | 70.2 | 19679.4 |
+  | Naranja +3 | 1521.0 | 70.2 | 19679.4 |
   | Naranja +4 | 1677.0 | 77.4 | 21697.8 |
   | Naranja +5 | 1911.0 | 88.2 | 24725.4 |
   | Rojo | 2223.0 | 102.6 | 28762.2 |
@@ -197,7 +197,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ un 50% y la absorción de vida un 10% para dos unidades ofensivas aleatorias durante 10 s cuando un Héroe lance un hechizo de fuego</span>
 
 ### 4th Skill (or 3rd): Frenesí elemental
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Elemental Force&gt;</span><span style="color: #645252;font-size:18px">Has a 30% chance to unleash &lt;Heavenly Fire&gt; on 1 random hostile unit when the friendly hero casts a fire spell</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza elemental&gt;</span><span style="color: #645252;font-size:18px">Tiene una probabilidad del 30% de activar &lt;Fuego Divino&gt; sobre 1 unidad hostil aleatoria cuando un Héroe amistoso lance un hechizo de fuego</span>
 
 ### 5th Skill (or 6th): Maldición de la llama furiosa
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fire Energy Conductor&gt;</span><span style="color: #645252;font-size:18px">Duplica las bonificaciones. Las acumulaciones se mantienen</span>

@@ -31,4 +31,4 @@ classes: wide
   | 17 | [Aparición](/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |
   | 18 | [Elemental de Hielo](/units/Ice Elemental/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Espíritu de las Nieves Silencioso  |
   | 19 | [Druida](/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Archidruida  |
-  | 20 | [Lich](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
+  | 20 | [Liche](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |

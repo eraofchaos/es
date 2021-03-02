@@ -51,7 +51,7 @@ toc: true
   | Naranja | 4154.22 | 70.2 | 46737.0 |
   | Naranja +1 | 4769.66 | 80.6 | 53661.0 |
   | Naranja +2 | 5385.1 | 91.0 | 60585.0 |
-  | Orange +3 | 6000.54 | 101.4 | 67509.0 |
+  | Naranja +3 | 6000.54 | 101.4 | 67509.0 |
   | Naranja +4 | 6615.98 | 111.8 | 74433.0 |
   | Naranja +5 | 7539.14 | 127.4 | 84819.0 |
   | Rojo | 8770.02 | 148.2 | 98667.0 |
@@ -106,7 +106,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">La Hidra tiene una probabilidad de encadenar 1/2/3/4 cabezazos al atacar, que infligen un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada uno. Las probabilidades de cabezazos adicionales son del 60%/40%/30%/10% respectivamente.</span><span style="color: black">
 
 ### Habilidad normal 2 : Dominación de la plaga
- **Descripción:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El daño de la unidad de Hidra aumenta por cada unidad de Fortaleza desplegada un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El golpe crítico aumenta en 100 por cada penalización en el objetivo y se acumula 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Mordisco cazador
  **Descripción:** <span style="color: #645252;font-size:20px">Si el ataque previo se esquiva, la Hidra ataca una vez más e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño. Cuando se activa Mordisco cazador, la Hidra tiene asegurado impactar con un golpe crítico antes de que pasen 3 s.</span><span style="color: black">
@@ -114,7 +114,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">

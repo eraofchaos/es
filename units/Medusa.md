@@ -53,7 +53,7 @@ toc: true
   | Naranja | 1090.8 | 48.6 | 9266.4 |
   | Naranja +1 | 1252.4 | 55.8 | 10639.2 |
   | Naranja +2 | 1414.0 | 63.0 | 12012.0 |
-  | Orange +3 | 1575.6 | 70.2 | 13384.8 |
+  | Naranja +3 | 1575.6 | 70.2 | 13384.8 |
   | Naranja +4 | 1737.2 | 77.4 | 14757.6 |
   | Naranja +5 | 1979.6 | 88.2 | 16816.8 |
   | Rojo | 2302.8 | 102.6 | 19562.4 |
@@ -76,7 +76,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco de Medusa](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Arco de Medusa](/Exclusive/Medusa Medusa's Bow/) 
 
  **Item to Subida de rango:** -
 
@@ -156,7 +156,7 @@ toc: true
 * [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sephinroth](/heroes/Sephinroth/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

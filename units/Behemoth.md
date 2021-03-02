@@ -53,7 +53,7 @@ toc: true
   | Naranja | 2199.42 | 162.0 | 82474.2 |
   | Naranja +1 | 2525.26 | 186.0 | 94692.6 |
   | Naranja +2 | 2851.1 | 210.0 | 106911.0 |
-  | Orange +3 | 3176.94 | 234.0 | 119129.4 |
+  | Naranja +3 | 3176.94 | 234.0 | 119129.4 |
   | Naranja +4 | 3502.78 | 258.0 | 131347.8 |
   | Naranja +5 | 3991.54 | 294.0 | 149675.4 |
   | Rojo | 4643.22 | 342.0 | 174112.2 |
@@ -180,7 +180,7 @@ toc: true
 
  **Awaking Name:** Antiguo Behemoth
 
- **Awaking Descripción:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Descripción:** Lidera muchas criaturas salvajes y no teme a nada que camine por la tierra. Las grandes criaturas no son nada para él. Sus ojos solo ven la decadencia de todas las criaturas fuertes. Las montañas hacen sus ofrendas, y él es el Rey de las crueles tierras salvajes.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Despliega a un Behemoth y al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unidades de Bastión para pasar el nivel campeón o superior de la Utopía del Dragón</span><span style="color: #1ca216;font-size:18px"> 1</span><span style="color: #3c2a1e;font-size:18px"> vez. (La incursión no cuenta para la misión).</span>

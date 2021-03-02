@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Anula el escudo. Aumenta el golpe crítico.
 
- **Position :** Supports back-row troops, increases friendly units' DPS and provides immunity from magic damage
+ **Position :** Apoya a las tropas de retaguardia, aumenta el DPS de las unidades aliadas y otorga inmunidad al daño mágico.
 
 ## Atributos básicos
  **Base HP: 844.0**
@@ -51,7 +51,7 @@ toc: true
   | Naranja | 554.04 | 40.5 | 6836.4 |
   | Naranja +1 | 636.12 | 46.5 | 7849.2 |
   | Naranja +2 | 718.2 | 52.5 | 8862.0 |
-  | Orange +3 | 800.28 | 58.5 | 9874.8 |
+  | Naranja +3 | 800.28 | 58.5 | 9874.8 |
   | Naranja +4 | 882.36 | 64.5 | 10887.6 |
   | Naranja +5 | 1005.48 | 73.5 | 12406.8 |
   | Rojo | 1169.64 | 85.5 | 14432.4 |

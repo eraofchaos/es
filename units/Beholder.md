@@ -53,7 +53,7 @@ toc: true
   | Naranja | 625.32 | 40.5 | 6026.4 |
   | Naranja +1 | 717.96 | 46.5 | 6919.2 |
   | Naranja +2 | 810.6 | 52.5 | 7812.0 |
-  | Orange +3 | 903.24 | 58.5 | 8704.8 |
+  | Naranja +3 | 903.24 | 58.5 | 8704.8 |
   | Naranja +4 | 995.88 | 64.5 | 9597.6 |
   | Naranja +5 | 1134.84 | 73.5 | 10936.8 |
   | Rojo | 1320.12 | 85.5 | 12722.4 |
@@ -111,7 +111,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Observadores en el campo de batalla, el maná inicial de los Héroes enemigos se reduce en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada vez que se derrota a una unidad enemiga, el maná del Héroe enemigo se reduce en 10 más.</span><span style="color: black">
 
 ### Habilidad normal 3 : Reunir energía
- **Descripción:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Al principio del combate, las unidades de Observadores aumentan los PV de todas las unidades en una zona grande un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dura toda la batalla.</span><span style="color: black">
 
 ### Habilidad especial de la facción : Conflicto oscuro
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
@@ -151,7 +151,7 @@ toc: true
 ### Bonificación de Héroe
 * [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

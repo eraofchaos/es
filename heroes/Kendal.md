@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un general leal a la familia real de Erathia. Desde la muerte del Rey Corazón de Grifo, Morgan Kendal se hizo cargo del país en espera de que vuelva su legítima heredera."
 heroID: 60104
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Kendal"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** Master of Tactics
+ **Specialty:** Maestro táctico
 
  **Mana base:** 16
 

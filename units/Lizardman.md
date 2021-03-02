@@ -51,7 +51,7 @@ toc: true
   | Naranja | 944.46 | 48.6 | 9266.4 |
   | Naranja +1 | 1084.38 | 55.8 | 10639.2 |
   | Naranja +2 | 1224.3 | 63.0 | 12012.0 |
-  | Orange +3 | 1364.22 | 70.2 | 13384.8 |
+  | Naranja +3 | 1364.22 | 70.2 | 13384.8 |
   | Naranja +4 | 1504.14 | 77.4 | 14757.6 |
   | Naranja +5 | 1714.02 | 88.2 | 16816.8 |
   | Rojo | 1993.86 | 102.6 | 19562.4 |
@@ -109,7 +109,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de los ataques normales del Hombre Lagarto un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño contra objetivos con <span style="color: #48b946;font-size:20px">&lt;sangrado&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> un 30%.</span><span style="color: black">
 
 ### Habilidad normal 2 : Plaga agravante
- **Descripción:** <span style="color: #645252;font-size:20px">Lizardman unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lizardman's unit's damage will be increased by a further 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad de Hombres Lagarto un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de la unidad de Hombres Lagarto un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Matanza de dragones
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de uno o cuatro, el daño de la unidad de Hombres Lagarto aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -117,7 +117,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -184,7 +184,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -192,10 +192,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

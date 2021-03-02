@@ -24,5 +24,5 @@ classes: wide
   | 5 | [Elemental del Mar](/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Elemental de la Marea  |
   | 6 | [Serpiente Regnan](/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 7 | [Sirena](/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |   -   |
-  | 8 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 8 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
   | 9 | [Piratas Regnan](/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Rey de los Piratas  |

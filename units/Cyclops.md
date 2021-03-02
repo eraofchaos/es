@@ -17,7 +17,7 @@ toc: true
 
  **Facción:** [Bastión](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Bárbaro
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 3665.52 | 67.5 | 41237.1 |
   | Naranja +1 | 4208.56 | 77.5 | 47346.3 |
   | Naranja +2 | 4751.6 | 87.5 | 53455.5 |
-  | Orange +3 | 5294.64 | 97.5 | 59564.7 |
+  | Naranja +3 | 5294.64 | 97.5 | 59564.7 |
   | Naranja +4 | 5837.68 | 107.5 | 65673.9 |
   | Naranja +5 | 6652.24 | 122.5 | 74837.7 |
   | Rojo | 7738.32 | 142.5 | 87056.1 |
@@ -73,7 +73,7 @@ toc: true
   | [Roca](/equipment/Roca/) | **ATQ** | **DEF** | 
   | [Grilletes de la Guerra](/equipment/Grilletes de la Guerra/) | **PV** | **DEF** | 
   | [Brazaletes de Púas](/equipment/Brazaletes de Púas/) | **ATQ** | **DEF** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **PV** | **DEF** | 
+  | [Pantalones de cuero](/equipment/Pantalones de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

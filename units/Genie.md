@@ -53,7 +53,7 @@ toc: true
   | Naranja | 980.64 | 81.0 | 13624.2 |
   | Naranja +1 | 1125.92 | 93.0 | 15642.6 |
   | Naranja +2 | 1271.2 | 105.0 | 17661.0 |
-  | Orange +3 | 1416.48 | 117.0 | 19679.4 |
+  | Naranja +3 | 1416.48 | 117.0 | 19679.4 |
   | Naranja +4 | 1561.76 | 129.0 | 21697.8 |
   | Naranja +5 | 1779.68 | 147.0 | 24725.4 |
   | Rojo | 2070.24 | 171.0 | 28762.2 |
@@ -157,7 +157,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Magia**  (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe

@@ -17,12 +17,12 @@ classes: wide
   | 3 | [Revyaratan](/units/Revyaratan/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
   | 4 | [Demonio del Abismo](/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Señor del Abismo  |
   | 5 | [Berserker](/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Aullador de Muerte  |
-  | 6 | [Stone Gargoyle](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 6 | [Gárgola de Piedra](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 7 | [Piquero](/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  Alabardero  |
   | 8 | [Diablo](/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archidiablo  |
   | 9 | [Troglodita](/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodita Oscuro  |
   | 10 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Reina  |
-  | 11 | [Gnoll](/units/Gnoll/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 11 | [Gnoll](/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerrero Gnoll  |
   | 12 | [Ángel](/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcángel  |
   | 13 | [Piratas Regnan](/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Rey de los Piratas  |
   | 14 | [Dragón Rojo](/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |

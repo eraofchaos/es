@@ -53,7 +53,7 @@ toc: true
   | Naranja | 729.0 | 135.0 | 20703.6 |
   | Naranja +1 | 837.0 | 155.0 | 23770.8 |
   | Naranja +2 | 945.0 | 175.0 | 26838.0 |
-  | Orange +3 | 1053.0 | 195.0 | 29905.2 |
+  | Naranja +3 | 1053.0 | 195.0 | 29905.2 |
   | Naranja +4 | 1161.0 | 215.0 | 32972.4 |
   | Naranja +5 | 1323.0 | 245.0 | 37573.2 |
   | Rojo | 1539.0 | 285.0 | 43707.6 |
@@ -155,7 +155,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Defensa**  (Lista de unidades defensivas)
 
 ### Bonificación de Héroe

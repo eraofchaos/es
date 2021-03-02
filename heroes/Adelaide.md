@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. De joven, tras naufragar y quedarse sola, Adelaide acabo en el territorio de los Elfos de las Nieves. Entrenó durante 20 años con sus rescatadores y se convirtió en la maga más poderosa del Reino antes de volver a Erathia."
 heroID: 60001
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Adelaide"
 toc: true
@@ -67,13 +67,13 @@ toc: true
    - Nueva imagen de batalla
    - Avatar único
 
-### Skin 3: **Maga Worli**
+### Skin 3: **Maga Vori**
 
  **Descripción:** <span style="color: #ffffff;font-size:20px">Nadie ha vencido nunca al invierno de Vori.</span>
 
  **Skin features:** 
 
-   - Maga Worli
+   - Maga Vori
    - Avatar único
 
 ### Skin 4: **Villancico**

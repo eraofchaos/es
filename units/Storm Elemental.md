@@ -49,7 +49,7 @@ toc: true
   | Naranja | 535.68 | 32.4 | 5362.2 |
   | Naranja +1 | 615.04 | 37.2 | 6156.6 |
   | Naranja +2 | 694.4 | 42.0 | 6951.0 |
-  | Orange +3 | 773.76 | 46.8 | 7745.4 |
+  | Naranja +3 | 773.76 | 46.8 | 7745.4 |
   | Naranja +4 | 853.12 | 51.6 | 8539.8 |
   | Naranja +5 | 972.16 | 58.8 | 9731.4 |
   | Rojo | 1130.88 | 68.4 | 11320.2 |
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Relámpago explosivo
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rebote de relámpagos&gt;</span><span style="color: #645252;font-size:18px"> Duplica el daño de habilidad.</span>
 
-### 5th Skill (or 6th): Conflux Aura
+### 5th Skill (or 6th): Aura del Conflujo
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fuerza Elemental&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la velocidad de ataque de dos unidades de retaguardia aleatorias en un 25% durante 10 s cuando un Héroe lanza un hechizo de aire.</span>
 
 ### 6th Skill (or 5th): Explosión del Conflujo

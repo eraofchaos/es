@@ -49,7 +49,7 @@ toc: true
   | Naranja | 4154.22 | 86.4 | 43991.1 |
   | Naranja +1 | 4769.66 | 99.2 | 50508.3 |
   | Naranja +2 | 5385.1 | 112.0 | 57025.5 |
-  | Orange +3 | 6000.54 | 124.8 | 63542.7 |
+  | Naranja +3 | 6000.54 | 124.8 | 63542.7 |
   | Naranja +4 | 6615.98 | 137.6 | 70059.9 |
   | Naranja +5 | 7539.14 | 156.8 | 79835.7 |
   | Rojo | 8770.02 | 182.4 | 92870.1 |
@@ -71,6 +71,12 @@ toc: true
   | [Cola de Dragón Vehemente](/equipment/Cola de Dragón Vehemente/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Name:** [Aniquilación](/Exclusive/Red Dragon Annihilation/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -158,7 +164,7 @@ toc: true
 ### Bonificación de Héroe
 * [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -188,7 +194,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Escamas magnéticas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 1 acumulación de ventaja, hasta un máximo de 6. La ventaja no se puede disipar</span>
 
 ### 2nd Skill (or 1st): Armadura de Dragón ígnea
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Inmunidad mágica&gt;</span><span style="color: #645252;font-size:18px">Por cada &lt;Dragon Breath&gt; lanzado, el Dragón Negro recibe 2 acumulaciones de ventaja, hasta un máximo de 4. La ventaja no se puede disipar</span>

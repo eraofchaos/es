@@ -1,11 +1,11 @@
 ---
-title: "Stone Gargoyle"
+title: "Gárgola de Piedra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
 last_modified_at: 2021-03-02
 locale: es
-ref: "Stone Gargoyle"
+ref: "Gárgola de Piedra"
 toc: true
 ---
 ## General information
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 545.4 | 56.7 | 6164.1 |
   | Naranja +1 | 626.2 | 65.1 | 7077.3 |
   | Naranja +2 | 707.0 | 73.5 | 7990.5 |
-  | Orange +3 | 787.8 | 81.9 | 8903.7 |
+  | Naranja +3 | 787.8 | 81.9 | 8903.7 |
   | Naranja +4 | 868.6 | 90.3 | 9816.9 |
   | Naranja +5 | 989.8 | 102.9 | 11186.7 |
   | Rojo | 1151.4 | 119.7 | 13013.1 |
@@ -157,7 +157,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Ofensa**  (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
@@ -187,7 +187,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -195,10 +195,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

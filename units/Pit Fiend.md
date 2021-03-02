@@ -53,7 +53,7 @@ toc: true
   | Naranja | 944.46 | 51.3 | 14985.0 |
   | Naranja +1 | 1084.38 | 58.9 | 17205.0 |
   | Naranja +2 | 1224.3 | 66.5 | 19425.0 |
-  | Orange +3 | 1364.22 | 74.1 | 21645.0 |
+  | Naranja +3 | 1364.22 | 74.1 | 21645.0 |
   | Naranja +4 | 1504.14 | 81.7 | 23865.0 |
   | Naranja +5 | 1714.02 | 93.1 | 27195.0 |
   | Rojo | 1993.86 | 108.3 | 31635.0 |
@@ -105,7 +105,7 @@ toc: true
 ### Habilidad definitiva: Fuente ígnea
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Demonios del Abismo dejan un Manantial de fuego a su paso que restaura un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos de las unidades amistosas en una zona grande delante de ellas cada 2 s durante 8 s.</span><span style="color: black">
 
-### Habilidad normal 1 : Lord's Summon
+### Habilidad normal 1 : Invocación del Señor
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Demonios del Abismo en el campo de batalla, esta invoca 4 Demonios para que luchen. Los Demonios tienen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV, 700 de DEF y 500 de índice de golpe crítico, y duran toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 2 : Calor

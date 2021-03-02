@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /Battle Formation/Battle Formation Faction Tower internal
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionTower"
 toc: false
@@ -30,10 +30,10 @@ classes: wide
   | **5** | **La esquiva de las unidades de Torre aumenta en 30 puntos por cada unidad de Torre que haya en el campo** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Torre** |
   | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Torre** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Aumenta el daño crítico en un 12% para todas las unidades de Torre amistosas durante 6 segundos cuando un Héroe amistoso lanza un hechizo de apoyo.** |
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Torre** |
   | **10** | **Aumenta el ATQ un 15% para todas las unidades de Torre** |
-  | **11** | **Increases 17% HP for all Tower Units** |
+  | **11** | **Aumenta los PV un 17% para todas las unidades de Torre** |
   | **12** | **Aumenta la DEF en un 8% para todas las unidades de Torre amistosas durante 6 segundos cuando un Héroe amistoso lanza un hechizo de apoyo.** |
 
 ## Formación de batalla Circle 1:
@@ -120,22 +120,22 @@ classes: wide
   | 3 | Tower - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   | 4 | Tower - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 5 | Tower - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
-  | 6 | Tower - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 6 | Tower - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Maga](/units/Mage) |
   | 7 | Tower - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 8 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 9 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 10 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 11 | Tower - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 11 | Tower - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Maga](/units/Mage) |
   | 12 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 13 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 14 | Tower - Physical Trials | PV + **1.4** % | 100 |   |
   | 15 | Tower - Physical Trials | PV + **1.4** % | 100 |   |
-  | 16 | Tower - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Mage](/units/Mage) |
+  | 16 | Tower - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Maga](/units/Mage) |
   | 17 | Tower - Physical Trials | PV + **1.4** % | 100 |   |
   | 18 | Tower - Physical Trials | PV + **1.4** % | 100 |   |
   | 19 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 20 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 21 | Tower - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 21 | Tower - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Maga](/units/Mage) |
   | 22 | Tower - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 23 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 24 | Tower - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |

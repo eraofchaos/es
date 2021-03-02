@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Silencio en masa. Esquiva ataques. Regenera magia.
 
- **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Position :** Silencia al enemigo que tiene delante y a todos los enemigos al morir.
 
  **Recommend:** Criaturas con un Ataque elevado y poca vida. Son muy poderosas si recuerdas curarlas con rapidez.
 
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 580.5 | 48.6 | 5362.2 |
   | Naranja +1 | 666.5 | 55.8 | 6156.6 |
   | Naranja +2 | 752.5 | 63.0 | 6951.0 |
-  | Orange +3 | 838.5 | 70.2 | 7745.4 |
+  | Naranja +3 | 838.5 | 70.2 | 7745.4 |
   | Naranja +4 | 924.5 | 77.4 | 8539.8 |
   | Naranja +5 | 1053.5 | 88.2 | 9731.4 |
   | Rojo | 1225.5 | 102.6 | 11320.2 |
@@ -109,7 +109,7 @@ toc: true
 ### Habilidad normal 1 : Encarnación del horror
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el ATQ de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el ATQ un 8% por cada unidad aliada que muera en el campo de batalla. Tiene efecto toda la batalla y se acumula hasta 10 veces.</span><span style="color: black">
 
-### Habilidad normal 2 : Misfortune Curse
+### Habilidad normal 2 : Maldición de infortunio
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a una Aparición, esta </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;silencia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades hostiles durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
 ### Habilidad normal 3 : Invisibilidad
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Aparición en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega a una Aparición y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Dominio del chillido
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Chillido horripilante&gt;</span><span style="color: #645252;font-size:18px"> Aumenta un 50% la resistencia mágica y un 20% el daño de unidad de las unidades de Necrópolis amistosas en el mismo camino durante los 25 segundos siguientes.</span>
 
-### 5th Skill (or 6th): Quaky Soul
+### 5th Skill (or 6th): Alma trémula
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Encarnación del horror&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la DEF de la Aparición un 10%. Cuando los héroes amistosos lancen hechizos de tierra, la Aparición restablecerá 5 puntos de maná para los héroes y reducirá la resistencia a la magia de tierra y el daño de unidad de todas las unidades enemigas un 4% y un 2%, respectivamente. Estos efectos se pueden acumular hasta 20 veces, no se pueden disipar y duran toda la batalla.</span>
 
 ### 6th Skill (or 5th): Escena horrorosa

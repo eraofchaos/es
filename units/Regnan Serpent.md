@@ -53,7 +53,7 @@ toc: true
   | Naranja | 544.86 | 162.0 | 24518.7 |
   | Naranja +1 | 625.58 | 186.0 | 28151.1 |
   | Naranja +2 | 706.3 | 210.0 | 31783.5 |
-  | Orange +3 | 787.02 | 234.0 | 35415.9 |
+  | Naranja +3 | 787.02 | 234.0 | 35415.9 |
   | Naranja +4 | 867.74 | 258.0 | 39048.3 |
   | Naranja +5 | 988.82 | 294.0 | 44496.9 |
   | Rojo | 1150.26 | 342.0 | 51761.7 |
@@ -69,7 +69,7 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **ATQ** | **DEF** | 
+  | [Tridente](/equipment/Tridente/) | **ATQ** | **DEF** | 
   | [Cuerno de Caparazón](/equipment/Cuerno de Caparazón/) | **PV** | **DEF** | 
   | [Garras de Sirena](/equipment/Garras de Sirena/) | **ATQ** | **DEF** | 
   | [Aleta Añil](/equipment/Aleta Añil/) | **PV** | **DEF** | 
@@ -118,7 +118,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

@@ -53,7 +53,7 @@ toc: true
   | Naranja | 635.58 | 121.5 | 22339.8 |
   | Naranja +1 | 729.74 | 139.5 | 25649.4 |
   | Naranja +2 | 823.9 | 157.5 | 28959.0 |
-  | Orange +3 | 918.06 | 175.5 | 32268.6 |
+  | Naranja +3 | 918.06 | 175.5 | 32268.6 |
   | Naranja +4 | 1012.22 | 193.5 | 35578.2 |
   | Naranja +5 | 1153.46 | 220.5 | 40542.6 |
   | Rojo | 1341.78 | 256.5 | 47161.8 |
@@ -190,8 +190,8 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Disease Outbreak
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+### 1st Skill (or 2nd): Brote de enfermedad
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Inflige daño adicional igual al 2% de los PV máximos</span>
 
 ### 2nd Skill (or 1st): Enfermedad infecciosa
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Al principio de la batalla, aplica &lt;Poison Gas&gt; a todas las unidades cuerpo a cuerpo amistosas de Necrópolis, dura toda la batalla. El daño se puede acumular hasta 6 veces</span>

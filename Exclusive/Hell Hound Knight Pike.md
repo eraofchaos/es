@@ -1,17 +1,17 @@
 ---
-title: "Exclusivo - Carga Honorífica"
+title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Hell Hound Knight Pike/
-excerpt: "Era of Chaos Carga Honorífica. Carga Honorífica. Era of Chaos Exclusivo Carga Honorífica. Sabueso Infernal Exclusivo."
+excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Sabueso Infernal Exclusivo."
 last_modified_at: 2021-03-02
 locale: es
-ref: "Hell Hound Carga Honorífica.md"
+ref: "Hell Hound Pica de Caballero.md"
 toc: false
 classes: wide
 ---
  [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carga Honorífica** 
+ **Name: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Sabueso Infernal](/units/Hell Hound/) 
 

@@ -55,7 +55,7 @@ toc: true
   | Naranja | 428.76 | 94.5 | 6569.1 |
   | Naranja +1 | 492.28 | 108.5 | 7542.3 |
   | Naranja +2 | 555.8 | 122.5 | 8515.5 |
-  | Orange +3 | 619.32 | 136.5 | 9488.7 |
+  | Naranja +3 | 619.32 | 136.5 | 9488.7 |
   | Naranja +4 | 682.84 | 150.5 | 10461.9 |
   | Naranja +5 | 778.12 | 171.5 | 11921.7 |
   | Rojo | 905.16 | 199.5 | 13868.1 |
@@ -80,7 +80,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Cavalier Knight Pike/) 
 
  **Item to Subida de rango:** -
 
@@ -108,7 +108,7 @@ toc: true
   <p id="log"></p>
   </form>
 ### Habilidad definitiva: Justa
- **Descripción:** <span style="color: #645252;font-size:20px">When a Cavalier unit is on the battlefield, their 1st attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay una unidad de Catafractos en el campo de batalla, su primer ataque inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo, y los </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Carga gloriosa
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico de la unidad de Catafractos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. El efecto se duplica si tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px">«moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -122,7 +122,7 @@ toc: true
 ### Habilidad especial de la facción I : Combate de asedio
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
-### Habilidad especial de la facción II : Defense Resonance
+### Habilidad especial de la facción II : Resonancia de defensa
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -177,7 +177,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Champion Knights
+ **Awaking Name:** Caballeros Campeones
 
  **Awaking Descripción:** ¡Partamos! ¡Valientes Caballeros de Erathia! La corona triunfal os espera. Luchad por vuestras creencias y por la justicia. ¡Cumplid vuestro destino!
 
@@ -186,7 +186,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> recursos en la Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Caballero Campeón en el Subterráneo: niveles 16-2 y 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Despliega a un Catafracto y gana </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones con el liderazgo de Mullich.</span>
 
@@ -208,7 +208,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
 
 ### 6th Skill (or 5th): Pensamiento apacible
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Al combatir, entra en estado de «Moral alta». Golpe crítico garantizado. El efecto dura 10 s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de Caballero&gt; </span><span style="color: #645252;font-size:18px">En combate, garantiza infligir un golpe crítico bajo los efectos de moral alta. El efecto dura 10 s</span>
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Formación de batalla Bastión"
 permalink: /Battle Formation/Battle Formation Faction Stronghold internal
 excerpt: "Formación de batalla Bastión"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionStronghold"
 toc: false
@@ -46,11 +46,11 @@ classes: wide
   | 4 | Stronghold - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
   | 5 | Stronghold - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Goblin](/units/Goblin) |
   | 6 | Stronghold - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Orc](/units/Orc) |
+  | 7 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Orco](/units/Orc) |
   | 8 | Stronghold - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Orc](/units/Orc) |
+  | 9 | Stronghold - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Orco](/units/Orc) |
   | 10 | Stronghold - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Stronghold - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Orc](/units/Orc) |
+  | 11 | Stronghold - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Orco](/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
@@ -71,10 +71,10 @@ classes: wide
   | 10 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Jinete Lupino](/units/Wolf Rider) |
   | 11 | Stronghold - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Orc](/units/Orc) |
+  | 13 | Stronghold - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Orco](/units/Orc) |
   | 14 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Stronghold - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Orc](/units/Orc) |
+  | 16 | Stronghold - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Orco](/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ATQ + **1** % | 80 |   |
   

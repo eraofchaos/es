@@ -32,7 +32,7 @@ classes: wide
   | 18 | [Minotauro](/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotauro Rey  |
   | 19 | [Aeronave Mágica](/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
   | 20 | [Hombre Lagarto](/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 21 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 21 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Caballeros Campeones  |
   | 22 | [Libélula Menor](/units/Serpent Fly/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 23 | [Mantícora](/units/Manticore/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Escorpícora  |
   | 24 | [Pegaso](/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Plateada  |
@@ -47,6 +47,6 @@ classes: wide
   | 33 | [Vampiro](/units/Vampire/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Señor Vampiro  |
   | 34 | [Caballero Negro](/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Caballero del Terror  |
   | 35 | [Elemental de Fuego](/units/Fire Elemental/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  Elemental de Energía  |
-  | 36 | [Lich](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
+  | 36 | [Liche](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
   | 37 | [Elemental de Piedra](/units/Stone Elemental/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |   -   |
   | 38 | [Orco](/units/Orc/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  Comandante Orco  |

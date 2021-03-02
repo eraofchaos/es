@@ -52,7 +52,7 @@ toc: true
   | Naranja | 4276.8 | 81.0 | 43983.0 |
   | Naranja +1 | 4910.4 | 93.0 | 50499.0 |
   | Naranja +2 | 5544.0 | 105.0 | 57015.0 |
-  | Orange +3 | 6177.6 | 117.0 | 63531.0 |
+  | Naranja +3 | 6177.6 | 117.0 | 63531.0 |
   | Naranja +4 | 6811.2 | 129.0 | 70047.0 |
   | Naranja +5 | 7761.6 | 147.0 | 79821.0 |
   | Rojo | 9028.8 | 171.0 | 92853.0 |
@@ -68,12 +68,18 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Steel Scimitar](/equipment/Steel Scimitar/) | **ATQ** | **DEF** | 
+  | [Cimitarra de acero](/equipment/Cimitarra de acero/) | **ATQ** | **DEF** | 
   | [Correa protectora](/equipment/Correa protectora/) | **PV** | **DEF** | 
   | [Guantes protectores](/equipment/Guantes protectores/) | **ATQ** | **DEF** | 
   | [Riendas de tiburón](/equipment/Riendas de tiburón/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Name:** [Olas de ruptura](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -104,12 +110,12 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">El Domador de Tiburones obtiene un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de potenciador de daño de unidad. Cuando las unidades objetivo del Domador de Tiburones y su tiburón mueren, el Domador de Tiburones y su tiburón obtienen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de golpe crítico y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño de golpe crítico y recuperan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos. Esta ventaja dura toda la batalla y se puede acumular hasta 3 veces. Cuando el Domador de Tiburones y su tiburón atacan a unidades de 9 hombres, 3 unidades serán atacadas a la vez y recibirán daño igual a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ataque del Domador de Tiburones. Atacar unidades de 1 o 4 hombres aumentará su daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str21"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str22"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cada 20 segundos, el Domador de Tiburones hará que el tiburón devore unidades objetivo, imposibilitando que se muevan, ataquen o lancen habilidades durante 3 segundos e infligiendo daño igual al 30% de sus PV máximos.</span><span style="color: black">
 
 ### Habilidad normal 3 : Dominación de cuchillo sangriento
- **Descripción:** <span style="color: #645252;font-size:20px">Shark Trainer casts &lt;Bloodied Knife&gt;, every 8s dealing damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">  of Shark Trainer's Attack as well as reducing their Unit DMG by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> and Attack Speed by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 5s. Also grants Shark Trainer 1 stack of the &lt;Bloodied Knife&gt; buff, increasing Shark Trainer's Unit DMG by 15% and Attack Speed by 10% for every stack. When Shark Trainer has 3 stacks of the &lt;Bloodied Knife&gt; buff, casting &lt;Bloodied Knife&gt; buff will remove all &lt;Bloodied Knife&gt; buffs and deal damage to targeted units equal to </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> of Shark Trainer's Attack.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Domador de Tiburones lanza &lt;Cuchillo sangriento&gt; e inflige un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str23"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño cada 8 segundos a las unidades objetivo, reduce su daño de unidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str24"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str25"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 5 segundos. También otorga al Domador de Tiburones 1 acumulación de la ventaja del &lt;Cuchillo sangriento&gt;, lo que aumenta el daño de unidad del Domador de Tiburones en 15% y la velocidad de ataque en 10% por cada acumulación. Cuando el Domador de Tiburones tenga 3 acumulaciones de la ventaja del &lt;Cuchillo sangriento&gt; al lanzar la ventaja del &lt;Cuchillo sangriento&gt; eliminará todas las ventajas del &lt;Cuchillo sangriento&gt; e infligirá daño a las unidades objetivo igual a un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str26"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ataque del Domador de Tiburones.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str27"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str28"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -228,7 +234,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tiburón sanguinario&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la reducción de daño de unidad y la velocidad de ataque de los Domadores de Tiburones un 15%. El efecto se duplica al luchar contra unidades a distancia/lanzadoras.</span>
 
 ### 3rd Skill (or 4th): Búsqueda de sangre
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 se                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 segundos. La unidad marcada queda con el daño de unidad y la velocidad de ataque reducidas en 15% cada una durante 5 segundos. Cuando la marca desparece, el tiburón salta desde las profundidades para destrozar a la unidad objetivo, infligiendo daño igual al 40% de su propio ataque. Este daño se duplica cuando la unidad objetivo está &lt;demacrada&gt;. Tras el frenesí, el tiburón obtiene daño igual al 7% de sus PV máximos. Esta habilidad no se puede silenciar.</span>
 
 ### 4th Skill (or 3rd): Despedazar
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rastreador de sangre&gt;</span><span style="color: #645252;font-size:18px"> Un tiburón añadirá una marca de sangre a una unidad enemiga aleatoria de la retaguardia cada 10 segundos. La unidad marcada tiene una reducción del daño de unidad y la defensa reducida un 15% cada 5 segundos. Cuando la marca desparece, el tiburón salta desde las profundidades para destrozar a la unidad objetivo, infligiendo daño igual al 40% de su propio ataque. Este daño se duplica cuando la unidad objetivo está &lt;demacrada&gt;. Tras el frenesí, el tiburón obtiene daño igual al 7% de sus PV máximos. Esta habilidad no se puede silenciar.</span>

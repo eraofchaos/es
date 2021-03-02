@@ -51,7 +51,7 @@ toc: true
   | Naranja | 944.46 | 62.1 | 15527.7 |
   | Naranja +1 | 1084.38 | 71.3 | 17828.1 |
   | Naranja +2 | 1224.3 | 80.5 | 20128.5 |
-  | Orange +3 | 1364.22 | 89.7 | 22428.9 |
+  | Naranja +3 | 1364.22 | 89.7 | 22428.9 |
   | Naranja +4 | 1504.14 | 98.9 | 24729.3 |
   | Naranja +5 | 1714.02 | 112.7 | 28179.9 |
   | Rojo | 1993.86 | 131.1 | 32780.7 |
@@ -74,7 +74,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cola de Escorpión](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Cola de Escorpión](/Exclusive/Manticore Scorpion Tail/) 
 
  **Item to Subida de rango:** -
 
@@ -103,7 +103,7 @@ toc: true
 ### Habilidad definitiva: Veneno paralizante
  **Descripción:** <span style="color: #645252;font-size:20px">Las Mantícoras atacan a la unidad objetivo cada 20 s e infligen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño al objetivo y a los enemigos a su alrededor a cierta distancia y reduce la DEF un 30% durante 10 s.</span><span style="color: black">
 
-### Habilidad normal 1 : Tactical Decision
+### Habilidad normal 1 : Decisión táctica
  **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de la Mantícora tienen un 25% de probabilidades de disminuir la reducción de daño de las unidades cuerpo a cuerpo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se enfrenta a unidades a distancia o lanzadoras, los ataques normales tienen una probabilidad del 25% de aumentar el golpe crítico de las unidades amistosas en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s. Se acumula 8 veces.</span><span style="color: black">
 
 ### Habilidad normal 2 : null
@@ -150,7 +150,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

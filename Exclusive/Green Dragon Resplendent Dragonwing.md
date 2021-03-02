@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Asistencia técnica
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1610
 

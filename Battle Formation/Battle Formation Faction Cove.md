@@ -2,7 +2,7 @@
 title: "Formación de batalla Cala"
 permalink: /Battle Formation/Battle Formation Faction Cove
 excerpt: "Formación de batalla Cala"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionCove"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | **3** | **Aumenta los PV un 8% para todas las unidades de Cala** |
   | **4** | **Aumenta la DEF un 8% para todas las unidades de Cala** |
   | **5** | **La reducción de daño de las unidades de Cala aumentará un 3% por cada unidad de Cala adicional desplegada** |
-  | **6** | **Increases 10% ATK for all Cove Units** |
+  | **6** | **Aumenta el ATQ un 10% para todas las unidades de Cala** |
   | **7** | **Aumenta la resistencia mágica de todas las unidades de Cala un 10%** |
   | **8** | **La ATQ de las unidades de Cala aumentará un 8% por cada unidad de Cala adicional desplegada** |
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Cala** |

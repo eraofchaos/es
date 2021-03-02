@@ -53,7 +53,7 @@ toc: true
   | Naranja | 1215.0 | 54.0 | 14596.2 |
   | Naranja +1 | 1395.0 | 62.0 | 16758.6 |
   | Naranja +2 | 1575.0 | 70.0 | 18921.0 |
-  | Orange +3 | 1755.0 | 78.0 | 21083.4 |
+  | Naranja +3 | 1755.0 | 78.0 | 21083.4 |
   | Naranja +4 | 1935.0 | 86.0 | 23245.8 |
   | Naranja +5 | 2205.0 | 98.0 | 26489.4 |
   | Rojo | 2565.0 | 114.0 | 30814.2 |
@@ -156,7 +156,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Ofensa**  (Lista de unidades ofensivas)
 
 ### Bonificación de Héroe
@@ -206,7 +206,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 1

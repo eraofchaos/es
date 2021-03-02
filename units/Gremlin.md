@@ -53,7 +53,7 @@ toc: true
   | Naranja | 437.4 | 81.0 | 3787.56 |
   | Naranja +1 | 502.2 | 93.0 | 4348.68 |
   | Naranja +2 | 567.0 | 105.0 | 4909.8 |
-  | Orange +3 | 631.8 | 117.0 | 5470.92 |
+  | Naranja +3 | 631.8 | 117.0 | 5470.92 |
   | Naranja +4 | 696.6 | 129.0 | 6032.04 |
   | Naranja +5 | 793.8 | 147.0 | 6873.72 |
   | Rojo | 923.4 | 171.0 | 7995.96 |
@@ -109,7 +109,7 @@ toc: true
 ### Habilidad normal 1 : Matanza de dragones
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a unidades de uno o cuatro, los ataques normales del Gremlin tienen una probabilidad de </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturdir&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> al objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### Habilidad normal 2 : Magic Will
+### Habilidad normal 2 : Voluntad mágica
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV del Gremlin un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia mágica un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Despertar mágico
@@ -154,7 +154,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Arquero**  (Lista de unidades a distancia)
 
 ### Bonificación de Héroe
@@ -184,7 +184,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -192,10 +192,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

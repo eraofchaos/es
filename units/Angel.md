@@ -33,7 +33,7 @@ toc: true
 
  **Unit extra description:** El Ángel puede resucitar unidades.
 
- **Recommend:** Improve your morale to get the benefits of high morale, including extra moves for affected units. 
+ **Recommend:** Mejora la moral para obtener los beneficios de moral alta, como movimientos adicionales para las unidades afectadas.
 
 ## Atributos básicos
  **Base HP: 5431.0**
@@ -55,7 +55,7 @@ toc: true
   | Naranja | 4276.8 | 51.3 | 43991.1 |
   | Naranja +1 | 4910.4 | 58.9 | 50508.3 |
   | Naranja +2 | 5544.0 | 66.5 | 57025.5 |
-  | Orange +3 | 6177.6 | 74.1 | 63542.7 |
+  | Naranja +3 | 6177.6 | 74.1 | 63542.7 |
   | Naranja +4 | 6811.2 | 81.7 | 70059.9 |
   | Naranja +5 | 7761.6 | 93.1 | 79835.7 |
   | Rojo | 9028.8 | 108.3 | 92870.1 |
@@ -104,10 +104,10 @@ toc: true
   <p id="log"></p>
   </form>
 ### Habilidad definitiva: Condenar
- **Descripción:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Ángel inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles al azar, y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Resurrección
- **Descripción:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Ángel revive a 1 de tus unidades y restablece un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV de esa unidad.</span><span style="color: black">
 
 ### Habilidad normal 2 : Resplandor
  **Descripción:** <span style="color: #645252;font-size:20px">Si el Ángel está en el campo de batalla, todas las unidades aliadas reciben regeneración de PV adicional cada 2 s igual a un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos.</span><span style="color: black">
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Arcángel en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Angel and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega a un Ángel y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 

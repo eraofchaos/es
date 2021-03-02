@@ -17,7 +17,7 @@ toc: true
 
  **Facción:** [Bastión](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Bárbaro
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -53,7 +53,7 @@ toc: true
   | Naranja | 581.04 | 162.0 | 20436.3 |
   | Naranja +1 | 667.12 | 186.0 | 23463.9 |
   | Naranja +2 | 753.2 | 210.0 | 26491.5 |
-  | Orange +3 | 839.28 | 234.0 | 29519.1 |
+  | Naranja +3 | 839.28 | 234.0 | 29519.1 |
   | Naranja +4 | 925.36 | 258.0 | 32546.7 |
   | Naranja +5 | 1054.48 | 294.0 | 37088.1 |
   | Rojo | 1226.64 | 342.0 | 43143.3 |
@@ -202,13 +202,13 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px">Aumenta la reducción de daño de la unidad de Ogro un 20%. El efecto se duplica cuando se encuentra en estado &lt;Rampage&gt;</span>
 
 ### 4th Skill (or 3rd): Canción de guerra reconfortante
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Rampage&gt;</span><span style="color: #645252;font-size:18px"> Ogre unit's damage reduction increased by 20%. DMG increased to 200% of the basic damage of the skill when in &lt;Rampage&gt; state</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Destrozo&gt;</span><span style="color: #645252;font-size:18px"> La reducción de daño de la unidad del Ogro aumenta un 20%. Aumenta el ATQ al 200% del ATQ de la habilidad anterior cuando está en estado &lt;Destrozo&gt;.</span>
 
 ### 5th Skill (or 6th): Oleada antigua
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 150% del efecto de la habilidad anterior</span>
 
 ### 6th Skill (or 5th): Protección del patriarca
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad sigue teniendo efecto tras la muerte de la unidad de Ogro</span>
 
 ## Technical info
  **runart:** 1

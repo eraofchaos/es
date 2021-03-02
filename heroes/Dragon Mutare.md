@@ -1,9 +1,9 @@
 ---
-title: "Dragon Mutare"
+title: "Dragona Mutare"
 permalink: /heroes/Dragon Mutare/
-excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
+excerpt: "Era of Chaos Dragona Mutare. Dragona Mutare. Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
 heroID: 61302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Dragon Mutare"
 toc: true
@@ -69,6 +69,16 @@ toc: true
  **Skin features:** 
 
    - Elfo de Navidad jugando con la nieve
+   - Nueva imagen de batalla
+   - Avatar único y efecto de hechizo
+
+### Skin 4: **Señor de la Escarcha**
+
+ **Descripción:** <span style="color: #ffffff;font-size:20px">El viento sopla y la ventisca aúlla a mi antojo. ¡La escarcha es mi corona porque soy el conquistador de las tierras heladas!</span>
+
+ **Skin features:** 
+
+   - Señor de la Escarcha
    - Nueva imagen de batalla
    - Avatar único y efecto de hechizo
 

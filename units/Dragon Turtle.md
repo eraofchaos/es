@@ -51,7 +51,7 @@ toc: true
   | Naranja | 1954.8 | 183.6 | 79380.0 |
   | Naranja +1 | 2244.4 | 210.8 | 91140.0 |
   | Naranja +2 | 2534.0 | 238.0 | 102900.0 |
-  | Orange +3 | 2823.6 | 265.2 | 114660.0 |
+  | Naranja +3 | 2823.6 | 265.2 | 114660.0 |
   | Naranja +4 | 3113.2 | 292.4 | 126420.0 |
   | Naranja +5 | 3547.6 | 333.2 | 144060.0 |
   | Rojo | 4126.8 | 387.6 | 167580.0 |
@@ -116,7 +116,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -167,7 +167,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** NO
 
- **Awaking Name:** 
+ **Awaking Name:** Tortuga Dragón Primigenia
 
  **Awaking Descripción:** 
 

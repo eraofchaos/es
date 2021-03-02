@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Demonio del Abismo](/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Señor del Abismo  |
   | 10 | [Gólem de Hierro](/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gólem de Oro  |
   | 11 | [Efrit](/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Sultán Efrit  |
-  | 12 | [Stone Gargoyle](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 12 | [Gárgola de Piedra](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 13 | [Archimaga](/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Archimaga  |
   | 14 | [Serpiente Regnan](/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 15 | [Pesadilla](/units/Nightmare/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
@@ -39,8 +39,8 @@ classes: wide
   | 25 | [Minotauro](/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Minotauro Rey  |
   | 26 | [Aeronave Mágica](/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
   | 27 | [Hombre Lagarto](/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 28 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
-  | 29 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 28 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Caballeros Campeones  |
+  | 29 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Gran Elfa  |
   | 30 | [Libélula Menor](/units/Serpent Fly/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 31 | [Mantícora](/units/Manticore/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Escorpícora  |
   | 32 | [Pegaso](/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Plateada  |
@@ -55,7 +55,7 @@ classes: wide
   | 41 | [Druida](/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Archidruida  |
   | 42 | [Vampiro](/units/Vampire/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Señor Vampiro  |
   | 43 | [Elemental de Fuego](/units/Fire Elemental/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.0 | 1682 |  Elemental de Energía  |
-  | 44 | [Lich](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
+  | 44 | [Liche](/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Archiliche  |
   | 45 | [Hierbavispa](/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |
   | 46 | [Elemental de Piedra](/units/Stone Elemental/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.0 | 2825 |   -   |
   | 47 | [Orco](/units/Orc/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 82.7 | 662 |  Comandante Orco  |

@@ -49,7 +49,7 @@ toc: true
   | Naranja | 454.14 | 135.0 | 21797.1 |
   | Naranja +1 | 521.42 | 155.0 | 25026.3 |
   | Naranja +2 | 588.7 | 175.0 | 28255.5 |
-  | Orange +3 | 655.98 | 195.0 | 31484.7 |
+  | Naranja +3 | 655.98 | 195.0 | 31484.7 |
   | Naranja +4 | 723.26 | 215.0 | 34713.9 |
   | Naranja +5 | 824.18 | 245.0 | 39557.7 |
   | Rojo | 958.74 | 285.0 | 46016.1 |
@@ -169,7 +169,7 @@ toc: true
 
  **Awaking Name:** 
 
- **Awaking Descripción:** Emerging from the realm of dreams and crossing lava into the world of the living, its body is wrapped in a terrifying aura. The flames it breathes burn everything to ashes, and molten-hot magma flows through its veins. When it attacks, even the bravest of warriors are weakened with fear and struggle to raise their swords and fight it.
+ **Awaking Descripción:** Su cuerpo, que emerge del reino de los sueños y atraviesa la lava para llegar al mundo de los vivos, está envuelto por un aura aterradora. Las llamas que escupe reducen todo a cenizas. Por sus venas corre magma fundido. Cuando ataca, incluso los más valientes guerreros se encogen de miedo y tienen dificultades para alzar su espada para luchar.
 
 ### Awaking Tasks
  1. 

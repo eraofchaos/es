@@ -17,7 +17,7 @@ classes: wide
   | 3 | [Domador de Tiburones](/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Jinete de tiburones  |
   | 4 | [Arpía](/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 5 | [Grifo](/units/Griffin/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
-  | 6 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Caballeros Campeones  |
   | 7 | [Mantícora](/units/Manticore/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Escorpícora  |
   | 8 | [Hada](/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 9 | [Unicornio](/units/Unicorn/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Unicornio de Guerra  |

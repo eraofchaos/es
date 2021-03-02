@@ -1,7 +1,7 @@
 ---
 title: "Gorgona"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
 last_modified_at: 2021-03-02
 locale: es
@@ -9,7 +9,7 @@ ref: "Gorgona"
 toc: true
 ---
 ## General information
- **Descripción:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
+ **Descripción:** Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo.
 
  **Clase:** [Defensa](/units/Unit Class Defense/)
 
@@ -51,7 +51,7 @@ toc: true
   | Naranja | 653.94 | 172.8 | 25061.4 |
   | Naranja +1 | 750.82 | 198.4 | 28774.2 |
   | Naranja +2 | 847.7 | 224.0 | 32487.0 |
-  | Orange +3 | 944.58 | 249.6 | 36199.8 |
+  | Naranja +3 | 944.58 | 249.6 | 36199.8 |
   | Naranja +4 | 1041.46 | 275.2 | 39912.6 |
   | Naranja +5 | 1186.78 | 313.6 | 45481.8 |
   | Rojo | 1380.54 | 364.8 | 52907.4 |
@@ -99,7 +99,7 @@ toc: true
 * [Quemadura](/combination/Quemadura/) 
 * [Moral baja](/combination/Moral baja/) 
 * [Enfermedad](/combination/Enfermedad/) 
-* [Blind](/combination/Blind/) 
+* [Ceguera](/combination/Ceguera/) 
 * [Silencio](/combination/Silencio/) 
 * [Aturdimiento](/combination/Aturdimiento/) 
 
@@ -127,7 +127,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">

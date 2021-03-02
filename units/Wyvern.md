@@ -51,7 +51,7 @@ toc: true
   | Naranja | 2700.0 | 81.0 | 44906.4 |
   | Naranja +1 | 3100.0 | 93.0 | 51559.2 |
   | Naranja +2 | 3500.0 | 105.0 | 58212.0 |
-  | Orange +3 | 3900.0 | 117.0 | 64864.8 |
+  | Naranja +3 | 3900.0 | 117.0 | 64864.8 |
   | Naranja +4 | 4300.0 | 129.0 | 71517.6 |
   | Naranja +5 | 4900.0 | 147.0 | 81496.8 |
   | Rojo | 5700.0 | 171.0 | 94802.4 |
@@ -115,7 +115,7 @@ toc: true
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">
 
-### Habilidad especial de la facción II : Rise of Vitality
+### Habilidad especial de la facción II : Aumento de vitalidad
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son eruditas en la curación en el campo de batalla, lo que aumenta su regeneración de PV (restaura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV cada 3 s) y ganan </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> absorción de vida.</span><span style="color: black">
 
   <script language="JavaScript">

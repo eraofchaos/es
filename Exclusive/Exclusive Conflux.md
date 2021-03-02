@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Hada](/units/Sprite/) | [Carga Honorífica](/Exclusive/Sprite Knight Pike/) | - | Carga | - | - |
+  | 1  | [Hada](/units/Sprite/) | [Pica de Caballero](/Exclusive/Sprite Knight Pike/) | - | Carga | - | - |
   | 2  | [Elemental de Tormenta](/units/Storm Elemental/) | [Arco largo](/Exclusive/Storm Elemental Long Bow/) | - | Carga | - | - |
   | 3  | [Elemental de Hielo](/units/Ice Elemental/) | [Canto Arcano](/Exclusive/Ice Elemental Arcane Chant/) | - | Carga | - | - |
   | 4  | [Elemental de Fuego](/units/Fire Elemental/) | [Energía de fuego](/Exclusive/Fire Elemental Fire Energy/) | - | A distancia | - | - |
   | 5  | [Elemental de Piedra](/units/Stone Elemental/) | [Núcleo de Energía](/Exclusive/Stone Elemental Energy Core/) | - | A distancia | - | - |
   | 6  | [Elemental Psíquico](/units/Psychic Elemental/) | [Núcleo Espiritual](/Exclusive/Psychic Elemental Spirit Core/) | - | Asistencia técnica | - | - |
-  | 7  | [Pájaro Ígneo](/units/Firebird/) | [Llama eterna](/Exclusive/Firebird Eternal Flame/) | - | A distancia | - | - |
+  | 7  | [Pájaro Ígneo](/units/Firebird/) | [Llama eterna](/Exclusive/Firebird Eternal Flame/) | + | A distancia | - | - |
   | 8  | [Demonio de Hielo](/units/Ice Demon/) | - | - | - | none | none |
-  | 9  | [Duendecillo](/units/Leprechaun/) | - | - | - | none | none |
+  | 9  | [Duendecillo](/units/Leprechaun/) | [Espinas](/Exclusive/Leprechaun Thorns/) | - | Asistencia técnica | - | - |

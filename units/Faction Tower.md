@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Gremlin](/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |   -   |
   | 2 | [Gólem de Hierro](/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gólem de Oro  |
-  | 3 | [Stone Gargoyle](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 3 | [Gárgola de Piedra](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 4 | [Archimaga](/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Archimaga  |
   | 5 | [Genio](/units/Genie/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  Genio Maestra  |
   | 6 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Reina  |

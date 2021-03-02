@@ -53,7 +53,7 @@ toc: true
   | Naranja | 625.32 | 67.5 | 7371.0 |
   | Naranja +1 | 717.96 | 77.5 | 8463.0 |
   | Naranja +2 | 810.6 | 87.5 | 9555.0 |
-  | Orange +3 | 903.24 | 97.5 | 10647.0 |
+  | Naranja +3 | 903.24 | 97.5 | 10647.0 |
   | Naranja +4 | 995.88 | 107.5 | 11739.0 |
   | Naranja +5 | 1134.84 | 122.5 | 13377.0 |
   | Rojo | 1320.12 | 142.5 | 15561.0 |
@@ -106,7 +106,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">El Caballero Negro inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a su objetivo y le inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Moral baja&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 10 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Carga mortal
- **Descripción:** <span style="color: #645252;font-size:20px">If the target is downed, the Black Knight's ATK is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, unit's damage is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Critical Hit value is increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. It works throughout the battle, up to 5 stacks.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se derrota a un objetivo, aumenta el ATQ del Caballero Negro un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el valor de golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Tiene efecto toda la batalla y se acumula hasta 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 2 : Habilidades de Caballero
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta los PV de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la resistencia al daño un </span><span style="color: black"></span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Caballero del Terror en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Black Knights to win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battles.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Caballeros Negros para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
 
 ## Awaken Skills
 

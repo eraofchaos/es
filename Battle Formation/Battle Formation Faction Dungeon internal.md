@@ -2,7 +2,7 @@
 title: "Formación de batalla Mazmorra"
 permalink: /Battle Formation/Battle Formation Faction Dungeon internal
 excerpt: "Formación de batalla Mazmorra"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionDungeon"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Mazmorra** |
   | **10** | **Aumenta el ATQ un 15% para todas las unidades de Mazmorra** |
   | **11** | **Aumenta los PV un 17% para todas las unidades de Mazmorra** |
-  | **12** | **Dungeon units will receive an increase of 5% unit damage when against the bleeding units** |
+  | **12** | **El daño de las unidades de Mazmorra aumenta un 5% cuando luchan contra unidades que estén sangrando** |
 
 ## Formación de batalla Circle 1:
 

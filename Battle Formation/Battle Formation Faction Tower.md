@@ -2,7 +2,7 @@
 title: "Formación de batalla Torre"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Formación de batalla Torre"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "BattleFormationFactionTower"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | **5** | **La esquiva de las unidades de Torre aumenta en 30 puntos por cada unidad de Torre que haya en el campo** |
   | **6** | **Aumenta el ATQ un 10% para todas las unidades de Torre** |
   | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Torre** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Aumenta el daño crítico en un 12% para todas las unidades de Torre amistosas durante 6 segundos cuando un Héroe amistoso lanza un hechizo de apoyo.** |
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Torre** |
 
 ## Formación de batalla Circle 1:

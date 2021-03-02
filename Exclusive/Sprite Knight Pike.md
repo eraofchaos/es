@@ -1,17 +1,17 @@
 ---
-title: "Exclusivo - Carga Honorífica"
+title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Sprite Knight Pike/
-excerpt: "Era of Chaos Carga Honorífica. Carga Honorífica. Era of Chaos Exclusivo Carga Honorífica. Hada Exclusivo."
+excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Hada Exclusivo."
 last_modified_at: 2021-03-02
 locale: es
-ref: "Sprite Carga Honorífica.md"
+ref: "Sprite Pica de Caballero.md"
 toc: false
 classes: wide
 ---
  [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carga Honorífica** 
+ **Name: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Hada](/units/Sprite/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1440
 
 ## Subida de rango
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 11.69 | 167.0 |
-  | 2 | 265 | 14.03 | 200.4 |
-  | 3 | 296 | 16.36 | 233.8 |
-  | 4 | 328 | 18.7 | 267.2 |
-  | 5 | 359 | 21.04 | 300.6 |
-  | 6 | 390 | 23.38 | 334.0 |
-  | 7 | 421 | 25.71 | 367.4 |
+  | 1 | 216 | 11.69 | 167.0 |
+  | 2 | 245 | 14.03 | 200.4 |
+  | 3 | 274 | 16.36 | 233.8 |
+  | 4 | 302 | 18.7 | 267.2 |
+  | 5 | 331 | 21.04 | 300.6 |
+  | 6 | 360 | 23.38 | 334.0 |
+  | 7 | 389 | 25.71 | 367.4 |
 
 

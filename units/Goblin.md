@@ -53,7 +53,7 @@ toc: true
   | Naranja | 446.58 | 45.9 | 6164.1 |
   | Naranja +1 | 512.74 | 52.7 | 7077.3 |
   | Naranja +2 | 578.9 | 59.5 | 7990.5 |
-  | Orange +3 | 645.06 | 66.3 | 8903.7 |
+  | Naranja +3 | 645.06 | 66.3 | 8903.7 |
   | Naranja +4 | 711.22 | 73.1 | 9816.9 |
   | Naranja +5 | 810.46 | 83.3 | 11186.7 |
   | Rojo | 942.78 | 96.9 | 13013.1 |
@@ -74,7 +74,7 @@ toc: true
   | [Garrote de Púas](/equipment/Garrote de Púas/) | **ATQ** | **DEF** | 
   | [Cinturón de cuero](/equipment/Cinturón de cuero/) | **PV** | **DEF** | 
   | [Collar de Hueso](/equipment/Collar de Hueso/) | **ATQ** | **DEF** | 
-  | [Leather Pauldrons](/equipment/Leather Pauldrons/) | **PV** | **DEF** | 
+  | [Hombreras de cuero](/equipment/Hombreras de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
@@ -109,7 +109,7 @@ toc: true
 ### Habilidad normal 1 : Destrozo
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Goblin en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando los PV están por debajo del 35%, el efecto se duplica. (Seguirá activo aunque recupere PV).</span><span style="color: black">
 
-### Habilidad normal 2 : Execution
+### Habilidad normal 2 : Ejecución
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando se enfrenta a una unidad con los PV por debajo del 30%, el ATQ del Goblin aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Ansia de sangre
@@ -198,7 +198,7 @@ toc: true
 ### 3rd Skill (or 4th): Destreza con armas
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:18px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento adicional del 150% del ATQ.</span>
 
-### 4th Skill (or 3rd): Unarmed Counter
+### 4th Skill (or 3rd): Contraataque desarmado
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Ejecución&gt;</span><span style="color: #645252;font-size:20px">Cuando se enfrenta a un objetivo con los PV por debajo del 30%, el Goblin recibe un aumento del 30% del daño de la unidad</span>
 
 ### 5th Skill (or 6th): Especialidad de ansia de sangre

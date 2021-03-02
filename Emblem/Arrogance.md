@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Arrogancia"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Arrogancia. Arrogancia. Era of Chaos Emblema Sagrado Arrogancia. Era of Chaos Caos Arrogancia"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Arrogance.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Arrogancia](/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, DEF +0,1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 3% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +6, DEF +0,2%</span> | 
   | [Arrogancia](/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, DEF +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 6% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +16, DEF +0,7%</span> | 
-  | [Arrogancia](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, DEF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 12% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +30, DEF +1.5%</span> | 
+  | [Arrogancia](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, DEF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 12% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +30, DEF +1,5%</span> | 
   | [Arrogancia](/Emblem/Arrogance/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, DEF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 20% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +55, DEF +2%</span> | 
 
   |         Descripción            | 

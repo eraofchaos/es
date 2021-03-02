@@ -1,7 +1,7 @@
 ---
 title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
+excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
 last_modified_at: 2021-03-02
 locale: es
@@ -12,7 +12,7 @@ toc: true
 {: .notice--danger}
 
 ## General information
- **Descripción:** Un Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas.
+ **Descripción:** Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas.
 
  **Clase:** [A distancia](/units/Unit Class Ranged/)
 
@@ -52,7 +52,7 @@ toc: true
   | Naranja | 3054.78 | 137.7 | 48570.03 |
   | Naranja +1 | 3507.34 | 158.1 | 55765.59 |
   | Naranja +2 | 3959.9 | 178.5 | 62961.15 |
-  | Orange +3 | 4412.46 | 198.9 | 70156.71 |
+  | Naranja +3 | 4412.46 | 198.9 | 70156.71 |
   | Naranja +4 | 4865.02 | 219.3 | 77352.27 |
   | Naranja +5 | 5543.86 | 249.9 | 88145.61 |
   | Rojo | 6448.98 | 290.7 | 102536.73 |
@@ -97,35 +97,36 @@ toc: true
 ### Habilidad definitiva: Espina Glacial
  **Descripción:** <span style="color: #645252;font-size:20px">Cada 11 s, la Demonio de Hielo lanza &lt;Espina Glacial&gt;, que inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ a las unidades objetivo 3 veces. Cuando &lt;Espina Glacial&gt; asesta un golpe crítico, también inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ a 3 unidades enemigas en una zona grande y les causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">helada</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 6 s.</span><span style="color: black">
 
-### Habilidad normal 1 : Frost Triumph
+### Habilidad normal 1 : Júbilo Gélido
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y concede un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de absorción de vida.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Por cada unidad de Conflujo desplegada, aumenta la velocidad de ataque de la Demonio de Hielo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Por cada unidad a distancia/lanzadora desplegada, aumenta el daño de unidad de la Demonio de Hielo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la penetración en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Los ataques normales de la Demonio de Hielo tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidad de causar </span><span style="color: black"><span style="color: #48b946;font-size:20px">ralentización</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Los ataques normales de la Demonio de Hielo tienen un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de probabilidad de causar </span><span style="color: black"><span style="color: #48b946;font-size:20px">congelación</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo. Este efecto no se puede disipar y dura 4 s. La recarga es de 8 s.</span><span style="color: black">
 
 ### Habilidad normal 2 : Cero Absoluto
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando la Demonio de Hielo entra en el campo de batalla, las unidades defensivas enemigas con más del 50% de los PV reciben un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos cada 3 s. Este efecto aumenta un 30% en las unidades bajo los efectos de </span><span style="color: black"><span style="color: #48b946;font-size:20px">helada</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando la Demonio de Hielo lucha contra unidades bajo los efectos de </span><span style="color: black"><span style="color: #48b946;font-size:20px">congelación</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">helada</span><span style="color: black"><span style="color: #645252;font-size:20px"> o </span><span style="color: black"><span style="color: #48b946;font-size:20px">detener el tiempo</span><span style="color: black"><span style="color: #645252;font-size:20px">, inflige un daño adicional equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de su propio ATQ cada 3 s.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cuando la Demonio de Hielo está en el campo de batalla, se ejecuta un juicio cada 3 s, lo que provoca que todas las unidades enemigas con PV inferiores al 50% reduzcan su velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, y tienen un 10% de probabilidad de caer bajo los efectos de </span><span style="color: black"><span style="color: #48b946;font-size:20px">helada</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Gobernante del Hielo
- **Descripción:** <span style="color: #645252;font-size:20px">La Demonio de Hielo y las unidades que no sean de Fortaleza en una zona grande se vuelven inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">congelación</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">detener el tiempo</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cada 13 s, la Demonio de Hielo otorga </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Armadura de Cristal&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades a distancia/lanzadoras amistosas y aumenta su reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto no se puede disipar ni acumular, dura 6 s y desaparece cuando la unidad recibe daño 5 veces. El número de veces se duplica para la Demonio de Hielo.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La Demonio de Hielo y las unidades que no sean de Fortaleza en una zona grande se vuelven inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">congelación</span><span style="color: black"><span style="color: #645252;font-size:20px"> y </span><span style="color: black"><span style="color: #48b946;font-size:20px">detener el tiempo</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Cada 13 s, la Demonio de Hielo otorga </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Armadura de Cristal&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades lanzadoras/a distancia amistosas. Esta aumenta su reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el reflejo de daño un</span><span style="color: black"> <span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto no se puede disipar ni acumular, dura 6 s y desaparece cuando la unidad recibe daño 5 veces. El número de veces se duplica para la Demonio de Hielo.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Afinidad elemental
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas en la magia arcana de Conflujo, lo que aumenta la resistencia mágica de los Héroes un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Conflicto elemental
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Conflujo son expertas infligiendo daño de Conflujo. Cuando se enfrentan a unidades que no son de Conflujo, su daño aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black">
 
 ### Habilidad normal 6 : Dominio Gélido
- **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de Conflujo, aumenta el daño de unidad de la Demonio de Hielo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 s después de que comience la batalla, se forma el </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Dominio Gélido&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, que se expande conforme la habilidad sube de nivel. El dominio dura 15 s. El dominio se activa una vez cada 30 s desde entonces.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de Conflujo, aumenta el daño de unidad de la Demonio de Hielo un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 s después de que comience la batalla, se forma el </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Dominio Gélido&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, que se expande conforme la habilidad sube de nivel. El dominio dura 15 s. El dominio se activa una vez cada 30 s desde entonces.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
+    let str20 = "LEVEL*2+5"
     let str7 = "LEVEL*0.7+4.5"
     let str8 = "LEVEL*5+25"
     let str5 = "LEVEL*0.7+4.5"
-    let str18 = "LEVEL*2+4"
+    let str18 = "(LEVEL*1+5)"
     let str6 = "LEVEL*5+25"
-    let str19 = "LEVEL*2+5"
+    let str19 = "LEVEL*2+4"
     let str3 = "LEVEL*1+15"
     let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
@@ -134,13 +135,14 @@ toc: true
     let str13 = "LEVEL*3+10"
     let str10 = "LEVEL*0.2+1.8"
     let str11 = "LEVEL*0.5+23.5"
-    let str16 = "(LEVEL*3+15)"
-    let str17 = "(LEVEL*1+5)"
+    let str16 = "LEVEL*2+2"
+    let str17 = "(LEVEL*3+15)"
     let str9 = "LEVEL*1.5+22.5"
     let str14 = "LEVEL*1+10"
     let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
+     res = eval(str20); document.getElementById('str20').textContent = res;
      res = eval(str7); document.getElementById('str7').textContent = res;
      res = eval(str8); document.getElementById('str8').textContent = res;
      res = eval(str5); document.getElementById('str5').textContent = res;
@@ -202,7 +204,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -210,10 +212,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

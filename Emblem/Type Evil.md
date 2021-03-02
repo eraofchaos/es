@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Maligno"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Maligno. Era of Chaos Maligno"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "typeMaligno.md"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Señal ominosa](/Emblem/Ominous Sign/) | Maligno | Adecuado para cualquier unidad | 
-  | 2 | [Darkness Enlightenment](/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
+  | 2 | [Iluminación de oscuridad](/Emblem/Darkness Enlightenment/) | Maligno | Recomendado para unidades de 4/9/16 miembros | 
   | 3 | [Autónimo olvidado](/Emblem/Forgotten Autonym/) | Maligno | Adecuado para cualquier unidad | 
   | 4 | [Profecía rota](/Emblem/Broken Prophecy/) | Maligno | Recomendado para unidades de 9 miembros | 
   | 5 | [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/) | Maligno | Recomendado para unidades defensivas | 

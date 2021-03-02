@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Se dice que Sephinroth, la única hechicera que se conoce de Antagarich, es la hija ilegítima del Rey Corazón de Grifo."
 heroID: 61402
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Sephinroth"
 toc: true
@@ -51,6 +51,16 @@ toc: true
 
  **Descripción:** <span style="color: #ffffff;font-size:20px">¡Soy la princesa que se mencionaba en la profecía!</span>
 
+
+### Skin 2: **Luchadora campeona**
+
+ **Descripción:** <span style="color: #ffffff;font-size:20px">¡Un Héroe entre Héroes y el Campeón de la Arena!</span>
+
+ **Skin features:** 
+
+   - Campeón de la Arena
+   - Nueva imagen de batalla
+   - Avatar único
 
 
 ## Initial Mastery

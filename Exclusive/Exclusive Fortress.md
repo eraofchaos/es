@@ -19,10 +19,10 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/units/Gnoll/) | [Espada](/Exclusive/Gnoll Sword/) | - | Carga | - | - |
   | 2  | [Hombre Lagarto](/units/Lizardman/) | [Arco largo](/Exclusive/Lizardman Long Bow/) | - | Carga | - | - |
-  | 3  | [Libélula Menor](/units/Serpent Fly/) | [Canto Arcano](/Exclusive/Serpent Fly Arcane Chant/) | - | Carga | - | - |
+  | 3  | [Libélula Menor](/units/Serpent Fly/) | [Canto Arcano](/Exclusive/Serpent Fly Arcane Chant/) | + | Carga | - | - |
   | 4  | [Basilisco](/units/Basilisk/) | [Cola de Basilisco](/Exclusive/Basilisk Basilisk's Tail/) | - | A distancia | - | - |
   | 5  | [Gorgona](/units/Gorgon/) | [Cuerno de Gorgona](/Exclusive/Gorgon Gorgon's Horn/) | - | Asistencia técnica | - | - |
   | 6  | [Guiverno](/units/Wyvern/) | [Cola de Guiverno](/Exclusive/Wyvern Wyvern's Tail/) | - | A distancia | - | - |
   | 7  | [Hidra](/units/Hydra/) | [Cabeza de Hidra](/Exclusive/Hydra Hydra's Head/) | - | Asistencia técnica | - | - |
-  | 8  | [Hierbavispa](/units/Waspwort/) | - | - | - | none | none |
+  | 8  | [Hierbavispa](/units/Waspwort/) | [Hoja de Hierbavispa](/Exclusive/Waspwort Waspwort Leaf/) | - | A distancia | - | - |
   | 9  | [Tigre Blanco](/units/White Tiger/) | - | - | - | none | none |

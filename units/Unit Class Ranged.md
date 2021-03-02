@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Ballestero](/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Arquero Maestro  |
   | 7 | [Medusa](/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  Reina Medusa  |
   | 8 | [Hombre Lagarto](/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 9 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 9 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Gran Elfa  |
   | 10 | [Pegaso](/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Plateada  |
   | 11 | [Elemental de Tormenta](/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Tormenta de rayos  |
   | 12 | [Hierbavispa](/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |

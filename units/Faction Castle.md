@@ -19,7 +19,7 @@ classes: wide
   | 3 | [Grifo](/units/Griffin/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 4 | [Espadachín](/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Cruzado  |
   | 5 | [Monje](/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Fanático  |
-  | 6 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 6 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Caballeros Campeones  |
   | 7 | [Paladín](/units/Paladin/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladín Supremo  |
   | 8 | [Ángel](/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcángel  |
   | 9 | [Adjudicadora](/units/Judicator/) | Lanzador | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 6109 |   -   |

@@ -53,7 +53,7 @@ toc: true
   | Naranja | 817.56 | 70.2 | 14985.0 |
   | Naranja +1 | 938.68 | 80.6 | 17205.0 |
   | Naranja +2 | 1059.8 | 91.0 | 19425.0 |
-  | Orange +3 | 1180.92 | 101.4 | 21645.0 |
+  | Naranja +3 | 1180.92 | 101.4 | 21645.0 |
   | Naranja +4 | 1302.04 | 111.8 | 23865.0 |
   | Naranja +5 | 1483.72 | 127.4 | 27195.0 |
   | Rojo | 1725.96 | 148.2 | 31635.0 |
@@ -77,7 +77,7 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Carga Honorífica](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Pica de Caballero](/Exclusive/Unicorn Knight Pike/) 
 
  **Item to Subida de rango:** -
 
@@ -92,7 +92,7 @@ toc: true
 
 ## Información de combinación
 
-* [Blind](/combination/Blind/) 
+* [Ceguera](/combination/Ceguera/) 
 * [Escudo](/combination/Escudo/) 
 
 

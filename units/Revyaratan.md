@@ -51,7 +51,7 @@ toc: true
   | Naranja | 6842.34 | 133.65 | 57736.8 |
   | Naranja +1 | 7856.02 | 153.45 | 66290.4 |
   | Naranja +2 | 8869.7 | 173.25 | 74844.0 |
-  | Orange +3 | 9883.38 | 193.05 | 83397.6 |
+  | Naranja +3 | 9883.38 | 193.05 | 83397.6 |
   | Naranja +4 | 10897.06 | 212.85 | 91951.2 |
   | Naranja +5 | 12417.58 | 242.55 | 104781.6 |
   | Rojo | 14444.94 | 282.15 | 121888.8 |
@@ -73,6 +73,12 @@ toc: true
   | [Tentáculos de las Tentaciones](/equipment/Tentáculos de las Tentaciones/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Name:** [Mareas Sombrías](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Subida de rango:** -
+
+ **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -100,7 +106,7 @@ toc: true
 ### Habilidad normal 1 : Aleta helada
  **Descripción:** <span style="color: #645252;font-size:20px">Inmune a los estados </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;congelación&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px">y </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;detener el tiempo&gt; </span><span style="color: black"><span style="color: #645252;font-size:20px"> y al daño de hechizo de agua. Por cada unidad de Cala desplegada, aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el golpe crítico un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando Revyaratan es desplegado, todas las unidades amistosas aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> su daño de unidad, su velocidad de ataque y su daño crítico. El efecto aumenta un 2,5% para las unidades de la facción de la Cala.</span><span style="color: black">
 
-### Habilidad normal 2 : Skeleton Covet
+### Habilidad normal 2 : Codicia de esqueleto
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de unidad en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Marca 2 unidades enemigas al inicio de la batalla. Las unidades marcadas reducen un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> la velocidad de ataque, el daño crítico y la reducción de daño crítico. Además, no van a poder ser revividas por habilidades de Ángel tras su primera muerte. &lt;Mandíbula feroz&gt; tiene un 30% de probabilidad de recuperar un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos.</span><span style="color: black">
 
 ### Habilidad normal 3 : Las rígidas subcorrientes
@@ -109,7 +115,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">

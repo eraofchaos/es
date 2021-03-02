@@ -53,7 +53,7 @@ toc: true
   | Naranja | 554.04 | 40.5 | 5094.9 |
   | Naranja +1 | 636.12 | 46.5 | 5849.7 |
   | Naranja +2 | 718.2 | 52.5 | 6604.5 |
-  | Orange +3 | 800.28 | 58.5 | 7359.3 |
+  | Naranja +3 | 800.28 | 58.5 | 7359.3 |
   | Naranja +4 | 882.36 | 64.5 | 8114.1 |
   | Naranja +5 | 1005.48 | 73.5 | 9246.3 |
   | Rojo | 1169.64 | 85.5 | 10755.9 |
@@ -104,7 +104,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Habilidad definitiva: Fire Wall
+### Habilidad definitiva: Muro de fuego
  **Descripción:** <span style="color: #645252;font-size:20px">La Gog crea un Muro de fuego delante de ella que inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a las unidades hostiles a su alrededor. El Muro de fuego dura 8 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Deflagración

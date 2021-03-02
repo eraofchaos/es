@@ -18,10 +18,10 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Esqueleto](/units/Skeleton/) | [Escudo Iris](/Exclusive/Skeleton Iris Shield/) | - | Carga | - | - |
-  | 2  | [Muerto Viviente](/units/Walking Dead/) | [Escudo Iris](/Exclusive/Walking Dead Iris Shield/) | + | Carga | - | - |
+  | 2  | [Muerto Viviente](/units/Walking Dead/) | [Escudo Iris](/Exclusive/Walking Dead Iris Shield/) | - | Carga | - | - |
   | 3  | [Aparición](/units/Wight/) | [Canto Arcano](/Exclusive/Wight Arcane Chant/) | - | Carga | - | - |
-  | 4  | [Vampiro](/units/Vampire/) | [Carga Honorífica](/Exclusive/Vampire Knight Pike/) | - | Carga | - | - |
-  | 5  | [Lich](/units/Lich/) | [Tributo de Muerte](/Exclusive/Lich Death Tribute/) | + | A distancia | - | - |
+  | 4  | [Vampiro](/units/Vampire/) | [Pica de Caballero](/Exclusive/Vampire Knight Pike/) | - | Carga | - | - |
+  | 5  | [Liche](/units/Lich/) | [Tributo de Muerte](/Exclusive/Lich Death Tribute/) | - | A distancia | - | - |
   | 6  | [Caballero Negro](/units/Black Knight/) | [Sable del Inframundo](/Exclusive/Black Knight Nether Sabre/) | + | Asistencia técnica | - | - |
   | 7  | [Dragón de Hueso](/units/Bone Dragon/) | [Hueso de Dragón Inmortal](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Asistencia técnica | - | - |
   | 8  | [Momia](/units/Mummy/) | [Gasa](/Exclusive/Mummy Gauze/) | - | A distancia | - | - |

@@ -15,7 +15,7 @@ classes: wide
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Tigre Blanco](/units/White Tiger/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1078.2 | 6138 |   -   |
-  | 2 | [Gnoll](/units/Gnoll/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 2 | [Gnoll](/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerrero Gnoll  |
   | 3 | [Hombre Lagarto](/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
   | 4 | [Libélula Menor](/units/Serpent Fly/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 5 | [Basilisco](/units/Basilisk/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 2859 |   -   |

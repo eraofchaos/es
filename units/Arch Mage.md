@@ -53,7 +53,7 @@ toc: true
   | Naranja | 626.4 | 45.9 | 5362.2 |
   | Naranja +1 | 719.2 | 52.7 | 6156.6 |
   | Naranja +2 | 812.0 | 59.5 | 6951.0 |
-  | Orange +3 | 904.8 | 66.3 | 7745.4 |
+  | Naranja +3 | 904.8 | 66.3 | 7745.4 |
   | Naranja +4 | 997.6 | 73.1 | 8539.8 |
   | Naranja +5 | 1136.8 | 83.3 | 9731.4 |
   | Rojo | 1322.4 | 96.9 | 11320.2 |
@@ -152,7 +152,7 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Tower**  (Lista de Torre)
+* **Torre**  (Lista de Torre)
 * **Magia**  (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
@@ -199,7 +199,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Field&gt;</span><span style="color: #645252;font-size:18px">Al principio de la batalla, crea otro &lt;Magic Field&gt; para todas las unidades de Torre amistosas (el efecto no se duplica, pero se acumula con el efecto de habilidad anterior).</span>
 
 ### 5th Skill (or 6th): Tañido de muerte
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pérdida de energía&gt;</span><span style="color: #645252;font-size:18px">La muerte del objetivo hace que el maná de los Héroes hostiles se reduzca en 2.</span>
 
 ### 6th Skill (or 5th): Supresión de energía
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pérdida de energía&gt;</span><span style="color: #645252;font-size:18px">El efecto de la habilidad aumenta al 200% del efecto de la habilidad anterior</span>

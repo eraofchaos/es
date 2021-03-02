@@ -20,9 +20,9 @@ classes: wide
   | 6 | [Ballestero](/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Arquero Maestro  |
   | 7 | [Troglodita](/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodita Oscuro  |
   | 8 | [Centauro](/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitán Centauro  |
-  | 9 | [Gnoll](/units/Gnoll/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerrero Gnoll  |
   | 10 | [Monje](/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Fanático  |
-  | 11 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Champion Knights  |
+  | 11 | [Catafracto](/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Caballeros Campeones  |
   | 12 | [Esqueleto](/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 13 | [Hada](/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 14 | [Muerto Viviente](/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |

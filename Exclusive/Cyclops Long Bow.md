@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -29,8 +29,8 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Boulder Throwing> lanza rocas que infligen daño igual al 200% de los PV máximos a todos los enemigos en la zona objetivo. Puede activarse cada 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Usa <Boulder Throwing> cuando los Cíclopes ataquen por primera vez. |
+  |  Initial  | ? | <Lanzamiento de pedruscos> lanza rocas que infligen daño igual al 200% de los PV máximos a todos los enemigos en la zona objetivo. Puede activarse cada 15 s. |
+  | **1x** <i class="fas fa-star"/> | ? | Usa <Lanzamiento de pedruscos> cuando los Cíclopes ataquen por primera vez. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Cíclopes y la velocidad de ataque un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Cuando se reducen los PV por debajo del 30% por primera vez, el Cíclope desata Sacudida de tierra una vez, lo que aumenta su velocidad de ataque un 25% de manera permanente. |
   | **4x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño y la DEF del Cíclope un 20%. |

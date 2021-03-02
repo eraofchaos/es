@@ -49,7 +49,7 @@ toc: true
   | Naranja | 653.4 | 135.0 | 22882.5 |
   | Naranja +1 | 750.2 | 155.0 | 26272.5 |
   | Naranja +2 | 847.0 | 175.0 | 29662.5 |
-  | Orange +3 | 943.8 | 195.0 | 33052.5 |
+  | Naranja +3 | 943.8 | 195.0 | 33052.5 |
   | Naranja +4 | 1040.6 | 215.0 | 36442.5 |
   | Naranja +5 | 1185.8 | 245.0 | 41527.5 |
   | Rojo | 1379.4 | 285.0 | 48307.5 |
@@ -100,7 +100,7 @@ toc: true
 ### Habilidad definitiva: Destrozar rocas
  **Descripción:** <span style="color: #645252;font-size:20px">un Elemental de Piedra se divide en dos Elementales de Piedra más pequeños al morir. El Elemental de Piedra pequeño tiene </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de ATQ y </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV durante toda la batalla.</span><span style="color: black">
 
-### Habilidad normal 1 : Rock Solid
+### Habilidad normal 1 : Roca sólida
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad Elemental de Piedra un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto se duplica cuando el Elemental de Piedra recibe daño de unidades a distancia.</span><span style="color: black">
 
 ### Habilidad normal 2 : Fuerza elemental
@@ -185,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de la Ciudad del Castillo para ganar </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -193,10 +193,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
 
 ### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
 
 ### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Leadership&gt;</span><span style="color: #645252;font-size:18px">When in combat with \"High Morale\", increases unit's damage reduction by 30%, lasts for 10s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
 
 ### 4th Skill (or 3rd): Formación traicionera
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>

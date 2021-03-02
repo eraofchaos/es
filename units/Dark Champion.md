@@ -52,7 +52,7 @@ toc: true
   | Naranja | 5559.3 | 74.25 | 76982.4 |
   | Naranja +1 | 6382.9 | 85.25 | 88387.2 |
   | Naranja +2 | 7206.5 | 96.25 | 99792.0 |
-  | Orange +3 | 8030.1 | 107.25 | 111196.8 |
+  | Naranja +3 | 8030.1 | 107.25 | 111196.8 |
   | Naranja +4 | 8853.7 | 118.25 | 122601.6 |
   | Naranja +5 | 10089.1 | 134.75 | 139708.8 |
   | Rojo | 11736.3 | 156.75 | 162518.4 |
@@ -105,7 +105,7 @@ toc: true
 ### Habilidad normal 2 : Tumbas sombrías
  **Descripción:** <span style="color: #645252;font-size:20px">Si los PV del objetivo están por debajo del 40%, el Campeón Oscuro entierra a la unidad objetivo bajo una lápida durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. La unidad enterrada está silenciada y no puede recibir curación, moverse o atacar. Durante la duración, el daño recibido se traslada a 4 unidades enemigas a distancia aleatorias. Mientras la lápida exista, todas las unidades de Necrópolis amistosas dentro del alcance restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos por segundo. La recarga es de 28 s</span><span style="color: black">
 
-### Habilidad normal 3 : Bones Monarch
+### Habilidad normal 3 : Monarca de huesos
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los PV otorgados por El fin del destino aumentan un 4% más por cada unidad de Necrópolis en el campo de batalla. Los PV otorgados por El fin del destino aumentan un 1% más por cada unidad que la Necrópolis invoque al campo de batalla. Los PV otorgados por El fin del destino aumentan hasta un máximo de un 25%. Cuando un Héroe amistoso lanza un conjuro de tierra, reduce el tiempo de recarga de un hechizo aleatorio en 4 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre

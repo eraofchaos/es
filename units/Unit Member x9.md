@@ -18,7 +18,7 @@ classes: wide
   | 4 | [Gremlin](/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |   -   |
   | 5 | [Gólem de Hierro](/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Gólem de Oro  |
   | 6 | [Elemental del Mar](/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Elemental de la Marea  |
-  | 7 | [Stone Gargoyle](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 7 | [Gárgola de Piedra](/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 8 | [Piquero](/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  Alabardero  |
   | 9 | [Ballestero](/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Arquero Maestro  |
   | 10 | [Arpía](/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
@@ -26,9 +26,9 @@ classes: wide
   | 12 | [Grifo](/units/Griffin/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
   | 13 | [Observador](/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Ojo maléfico  |
   | 14 | [Centauro](/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitán Centauro  |
-  | 15 | [Gnoll](/units/Gnoll/) | Ofensa | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 15 | [Gnoll](/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerrero Gnoll  |
   | 16 | [Enano](/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
-  | 17 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 17 | [Elfa del Bosque](/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Gran Elfa  |
   | 18 | [Esqueleto](/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 19 | [Muerto Viviente](/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |
   | 20 | [Aparición](/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Espectro  |

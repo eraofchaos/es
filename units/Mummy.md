@@ -51,7 +51,7 @@ toc: true
   | Naranja | 761.4 | 135.0 | 21797.1 |
   | Naranja +1 | 874.2 | 155.0 | 25026.3 |
   | Naranja +2 | 987.0 | 175.0 | 28255.5 |
-  | Orange +3 | 1099.8 | 195.0 | 31484.7 |
+  | Naranja +3 | 1099.8 | 195.0 | 31484.7 |
   | Naranja +4 | 1212.6 | 215.0 | 34713.9 |
   | Naranja +5 | 1381.8 | 245.0 | 39557.7 |
   | Rojo | 1607.4 | 285.0 | 46016.1 |
@@ -197,7 +197,7 @@ toc: true
 ### 3rd Skill (or 4th): Cruzado con armadura
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Shroud&gt;</span><span style="color: #645252;font-size:18px">La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Shroud&gt; aumenta en 5 s. Aumenta la reducción de daño adicional de la unidad un 20% para las unidades amistosas a cierta distancia y recupera un 5% de sus PV máximos.</span>
 
-### 4th Skill (or 3rd): The Hardened Shroud
+### 4th Skill (or 3rd): Velo endurecido
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Velo&gt;</span><span style="color: #645252;font-size:18px">: La reducción de daño de la unidad de Momia aumenta en 20%. La duración de la ventaja de &lt;Velo&gt; aumenta a 5 s. Aumenta la reducción de daño de la unidad un 20% adicional para todas las unidades de Necrópolis y recupera un 5% de sus PV máximos</span>
 
 ### 5th Skill (or 6th): Mutación de enfermedad

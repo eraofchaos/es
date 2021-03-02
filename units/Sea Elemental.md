@@ -51,7 +51,7 @@ toc: true
   | Naranja | 1089.72 | 35.1 | 11712.6 |
   | Naranja +1 | 1251.16 | 40.3 | 13447.8 |
   | Naranja +2 | 1412.6 | 45.5 | 15183.0 |
-  | Orange +3 | 1574.04 | 50.7 | 16918.2 |
+  | Naranja +3 | 1574.04 | 50.7 | 16918.2 |
   | Naranja +4 | 1735.48 | 55.9 | 18653.4 |
   | Naranja +5 | 1977.64 | 63.7 | 21256.2 |
   | Rojo | 2300.52 | 74.1 | 24726.6 |
@@ -108,7 +108,7 @@ toc: true
 ### Habilidad normal 1 : Obsequio de la pleamar
  **Descripción:** <span style="color: #645252;font-size:20px">Cuando entra en el campo de batalla, el Elemental del Mar crea un </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Ice shield&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> en todas las unidades amistosas a su paso. El Elemental del Mar </span><span style="color: black"><span style="color: #48b946;font-size:20px">«ralentiza»</span><span style="color: black"><span style="color: #645252;font-size:20px"> al enemigo que lo ataca. El escudo dura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
 
-### Habilidad normal 2 : Tidal Rite
+### Habilidad normal 2 : Rito de la marea
  **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, el Elemental del Mar crea un círculo que aumenta sus PV un <span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">. Disminuye la curación de las unidades hostiles un 1% cada 2 segundos durante toda la batalla.</span><span style="color: black">
 
 ### Habilidad normal 3 : Jaula del abismo
@@ -117,7 +117,7 @@ toc: true
 ### Habilidad especial de la facción I : Cuerpo calmado
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala saben cómo sobrevivir a una tormenta. Aumenta los PV máximos un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y tienen un 40% de probabilidad de volverse inmunes a &lt;stun&gt; cuando se equipan con un Emblema Sagrado.</span><span style="color: black">
 
-### Habilidad especial de la facción II : Pirate Conflict
+### Habilidad especial de la facción II : Conflicto pirata
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -203,7 +203,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga inmunidad a daño de hechizos durante 3 s.</span>
 
 ### 6th Skill (or 5th): Filo templado con magia
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Otorga un 30% de daño de unidad adicional durante 6 s.</span>
 
 ## Technical info
  **runart:** 0

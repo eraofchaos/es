@@ -53,7 +53,7 @@ toc: true
   | Naranja | 599.4 | 126.9 | 21797.1 |
   | Naranja +1 | 688.2 | 145.7 | 25026.3 |
   | Naranja +2 | 777.0 | 164.5 | 28255.5 |
-  | Orange +3 | 865.8 | 183.3 | 31484.7 |
+  | Naranja +3 | 865.8 | 183.3 | 31484.7 |
   | Naranja +4 | 954.6 | 202.1 | 34713.9 |
   | Naranja +5 | 1087.8 | 230.3 | 39557.7 |
   | Rojo | 1265.4 | 267.9 | 46016.1 |
@@ -73,7 +73,7 @@ toc: true
   |:-------------|:-------------:|:------------:|
   | [Hacha de Guerra de la Naturaleza](/equipment/Hacha de Guerra de la Naturaleza/) | **ATQ** | **DEF** | 
   | [Yelmo de la Naturaleza](/equipment/Yelmo de la Naturaleza/) | **PV** | **DEF** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATQ** | **DEF** | 
+  | [Guanteletes de la Naturaleza](/equipment/Guanteletes de la Naturaleza/) | **ATQ** | **DEF** | 
   | [Hombreras de la Naturaleza](/equipment/Hombreras de la Naturaleza/) | **PV** | **DEF** | 
 
 ## Exclusivo

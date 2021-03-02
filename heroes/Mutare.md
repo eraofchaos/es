@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Nombrada Señora de Nighon recientemente, Mutare nació con la habilidad para controlar a los dragones, lo que la hace casi invencible en las guerras."
 heroID: 61301
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: es
 ref: "Mutare"
 toc: true
@@ -40,7 +40,7 @@ toc: true
 ### 3 Spell: Frenético
  **Descripción:** Sacrifica los PV de unidades amistosas equivalentes al 30% de sus PV máximos en una zona grande (no inflige un daño letal), a la vez que aumenta el daño que infligen un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
-### 4 Spell: Landslide
+### 4 Spell: Derrumbe
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> a las unidades enemigas dentro del área de efecto cada 0,8 s. Estas unidades también quedan <span style="color: #e07c44;font-size:20px">aturdidas</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s. El efecto dura {$olast11/1000} s.
 
 
