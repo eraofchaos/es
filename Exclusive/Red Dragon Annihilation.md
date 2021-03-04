@@ -2,7 +2,7 @@
 title: "Exclusivo - Aniquilación"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Aniquilación. Aniquilación. Era of Chaos Exclusivo Aniquilación. Dragón Rojo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Red Dragon Aniquilación.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Alma de Dragón> El Dragón Rojo condensa 1 Alma de Dragón en su cuerpo cada 15 s hasta un máximo de 4 Almas de Dragón. Cada Alma de Dragón aumenta el daño de unidad del Dragón Rojo un 10% y la reducción de daño de unidad un 10%. Cuando el Dragón Rojo tiene un Alma de Dragón, lanza <Llama Infernal>, que inflige daño equivalente al 150% del propio ATQ a la unidad objetivo y daño adicional equivalente al 20% de los PV máximos a las unidades quemadas. La recarga es de 20 s. |
+  |  Despertar  | ? | <Alma de Dragón> El Dragón Rojo condensa 1 Alma de Dragón en su cuerpo cada 15 s hasta un máximo de 4 Almas de Dragón. Cada Alma de Dragón aumenta el daño de unidad del Dragón Rojo un 10% y la reducción de daño de unidad un 10%. Cuando el Dragón Rojo tiene un Alma de Dragón, lanza <Llama Infernal>, que inflige daño equivalente al 150% del propio ATQ a la unidad objetivo y daño adicional equivalente al 20% de los PV máximos a las unidades quemadas. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Dragón Rojo en 50 y la penetración en 50 cada vez que se despliega una unidad de Subterráneo. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad un 20% y el golpe crítico en 200 al luchar contra unidades quemadas. |
   | **3x** <i class="fas fa-star"/> | ? | <Llama de Dragón> El Dragón Rojo inflige un 130% de su propio ATQ como daño a las unidades enemigas en una zona grande y les causa quemaduras, disminuye su reducción de daño de unidad un 20% y un 2% de sus PV máximos por segundo durante 8 s. La recarga es de 18 s. |

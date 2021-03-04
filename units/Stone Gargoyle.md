@@ -3,7 +3,7 @@ title: "Gárgola de Piedra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gárgola de Piedra"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Espada](/Exclusive/Stone Gargoyle Sword/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

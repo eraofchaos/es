@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Piratas Regnan Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Regnan Pirates Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Realiza un poderoso contraataque cuando recibe un ataque, lo que inflige un 300% de daño a los enemigos. La recarga es de 8 s. |
+  |  Despertar  | ? | Realiza un poderoso contraataque cuando recibe un ataque, lo que inflige un 300% de daño a los enemigos. La recarga es de 8 s. |
   | **1x** <i class="fas fa-star"/> | ? | Tiene un 50% de probabilidad de infectar a las unidades hostiles con <Escorbuto> al atacar, lo que hace que pierdan un 1% de los PV por segundo y reduce su curación un 35% durante 3 s (no se puede acumular). |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de los Piratas Regnan un 20% y el daño de la unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Restaura un 30% de los PV tras comer naranjas para curar el escorbuto cuando los PV de los Piratas Regnan se reducen por debajo del 30% por primera vez. Otorga inmunidad al aturdimiento, la petrificación y al silencio durante 5 s cuando se equipa con Emblema Sagrado. |

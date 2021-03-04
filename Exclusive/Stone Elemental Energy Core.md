@@ -2,7 +2,7 @@
 title: "Exclusivo - Núcleo de Energía"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Núcleo de Energía. Núcleo de Energía. Era of Chaos Exclusivo Núcleo de Energía. Elemental de Piedra Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Stone Elemental Núcleo de Energía.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Rock Strike> Golpea el suelo con fuerza para infligir daño igual al 200% de su ATQ a las unidades hostiles en una zona grande, las «lanza por los aires» y las «aturde» durante 3 s. La recarga es de 20 s y la recarga previa es de 10 s. |
+  |  Despertar  | ? | <Rock Strike> Golpea el suelo con fuerza para infligir daño igual al 200% de su ATQ a las unidades hostiles en una zona grande, las «lanza por los aires» y las «aturde» durante 3 s. La recarga es de 20 s y la recarga previa es de 10 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Elemental de Piedra un 20%. El efecto se duplica si una unidad mágica ataca al Elemental de Piedra. |
   | **2x** <i class="fas fa-star"/> | ? | <Barro> Cuando un Héroe hostil o aliado lanza un hechizo de tierra, el Elemental de Piedra restaura un 2% de sus PV máximos. |
   | **3x** <i class="fas fa-star"/> | ? | <Rock Strike> Reduce la velocidad de ataque de las unidades hostiles un 20% durante 8 s. Si <Fire Trio> está <burned> a los enemigos, se reducirá la reducción de daño de la unidad del 15%. El efecto dura 8 s. |

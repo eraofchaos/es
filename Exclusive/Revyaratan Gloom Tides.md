@@ -2,7 +2,7 @@
 title: "Exclusivo - Mareas Sombrías"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Mareas Sombrías. Mareas Sombrías. Era of Chaos Exclusivo Mareas Sombrías. Revyaratan Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Revyaratan Mareas Sombrías.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Detección sanguínea> El Revyaratan inflige daño equivalente al 120% de su propio ATQ a la unidad objetivo cada 7 s. También causa sangrado y disminuye la reducción de daño de unidad un 20% y la tenacidad en 200 durante 4 s. La unidad objetivo pierde un 1% de sus PV máximos por segundo. |
+  |  Despertar  | ? | <Detección sanguínea> El Revyaratan inflige daño equivalente al 120% de su propio ATQ a la unidad objetivo cada 7 s. También causa sangrado y disminuye la reducción de daño de unidad un 20% y la tenacidad en 200 durante 4 s. La unidad objetivo pierde un 1% de sus PV máximos por segundo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Revyaratan un 20%. Inflige un 20% de daño de golpe crítico adicional a las unidades enemigas bajo los efectos de ralentización. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando los héroes amistosos lanzan hechizos de tipo agua, aumenta el daño de golpe crítico de Revyaratan y de todas las unidades amistosas a su paso un 10% y el golpe crítico en 100 durante 7 s. El efecto se duplica contra unidades de Cala. |
   | **3x** <i class="fas fa-star"/> | ? | <Dentelleo frenético> Cada 20 s, Revyaratan entra en el estado <Dentelleo frenético>. Durante los siguientes 9 s, aumenta el daño de golpe crítico un 40%, la velocidad de ataque un 40% y el golpe crítico en 400. Al mismo tiempo, disminuye la reducción de daño de unidad de la unidad objetivo un 20%, la curación recibida un 20% y la tenacidad en 200. El efecto se duplica contra las unidades enemigas bajo los efectos de ralentización. Este efecto no se puede disipar. |

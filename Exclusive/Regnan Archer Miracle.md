@@ -2,7 +2,7 @@
 title: "Exclusivo - Milagro"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Milagro. Milagro. Era of Chaos Exclusivo Milagro. Arquera Regnan Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Regnan Archer Milagro.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Corazón Oceánico> Cuando las Arqueras Regnan mueren, tienen un 50% de probabilidad de revivir y recuperar el 20% de los PV. Cada unidad puede activar este efecto hasta 3 veces. |
+  |  Despertar  | ? | <Corazón Oceánico> Cuando las Arqueras Regnan mueren, tienen un 50% de probabilidad de revivir y recuperar el 20% de los PV. Cada unidad puede activar este efecto hasta 3 veces. |
   | **1x** <i class="fas fa-star"/> | ? | Cada vez que una Arquera Regnan activa <Corazón Oceánico>, aumenta la reducción de daño de unidad un 50% y la tenacidad en 500 durante 3 s. No se puede acumular. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Arquera Regnan un 20% y la reducción de daño de unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Flecha Mítica> La Arquera Regnan recibe 1 flecha cargada de poderes míticos cada 10 s. Inflige daño equivalente al 100% del ATQ a la unidad objetivo y activa 1 de los siguientes efectos aleatoriamente:                  [<Corriente Oceánica> Aumenta la velocidad de ataque un 300% durante 5 s.]                                [<Remolino> Invoca un remolino bajo la unidad enemiga más cercana, lo que impide que las unidades enemigas a corta distancia ataquen o lancen habilidades durante 3 s.]                                 [<Tormenta> Ataca aleatoriamente a 4 unidades enemigas en el campo de batalla y les inflige daño equivalente al 10% de sus PV máximos.]            [<Huracán> Invoca un huracán en la ubicación de la unidad objetivo que purifica a las unidades enemigas a corta distancia una vez por segundo durante 3 s.] |

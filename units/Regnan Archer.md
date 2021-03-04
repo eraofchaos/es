@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Milagro](/Exclusive/Regnan Archer Miracle/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

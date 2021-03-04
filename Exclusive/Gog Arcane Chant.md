@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Gog Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gog Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Chispa Chamuscadora> La Gog inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y le inflige sangrado durante 7 s. Si la unidad objetivo ya está sangrando, la DEF se reduce un 15% durante 7 s. |
+  |  Despertar  | ? | <Chispa Chamuscadora> La Gog inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y le inflige sangrado durante 7 s. Si la unidad objetivo ya está sangrando, la DEF se reduce un 15% durante 7 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque de la Gog un 15%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida de la Gog un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Canícula> Cuando un héroe amistoso lanza hechizos de tipo fuego, la Gog inflige daño equivalente al 50% de su propio ATQ por segundo a las unidades en una zona grande delante y causa quemaduras durante 5 s. |

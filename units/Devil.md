@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Diablo"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Guadaña del Diablo](/Exclusive/Devil Devil Scythe/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

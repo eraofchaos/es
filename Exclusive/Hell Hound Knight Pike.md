@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Sabueso Infernal Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Hell Hound Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | El Sabueso Infernal ataca con sus 3 cabezas, lo que aumenta la velocidad de ataque un 300%, pero reduce el daño de unidad un 20%. |
+  |  Despertar  | ? | El Sabueso Infernal ataca con sus 3 cabezas, lo que aumenta la velocidad de ataque un 300%, pero reduce el daño de unidad un 20%. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Sabueso Infernal un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de golpe crítico un 5% durante 3 s cada vez que el Sabueso Infernal ataca. Se acumula hasta 10 veces. |
   | **3x** <i class="fas fa-star"/> | ? | <Muerto Viviente> Cuando los PV del Sabueso Infernal caen por debajo del 66% y del 33% por primera vez, sacrifica una de sus cabezas y se vuelve inmune a todos los estados anormales, aumenta la esquiva en 2000 y la tenacidad en 1000 durante 5 s. |

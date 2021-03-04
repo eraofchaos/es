@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Elemental del Mar Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Sea Elemental Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tidal Waves> Puede activarse cada 20 s. Invoca una ola a los pies de la unidad hostil, lo que inflige daño igual al 200% de su ATQ a las unidades hostiles en un alcance corto. |
+  |  Despertar  | ? | <Tidal Waves> Puede activarse cada 20 s. Invoca una ola a los pies de la unidad hostil, lo que inflige daño igual al 200% de su ATQ a las unidades hostiles en un alcance corto. |
   | **1x** <i class="fas fa-star"/> | ? | Al principio de la batalla, todas las unidades ganan una [Bubble] igual al 10% de sus PV máximos. |
   | **2x** <i class="fas fa-star"/> | ? | Los ataques del Elemental del Mar reducen el daño de la unidad objetivo un 10% y su resistencia mágica un 50%. |
   | **3x** <i class="fas fa-star"/> | ? | Cuando el Elemental del Mar se enfrenta a unidades de uno o cuatro, sus ataques normales infligen un 30% de daño en área. Cuando se enfrenta a unidades de nueve, sus ataques normales infligen un 50% de daño a cinco unidades en el objetivo. |

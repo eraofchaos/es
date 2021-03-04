@@ -2,7 +2,7 @@
 title: "Exclusivo - Llama eterna"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Llama eterna. Llama eterna. Era of Chaos Exclusivo Llama eterna. Pájaro Ígneo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Firebird Llama eterna.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tierra en llamas> El Pájaro Ígneo inflige daño 3 veces a las unidades hostiles que estén en la misma fila que el objetivo cada 10 s y las quema durante 8 s. |
+  |  Despertar  | ? | <Tierra en llamas> El Pájaro Ígneo inflige daño 3 veces a las unidades hostiles que estén en la misma fila que el objetivo cada 10 s y las quema durante 8 s. |
   | **1x** <i class="fas fa-star"/> | ? | El Pájaro Ígneo es inmune al daño infligido con los hechizos de fuego. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pájaro Ígneo un 10% y su velocidad de ataque un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |

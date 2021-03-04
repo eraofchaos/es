@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Ogro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Ogre Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Invoca un círculo de sacrificios cada 30 s, lo que inflige daño igual al 1,5% de los PV máximos a las unidades hostiles en el círculo y restaura PV igual al 5% del ATQ a las unidades amistosas en el circulo durante 15 s. |
+  |  Despertar  | ? | Invoca un círculo de sacrificios cada 30 s, lo que inflige daño igual al 1,5% de los PV máximos a las unidades hostiles en el círculo y restaura PV igual al 5% del ATQ a las unidades amistosas en el circulo durante 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Ogros un 20% |
   | **2x** <i class="fas fa-star"/> | ? | Cuando el Ogro enfurece, aumenta el daño de todas las unidades amistosas un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Cuando se despliega al Ogro, este aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 10%. Aumenta su DEF un 10%. |

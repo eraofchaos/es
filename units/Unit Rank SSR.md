@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Unit Rank SSR"
 toc: false
@@ -10,26 +10,26 @@ classes: wide
 ---
  [R](/units/Unit Rank R/){: .btn .btn--primary} [SSR](/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
-  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
-  | 1 | [Elemental Psíquico](/units/Psychic Elemental/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  Elemental de Magia  |
-  | 2 | [Behemoth](/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Antiguo Behemoth  |
-  | 3 | [Domador de Tiburones](/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Jinete de tiburones  |
-  | 4 | [Berserker](/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Aullador de Muerte  |
-  | 5 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Duendecillo maestro  |
-  | 6 | [Arquera Regnan](/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
-  | 7 | [Diablo](/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Archidiablo  |
-  | 8 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Naga Reina  |
-  | 9 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
-  | 10 | [Gigante](/units/Giant/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titán  |
-  | 11 | [Paladín](/units/Paladin/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladín Supremo  |
-  | 12 | [Ángel](/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcángel  |
-  | 13 | [Dragón Negro](/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 430.0 | 8712 |  Rey Dragón Negro  |
-  | 14 | [Dragón Rojo](/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |
-  | 15 | [Dragón Verde](/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  Dragón Dorado  |
-  | 16 | [Gorgona](/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 3094 |  Gran Gorgona  |
-  | 17 | [Asesino](/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 269.0 | 2119 |   -   |
-  | 18 | [Caballero Negro](/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Caballero del Terror  |
-  | 19 | [Hidra](/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5770 |  Hidra del Caos  |
-  | 20 | [Guerreros espartanos](/units/Spartan Warriors/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 216.0 | 2825 |   -   |
-  | 21 | [Dragón de Hueso](/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 758.0 | 5770 |  Dragón Fantasma  |
+  | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
+  | 1 | [Elemental Psíquico](/units/Psychic Elemental/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elemental de Magia  |
+  | 2 | [Behemoth](/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Antiguo Behemoth  |
+  | 3 | [Domador de Tiburones](/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Jinete de tiburones  |
+  | 4 | [Berserker](/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Aullador de Muerte  |
+  | 5 | [Duendecillo](/units/Leprechaun/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Duendecillo maestro  |
+  | 6 | [Arquera Regnan](/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 7 | [Diablo](/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiablo  |
+  | 8 | [Naga](/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Reina  |
+  | 9 | [Tortuga Dragón](/units/Dragon Turtle/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tortuga Dragón Primigenia  |
+  | 10 | [Gigante](/units/Giant/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titán  |
+  | 11 | [Paladín](/units/Paladin/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladín Supremo  |
+  | 12 | [Ángel](/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcángel  |
+  | 13 | [Dragón Negro](/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Rey Dragón Negro  |
+  | 14 | [Dragón Rojo](/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
+  | 15 | [Dragón Verde](/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Dragón Dorado  |
+  | 16 | [Gorgona](/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
+  | 17 | [Asesino](/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 18 | [Caballero Negro](/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Caballero del Terror  |
+  | 19 | [Hidra](/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Hidra del Caos  |
+  | 20 | [Guerreros espartanos](/units/Spartan Warriors/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
+  | 21 | [Dragón de Hueso](/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Dragón Fantasma  |

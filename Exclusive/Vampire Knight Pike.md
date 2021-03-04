@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Vampiro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Vampire Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Golpe Carmesí> El Vampiro se transforma en un murciélago y se precipita sobre la formación enemiga. En ese periodo, la velocidad de movimiento del Vampiro aumenta en 30 y se vuelve inmune a aturdimiento, congelación y ralentización. El Vampiro recupera su forma humana al enfrentarse a una unidad enemiga, y su primer ataque inflige un daño equivalente al 500% de su propio ATQ. |
+  |  Despertar  | ? | <Golpe Carmesí> El Vampiro se transforma en un murciélago y se precipita sobre la formación enemiga. En ese periodo, la velocidad de movimiento del Vampiro aumenta en 30 y se vuelve inmune a aturdimiento, congelación y ralentización. El Vampiro recupera su forma humana al enfrentarse a una unidad enemiga, y su primer ataque inflige un daño equivalente al 500% de su propio ATQ. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Vampiro un 20% y su DEF un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Vampiro un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Góspel Colmillosangriento> El Vampiro inflige un daño equivalente al 300% de su propio ATQ a la unidad objetivo, lo que disminuye su reducción de daño de unidad un 20%. Si la unidad objetivo está bajo los efectos de moral baja, su DEF se reduce un 10% durante 5 s. La recarga es de 25 s. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Grifo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Griffin Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Picotazo> El Grifo le da un picotazo a la unidad objetivo y le inflige daño equivalente al 150% de su propio ATQ. Inflige sangrado, reduce la precisión en 300 y la velocidad de ataque un 20% durante 8 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Picotazo> El Grifo le da un picotazo a la unidad objetivo y le inflige daño equivalente al 150% de su propio ATQ. Inflige sangrado, reduce la precisión en 300 y la velocidad de ataque un 20% durante 8 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Grifo un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la esquiva del Grifo en 500. |
   | **3x** <i class="fas fa-star"/> | ? | <Giro Aéreo> La tenacidad del Grifo aumenta en 50 cada vez que consigue esquivar e inflige daño a la unidad objetivo equivalente al 75% de su ATQ. La tenacidad se puede acumular hasta llegar a 500. |

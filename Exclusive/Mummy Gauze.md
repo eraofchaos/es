@@ -2,7 +2,7 @@
 title: "Exclusivo - Gasa"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gasa. Gasa. Era of Chaos Exclusivo Gasa. Momia Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Mummy Gasa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
+  |  Despertar  | ? | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Momia un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | La Momia aumenta su propia DEF un 15% durante 5 s cuando está bajo los efectos de moral baja y recupera PV equivalentes al 8% de sus PV máximos. La recarga es de 15 s. |
   | **3x** <i class="fas fa-star"/> | ? | <Momificación> La Momia utiliza vendas para envolver a las unidades cuerpo a cuerpo cercanas, lo que les impide moverse, atacar y lanzar habilidades, y disminuye su reducción de daño de unidad un 15% durante 3 s. La recarga es de 25 s. |

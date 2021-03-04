@@ -2,7 +2,7 @@
 title: "Exclusivo - Energía de fuego"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energía de fuego. Energía de fuego. Era of Chaos Exclusivo Energía de fuego. Elemental de Fuego Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Fire Elemental Energía de fuego.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
+  |  Despertar  | ? | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Elemental de Fuego en 150. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ un 20% y el daño de la unidad un 10% del Elemental de Fuego. |
   | **3x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Elemental de Fuego gana un escudo igual al 100% de sus PV máximos. Su fuego inflige daño por segundo igual al 10% de su ATQ a las unidades hostiles a su alrededor en una zona pequeña. Este efecto no se puede disipar |

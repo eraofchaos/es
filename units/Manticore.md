@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Mantícora"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Cola de Escorpión](/Exclusive/Manticore Scorpion Tail/) 
+
+ **Is Open:** + 
 
  **Item to Subida de rango:** -
 

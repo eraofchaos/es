@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Aeronave Mágica"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

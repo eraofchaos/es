@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Diablillo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Imp Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la resistencia mágica del Diablillo un 25%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Diablillo un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Armadura Robusta> Cuando los PV del Diablillo caen por debajo del 60% y 30% por primera vez, obtiene un escudo equivalente al 20% de sus PV máximos y aumenta la tenacidad en 150 durante 20 s. |

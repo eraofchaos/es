@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Pesadilla"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [](/Exclusive/Nightmare /) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

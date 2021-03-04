@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Guiverno"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Cola de Guiverno. Cola de Guiverno. Era of Chaos Exclusivo Cola de Guiverno. Guiverno Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Wyvern Cola de Guiverno.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Alma Infestada> Cada vez que un Guiverno muere, aumentan el daño de unidad y la reducción de daño de unidad de las unidades de Fortaleza amistosas un 1%. Se acumula hasta 15 veces. Dura toda la batalla. |
+  |  Despertar  | ? | <Alma Infestada> Cada vez que un Guiverno muere, aumentan el daño de unidad y la reducción de daño de unidad de las unidades de Fortaleza amistosas un 1%. Se acumula hasta 15 veces. Dura toda la batalla. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque del Guiverno un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Guiverno un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Corazón Infestado> Cada vez que un Guiverno entra en combate, aumenta la penetración de todas las unidades de Fortaleza amistosas en 20 y el daño crítico un 2%. Se acumula hasta 15 veces. Dura toda la batalla. Las unidades de Guiverno invocan 1 Guiverno cada 15 s. Los Guivernos invocados tienen las habilidades <Alma Infestada> y <Corazón Infestado>. |

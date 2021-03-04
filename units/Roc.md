@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Roc"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Canto Arcano](/Exclusive/Roc Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

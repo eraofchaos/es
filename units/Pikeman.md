@@ -3,7 +3,7 @@ title: "Piquero"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo."
 unitID: 101
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Piquero"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Espada](/Exclusive/Pikeman Sword/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

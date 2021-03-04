@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Escama de Dragón Negro](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

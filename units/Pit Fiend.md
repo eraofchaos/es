@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Demonio del Abismo"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Espada](/Exclusive/Pit Fiend Sword/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

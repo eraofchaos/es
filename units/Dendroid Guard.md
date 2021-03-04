@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Guardia Dendroide"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Escudo Iris](/Exclusive/Dendroid Guard Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

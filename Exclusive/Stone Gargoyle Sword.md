@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gárgola de Piedra Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Stone Gargoyle Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Zarpazo> Inflige daño equivalente al 250% de su propio ATQ a la unidad objetivo y le causa sangrado durante 6 s; además, aumenta su propia velocidad de ataque un 20% durante 6 s. La recarga es de 26 s. |
+  |  Despertar  | ? | <Zarpazo> Inflige daño equivalente al 250% de su propio ATQ a la unidad objetivo y le causa sangrado durante 6 s; además, aumenta su propia velocidad de ataque un 20% durante 6 s. La recarga es de 26 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV de la Gárgola de Piedra un 15% y la DEF un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Gárgola de Piedra un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Despertar mágico> Cuando una Gárgola de Piedra recibe una ventaja de un héroe amistoso, aumenta su resistencia mágica un 15% y obtiene un escudo equivalente al 10% de sus PV máximos durante 8 s. Se acumula hasta 2 veces. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Pegaso Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Pegasus Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Los ataques normales infligen daño adicional igual al 30% de su ATQ al objetivo. |
+  |  Despertar  | ? | Los ataques normales infligen daño adicional igual al 30% de su ATQ al objetivo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pegasos un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de Pegaso un 20% y su velocidad de ataque un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Bladestorm> La Pegaso lanza una espina de rosa cada 25 s que inflige daño igual al 5% de los PV máximos más el 20% del ATQ a todas las unidades hostiles y hace sangrar a los enemigos durante 10 s. |

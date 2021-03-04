@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Hombre Lagarto Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Lizardman Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Wild Hunter> Se puede lanzar cada 20 s, lo que inflige daño igual al 300% de su ATQ a todas las unidades hostiles en una zona pequeña y daño igual al 2% de sus PV máximos por segundo durante 5 s. |
+  |  Despertar  | ? | <Wild Hunter> Se puede lanzar cada 20 s, lo que inflige daño igual al 300% de su ATQ a todas las unidades hostiles en una zona pequeña y daño igual al 2% de sus PV máximos por segundo durante 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la resistencia mágica del Hombre Lagarto un 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando el Hombre Lagarto impacta con un golpe crítico, su golpe crítico aumenta en 10 durante 3 s, hasta un máximo de 50 acumulaciones. |
   | **3x** <i class="fas fa-star"/> | ? | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |

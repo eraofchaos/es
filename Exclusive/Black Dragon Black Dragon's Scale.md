@@ -2,7 +2,7 @@
 title: "Exclusivo - Escama de Dragón Negro"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Escama de Dragón Negro. Escama de Dragón Negro. Era of Chaos Exclusivo Escama de Dragón Negro. Dragón Negro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Black Dragon Escama de Dragón Negro.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Shelter of Dragons> Cuando los PV se reducen por debajo del 75%, 50% y 25%, el Dragón Negro otorga un escudo igual al 15% de sus PV máximos a todas las unidades defensivas de dragones amistosas (Tortuga Dragón, Dragón Negro/Rey Dragón Negro) en el campo de batalla y un escudo igual al 30% de los PV máximos a las unidades que no sean defensivas de dragones amistosas (Dragón Verde/Dragón Dorado, Dragón de Hueso/Dragón Fantasma, Dragón Rojo, Hidra o Guiverno). El escudo dura toda la batalla y puede acumularse. El escudo del Dragón Negro no se puede disipar. Otorga inmunidad a hechizos durante 3 s mientras tenga el escudo. |
+  |  Despertar  | ? | <Shelter of Dragons> Cuando los PV se reducen por debajo del 75%, 50% y 25%, el Dragón Negro otorga un escudo igual al 15% de sus PV máximos a todas las unidades defensivas de dragones amistosas (Tortuga Dragón, Dragón Negro/Rey Dragón Negro) en el campo de batalla y un escudo igual al 30% de los PV máximos a las unidades que no sean defensivas de dragones amistosas (Dragón Verde/Dragón Dorado, Dragón de Hueso/Dragón Fantasma, Dragón Rojo, Hidra o Guiverno). El escudo dura toda la batalla y puede acumularse. El escudo del Dragón Negro no se puede disipar. Otorga inmunidad a hechizos durante 3 s mientras tenga el escudo. |
   | **1x** <i class="fas fa-star"/> | ? | Si hay un Dragón Negro en el campo de batalla, el daño y la reducción de daño de las unidades amistosas de Mazmorra aumentan un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Dragón Negro en 200 y los PV básicos en 50.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Magic Dragon Breath> El Dragón Negro inflige daño igual al 150% de su ATQ a todas las unidades hostiles delante de él en un alcance corto cada 15 s e inflige daño igual al 10% de sus PV máximos a la unidad objetivo. |

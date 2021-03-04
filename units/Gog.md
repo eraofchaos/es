@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gog"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Canto Arcano](/Exclusive/Gog Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

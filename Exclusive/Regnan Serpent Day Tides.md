@@ -2,7 +2,7 @@
 title: "Exclusivo - Mareas Diurnas"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Mareas Diurnas. Mareas Diurnas. Era of Chaos Exclusivo Mareas Diurnas. Serpiente Regnan Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Regnan Serpent Mareas Diurnas.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Torrente Infinito> La Serpiente Regnan golpea con su tridente y lanza el poder de las mareas contra los enemigos, lo que inflige daño equivalente al 100% de su propio ATQ a las unidades enemigas en una zona grande delante suyo y aumenta su velocidad de ataque un 20% y el daño de golpe crítico un 40%. Reduce la tenacidad y la esquiva de las unidades enemigas bajo los efectos de ralentización en 200 durante 6 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Torrente Infinito> La Serpiente Regnan golpea con su tridente y lanza el poder de las mareas contra los enemigos, lo que inflige daño equivalente al 100% de su propio ATQ a las unidades enemigas en una zona grande delante suyo y aumenta su velocidad de ataque un 20% y el daño de golpe crítico un 40%. Reduce la tenacidad y la esquiva de las unidades enemigas bajo los efectos de ralentización en 200 durante 6 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Serpiente Regnan un 20% y otro 20% adicional al recibir ataques a distancia. |
   | **2x** <i class="fas fa-star"/> | ? | Al lanzar <Torrente Infinito>, aumenta la DEF de la Serpiente Regnan un 10%. Dura toda la batalla. Se acumula hasta 3 veces. |
   | **3x** <i class="fas fa-star"/> | ? | La Serpiente Regnan, bajo los efectos de la fuerza de las mareas, entra en el estado Marea Alta 5 s después de que comience la batalla, lo que aumenta la reducción de daño de unidad un 20% durante 6 s y recupera PV equivalentes al 5% de sus PV máximos. A continuación, entra en el estado Marea Nocturna, lo que aumenta su velocidad de ataque un 20% y su golpe crítico en 200 durante 6 s. Después de esto, la Serpiente Regnan alterna entre los estados Marea Alta y Marea Nocturna. Dura toda la batalla. |

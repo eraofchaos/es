@@ -2,7 +2,7 @@
 title: "Exclusivo - Hacha de Berserker"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Hacha de Berserker. Hacha de Berserker. Era of Chaos Exclusivo Hacha de Berserker. Berserker Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Berserker Hacha de Berserker.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Hacha Giratoria> El Berserker lanza un hacha giratoria que inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande delante y les causa sangrado durante 8 s. La recarga es de 18 s. |
+  |  Despertar  | ? | <Hacha Giratoria> El Berserker lanza un hacha giratoria que inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande delante y les causa sangrado durante 8 s. La recarga es de 18 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Berserker un 15%. Aumenta el daño de unidad un 15% al luchar contra unidades aturdidas. |
   | **2x** <i class="fas fa-star"/> | ? | Hay un 5% de probabilidad de que los ataques del Berserker aturdan a una unidad objetivo durante 1,5 s. Se activa cada 5 s |
   | **3x** <i class="fas fa-star"/> | ? | <Golpe Letal> El Berserker inflige daño equivalente al 225% de su ATQ a la unidad objetivo, disminuye la reducción de daño de unidad del objetivo un 20% y la DEF un 10%. Si la unidad objetivo está sangrando, reduce el daño de unidad del objetivo un 20% y la velocidad de ataque un 10% durante 10 s. La recarga es de 25 s. |

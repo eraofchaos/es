@@ -2,7 +2,7 @@
 title: "Exclusivo - Olas de ruptura"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Olas de ruptura. Olas de ruptura. Era of Chaos Exclusivo Olas de ruptura. Domador de Tiburones Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Shark Trainer Olas de ruptura.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Borrasca> Cada 15 s, el Domador de Tiburones golpea con la espada e inflige un 100% de daño a todas las unidades enemigas en una zona grande. También causa desaliento y reduce el daño de unidad de las unidades enemigas un 30% durante 7 s. |
+  |  Despertar  | ? | <Borrasca> Cada 15 s, el Domador de Tiburones golpea con la espada e inflige un 100% de daño a todas las unidades enemigas en una zona grande. También causa desaliento y reduce el daño de unidad de las unidades enemigas un 30% durante 7 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Domador de Tiburones y de los tiburones en 400. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando obtiene una burbuja, aumenta su propia velocidad de ataque un 20% durante 8 s. La velocidad de ataque aumenta un 20% contra las unidades bajo los efectos de sangrado. |
   | **3x** <i class="fas fa-star"/> | ? | <Enemistad de Sangre> Cuando los PV de un Domador de Tiburones o de un tiburón caen por debajo del 50% por primera vez, obtiene una burbuja equivalente al 30% de sus PV máximos que dura toda la batalla y no se puede disipar. Al mismo tiempo, los tiburones y el Domador de Tiburones entran en el estado represalia. Durante los siguientes 10 s, los ataques infligen daño equivalente al 8% de los PV máximos a los objetivos y causan sangrado durante 12 s que no se puede disipar. Esta habilidad no se puede silenciar. |

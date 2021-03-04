@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Aparición Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Wight Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Niebla Maldita> La Aparición genera una niebla maldita que disminuye la reducción de daño de unidad de las unidades enemigas en una zona grande junto a la unidad objetivo un 15% e inflige un daño equivalente al 50% de su propio ATQ por segundo durante 6 s. La recarga es de 18 s. |
+  |  Despertar  | ? | <Niebla Maldita> La Aparición genera una niebla maldita que disminuye la reducción de daño de unidad de las unidades enemigas en una zona grande junto a la unidad objetivo un 15% e inflige un daño equivalente al 50% de su propio ATQ por segundo durante 6 s. La recarga es de 18 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Aparición un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque de la Aparición un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Cuando las Apariciones mueren, 3 unidades reciben miedo durante 5 s y 1 marca de miedo que se acumula. (Miedo: No puede atacar, mover o usar habilidades. Reduce la resistencia mágica un 30%). |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Espíritu Sanguinario"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Espíritu Sanguinario. Espíritu Sanguinario. Era of Chaos Exclusivo Espíritu Sanguinario. Behemoth Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Behemoth Espíritu Sanguinario.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Baluarte de Bastión> El Behemoth protege a las demás unidades de Bastión, de modo que recibe el 25% del daño que reciben las unidades de Bastión en el campo de batalla y aumenta la reducción de daño de unidad un 40% durante 5 s. La recarga es de 25 s. |
+  |  Despertar  | ? | <Baluarte de Bastión> El Behemoth protege a las demás unidades de Bastión, de modo que recibe el 25% del daño que reciben las unidades de Bastión en el campo de batalla y aumenta la reducción de daño de unidad un 40% durante 5 s. La recarga es de 25 s. |
   | **1x** <i class="fas fa-star"/> | ? | Cuando el Behemoth está en el campo de batalla, aumenta el daño de las unidades lanzadoras/a distancia de Bastión amistosas un 20% y la reducción de daño de unidad de las unidades cuerpo a cuerpo amistosas un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV de base del Behemoth en 50.000 puntos. El daño recibido de las unidades lanzadoras/a distancia se reduce un 40%. |
   | **3x** <i class="fas fa-star"/> | ? | <Behemoth Imponente> Cuando el Behemoth recibe un golpe crítico, desata su furia, aturde a los enemigos en una zona grande a su alrededor durante 3 s y reduce el daño de unidad y la velocidad de ataque de los enemigos en una zona muy grande un 20% durante 5 s. La recarga es de 6 s. |

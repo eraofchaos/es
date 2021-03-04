@@ -2,7 +2,7 @@
 title: "Exclusivo - Polaris"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Polaris. Polaris. Era of Chaos Exclusivo Polaris. Aeronave Mágica Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Magic Airship Polaris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Aeronave Mágica inflige daño equivalente al 150% de su propio ATQ a 3 unidades enemigas aleatorias y reduce su daño de unidad un 20% durante 7 s. La recarga es de 21 s. |
+  |  Despertar  | ? | La Aeronave Mágica inflige daño equivalente al 150% de su propio ATQ a 3 unidades enemigas aleatorias y reduce su daño de unidad un 20% durante 7 s. La recarga es de 21 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque de la Aeronave Mágica un 10% y el ATQ un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Aeronave Mágica un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Cada 20 s, la Aeronave Mágica aumenta su daño de unidad un 20%, su golpe crítico en 200 y su daño de golpe crítico un 20% durante 8 s. También concede una ventaja a una unidad lanzadora amistosa aleatoria que le proporciona la mitad de sus atributos. |

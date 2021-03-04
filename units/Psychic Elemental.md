@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Núcleo Espiritual](/Exclusive/Psychic Elemental Spirit Core/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

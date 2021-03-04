@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Orco Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Orc Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Hacha de Guerra Voladora> El Orco lanza un hacha de guerra gigante a la unidad objetivo, lo que inflige daño equivalente al 300% de su propio ATQ e ignora 1000 de DEF de la unidad objetivo. La recarga es de 15 s. |
+  |  Despertar  | ? | <Hacha de Guerra Voladora> El Orco lanza un hacha de guerra gigante a la unidad objetivo, lo que inflige daño equivalente al 300% de su propio ATQ e ignora 1000 de DEF de la unidad objetivo. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Orco un 20% y su golpe crítico en 100. |
   | **2x** <i class="fas fa-star"/> | ? | Cada vez que los PV del Orco caen por debajo del 10%, su reducción de daño de unidad y resistencia mágica aumentan un 4%. El efecto permanece incluso después de que los PV se hayan restaurado. |
   | **3x** <i class="fas fa-star"/> | ? | El Orco está centrado en la batalla actual. Cada ataque aumenta la velocidad de ataque de las unidades un 5% y el golpe crítico en 15. Se acumula hasta 10 veces. Cuando el Orco cambia de objetivo, las acumulaciones vuelven a 0. |

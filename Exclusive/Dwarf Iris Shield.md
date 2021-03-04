@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Enano Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Dwarf Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | El Enano golpea su yunque cuando recibe un ataque, lo que aumenta su DEF un 50% durante 5 s, pero le impide moverse y atacar. Cuando concluye este efecto, las unidades de vanguardia amistosas obtienen un escudo equivalente al 10% de los PV máximos que dura 5 s. La recarga es de 25 s. |
+  |  Despertar  | ? | El Enano golpea su yunque cuando recibe un ataque, lo que aumenta su DEF un 50% durante 5 s, pero le impide moverse y atacar. Cuando concluye este efecto, las unidades de vanguardia amistosas obtienen un escudo equivalente al 10% de los PV máximos que dura 5 s. La recarga es de 25 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Enano un 20% y su DEF un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Enano un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Martillazo> El Enano pega un golpe con su martillo e inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande y las ralentiza durante 5 s. La recarga es de 20 s. |

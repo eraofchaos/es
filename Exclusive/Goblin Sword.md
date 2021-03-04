@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Goblin Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Goblin Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Machacapiedras> El Goblin inflige un daño equivalente al 300% de su propio ATQ a la unidades objetivo cada 15 s y les inflige sangrado durante 7 s. Si la unidad objetivo está bajo los efectos de sobrecarga, la DEF se reduce un 15% durante 5 s. |
+  |  Despertar  | ? | <Machacapiedras> El Goblin inflige un daño equivalente al 300% de su propio ATQ a la unidades objetivo cada 15 s y les inflige sangrado durante 7 s. Si la unidad objetivo está bajo los efectos de sobrecarga, la DEF se reduce un 15% durante 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Goblin un 20% y la esquiva en 100. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Goblin en 150 cuando se enfrenta a unidades con menos del 70% de PV. |
   | **3x** <i class="fas fa-star"/> | ? | <Golpe Presto> Cuando un ataque del Goblin es esquivado, este inflige un daño equivalente al 100% de su propio ATQ a la unidad objetivo y le reduce la DEF un 4% durante 8 s. La recarga es de 2 s. Se acumula hasta 4 veces. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Archimaga Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Arch Mage Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Carga mágica> La Maga imbuye de magia su báculo y lanza un poderoso ataque que inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo. La recarga es de 18 s. |
+  |  Despertar  | ? | <Carga mágica> La Maga imbuye de magia su báculo y lanza un poderoso ataque que inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo. La recarga es de 18 s. |
   | **1x** <i class="fas fa-star"/> | ? | <Despertar mágico> Cuando la Maga recibe una ventaja mediante el hechizo de apoyo de un héroe amistoso, lanza <Carga mágica> una vez de inmediato. |
   | **2x** <i class="fas fa-star"/> | ? | Imbuye de magia la armadura al lanzar <Carga mágica>, lo que aumenta la reducción de daño de unidad de las unidades amistosas en una zona grande a su alrededor un 10% y la resistencia mágica un 40% durante 3 s. No se puede acumular. |
   | **3x** <i class="fas fa-star"/> | ? | Imbuye el arma de <Magia de agua: Congelación> al lanzar <Carga mágica>: el siguiente ataque congela a la unidad objetivo durante entre 2 y 4 s. |

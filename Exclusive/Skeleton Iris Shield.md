@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Esqueleto Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Skeleton Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Cadáver Putrefacto> El Esqueleto se convierte en un cadáver putrefacto que causa moral baja a todas las unidades en una zona grande cercana durante 10 s cada 20 s y le inflige un daño equivalente al 250% de su ATQ a la unidad objetivo. |
+  |  Despertar  | ? | <Cadáver Putrefacto> El Esqueleto se convierte en un cadáver putrefacto que causa moral baja a todas las unidades en una zona grande cercana durante 10 s cada 20 s y le inflige un daño equivalente al 250% de su ATQ a la unidad objetivo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Esqueleto en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV de base del Esqueleto en 20.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Calcificación> El Esqueleto recupera un 10% de sus PV máximos cuando está bajo los efectos de moral baja. La recarga es de 10 s. |

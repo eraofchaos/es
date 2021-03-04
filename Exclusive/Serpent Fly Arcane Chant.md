@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Libélula Menor Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Serpent Fly Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
+  |  Despertar  | ? | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | La Libélula Menor tiene un 30% de probabilidad de hacer sangrar a la unidad objetivo al atacar. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida de la Libélula Menor un 15%. |
   | **3x** <i class="fas fa-star"/> | ? | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |

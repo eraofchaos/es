@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Tortuga Dragón"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Obediencia](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

@@ -2,7 +2,7 @@
 title: "Exclusivo - Espinas"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Espinas. Espinas. Era of Chaos Exclusivo Espinas. Duendecillo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Leprechaun Espinas.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dama de la Suerte> Cada 20 s, el Duendecillo obtiene aleatoriamente de 1 a 4 tréboles de cuatro hojas. El Duendecillo obtiene ventajas aleatorias en función del número de tréboles de cuatro hojas: aumenta el valor de escudo en 200, aumenta la DEF en 400, recupera un 1% de sus PV máximos por segundo o aumenta la esquiva en 400. La ventaja dura 12 s. |
+  |  Despertar  | ? | <Dama de la Suerte> Cada 20 s, el Duendecillo obtiene aleatoriamente de 1 a 4 tréboles de cuatro hojas. El Duendecillo obtiene ventajas aleatorias en función del número de tréboles de cuatro hojas: aumenta el valor de escudo en 200, aumenta la DEF en 400, recupera un 1% de sus PV máximos por segundo o aumenta la esquiva en 400. La ventaja dura 12 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV propios un 20% y la DEF un 15%. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando el Duendecillo está en el campo de batalla, aumenta el daño de unidad de las unidades de Conflujo un 10% y el golpe crítico en 100. |
   | **3x** <i class="fas fa-star"/> | ? | <Combo Rápido> Cada 26 s, el Duendecillo tiene un 60%/30%/10% de probabilidad de aumentar su velocidad de ataque un 50%/100%/200% durante 9 s. Durante este tiempo, los ataques básicos disminuyen la reducción de daño de unidad de la unidad objetivo un 2%. Se acumula hasta 20 veces. Dura 5 s. |

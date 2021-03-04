@@ -2,7 +2,7 @@
 title: "Exclusivo - "
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exclusivo . Pesadilla Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Nightmare .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sin Rastro> Cada vez que la Pesadilla recibe un ataque, hay un 25% de probabilidad de aumentar su propia velocidad de ataque un 500% y la absorción de vida un 50% durante un ataque. |
+  |  Despertar  | ? | <Sin Rastro> Cada vez que la Pesadilla recibe un ataque, hay un 25% de probabilidad de aumentar su propia velocidad de ataque un 500% y la absorción de vida un 50% durante un ataque. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Pesadilla un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV de la Pesadilla un 8% y la DEF un 5% cada vez que se despliega una unidad del Infierno. |
   | **3x** <i class="fas fa-star"/> | ? | <Cura Onírica> Cuando se activa <Sin Rastro>, la Pesadilla cura a la unidad con menos PV por valor del 200% de los PV. |

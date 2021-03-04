@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Piquero Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Pikeman Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
+  |  Despertar  | ? | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque del Piquero un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Piquero en 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Carga Ferviente> Activa un <Lanzazo Sagrado> adicional cuando el Piquero tiene la moral alta. |

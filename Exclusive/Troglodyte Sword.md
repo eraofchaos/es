@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Troglodita Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Troglodyte Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Estocada> El Troglodita inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa envenenamiento durante 8 s. Si la unidad objetivo ya está bajo los efectos de envenenamiento, la unidad objetivo recibe aturdimiento durante 1 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Estocada> El Troglodita inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa envenenamiento durante 8 s. Si la unidad objetivo ya está bajo los efectos de envenenamiento, la unidad objetivo recibe aturdimiento durante 1 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Troglodita un 20% y la esquiva en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Troglodita un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Olor a rompehechizos> Aumenta la DEF del Troglodita un 5% y la tenacidad en 40 durante 6 s. Se acumula hasta 5 veces. |

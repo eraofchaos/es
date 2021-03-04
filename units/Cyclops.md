@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Cíclope"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Arco largo](/Exclusive/Cyclops Long Bow/) 
+
+ **Is Open:** + 
 
  **Item to Subida de rango:** -
 

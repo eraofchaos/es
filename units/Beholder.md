@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Observador"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Mirada Oscura](/Exclusive/Beholder Dark Gaze/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

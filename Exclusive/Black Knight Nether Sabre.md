@@ -2,7 +2,7 @@
 title: "Exclusivo - Sable del Inframundo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sable del Inframundo. Sable del Inframundo. Era of Chaos Exclusivo Sable del Inframundo. Caballero Negro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Black Knight Sable del Inframundo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | El Caballero Negro reduce la DEF de las unidades hostiles en una zona grande un 30%. Aumenta su penetración en 500 cuando se enfrenta a unidades con «Moral baja». |
+  |  Despertar  | ? | El Caballero Negro reduce la DEF de las unidades hostiles en una zona grande un 30%. Aumenta su penetración en 500 cuando se enfrenta a unidades con «Moral baja». |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Caballeros Negros un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Caballeros Negros un 25%. |
   | **3x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Caballero Negro carga hacia un punto. Es inmune a todo el daño durante este tiempo. Aparece delante de la unidad hostil al final de la fila en 6 s. Si no hay un objetivo válido, ataca a una unidad de la retaguardia aleatoria e impacta con un golpe crítico (Sin efecto de despertar. Solo tiene efecto una vez por batalla). |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Arpía Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Harpy Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Vuelo Acrobático> La Arpía lanza un poderoso golpe a una unidad objetivo y le inflige daño equivalente al 300% de su propio ATQ. A continuación, eleva el vuelo para disparar flechas de plumas que infligen daño equivalente al 10% de los PV máximos a las unidades enemigas en una zona grande y les causa Veneno de Halcón durante 5 s. La recarga es de 15 s. |
+  |  Despertar  | ? | <Vuelo Acrobático> La Arpía lanza un poderoso golpe a una unidad objetivo y le inflige daño equivalente al 300% de su propio ATQ. A continuación, eleva el vuelo para disparar flechas de plumas que infligen daño equivalente al 10% de los PV máximos a las unidades enemigas en una zona grande y les causa Veneno de Halcón durante 5 s. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Arpía un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de la Arpía un 40% al luchar contra unidades voladoras. |
   | **3x** <i class="fas fa-star"/> | ? | <Buche Venenoso> Al luchar contra objetivos envenenados, la Arpía se lanza en su persecución e inflige daño equivalente al 300% de su propio ATQ. La recarga es de 10 s. Si el objetivo recibiera un ataque de <Explosión de Veneno>, quedaría aturdido además 5 s. |

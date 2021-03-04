@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Basilisco"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Cola de Basilisco. Cola de Basilisco. Era of Chaos Exclusivo Cola de Basilisco. Basilisco Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Basilisk Cola de Basilisco.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Cuando un ataque golpea a una unidad objetivo, hay un 8% de probabilidad de que le inflija daño adicional equivalente al 100% de su propio ATQ y la petrifique durante 3 s. |
+  |  Despertar  | ? | Cuando un ataque golpea a una unidad objetivo, hay un 8% de probabilidad de que le inflija daño adicional equivalente al 100% de su propio ATQ y la petrifique durante 3 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Basilisco y la reducción de daño de unidad un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando los ataques del Basilisco activan el estado de despertar, la DEF aumenta un 20% durante 3 s. |
   | **3x** <i class="fas fa-star"/> | ? | Gana una [Miasma pestilente] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Miasma pestilente] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |

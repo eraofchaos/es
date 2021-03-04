@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Guardia Dendroide Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Dendroid Guard Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Armadura Arbórea> Le otorga al Guardia Dendroide y a 1 unidad de Murallas aleatoria un 10% de aumento de la reducción de daño de unidad y un escudo equivalente al 10% de los PV máximos. Dura 8 s. La recarga es de 18 s. |
+  |  Despertar  | ? | <Armadura Arbórea> Le otorga al Guardia Dendroide y a 1 unidad de Murallas aleatoria un 10% de aumento de la reducción de daño de unidad y un escudo equivalente al 10% de los PV máximos. Dura 8 s. La recarga es de 18 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Guardia Dendroide un 20% y la reducción de daño de unidad un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF de base del Guardia Dendroide en 50 cada vez que se despliega una unidad de Murallas. |
   | **3x** <i class="fas fa-star"/> | ? | <Raíces Profundas> El Guardia Dendroide entierra sus raíces en las profundidades, lo que aumenta su reducción de daño de unidad un 15%, inflige daño equivalente al 2% de los PV máximos a las unidades enemigas en una zona grande por segundo y recupera un 1% de sus PV máximos cada segundo durante 10 s. En este tiempo, el Guardia Dendroide no puede moverse. La recarga es de 25 s. |

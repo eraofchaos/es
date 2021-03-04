@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Elemental de Hielo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Ice Elemental Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fractura Fría> Golpea a un enemigo con un frío extremo, lo que le inflige daño a la unidad objetivo equivalente al 200% de su propio ATQ y le causa congelación durante 5 s. La recarga es de 20 s. La recarga previa es de 11 s. |
+  |  Despertar  | ? | <Fractura Fría> Golpea a un enemigo con un frío extremo, lo que le inflige daño a la unidad objetivo equivalente al 200% de su propio ATQ y le causa congelación durante 5 s. La recarga es de 20 s. La recarga previa es de 11 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Elemental de Hielo un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Escudo de hielo> Proporciona un Escudo de hielo a una unidad de vanguardia amistosa aleatoria. Cuando están atacando a esta unidad, causa ralentización durante 3 s. El Escudo de hielo dura 10 s. La recarga es de 15 s. Esta habilidad se lanza al comienzo de la batalla. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Elemental de Hielo en 200. Cuando la unidad objetivo está bajo los efectos de congelación, este efecto se duplica. Al lanzar <Fractura Fría>, si la unidad objetivo está sufriendo la penalización de reducción de daño de unidad del efecto exclusivo de 3 estrellas del Elemental de Piedra, también disminuye la resistencia mágica de la unidad objetivo un 50%. Este efecto dura 8 s |

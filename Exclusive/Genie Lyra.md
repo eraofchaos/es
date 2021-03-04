@@ -2,7 +2,7 @@
 title: "Exclusivo - Lyra"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exclusivo Lyra. Genio Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Genie Lyra.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Guardián de la Lámpara> El Genio recibe una acumulación de Guardián de la Lámpara cada 5 s. Cada acumulación aumenta la reducción de daño de unidad un 2% y dura toda la batalla. Se acumula hasta 20 veces. Cuando el Genio recibe daño, obtiene otra acumulación de Guardián de la Lámpara. |
+  |  Despertar  | ? | <Guardián de la Lámpara> El Genio recibe una acumulación de Guardián de la Lámpara cada 5 s. Cada acumulación aumenta la reducción de daño de unidad un 2% y dura toda la batalla. Se acumula hasta 20 veces. Cuando el Genio recibe daño, obtiene otra acumulación de Guardián de la Lámpara. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Genio un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la curación del Genio un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | El Genio genera una niebla que reduce el daño de unidad de 2 unidades lanzadoras/a distancia enemigas al azar un 20% y el golpe crítico en 400 durante 10 s. La recarga es de 15 s. |

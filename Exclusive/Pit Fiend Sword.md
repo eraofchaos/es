@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Demonio del Abismo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Pit Fiend Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Latigazo> La Demonio del Abismo golpea con su látigo, lo que inflige daño equivalente al 300% de su propio ATQ a las unidades enemigas en una zona grande y les causa sangrado. Hay un 50% de probabilidad de reducir el daño de unidad un 20% durante 6 s. La recarga es de 16 s. |
+  |  Despertar  | ? | <Latigazo> La Demonio del Abismo golpea con su látigo, lo que inflige daño equivalente al 300% de su propio ATQ a las unidades enemigas en una zona grande y les causa sangrado. Hay un 50% de probabilidad de reducir el daño de unidad un 20% durante 6 s. La recarga es de 16 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de la Demonio del Abismo un 20% y su curación un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de las unidades amistosas del Infierno un 10% cuando la Demonio del Abismo está en el campo de batalla. |
   | **3x** <i class="fas fa-star"/> | ? | <Atadura Infernal> La Demonio del Abismo rodea a la unidad objetivo con su látigo, lo que expone sus debilidades, le impide moverse y atacar, y disminuye la reducción de daño de unidad un 15% durante 4 s. La recarga es de 20 s. |

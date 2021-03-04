@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gremlin"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Arco largo](/Exclusive/Gremlin Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Genio"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Lyra](/Exclusive/Genie Lyra/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

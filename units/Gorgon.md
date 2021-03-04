@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gorgona"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Cuerno de Gorgona](/Exclusive/Gorgon Gorgon's Horn/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

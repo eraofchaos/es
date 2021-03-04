@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Momia"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Gasa](/Exclusive/Mummy Gauze/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Hada Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Sprite Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Al comienzo de la batalla, aumenta el daño de unidad del Hada y la velocidad de ataque un 20% durante 30 s. |
+  |  Despertar  | ? | Al comienzo de la batalla, aumenta el daño de unidad del Hada y la velocidad de ataque un 20% durante 30 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Hada un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Hada en 200. |
   | **3x** <i class="fas fa-star"/> | ? | El Hada inflige daño equivalente al 450% de su propio ATQ a la unidad objetivo y le causa aleatoriamente congelación, quemaduras, petrificación o estática durante 3 s. La recarga es de 18 s. |

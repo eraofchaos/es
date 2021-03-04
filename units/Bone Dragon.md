@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Hueso de Dragón Inmortal](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

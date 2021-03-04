@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Muerto Viviente Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Walking Dead Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Matanza> El Muerto Viviente blande su cuchilla, lo que inflige daño igual al 100% de su ATQ a las unidades hostiles en una zona pequeña a su paso. Los objetivos golpeados sangran y reciben 10% de su ATQ en forma de daño por segundo. La recarga es de 20 s. |
+  |  Despertar  | ? | <Matanza> El Muerto Viviente blande su cuchilla, lo que inflige daño igual al 100% de su ATQ a las unidades hostiles en una zona pequeña a su paso. Los objetivos golpeados sangran y reciben 10% de su ATQ en forma de daño por segundo. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Muerto Viviente en 300. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Muerto Viviente en 500. |
   | **3x** <i class="fas fa-star"/> | ? | Si el objetivo tiene «Moral baja», la velocidad de ataque del Muerto Viviente y su absorción de vida aumentan un 20%. |

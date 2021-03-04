@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Ángel"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Durandel](/Exclusive/Angel Durandel/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

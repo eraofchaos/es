@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gnoll Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gnoll Espada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Heridas Abiertas> El Gnoll inflige daño equivalente al 275% de su propio ATQ a las unidades objetivo y les causa sangrado durante 8 s. La recarga es de 15 s. |
+  |  Despertar  | ? | <Heridas Abiertas> El Gnoll inflige daño equivalente al 275% de su propio ATQ a las unidades objetivo y les causa sangrado durante 8 s. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Gnoll en 100. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Gnoll un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la esquiva del Gnoll en 300. Al recibir un golpe crítico, restaura el 5% de los PV máximos y tiene un 50% de probabilidad de aumentar la reducción de daño de unidad un 50% durante 1 s. La recarga es de 3 s. |

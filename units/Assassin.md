@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Asesino"
 toc: true

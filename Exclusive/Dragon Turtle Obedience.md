@@ -2,7 +2,7 @@
 title: "Exclusivo - Obediencia"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obediencia. Obediencia. Era of Chaos Exclusivo Obediencia. Tortuga Dragón Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Dragon Turtle Obediencia.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Concha Escudo> La Tortuga Dragón lanza <Concha Escudo> cada 20 s. Durante los siguientes 6 s, aumenta el reflejo de daño de la Tortuga Dragón y la reducción de daño de unidad un 20% y, cuando la atacan unidades cuerpo a cuerpo enemigas, reduce su velocidad de ataque y daño de unidad un 20%. También causa desaliento. Si el objetivo está sangrando, reduce también su DEF un 20%. |
+  |  Despertar  | ? | <Concha Escudo> La Tortuga Dragón lanza <Concha Escudo> cada 20 s. Durante los siguientes 6 s, aumenta el reflejo de daño de la Tortuga Dragón y la reducción de daño de unidad un 20% y, cuando la atacan unidades cuerpo a cuerpo enemigas, reduce su velocidad de ataque y daño de unidad un 20%. También causa desaliento. Si el objetivo está sangrando, reduce también su DEF un 20%. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Tortuga Dragón un 20%. Cuando los héroes amistosos lanzan hechizos de tipo agua, la Tortuga Dragón obtiene una burbuja equivalente al 20% de sus PV máximos durante 10 s. La recarga es de 7 s. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la curación que recibe la Tortuga Dragón un 20%. Concede inmunidad al silencio. |
   | **3x** <i class="fas fa-star"/> | ? | <Rito Abisal> La primera vez que los PV de la Tortuga Dragón caen por debajo del 75%/50%/25%, disipa sus penalizaciones y aumenta la tenacidad y la esquiva en 200. Dura toda la batalla. Se acumula hasta 3 veces. |

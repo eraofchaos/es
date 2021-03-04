@@ -2,7 +2,7 @@
 title: "Exclusivo - Mil Toneladas"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Mil Toneladas. Mil Toneladas. Era of Chaos Exclusivo Mil Toneladas. Gigante Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Giant Mil Toneladas.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | El Gigante invoca un nimbo sobre una unidad aleatoria durante 10 s. El nimbo golpea a una unidad aleatoria dentro del alcance cada 0,5 s y cada ataque inflige daño equivalente al 40% de su propio ATQ. Si la misma unidad es golpeada dos veces seguidas en un periodo de 4 s, esta cae bajo los efectos de parálisis durante 5 s. Si la misma unidad es golpeada cuatro veces seguidas, esta cae bajo los efectos de demacración durante 2 s. La recarga es de 15 s. |
+  |  Despertar  | ? | El Gigante invoca un nimbo sobre una unidad aleatoria durante 10 s. El nimbo golpea a una unidad aleatoria dentro del alcance cada 0,5 s y cada ataque inflige daño equivalente al 40% de su propio ATQ. Si la misma unidad es golpeada dos veces seguidas en un periodo de 4 s, esta cae bajo los efectos de parálisis durante 5 s. Si la misma unidad es golpeada cuatro veces seguidas, esta cae bajo los efectos de demacración durante 2 s. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | El Gigante aumenta su daño de unidad un 10%. Cuando está en el campo de batalla, también aumenta el daño de unidad de las unidades lanzadoras amistosas un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | El Gigante despierta temporalmente al Elemental de Rayo del interior de su armadura, lo que aumenta su propio golpe crítico en 200 y su velocidad de ataque un 20% durante 8 s. La recarga es de 14 s. |
   | **3x** <i class="fas fa-star"/> | ? | El Gigante recarga su propia armadura una vez cada 10 s, lo que le permite bloquear daño 3 veces y emitir un pulso que aumenta la tenacidad de las unidades de Torre amistosas en 200 y la esquiva en 200 durante 6 s. |

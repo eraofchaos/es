@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Escorpión"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Cola de Escorpión. Cola de Escorpión. Era of Chaos Exclusivo Cola de Escorpión. Mantícora Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Manticore Cola de Escorpión.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Scorpion Raid> La Mantícora realiza un ataque de tres pasos contra la unidad objetivo cada 20 s, lo que inflige 100%, 125% y 150% del daño respectivamente e inyecta «veneno de escorpión» al objetivo. Además, la tenacidad y la esquiva de la unidad objetivo se reducen en 200 durante 5 s. |
+  |  Despertar  | ? | <Scorpion Raid> La Mantícora realiza un ataque de tres pasos contra la unidad objetivo cada 20 s, lo que inflige 100%, 125% y 150% del daño respectivamente e inyecta «veneno de escorpión» al objetivo. Además, la tenacidad y la esquiva de la unidad objetivo se reducen en 200 durante 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Mantícora un 25%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Mantícora un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico de la Mantícora en 300. Los ataques normales infligen daño adicional equivalente al 50% de su ATQ al luchar contra unidades que estén sangrando. |

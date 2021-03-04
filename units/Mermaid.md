@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Sirena"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Mareas Nocturnas](/Exclusive/Mermaid Night Tides/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

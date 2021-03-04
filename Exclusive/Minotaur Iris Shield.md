@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Minotauro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Minotaur Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Acometida Brutal> El Minotauro arremete con violencia contra el objetivo, le inflige daño equivalente al 300% de su propio ATQ y disminuye la reducción de daño de unidad de las unidades enemigas un 20% en una zona grande y su velocidad de ataque un 10% durante 7 s. La recarga es de 15 s. |
+  |  Despertar  | ? | <Acometida Brutal> El Minotauro arremete con violencia contra el objetivo, le inflige daño equivalente al 300% de su propio ATQ y disminuye la reducción de daño de unidad de las unidades enemigas un 20% en una zona grande y su velocidad de ataque un 10% durante 7 s. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Minotauro un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad en 400 durante 5 s cuando tiene la moral alta. |
   | **3x** <i class="fas fa-star"/> | ? | <Acometida Sanguinolenta> El Minotauro recupera PV equivalentes al 10% de sus propios PV máximos y reduce el daño de unidad de las unidades enemigas a corta distancia un 20% durante 6 s. La recarga es de 15 s. |

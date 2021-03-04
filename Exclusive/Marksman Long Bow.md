@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Ballestero Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Marksman Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 300% de su propio ATQ e ignora 1000 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
+  |  Despertar  | ? | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 300% de su propio ATQ e ignora 1000 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Ballestero un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Ballestero un 20% cuando el Ballestero tiene la moral alta. |
   | **3x** <i class="fas fa-star"/> | ? | Los ataques del Ballestero infligen Castigo a las unidades enemigas. Al atacar a la misma unidad objetivo un total de 18 veces, esta recibe daño adicional equivalente al 200% del ATQ del Ballestero. |

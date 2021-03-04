@@ -2,7 +2,7 @@
 title: "Exclusivo - Hueso de Dragón Inmortal"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Hueso de Dragón Inmortal. Hueso de Dragón Inmortal. Era of Chaos Exclusivo Hueso de Dragón Inmortal. Dragón de Hueso Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Bone Dragon Hueso de Dragón Inmortal.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dragon Power> Se puede lanzar cada 12 s para reducir la DEF un 5% y la resistencia mágica un 30% de todas las unidades hostiles durante 15 s, hasta un máximo de 5 acumulaciones. Además, <silence> a las unidades hostiles durante 3 s. Este efecto se activa cada vez que se derrota a una unidad hostil. |
+  |  Despertar  | ? | <Dragon Power> Se puede lanzar cada 12 s para reducir la DEF un 5% y la resistencia mágica un 30% de todas las unidades hostiles durante 15 s, hasta un máximo de 5 acumulaciones. Además, <silence> a las unidades hostiles durante 3 s. Este efecto se activa cada vez que se derrota a una unidad hostil. |
   | **1x** <i class="fas fa-star"/> | ? | Si hay un Dragón de Hueso en el campo de batalla, aumenta la tenacidad en 200 y la DEF un 10% de todas las unidades de Necrópolis amistosas. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Dragón de Hueso y el daño de la unidad un 30%. |
   | **3x** <i class="fas fa-star"/> | ? | El daño único que recibe el Dragón de Hueso no puede superar el 40% de sus PV máximos. Cuando recibe daño que supera el 28% de los PV máximos, lanza <Dragon Power>. La recarga es de 10 s. Al principio de la batalla, el Dragón de Hueso otorga un Halo de espinas a todas las unidades de Necrópolis amistosas, lo que aumenta su reflejo de daño un 10%. El efecto dura toda la batalla. |

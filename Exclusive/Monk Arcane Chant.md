@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Monje Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Monk Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Cada 9 s, <Preaching> se activa para restaurar PV igual al 125% del ATQ a la unidad amistosa con el porcentaje de PV más bajo. |
+  |  Despertar  | ? | Cada 9 s, <Preaching> se activa para restaurar PV igual al 125% del ATQ a la unidad amistosa con el porcentaje de PV más bajo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Monje un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Cada vez que se lanza <Preaching>, se otorga «Moral Alta» a una unidad amistosa aleatoria durante 10 s. |
   | **3x** <i class="fas fa-star"/> | ? | <Devotion>: El Monje disipa una penalización aleatoria de una unidad amistosa cada 10 s. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Centauro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Centaur Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sacudida Salvaje> Cuando concluye <Pisotón de Batalla> del Centauro, se genera una onda expansiva que ralentiza a los enemigos que se encuentren dentro de su alcance y reduce su daño de unidad un 20% durante 10 s. |
+  |  Despertar  | ? | <Sacudida Salvaje> Cuando concluye <Pisotón de Batalla> del Centauro, se genera una onda expansiva que ralentiza a los enemigos que se encuentren dentro de su alcance y reduce su daño de unidad un 20% durante 10 s. |
   | **1x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Centauro otorga a las unidades de vanguardia amistosas un escudo equivalente al 20% de los PV máximos durante 20 s. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando el Centauro obtiene un escudo, aumenta su DEF un 20% durante 10 s. Este efecto no se puede acumular. |
   | **3x** <i class="fas fa-star"/> | ? | <Sacudida Salvaje> Prolonga la duración 10 s e inflige daño a todas las unidades enemigas equivalente al 10% de su propio ATQ cada 0,5 s. |

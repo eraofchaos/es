@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco de Medusa"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco de Medusa. Arco de Medusa. Era of Chaos Exclusivo Arco de Medusa. Medusa Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Medusa Arco de Medusa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Medusa tiene un 50% de probabilidad de inyectar <Veneno de serpiente> a una unidad aleatoria al atacar. Tiene efecto toda la batalla y se acumula hasta 10 veces. Cuando la Medusa se enfrenta a una unidad con 10 acumulaciones de <Veneno de serpiente>, aumenta el daño de la unidad un 30%. <Veneno de serpiente>: Inflige daño igual al 5% del ATQ de la Medusa por segundo. |
+  |  Despertar  | ? | La Medusa tiene un 50% de probabilidad de inyectar <Veneno de serpiente> a una unidad aleatoria al atacar. Tiene efecto toda la batalla y se acumula hasta 10 veces. Cuando la Medusa se enfrenta a una unidad con 10 acumulaciones de <Veneno de serpiente>, aumenta el daño de la unidad un 30%. <Veneno de serpiente>: Inflige daño igual al 5% del ATQ de la Medusa por segundo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico de la Medusa en 300. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ y la velocidad de ataque de la Medusa un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Slough> La Medusa usa una habilidad cada 10 s para eliminar todas las penalizaciones que tenga. |

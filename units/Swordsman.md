@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Espadachín"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Escudo Iris](/Exclusive/Swordsman Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

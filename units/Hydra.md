@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Hidra"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Cabeza de Hidra](/Exclusive/Hydra Hydra's Head/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

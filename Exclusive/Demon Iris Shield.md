@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Demonio Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Demon Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Al principio de la batalla, aumenta la evasión del Demonio en 1000 durante 30 s. Aumenta la reducción de daño de la unidad de manera permanente un 1% por cada esquiva, hasta un máximo de un 30%. |
+  |  Despertar  | ? | Al principio de la batalla, aumenta la evasión del Demonio en 1000 durante 30 s. Aumenta la reducción de daño de la unidad de manera permanente un 1% por cada esquiva, hasta un máximo de un 30%. |
   | **1x** <i class="fas fa-star"/> | ? | Al principio de la batalla, aumenta la tenacidad del Demonio en 500 durante 30 s. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV del Demonio un 20% y la reducción de daño de la unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Demonio un 10%. La primera vez que se reducen los PV por debajo del 50% la DEF aumenta un 100% durante 10 s. |

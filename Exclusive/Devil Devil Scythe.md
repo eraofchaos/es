@@ -2,7 +2,7 @@
 title: "Exclusivo - Guadaña del Diablo"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Guadaña del Diablo. Guadaña del Diablo. Era of Chaos Exclusivo Guadaña del Diablo. Diablo Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Devil Guadaña del Diablo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | El Diablo revive en su punto de aparición 6 s después de su primera muerte. Cuando el Diablo revive, aumenta el daño crítico, la velocidad de ataque y la reducción de daño de la unidad un 10% de todas las unidades amistosas durante 20 s. Para las unidades de la facción de Infierno, el efecto se duplica. Cuando el Diablo revive, desata una <Revenge> sobre la unidad objetivo. <Revenge> Inflige daño igual al 200% del ATQ y «demacra» al objetivo. La habilidad puede activarse cada 45 s. «Demacración» dura 5 s y no se puede disipar. Reduce la reducción de daño de la unidad «demacrada» un 20% y la DEF un 20%. |
+  |  Despertar  | ? | El Diablo revive en su punto de aparición 6 s después de su primera muerte. Cuando el Diablo revive, aumenta el daño crítico, la velocidad de ataque y la reducción de daño de la unidad un 10% de todas las unidades amistosas durante 20 s. Para las unidades de la facción de Infierno, el efecto se duplica. Cuando el Diablo revive, desata una <Revenge> sobre la unidad objetivo. <Revenge> Inflige daño igual al 200% del ATQ y «demacra» al objetivo. La habilidad puede activarse cada 45 s. «Demacración» dura 5 s y no se puede disipar. Reduce la reducción de daño de la unidad «demacrada» un 20% y la DEF un 20%. |
   | **1x** <i class="fas fa-star"/> | ? | El Diablo lanza [Inferno Mark] a una unidad hostil aleatoria cada 9 s. Cada acumulación de la marca reduce la reducción de daño de la unidad objetivo un 7%, hasta un máximo de 3 acumulaciones. Cuando se alcanzan las tres acumulaciones, las marcas se consumen e infligen 300% de daño al objetivo. Las marcas duran toda la batalla y no se pueden disipar. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Diablo un 10% y la reducción de daño de la unidad un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Los ataques normales del Diablo infligen un 30% de su ATQ al objetivo y aumentan la penetración en 300. |

@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Guiverno"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Cola de Guiverno](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

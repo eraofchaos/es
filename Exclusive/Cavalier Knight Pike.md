@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Catafracto Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Cavalier Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Despertar  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Catafractos un 25% cuando reciben daño a distancia. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de los Catafractos un 20% y el daño de la unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la DEF de los Catafractos un 10%. Al principio de la batalla, aumenta la penetración de todas las unidades de Castillo amistosas en 300. Este efecto no se puede disipar |

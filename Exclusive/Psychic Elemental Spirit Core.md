@@ -2,7 +2,7 @@
 title: "Exclusivo - Núcleo Espiritual"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Núcleo Espiritual. Núcleo Espiritual. Era of Chaos Exclusivo Núcleo Espiritual. Elemental Psíquico Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Psychic Elemental Núcleo Espiritual.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Desmoralización> El Elemental Psíquico bombardea la mente del enemigo, lo que le inflige daño equivalente al 20% de los PV máximos a la unidad objetivo y recupera PV equivalentes al 50% de su propio ATQ. La recarga es de 20 s. |
+  |  Despertar  | ? | <Desmoralización> El Elemental Psíquico bombardea la mente del enemigo, lo que le inflige daño equivalente al 20% de los PV máximos a la unidad objetivo y recupera PV equivalentes al 50% de su propio ATQ. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Elemental Psíquico un 30%. |
   | **2x** <i class="fas fa-star"/> | ? | El Elemental Psíquico es inmune a todo el daño de hechizos. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, todas las unidades de Conflujo amistosas se vuelven inmunes a todo el daño de hechizo. |
   | **3x** <i class="fas fa-star"/> | ? | <Dominación> El Elemental Psíquico roba un 20% de la DEF de una unidad aleatoria, lo que le concede una bonificación basada en porcentaje durante 10 s. La recarga es de 10 s. |

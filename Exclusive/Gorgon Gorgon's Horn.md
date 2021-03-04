@@ -2,7 +2,7 @@
 title: "Exclusivo - Cuerno de Gorgona"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Cuerno de Gorgona. Cuerno de Gorgona. Era of Chaos Exclusivo Cuerno de Gorgona. Gorgona Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gorgon Cuerno de Gorgona.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Armadura Petrificada> La Gorgona cubre todo su cuerpo con una armadura petrificada, lo que aumenta su DEF un 24% y la reducción de daño de unidad un 20% durante 6 s. Cuando pierde todas las bonificaciones, la Gorgona inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande y tiene un 30% de probabilidad de causar petrificación durante 3 s. La recarga es de 18 s. |
+  |  Despertar  | ? | <Armadura Petrificada> La Gorgona cubre todo su cuerpo con una armadura petrificada, lo que aumenta su DEF un 24% y la reducción de daño de unidad un 20% durante 6 s. Cuando pierde todas las bonificaciones, la Gorgona inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande y tiene un 30% de probabilidad de causar petrificación durante 3 s. La recarga es de 18 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV de la Gorgona y la reducción de daño de unidad un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Al lanzar <Armadura Petrificada>, la Gorgona restaura PV equivalentes al 10% de sus propios PV máximos a lo largo de 5 s. |
   | **3x** <i class="fas fa-star"/> | ? | <Fisión Tectónica> Cuando la Gorgona pierde la bonificación de <Armadura Petrificada>, inflige ralentización o quemaduras a las unidades enemigas en una zona grande cada por segundo, e inflige daño equivalente al 3% de los PV máximos durante 6 s. |

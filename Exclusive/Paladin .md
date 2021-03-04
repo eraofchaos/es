@@ -2,7 +2,7 @@
 title: "Exclusivo - "
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Exclusivo . Paladín Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Paladin .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Guardia Imperecedera> El Paladín se protege a sí mismo y a una unidad aleatoria cuerpo a cuerpo que no sea del Infierno, aumenta la DEF y la reducción de daño de unidad un 20% a cada uno durante 10 s. También otorga el estado Guardián, que aumenta la DEF y la reducción de daño de unidad un 20% adicional a cada uno. El estado Guardián desaparece cuando la unidad recibe daño 10 veces. La recarga es de 15 s. |
+  |  Despertar  | ? | <Guardia Imperecedera> El Paladín se protege a sí mismo y a una unidad aleatoria cuerpo a cuerpo que no sea del Infierno, aumenta la DEF y la reducción de daño de unidad un 20% a cada uno durante 10 s. También otorga el estado Guardián, que aumenta la DEF y la reducción de daño de unidad un 20% adicional a cada uno. El estado Guardián desaparece cuando la unidad recibe daño 10 veces. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de las unidades amistosas cercanas a corta distancia un 20% y elimina los límites de las unidades de Castillo. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF de base del Paladín en 300 y la curación recibida un 30%. |
   | **3x** <i class="fas fa-star"/> | ? | <Orador Fiel> Despierta el poder intrépido del Paladín durante un breve instante, lo que reduce en 300 la precisión de las unidades enemigas en una zona grande y aumenta la tenacidad de las unidades amistosas en 300. Cada 4 s, purifica a las unidades amistosas dentro del alcance, lo que elimina 1 acumulación de penalización. Dura 12 s. La recarga es de 20 s. |

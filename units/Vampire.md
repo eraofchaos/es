@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Vampiro"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Pica de Caballero](/Exclusive/Vampire Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

@@ -2,7 +2,7 @@
 title: "Exclusivo - Báculo de Resurgimiento"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Báculo de Resurgimiento. Báculo de Resurgimiento. Era of Chaos Exclusivo Báculo de Resurgimiento. Druida Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Druid Báculo de Resurgimiento.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Látigo de Vides> Al principio de la batalla, se lanza sobre una unidad de la retaguardia enemiga al azar. Inflige un daño del 30% de su propio ATQ y restringe los movimientos del objetivo durante 10 s. También otorga a las unidades de la retaguardia amistosas un escudo equivalente al 25% de los PV máximos. Dura 10 s. |
+  |  Despertar  | ? | <Látigo de Vides> Al principio de la batalla, se lanza sobre una unidad de la retaguardia enemiga al azar. Inflige un daño del 30% de su propio ATQ y restringe los movimientos del objetivo durante 10 s. También otorga a las unidades de la retaguardia amistosas un escudo equivalente al 25% de los PV máximos. Dura 10 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el alcance del Druida en 50 y la tenacidad en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Al inicio de la batalla, aumenta su propia DEF un 70% y la reducción de daño de unidad de todas las unidades amistosas en una zona grande junto a la unidad lanzadora un 22% durante 15 s. |
   | **3x** <i class="fas fa-star"/> | ? | <Florecer Vital> Invoca 1 Florecer Vital cada 24 s. Los Floreceres Vitales bendicen a todas las unidades de Murallas en una zona grande cada 5 s un total de 5 veces, lo que aumenta su velocidad de ataque un 5% cada vez. Se acumula hasta 30 veces. El efecto dura 5 s. |

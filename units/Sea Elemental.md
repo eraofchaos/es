@@ -3,7 +3,7 @@ title: "Elemental del Mar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Elemental del Mar"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Canto Arcano](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

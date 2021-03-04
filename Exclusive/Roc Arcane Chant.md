@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Roc Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Roc Canto Arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Pulso de Estática> El Roc manipula los rayos en su cuerpo e inflige daño equivalente al 2% de sus PV máximos por segundo a las unidades enemigas en una zona grande y reduce la velocidad de ataque un 20% durante 5 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Pulso de Estática> El Roc manipula los rayos en su cuerpo e inflige daño equivalente al 2% de sus PV máximos por segundo a las unidades enemigas en una zona grande y reduce la velocidad de ataque un 20% durante 5 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Roc un 20% y el daño de golpe crítico un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Roc un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Cuando el Roc ataca a enemigos dentro del <Pulso de Estática>, aumenta su propia velocidad de ataque un 30% y el daño de golpe crítico un 40%. |

@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Naga"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Espada de Naga](/Exclusive/Naga Naga Sword/) 
+
+ **Is Open:** + 
 
  **Item to Subida de rango:** -
 

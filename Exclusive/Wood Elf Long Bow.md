@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Elfa del Bosque Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Wood Elf Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tormenta de Flechas> Los ataques normales de la Elfa del Bosque tienen un 3% de probabilidades de activar <Tormenta de Flechas>, que lanza una descarga de flechas a la zona objetivo e inflige un daño equivalente al 20% del ATQ de la Elfa del Bosque cada 0,5 s durante 3 s. |
+  |  Despertar  | ? | <Tormenta de Flechas> Los ataques normales de la Elfa del Bosque tienen un 3% de probabilidades de activar <Tormenta de Flechas>, que lanza una descarga de flechas a la zona objetivo e inflige un daño equivalente al 20% del ATQ de la Elfa del Bosque cada 0,5 s durante 3 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Elfa del Bosque un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de la Elfa del Bosque un 20% y su velocidad de ataque un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | El índice de activación de <Tormenta de Flechas> aumenta al 200% de la habilidad original y tiene un 50% de probabilidad de ralentizar a los enemigos, lo que reduce su velocidad de ataque un 10%. Dura 5 s. |

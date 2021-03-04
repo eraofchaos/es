@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Jinete Lupino Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Wolf Rider Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Golpe Lupino> El Jinete Lupino inflige un daño equivalente al 250% de su propio ATQ y un 5% de los PV máximos del objetivo a la unidad objetivo. La recarga es de 12 s. |
+  |  Despertar  | ? | <Golpe Lupino> El Jinete Lupino inflige un daño equivalente al 250% de su propio ATQ y un 5% de los PV máximos del objetivo a la unidad objetivo. La recarga es de 12 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Jinete Lupino un 20% y la velocidad de ataque un 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Jinete Lupino un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Pacto de Lobos> El Jinete Lupino invoca 1 lobo para que lo ayude en combate durante 10 s cada 3 s. Los ataques normales del lobo invocado tienen un 5% de probabilidad de causar aturdimiento durante 2 s al objetivo. |

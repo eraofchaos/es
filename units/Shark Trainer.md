@@ -3,7 +3,7 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Domador de Tiburones"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Olas de ruptura](/Exclusive/Shark Trainer Break Waves/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

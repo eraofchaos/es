@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Gremlin Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Gremlin Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Bomba mágica> Lanza una bola de hierro mágica a la unidad objetivo y le inflige daño equivalente al 200% de su propio ATQ a las unidades enemigas cercanas cuando la bola explota. La recarga es de 15 s. |
+  |  Despertar  | ? | <Bomba mágica> Lanza una bola de hierro mágica a la unidad objetivo y le inflige daño equivalente al 200% de su propio ATQ a las unidades enemigas cercanas cuando la bola explota. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Gremlin un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Despertar mágico> Aumenta la resistencia mágica del Gremlin un 6% y la reducción de daño de unidad un 3% durante 5 s. Se acumula hasta 10 veces. |
   | **3x** <i class="fas fa-star"/> | ? | <Bomba mágica> inflige daño adicional equivalente al 100% de su propio ATQ e inflige aturdimiento a las unidades enemigas durante 2 s. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Ala de Dragón Resplandeciente"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala de Dragón Resplandeciente. Ala de Dragón Resplandeciente. Era of Chaos Exclusivo Ala de Dragón Resplandeciente. Dragón Verde Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Green Dragon Ala de Dragón Resplandeciente.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Los ataques del Dragón Verde causan sangrado, lo que provoca que los objetivos reciban un daño equivalente al 2% de sus PV máximos cada 2 s durante 3 s. |
+  |  Despertar  | ? | Los ataques del Dragón Verde causan sangrado, lo que provoca que los objetivos reciban un daño equivalente al 2% de sus PV máximos cada 2 s durante 3 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Dragón Verde un 20% y el golpe crítico en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque del Dragón Verde un 30% cuando obtiene escudo. |
   | **3x** <i class="fas fa-star"/> | ? | <Guardia de Cristal> El Dragón Verde se protege con un recubrimiento de cristal que bloquea daño 5 veces. Tras bloquear daño por quinta vez, la <Guardia de Cristal> desaparece, las unidades enemigas cercanas reciben un daño equivalente al 100% del ATQ del Dragón Verde y quedan cristalizadas durante 3 s. Obtiene <Guardia de Cristal> cada 20 s. |

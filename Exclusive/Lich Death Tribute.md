@@ -2,7 +2,7 @@
 title: "Exclusivo - Tributo de Muerte"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Tributo de Muerte. Tributo de Muerte. Era of Chaos Exclusivo Tributo de Muerte. Liche Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Lich Tributo de Muerte.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dragon Soul Sacrifice> Cuando han pasado 5 s y 45 s desde el inicio de la batalla, se invoca un Dragón de Hueso que dura 20 s.　(El ATQ y los PV del Dragón de Hueso dependen del nivel de la unidad. El Dragón de Hueso tiene <Fear> y <Penetration>. Cuando está en el campo de batalla, aumenta el daño y la reducción de daño de las unidades de Necrópolis amistosas un 20%). |
+  |  Despertar  | ? | <Dragon Soul Sacrifice> Cuando han pasado 5 s y 45 s desde el inicio de la batalla, se invoca un Dragón de Hueso que dura 20 s.　(El ATQ y los PV del Dragón de Hueso dependen del nivel de la unidad. El Dragón de Hueso tiene <Fear> y <Penetration>. Cuando está en el campo de batalla, aumenta el daño y la reducción de daño de las unidades de Necrópolis amistosas un 20%). |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la Liche un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Cuando la Liche ofrece un sacrificio (incluyendo un Sacrificio de Alma de Dragón), reduce la resistencia mágica de todas las unidades hostiles un 20% durante 10 s, hasta un máximo de 3 acumulaciones. |
   | **3x** <i class="fas fa-star"/> | ? | <Arrebato de alma> La Liche invoca el alma de un Dragón de Hueso cada 15 s, lo que inflige daño igual al 20% de los PV máximos a una unidad de la retaguardia aleatoria y causa «Desaliento» y «Moral baja» durante 10 s. |

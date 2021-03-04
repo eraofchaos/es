@@ -2,7 +2,7 @@
 title: "Exclusivo - Hoja de Hierbavispa"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Hoja de Hierbavispa. Hoja de Hierbavispa. Era of Chaos Exclusivo Hoja de Hierbavispa. Hierbavispa Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Waspwort Hoja de Hierbavispa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Veneno Letal> Cada 4 s, la Hierbavispa lanza Hoja de Hierbavispa a 1 unidad enemiga aleatoria (cuando se lanza de nuevo a la misma unidad enemiga aleatoriamente, el efecto se acumula). Las Hierbavispas que se posan en una Hoja de Hierbavispa infligen daño equivalente al 10% de su propio ATQ a las unidades enemigas por segundo y tienen un 10% de probabilidad de causar silencio durante 3 s. La recarga es de 9 s. |
+  |  Despertar  | ? | <Veneno Letal> Cada 4 s, la Hierbavispa lanza Hoja de Hierbavispa a 1 unidad enemiga aleatoria (cuando se lanza de nuevo a la misma unidad enemiga aleatoriamente, el efecto se acumula). Las Hierbavispas que se posan en una Hoja de Hierbavispa infligen daño equivalente al 10% de su propio ATQ a las unidades enemigas por segundo y tienen un 10% de probabilidad de causar silencio durante 3 s. La recarga es de 9 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Hierbavispa un 15% y la perforación de DEF en 150. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Hierbavispa un 15%. Este efecto se duplica al atacar a unidades cuerpo a cuerpo. |
   | **3x** <i class="fas fa-star"/> | ? | <Hoja Venenosa> Cuando muere alguna criatura amistosa, la Hierbavispa controla las Hojas de Hierbavispa para que apliquen veneno a las unidades enemigas, lo que les causa parálisis durante 5 s. Al mismo tiempo, purifica y elimina 1 acumulación de ventaja. |

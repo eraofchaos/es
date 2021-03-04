@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Gólem de Hierro Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Iron Golem Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Módulo de mejora> El Gólem de Hierro activa el Módulo de mejora que oculta en su interior, lo que le aumenta la DEF un 10%, la reducción de daño de unidad un 10% y la velocidad de ataque un 30% durante 10 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Módulo de mejora> El Gólem de Hierro activa el Módulo de mejora que oculta en su interior, lo que le aumenta la DEF un 10%, la reducción de daño de unidad un 10% y la velocidad de ataque un 30% durante 10 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Gólem de Hierro un 20% y su DEF un 15%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Gólem de Hierro en 300. Cuando lanza <Módulo de mejora>, la bonificación de tenacidad se duplica. |
   | **3x** <i class="fas fa-star"/> | ? | <Puño Electromagnético> Cuando el Gólem de Hierro ataca, tiene un 10% de probabilidad de lanzar <Puño Electromagnético> una vez, lo que inflige daño equivalente al 200% de su propio ATQ a la unidades objetivo y reduce su daño de unidad y reducción de daño de unidad un 10% cada 5 s. Se acumula hasta 4 veces. |

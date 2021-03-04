@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Unicornio Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Unicorn Pica de Caballero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Reflejo de Escudo> Cuando el Unicornio pierde su escudo, inflige daño equivalente al 150% de su propio ATQ a los enemigos a corta distancia. Si la unidad objetivo está sangrando, su DEF también se reduce un 20%. Dura 5 s. |
+  |  Despertar  | ? | <Reflejo de Escudo> Cuando el Unicornio pierde su escudo, inflige daño equivalente al 150% de su propio ATQ a los enemigos a corta distancia. Si la unidad objetivo está sangrando, su DEF también se reduce un 20%. Dura 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Unicornio un 20% y la esquiva en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Unicornio un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Racha Azul> Cuando el Unicornio recibe daño por encima del 15% de sus PV máximos en un solo ataque, su cuerno emite una luz brillante que ciega a la unidad objetivo. Si la unidad objetivo ya está cegada, su daño de unidad también se reduce un 20%. Dura 8 s. |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Cabeza de Hidra"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Cabeza de Hidra. Cabeza de Hidra. Era of Chaos Exclusivo Cabeza de Hidra. Hidra Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Hydra Cabeza de Hidra.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frenesí Voraz> Muerde al enemigo 1 vez cada 1 s, lo ataca 5 veces en total y le inflige daño equivalente al 50% de su propio ATQ cada vez. Reduce la tenacidad del enemigo en 50 y aumenta su propio daño de golpe crítico un 4%. Se acumula hasta 5 veces. Este efecto dura 3 s. La recarga es de 20 s. |
+  |  Despertar  | ? | <Frenesí Voraz> Muerde al enemigo 1 vez cada 1 s, lo ataca 5 veces en total y le inflige daño equivalente al 50% de su propio ATQ cada vez. Reduce la tenacidad del enemigo en 50 y aumenta su propio daño de golpe crítico un 4%. Se acumula hasta 5 veces. Este efecto dura 3 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad de la Hidra y el ATQ un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF de la Hidra y la reducción de daño de unidad un 10%. Cuando la Hidra está en el campo de batalla, aumenta la DEF de todas las unidades de Fortaleza amistosas un 10% y la reducción de daño de unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Renacer> Cuando recibe daño superior al 10% de sus propios PV máximos en un solo ataque, pero inferior al 20% de sus PV máximos, recupera 500.000 PV después al cabo de 3 s. Cuando recibe daño superior al 20% de sus propios PV máximos en un solo ataque, se vuelve inmune al daño más allá de ese 20%. |

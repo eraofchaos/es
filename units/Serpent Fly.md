@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Libélula Menor"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Canto Arcano](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Is Open:** + 
 
  **Item to Subida de rango:** -
 

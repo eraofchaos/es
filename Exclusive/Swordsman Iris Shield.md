@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Espadachín Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Swordsman Escudo Iris.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Rompeescudos> El Espadachín ralentiza a una unidad enemiga cada 18 s y disminuye su reducción de daño de unidad un 15% durante 7 s. |
+  |  Despertar  | ? | <Rompeescudos> El Espadachín ralentiza a una unidad enemiga cada 18 s y disminuye su reducción de daño de unidad un 15% durante 7 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV un 20% y la esquiva en 200. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF un 20% durante 5 s cuando tiene la moral alta. |
   | **3x** <i class="fas fa-star"/> | ? | <Recuperación> Cuando una unidad de Espadachín recibe daño superior al 8% de sus PV máximos con un solo ataque, recupera PV equivalentes al 150% de su propio ATQ. La recarga es de 10 s. |

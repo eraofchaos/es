@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [Arco largo](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

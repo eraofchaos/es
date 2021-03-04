@@ -2,7 +2,7 @@
 title: "Exclusivo - Mareas Nocturnas"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Mareas Nocturnas. Mareas Nocturnas. Era of Chaos Exclusivo Mareas Nocturnas. Sirena Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Mermaid Mareas Nocturnas.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Oda del Guardián> Cuando la Sirena recibe daño superior al 30% de sus PV máximos en un solo ataque, obtiene una burbuja equivalente al 25% de sus PV máximos y aumenta la DEF en 400 durante 15 s. La recarga es de 10 s. |
+  |  Despertar  | ? | <Oda del Guardián> Cuando la Sirena recibe daño superior al 30% de sus PV máximos en un solo ataque, obtiene una burbuja equivalente al 25% de sus PV máximos y aumenta la DEF en 400 durante 15 s. La recarga es de 10 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ y la velocidad de ataque de la Sirena un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Canción de Auxilio> La Sirena aumenta el daño de unidad de una unidad lanzadora/a distancia amistosa al azar un 25% y le concede una burbuja equivalente al 20% de sus PV máximos durante 10 s. La recarga es de 20 s. |
   | **3x** <i class="fas fa-star"/> | ? | <Canto de Sirena> La Sirena entona el Canto de Sirena, lo que causa sueño a 2 unidades enemigas aleatorias durante 5 s. También restaura PV equivalentes al 60% del ATQ de la Sirena a las unidades de la retaguardia amistosas por segundo durante 10 s. La recarga es de 24 s. |

@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Paladín"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Exclusivo
 
  **Name:** [](/Exclusive/Paladin /) 
+
+ **Is Open:** - 
 
  **Item to Subida de rango:** -
 

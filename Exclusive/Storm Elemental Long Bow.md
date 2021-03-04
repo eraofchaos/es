@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Elemental de Tormenta Exclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: es
 ref: "Storm Elemental Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto exclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fuerza de la Naturaleza> El Elemental de Tormenta aplica el Juicio de los Cielos, que inflige daño equivalente al 300% de su propio ATQ a la unidad objetivo y le causa parálisis durante 5 s. La recarga es de 20 s. La recarga previa es de 12 s. |
+  |  Despertar  | ? | <Fuerza de la Naturaleza> El Elemental de Tormenta aplica el Juicio de los Cielos, que inflige daño equivalente al 300% de su propio ATQ a la unidad objetivo y le causa parálisis durante 5 s. La recarga es de 20 s. La recarga previa es de 12 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Elemental de Tormenta un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Elemental de Tormenta en 200 y el daño de golpe crítico un 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Elemental de Tormenta en 200. Cuando la unidad objetivo está bajo los efectos de parálisis, este efecto se duplica. Al lanzar <Fuerza de la Naturaleza>, si la unidad objetivo está sufriendo la penalización de resistencia mágica del efecto exclusivo de 3 estrellas del Elemental de Hielo, activa <Furia Elemental>. Esto inflige daño equivalente al 100% de su propio ATQ más un 2% de los PV máximos del objetivo a las unidades enemigas en una zona grande cada 0,2 s, y también disminuye la reducción de daño de unidad y la DEF un 20% durante 3 s. |
