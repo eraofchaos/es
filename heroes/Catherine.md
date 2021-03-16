@@ -3,12 +3,12 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis."
 heroID: 60102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: es
 ref: "Catherine"
 toc: true
 ---
- **Descripción:** Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis.
+ **Description:** Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis.
 ## Details
  **Profession:** Caballero
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flecha de tierra
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 3 s.
 
 ### 2 Spell: Alborozo
- **Descripción:** Concede <span style="color: #e07c44;font-size:20px">Moral alta</span><span style="color: black"> a todas las unidades amistosas que no sean de Necrópolis dentro del alcance, aumentando su velocidad de ataque en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Dura <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Concede <span style="color: #e07c44;font-size:20px">Moral alta</span><span style="color: black"> a todas las unidades amistosas que no sean de Necrópolis dentro del alcance, aumentando su velocidad de ataque en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)>%. Dura <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Matagigantes
- **Descripción:** Aumenta el ataque un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> para las unidades amistosas en una zona grande durante {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Para las unidades de 9 miembros dura 5 s adicionales.
+ **Description:** Aumenta el ataque un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> para las unidades amistosas en una zona grande durante {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Para las unidades de 9 miembros dura 5 s adicionales.
 
 ### 4 Spell: Ventisca
- **Descripción:** Invoca una Ventisca que inflige daño de hechizo de agua 5 veces (hasta un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 8 s.
+ **Description:** Invoca una Ventisca que inflige daño de hechizo de agua 5 veces (hasta un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 8 s.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Clásico**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">¡Nunca hubo un Salvador! ¡Salvaos! ¡Tomad las armas y proteged lo que amáis! </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">¡Nunca hubo un Salvador! ¡Salvaos! ¡Tomad las armas y proteged lo que amáis! </span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Capitán**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Navegaremos hacia Erathia y lucharemos por la justicia. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Navegaremos hacia Erathia y lucharemos por la justicia. </span>
 
  **Skin features:** 
 
@@ -76,7 +76,7 @@ toc: true
 
 ### Skin 3: **Boda Real**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Espero que nuestra unión traiga paz a la nación y felicidad a nuestra gente. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Espero que nuestra unión traiga paz a la nación y felicidad a nuestra gente. </span>
 
  **Skin features:** 
 
@@ -86,7 +86,7 @@ toc: true
 
 ### Skin 4: **Famosillo**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Si no fuese por todos los invitados a la fiesta, podría ver el palacio de mi padre desde el otro lado del jardín. Esa luz verde brilla en la noche para guiarme a casa. <span style="color: #ffffff;font-size:20px">. Catherine, hablando con su amiga Christine</span>[]
+ **Description:** <span style="color: #ffffff;font-size:20px">Si no fuese por todos los invitados a la fiesta, podría ver el palacio de mi padre desde el otro lado del jardín. Esa luz verde brilla en la noche para guiarme a casa. <span style="color: #ffffff;font-size:20px">. Catherine, hablando con su amiga Christine</span>[]
 
  **Skin features:** 
 
@@ -96,7 +96,7 @@ toc: true
 
 ### Skin 5: **Alas de triunfo**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">¡El mal no puede prevalecer! La Alianza de la Justicia se ha unido para hacer frente a la invasión de Lucifer Kreegan y ha jurado proteger la paz en Erathia.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">¡El mal no puede prevalecer! La Alianza de la Justicia se ha unido para hacer frente a la invasión de Lucifer Kreegan y ha jurado proteger la paz en Erathia.</span>
 
  **Skin features:** 
 

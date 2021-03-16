@@ -3,12 +3,12 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna."
 heroID: 61201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: es
 ref: "Solmyr"
 toc: true
 ---
- **Descripción:** Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna.
+ **Description:** Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna.
 ## Details
  **Profession:** Hechicero
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flecha de aire
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
 
 ### 2 Spell: Relámpago
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de aire a todas las unidades enemigas dentro del área de efecto.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de aire a todas las unidades enemigas dentro del área de efecto.
 
 ### 3 Spell: Muro de viento
- **Descripción:** Invoca 1 muro de viento que aumenta la esquiva un {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> y la velocidad de movimiento en {$buffaddattr22+$buffaddattr23*($sklevel-1)} para las unidades amistosas que lo atraviesen durante {$olast11/1000} s.
+ **Description:** Invoca 1 muro de viento que aumenta la esquiva un {<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black"> y la velocidad de movimiento en {$buffaddattr22+$buffaddattr23*($sklevel-1)} para las unidades amistosas que lo atraviesen durante {$olast11/1000} s.
 
 ### 4 Spell: Rayo en cadena
- **Descripción:** Lanza 1 descarga de relámpagos que salta 5 veces entre diferentes unidades enemigas. Cada salto inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> de daño de hechizo de aire.
+ **Description:** Lanza 1 descarga de relámpagos que salta 5 veces entre diferentes unidades enemigas. Cada salto inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> de daño de hechizo de aire.
 
 
 ## HERO Biography
@@ -54,7 +54,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Clásico**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">¡Juro lealtad solo al Rey de Bracada, que me ha liberado de mi prisión cristalina! </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">¡Juro lealtad solo al Rey de Bracada, que me ha liberado de mi prisión cristalina! </span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 2: **Diablo en una botella**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Cuatro siglos después de que le sumergiesen en las profundidades del mar, el diablo en la botella juró matar al hombre que lo liberase del sello. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Cuatro siglos después de que le sumergiesen en las profundidades del mar, el diablo en la botella juró matar al hombre que lo liberase del sello. </span>
 
  **Skin features:** 
 

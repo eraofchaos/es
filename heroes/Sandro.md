@@ -3,12 +3,12 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja."
 heroID: 60501
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: es
 ref: "Sandro"
 toc: true
 ---
- **Descripción:** Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja.
+ **Description:** Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja.
 ## Details
  **Profession:** Nigromante
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flecha de tierra
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 3 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 3 s.
 
 ### 2 Spell: Animar a los muertos
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia que no sean de la facción de Necrópolis y restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia que no sean de la facción de Necrópolis y restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 3 Spell: Implosión
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y tiene un 50% de probabilidad de causarles <span style="color: #e07c44;font-size:20px">aturdimiento</span><span style="color: black"> durante 2 s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y tiene un 50% de probabilidad de causarles <span style="color: #e07c44;font-size:20px">aturdimiento</span><span style="color: black"> durante 2 s.
 
 ### 4 Spell: Las horas más oscuras
- **Descripción:** Inflige daño de hechizo de tierra a las unidades hostiles que no sean de Necrópolis igual a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> y al 5 % de sus PV máximos, les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s. Además, restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, y les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black">.
+ **Description:** Inflige daño de hechizo de tierra a las unidades hostiles que no sean de Necrópolis igual a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> y al 5 % de sus PV máximos, les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s. Además, restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, y les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black">.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Clásico**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">La muerte es una nueva vida, mis mentiras son solo complicadas trampas para hacerte tropezar y desestabilizarte. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">La muerte es una nueva vida, mis mentiras son solo complicadas trampas para hacerte tropezar y desestabilizarte. </span>
 
 
 ### Skin 2: **Complot letal**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Con una pequeña gota podrías derrocar reinos. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Con una pequeña gota podrías derrocar reinos. </span>
 
  **Skin features:** 
 

@@ -3,12 +3,12 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria."
 heroID: 62001
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: es
 ref: "Kassandra"
 toc: true
 ---
- **Descripción:** Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria.
+ **Description:** Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria.
 ## Details
  **Profession:** 
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Asesinato con hoja oculta
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas a cierta distancia y <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas a cierta distancia y <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 2 Spell: Frenético
- **Descripción:** Sacrifica los PV de unidades amistosas equivalentes al 30% de sus PV máximos en una zona grande (no inflige un daño letal), a la vez que aumenta el daño que infligen un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Description:** Sacrifica los PV de unidades amistosas equivalentes al 30% de sus PV máximos en una zona grande (no inflige un daño letal), a la vez que aumenta el daño que infligen un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 3 Spell: Silencio
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 ### 4 Spell: La lanza de Leónidas
- **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> y <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
+ **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> y <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **null**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Una persona misteriosa de un mundo diferente. Posee una habilidad extraordinaria para el combate.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Una persona misteriosa de un mundo diferente. Posee una habilidad extraordinaria para el combate.</span>
 
 
 ### Skin 2: **Amazona**
 
- **Descripción:** <span style="color: #ffffff;font-size:20px">Alterar tu estilo de combate de vez en cuando no parece una mala idea.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Alterar tu estilo de combate de vez en cuando no parece una mala idea.</span>
 
  **Skin features:** 
 
