@@ -3,12 +3,12 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal."
 heroID: 60502
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: es
 ref: "Vidomina"
 toc: true
 ---
- **Description:** Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal.
+ **Descripción:** Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal.
 ## Details
  **Profession:** Nigromante
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Flecha de aire
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
+ **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
 
 ### 2 Spell: Nigromancia
- **Description:** Invoca 9 Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+ **Descripción:** Invoca 9 Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
 ### 3 Spell: Animar a los muertos
- **Description:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia que no sean de la facción de Necrópolis y restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
+ **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia que no sean de la facción de Necrópolis y restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
 ### 4 Spell: Ejército de no muertos
- **Description:** Invoca Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo que igualan el número de unidades enemigas que se encuentren en ella. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+ **Descripción:** Invoca Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo que igualan el número de unidades enemigas que se encuentren en ella. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Clásico**
 
- **Description:** <span style="color: #ffffff;font-size:20px">¡La muerte es como un cuerpo celestial, atrae mareas de huesos que lo engloban todo! </span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">¡La muerte es como un cuerpo celestial, atrae mareas de huesos que lo engloban todo! </span>
 
 
 ### Skin 2: **Bruja de los caramelos**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Las almas puras siempre se sienten atraídas por los festivales y los caramelos.</span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">Las almas puras siempre se sienten atraídas por los festivales y los caramelos.</span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Aprendiz de herejía**
 
- **Description:** <span style="color: #ffffff;font-size:20px">La mayoría solo ve la fealdad y el caos de la muerte, pero yo veo la verdad de la eternidad.</span>
+ **Descripción:** <span style="color: #ffffff;font-size:20px">La mayoría solo ve la fealdad y el caos de la muerte, pero yo veo la verdad de la eternidad.</span>
 
  **Skin features:** 
 

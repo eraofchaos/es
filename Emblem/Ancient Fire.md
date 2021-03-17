@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Fuego antiguo"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Fuego antiguo. Fuego antiguo. Era of Chaos Emblema Sagrado Fuego antiguo. Era of Chaos Orden Fuego antiguo"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: es
 ref: "Ancient Fire.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Fuego antiguo
 
- **Type:** [Orden](/Emblem/Type Order/)
+ **Type:** [Orden](/es/Emblem/Type Order/)
 
-  [Orden](/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Fuego antiguo](/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 4%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
-  | [Fuego antiguo](/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 2%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
-  | [Fuego antiguo](/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 12%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
-  | [Fuego antiguo](/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 8%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 
+  | [Fuego antiguo](/es/Emblem/Ancient Fire/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 4%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
+  | [Fuego antiguo](/es/Emblem/Ancient Fire/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 2%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
+  | [Fuego antiguo](/es/Emblem/Ancient Fire/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 12%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
+  | [Fuego antiguo](/es/Emblem/Ancient Fire/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra unidades de tierra, el daño de la unidad aumenta un 8%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 
 
   |         Descripción            | 
   |:-------------------------------|

@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Autónimo olvidado"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Autónimo olvidado. Autónimo olvidado. Era of Chaos Emblema Sagrado Autónimo olvidado. Era of Chaos Maligno Autónimo olvidado"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: es
 ref: "Forgotten Autonym.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Autónimo olvidado
 
- **Type:** [Maligno](/Emblem/Type Evil/)
+ **Type:** [Maligno](/es/Emblem/Type Evil/)
 
-  [Orden](/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Autónimo olvidado](/Emblem/Forgotten Autonym/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 1% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
-  | [Autónimo olvidado](/Emblem/Forgotten Autonym/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 2% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
-  | [Autónimo olvidado](/Emblem/Forgotten Autonym/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 3% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 
-  | [Autónimo olvidado](/Emblem/Forgotten Autonym/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 4% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
+  | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 1% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
+  | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 2% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
+  | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 3% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 
+  | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 4% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
 
   |         Descripción            | 
   |:-------------------------------|

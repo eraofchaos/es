@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Legado de Puño de Hierro"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Legado de Puño de Hierro. Legado de Puño de Hierro. Era of Chaos Emblema Sagrado Legado de Puño de Hierro. Era of Chaos Orden Legado de Puño de Hierro"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: es
 ref: "Ironfist's Legacy.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Legado de Puño de Hierro
 
- **Type:** [Orden](/Emblem/Type Order/)
+ **Type:** [Orden](/es/Emblem/Type Order/)
 
-  [Orden](/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 18% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7%, Emblema Sagrado de DEF +16</span> | 
-  | [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 10% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2%, Emblema Sagrado de DEF +6</span> | 
-  | [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 35% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20%, Emblema Sagrado de DEF +55</span> | 
-  | [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 25% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15%, Emblema Sagrado de DEF +30</span> | 
+  | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 18% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7%, Emblema Sagrado de DEF +16</span> | 
+  | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 10% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2%, Emblema Sagrado de DEF +6</span> | 
+  | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 35% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20%, Emblema Sagrado de DEF +55</span> | 
+  | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Disminuye la curación recibida por la unidad objetivo un 25% durante 6 s. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15%, Emblema Sagrado de DEF +30</span> | 
 
   |         Descripción            | 
   |:-------------------------------|

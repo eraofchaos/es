@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Ángel Guardián"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Ángel Guardián. Ángel Guardián. Era of Chaos Emblema Sagrado Ángel Guardián. Era of Chaos Bien Ángel Guardián"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: es
 ref: "Guardian Angel.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Ángel Guardián
 
- **Type:** [Bien](/Emblem/Type Goodness/)
+ **Type:** [Bien](/es/Emblem/Type Goodness/)
 
-  [Orden](/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Ángel Guardián](/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 30% de recuperar un 5% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20%, Emblema Sagrado de DEF +55</span> | 
-  | [Ángel Guardián](/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 15% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7%, Emblema Sagrado de DEF +16</span> | 
-  | [Ángel Guardián](/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 25% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15%, Emblema Sagrado de DEF +30</span> | 
-  | [Ángel Guardián](/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 10% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2%, Emblema Sagrado de DEF +6</span> | 
+  | [Ángel Guardián](/es/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 30% de recuperar un 5% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20%, Emblema Sagrado de DEF +55</span> | 
+  | [Ángel Guardián](/es/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +3%, Emblema Sagrado de DEF +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 15% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +7%, Emblema Sagrado de DEF +16</span> | 
+  | [Ángel Guardián](/es/Emblem/Guardian Angel/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 25% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15%, Emblema Sagrado de DEF +30</span> | 
+  | [Ángel Guardián](/es/Emblem/Guardian Angel/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asesten un golpe crítico, tienen una probabilidad del 10% de recuperar un 3% de sus PV máximos.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +2%, Emblema Sagrado de DEF +6</span> | 
 
   |         Descripción            | 
   |:-------------------------------|
