@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Dragón
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Aliento de dragón: Ataca a los enemigos en una zona grande y los quema.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras de Dragón Mágico](/equipment/Garras de Dragón Mágico/) | **ATQ** | **DEF** | 
-  | [Fuego Devastador](/equipment/Fuego Devastador/) | **PV** | **DEF** | 
-  | [Alas Tapacielos](/equipment/Alas Tapacielos/) | **ATQ** | **DEF** | 
-  | [Escama Blindada](/equipment/Escama Blindada/) | **PV** | **DEF** | 
+  | [Garras de Dragón Mágico](/es/equipment/Garras de Dragón Mágico/) | **ATQ** | **DEF** | 
+  | [Fuego Devastador](/es/equipment/Fuego Devastador/) | **PV** | **DEF** | 
+  | [Alas Tapacielos](/es/equipment/Alas Tapacielos/) | **ATQ** | **DEF** | 
+  | [Escama Blindada](/es/equipment/Escama Blindada/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escama de Dragón Negro](/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Name:** [Escama de Dragón Negro](/es/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

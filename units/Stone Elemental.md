@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental de Piedra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Escupitajo letal. Aturde.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Núcleo de Magma](/equipment/Núcleo de Magma/) | **ATQ** | **DEF** | 
-  | [Magma Explosivo](/equipment/Magma Explosivo/) | **PV** | **DEF** | 
-  | [Piedra del Crepúsculo](/equipment/Piedra del Crepúsculo/) | **ATQ** | **DEF** | 
-  | [Corona de Piedra](/equipment/Corona de Piedra/) | **PV** | **DEF** | 
+  | [Núcleo de Magma](/es/equipment/Núcleo de Magma/) | **ATQ** | **DEF** | 
+  | [Magma Explosivo](/es/equipment/Magma Explosivo/) | **PV** | **DEF** | 
+  | [Piedra del Crepúsculo](/es/equipment/Piedra del Crepúsculo/) | **ATQ** | **DEF** | 
+  | [Corona de Piedra](/es/equipment/Corona de Piedra/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Núcleo de Energía](/Exclusive/Stone Elemental Energy Core/) 
+ **Name:** [Núcleo de Energía](/es/Exclusive/Stone Elemental Energy Core/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Erdamon](/heroes/Erdamon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Erdamon](/es/heroes/Erdamon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

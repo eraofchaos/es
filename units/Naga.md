@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Naga"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Danza de hojas: Daño en área y reducción de la DEF de daño en área.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hoja Imperecedera](/equipment/Hoja Imperecedera/) | **ATQ** | **DEF** | 
-  | [Hombreras de Navegación](/equipment/Hombreras de Navegación/) | **PV** | **DEF** | 
-  | [Tocado del Dios Serpiente](/equipment/Tocado del Dios Serpiente/) | **ATQ** | **DEF** | 
-  | [Pretina Fuerte y Flexible](/equipment/Pretina Fuerte y Flexible/) | **PV** | **DEF** | 
+  | [Hoja Imperecedera](/es/equipment/Hoja Imperecedera/) | **ATQ** | **DEF** | 
+  | [Hombreras de Navegación](/es/equipment/Hombreras de Navegación/) | **PV** | **DEF** | 
+  | [Tocado del Dios Serpiente](/es/equipment/Tocado del Dios Serpiente/) | **ATQ** | **DEF** | 
+  | [Pretina Fuerte y Flexible](/es/equipment/Pretina Fuerte y Flexible/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada de Naga](/Exclusive/Naga Naga Sword/) 
+ **Name:** [Espada de Naga](/es/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Profeta Verde](/Emblem/Green Prophet/) (Bien)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

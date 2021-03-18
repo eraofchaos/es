@@ -3,7 +3,7 @@ title: "Hierbavispa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
 unitID: 808
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Hierbavispa"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** DPS y control.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rama Floreciente Recia](/equipment/Rama Floreciente Recia/) | **ATQ** | **DEF** | 
-  | [Espina Tóxica](/equipment/Espina Tóxica/) | **PV** | **DEF** | 
-  | [Adalid Floral](/equipment/Adalid Floral/) | **ATQ** | **DEF** | 
-  | [Abeja Asesina](/equipment/Abeja Asesina/) | **PV** | **DEF** | 
+  | [Rama Floreciente Recia](/es/equipment/Rama Floreciente Recia/) | **ATQ** | **DEF** | 
+  | [Espina Tóxica](/es/equipment/Espina Tóxica/) | **PV** | **DEF** | 
+  | [Adalid Floral](/es/equipment/Adalid Floral/) | **ATQ** | **DEF** | 
+  | [Abeja Asesina](/es/equipment/Abeja Asesina/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Hoja de Hierbavispa](/Exclusive/Waspwort Waspwort Leaf/) 
+ **Name:** [Hoja de Hierbavispa](/es/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

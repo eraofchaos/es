@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Sirena"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Los Inframares
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Curación en grupo. Ventajas potentes.
 
@@ -65,26 +65,26 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Órgano del Mar](/equipment/Órgano del Mar/) | **ATQ** | **DEF** | 
-  | [Pendientes de Murloc](/equipment/Pendientes de Murloc/) | **PV** | **DEF** | 
-  | [Cola de Pez Flexible](/equipment/Cola de Pez Flexible/) | **ATQ** | **DEF** | 
-  | [Protección del Océano](/equipment/Protección del Océano/) | **PV** | **DEF** | 
+  | [Órgano del Mar](/es/equipment/Órgano del Mar/) | **ATQ** | **DEF** | 
+  | [Pendientes de Murloc](/es/equipment/Pendientes de Murloc/) | **PV** | **DEF** | 
+  | [Cola de Pez Flexible](/es/equipment/Cola de Pez Flexible/) | **ATQ** | **DEF** | 
+  | [Protección del Océano](/es/equipment/Protección del Océano/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Mareas Nocturnas](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Mareas Nocturnas](/es/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Culpabilidad de Tarnum](/Emblem/Tarnum's Culpability/) (Neutral)
-* [Principios legales del sucesor](/Emblem/Successors' Legal Principles/) (Neutral)
+* [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/) (Neutral)
+* [Principios legales del sucesor](/es/Emblem/Successors' Legal Principles/) (Neutral)
 
 ## Información de combinación
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

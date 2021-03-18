@@ -2,20 +2,20 @@
 title: "Exclusivo - Escama de Dragón Negro"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Escama de Dragón Negro. Escama de Dragón Negro. Era of Chaos Exclusivo Escama de Dragón Negro. Dragón Negro Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Black Dragon Escama de Dragón Negro.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Escama de Dragón Negro** 
 
- **Exclusivo for Unit:** [Dragón Negro](/units/Black Dragon/) 
+ **Exclusivo for Unit:** [Dragón Negro](/es/units/Black Dragon/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Shelter of Dragons> Cuando los PV se reducen por debajo del 75%, 50% y 25%, el Dragón Negro otorga un escudo igual al 15% de sus PV máximos a todas las unidades defensivas de dragones amistosas (Tortuga Dragón, Dragón Negro/Rey Dragón Negro) en el campo de batalla y un escudo igual al 30% de los PV máximos a las unidades que no sean defensivas de dragones amistosas (Dragón Verde/Dragón Dorado, Dragón de Hueso/Dragón Fantasma, Dragón Rojo, Hidra o Guiverno). El escudo dura toda la batalla y puede acumularse. El escudo del Dragón Negro no se puede disipar. Otorga inmunidad a hechizos durante 3 s mientras tenga el escudo. |
   | **1x** <i class="fas fa-star"/> | ? | Si hay un Dragón Negro en el campo de batalla, el daño y la reducción de daño de las unidades amistosas de Mazmorra aumentan un 10%. |

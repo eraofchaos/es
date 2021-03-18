@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Behemoth"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Unicornio
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Rugido salvaje: reduce el ataque del enemigo mucho y lo aturde.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras Atroces](/equipment/Garras Atroces/) | **ATQ** | **DEF** | 
-  | [Piel Blindada](/equipment/Piel Blindada/) | **PV** | **DEF** | 
-  | [Colmillos Atroces](/equipment/Colmillos Atroces/) | **ATQ** | **DEF** | 
-  | [Pelaje grueso](/equipment/Pelaje grueso/) | **PV** | **DEF** | 
+  | [Garras Atroces](/es/equipment/Garras Atroces/) | **ATQ** | **DEF** | 
+  | [Piel Blindada](/es/equipment/Piel Blindada/) | **PV** | **DEF** | 
+  | [Colmillos Atroces](/es/equipment/Colmillos Atroces/) | **ATQ** | **DEF** | 
+  | [Pelaje grueso](/es/equipment/Pelaje grueso/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espíritu Sanguinario](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Name:** [Espíritu Sanguinario](/es/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Orco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Ejecución: inflige daño adicional a los enemigos que tengan la vida por debajo del 30%.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hacha Arrojadiza](/equipment/Hacha Arrojadiza/) | **ATQ** | **DEF** | 
-  | [Cinturón de Constricción](/equipment/Cinturón de Constricción/) | **PV** | **DEF** | 
-  | [Hombreras de hierro](/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
-  | [Hombreras de Sed de Sangre](/equipment/Hombreras de Sed de Sangre/) | **PV** | **DEF** | 
+  | [Hacha Arrojadiza](/es/equipment/Hacha Arrojadiza/) | **ATQ** | **DEF** | 
+  | [Cinturón de Constricción](/es/equipment/Cinturón de Constricción/) | **PV** | **DEF** | 
+  | [Hombreras de hierro](/es/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
+  | [Hombreras de Sed de Sangre](/es/equipment/Hombreras de Sed de Sangre/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Orc Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

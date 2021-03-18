@@ -2,20 +2,20 @@
 title: "Exclusivo - Durandel"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durandel. Durandel. Era of Chaos Exclusivo Durandel. Ángel Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Angel Durandel.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Durandel** 
 
- **Exclusivo for Unit:** [Ángel](/units/Angel/) 
+ **Exclusivo for Unit:** [Ángel](/es/units/Angel/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Castigo> Inflige daño a las unidades objetivo y a 1 unidad aleatoria de la vanguardia equivalente al 100% de su propio ATQ y les inflige Castigo durante 10 s. La recarga es de 17 s. Si la unidad objetivo está en estado de Castigo, inflige daño equivalente al 150% de su propio ATQ y reduce su DEF un 20% durante 5 s y elimina el Castigo del objetivo. El efecto se duplica al usarlo en unidades del Infierno. La recarga es de 10 s. |
   | **1x** <i class="fas fa-star"/> | ? | Las unidades amistosas cercanas a corta distancia reciben la bendición del Ángel, aumentan su daño de unidad un 20% y eliminan los límites de alcance para las unidades de Castillo. |

@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Pesadilla"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** De apoyo. Daño rápido inicial.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pupilo de Pesadilla](/equipment/Pupilo de Pesadilla/) | **ATQ** | **DEF** | 
-  | [Fuego en el Abismo](/equipment/Fuego en el Abismo/) | **PV** | **DEF** | 
-  | [Herradura de Ceniza](/equipment/Herradura de Ceniza/) | **ATQ** | **DEF** | 
-  | [Crin de Fuego](/equipment/Crin de Fuego/) | **PV** | **DEF** | 
+  | [Pupilo de Pesadilla](/es/equipment/Pupilo de Pesadilla/) | **ATQ** | **DEF** | 
+  | [Fuego en el Abismo](/es/equipment/Fuego en el Abismo/) | **PV** | **DEF** | 
+  | [Herradura de Ceniza](/es/equipment/Herradura de Ceniza/) | **ATQ** | **DEF** | 
+  | [Crin de Fuego](/es/equipment/Crin de Fuego/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [](/Exclusive/Nightmare /) 
+ **Name:** [](/es/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -167,40 +168,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Rey de la Pesadilla
 
  **Awaking Descripción:** Su cuerpo, que emerge del reino de los sueños y atraviesa la lava para llegar al mundo de los vivos, está envuelto por un aura aterradora. Las llamas que escupe reducen todo a cenizas. Por sus venas corre magma fundido. Cuando ataca, incluso los más valientes guerreros se encogen de miedo y tienen dificultades para alzar su espada para luchar.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Despliega una Pesadilla con al menos </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unidades del Infierno y mata a 1000 Enanos en la Tesorería Enana en una única batalla. (Los saltos no cuentan para la misión).</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Pesadilla Rey en el Subterráneo: niveles 17-2 y 17-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Despliega una Pesadilla y gana </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> batallas en la Arena.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descripción:** 
+### 1st Skill (or 2nd): Sudario de Pesadilla
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Atrapado en una pesadilla&gt;</span><span style="color: #645252;font-size:18px"> Se activa una vez cada 15 s. Lanza una maldición a cierta distancia de la unidad enemiga con los PV más bajos. La maldición duerme a los enemigos afectados durante 3 s (no pueden moverse ni atacar), disminuye su reducción de daño de unidad un 30% y los quema durante 5 s (la quemadura no se puede disipar).</span>
 
-### 2nd Skill (or 1st): 
- **Descripción:** 
+### 2nd Skill (or 1st): Pesadilla profunda
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Atrapado en una pesadilla&gt;</span><span style="color: #645252;font-size:18px"> Se activa una vez cada 15 s. La habilidad lanza una maldición que duerme a las unidades enemigas durante 5 s (no pueden moverse ni atacar), disminuye su DEF un 15% y los quema durante 5 s (la quemadura no se puede disipar).</span>
 
-### 3rd Skill (or 4th): 
- **Descripción:** 
+### 3rd Skill (or 4th): Comesueños
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Atrapapesadillas&gt;</span><span style="color: #645252;font-size:18px"> Cada ataque aumenta adicionalmente la reducción de daño de unidad de las unidades del Infierno un 1%. Se acumula hasta 10 veces. Dura 10 s. No se puede disipar. Cada golpe crítico que inflige la Pesadilla aumenta su velocidad de ataque y la velocidad de ataque de las unidades del Infierno un 1%. Se acumula hasta 20 veces. Dura 10 s. No se puede disipar.</span>
 
-### 4th Skill (or 3rd): 
- **Descripción:** 
+### 4th Skill (or 3rd): Sueño inducido
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Atrapapesadillas&gt;</span><span style="color: #645252;font-size:18px"> Cada ataque disminuye adicionalmente la reducción de daño de unidad de los enemigos un 2%. Se acumula hasta 20 veces. Dura 10 s. No se puede disipar. Cada golpe crítico que inflige la Pesadilla aumenta su velocidad de ataque y la velocidad de ataque de las unidades del Infierno un 1%. Se acumula hasta 20 veces. Dura 10 s. No se puede disipar.</span>
 
-### 5th Skill (or 6th): 
- **Descripción:** 
+### 5th Skill (or 6th): Heraldo
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Augurio&gt;</span><span style="color: #645252;font-size:18px"> Aumenta su propia DEF un 10% por cada unidad del Infierno desplegada. Cuando una unidad muere en combate, hay un 50% de probabilidad de que el tiempo de recarga de las habilidades definitivas de los héroes amistosos se reduzcan 2 s.</span>
 
-### 6th Skill (or 5th): 
- **Descripción:** 
+### 6th Skill (or 5th): Mal augurio
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Augurio&gt;</span><span style="color: #645252;font-size:18px"> Aumenta su propia DEF un 10% por cada unidad del Infierno desplegada. Cuando una unidad muere en combate, la unidad amistosa con menos PV recupera PV equivalentes al 20% de sus PV máximos.</span>
 
 ## Technical info
  **runart:** 1

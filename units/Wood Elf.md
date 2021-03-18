@@ -3,7 +3,7 @@ title: "Elfa del Bosque"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elfa del Bosque"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Bosque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Lluvia de flechas: aumenta la velocidad de ataque un 500% durante un breve período de tiempo.
 
@@ -72,27 +72,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arco Largo Silvano](/equipment/Arco Largo Silvano/) | **ATQ** | **DEF** | 
-  | [Diadema de Hojas Exuberantes](/equipment/Diadema de Hojas Exuberantes/) | **PV** | **DEF** | 
-  | [Flechas de Jade](/equipment/Flechas de Jade/) | **ATQ** | **DEF** | 
-  | [Túnica Corta de Hojas Exuberantes](/equipment/Túnica Corta de Hojas Exuberantes/) | **PV** | **DEF** | 
+  | [Arco Largo Silvano](/es/equipment/Arco Largo Silvano/) | **ATQ** | **DEF** | 
+  | [Diadema de Hojas Exuberantes](/es/equipment/Diadema de Hojas Exuberantes/) | **PV** | **DEF** | 
+  | [Flechas de Jade](/es/equipment/Flechas de Jade/) | **ATQ** | **DEF** | 
+  | [Túnica Corta de Hojas Exuberantes](/es/equipment/Túnica Corta de Hojas Exuberantes/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Wood Elf Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

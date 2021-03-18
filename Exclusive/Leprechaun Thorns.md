@@ -2,20 +2,20 @@
 title: "Exclusivo - Espinas"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Espinas. Espinas. Era of Chaos Exclusivo Espinas. Duendecillo Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Leprechaun Espinas.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Espinas** 
 
- **Exclusivo for Unit:** [Duendecillo](/units/Leprechaun/) 
+ **Exclusivo for Unit:** [Duendecillo](/es/units/Leprechaun/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Dama de la Suerte> Cada 20 s, el Duendecillo obtiene aleatoriamente de 1 a 4 tréboles de cuatro hojas. El Duendecillo obtiene ventajas aleatorias en función del número de tréboles de cuatro hojas: aumenta el valor de escudo en 200, aumenta la DEF en 400, recupera un 1% de sus PV máximos por segundo o aumenta la esquiva en 400. La ventaja dura 12 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV propios un 20% y la DEF un 15%. |

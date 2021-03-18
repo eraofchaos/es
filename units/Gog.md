@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gog"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Muro de fuego: inflige daño a las tropas enemigas a su paso.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe Hirviente](/equipment/Orbe Hirviente/) | **ATQ** | **DEF** | 
-  | [Cuerno Ardiente](/equipment/Cuerno Ardiente/) | **PV** | **DEF** | 
-  | [Cola de Llamas](/equipment/Cola de Llamas/) | **ATQ** | **DEF** | 
-  | [Brazaletes Hirvientes](/equipment/Brazaletes Hirvientes/) | **PV** | **DEF** | 
+  | [Orbe Hirviente](/es/equipment/Orbe Hirviente/) | **ATQ** | **DEF** | 
+  | [Cuerno Ardiente](/es/equipment/Cuerno Ardiente/) | **PV** | **DEF** | 
+  | [Cola de Llamas](/es/equipment/Cola de Llamas/) | **ATQ** | **DEF** | 
+  | [Brazaletes Hirvientes](/es/equipment/Brazaletes Hirvientes/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Gog Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -159,9 +159,10 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Magia**  (Lista de unidades lanzadoras)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -2,20 +2,20 @@
 title: "Exclusivo - Arco de Medusa"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco de Medusa. Arco de Medusa. Era of Chaos Exclusivo Arco de Medusa. Medusa Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Medusa Arco de Medusa.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Arco de Medusa** 
 
- **Exclusivo for Unit:** [Medusa](/units/Medusa/) 
+ **Exclusivo for Unit:** [Medusa](/es/units/Medusa/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1610
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | La Medusa tiene un 50% de probabilidad de inyectar <Veneno de serpiente> a una unidad aleatoria al atacar. Tiene efecto toda la batalla y se acumula hasta 10 veces. Cuando la Medusa se enfrenta a una unidad con 10 acumulaciones de <Veneno de serpiente>, aumenta el daño de la unidad un 30%. <Veneno de serpiente>: Inflige daño igual al 5% del ATQ de la Medusa por segundo. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico de la Medusa en 300. |

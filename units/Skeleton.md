@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Escudo óseo: aumenta la reducción de daño de la unidad cuando la vida se reduce por debajo del 50%.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cimitarra Impía](/equipment/Cimitarra Impía/) | **ATQ** | **DEF** | 
-  | [Yelmo Oxidado](/equipment/Yelmo Oxidado/) | **PV** | **DEF** | 
-  | [Escudo Impía](/equipment/Escudo Impía/) | **ATQ** | **DEF** | 
-  | [Hombreras Oxidadas](/equipment/Hombreras Oxidadas/) | **PV** | **DEF** | 
+  | [Cimitarra Impía](/es/equipment/Cimitarra Impía/) | **ATQ** | **DEF** | 
+  | [Yelmo Oxidado](/es/equipment/Yelmo Oxidado/) | **PV** | **DEF** | 
+  | [Escudo Impía](/es/equipment/Escudo Impía/) | **ATQ** | **DEF** | 
+  | [Hombreras Oxidadas](/es/equipment/Hombreras Oxidadas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Skeleton Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Avaricia](/Emblem/Greed/) (Caos)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Defensa**  (Lista de unidades defensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Vidomina](/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/es/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

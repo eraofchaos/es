@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Hombre Lagarto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Amaestrador
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** DPS potente.
 
@@ -68,27 +68,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Púas](/equipment/Ala de Cuello de Púas/) | **ATQ** | **DEF** | 
-  | [Brazaletes del Guerrero](/equipment/Brazaletes del Guerrero/) | **PV** | **DEF** | 
-  | [Escápula del Guerrero](/equipment/Escápula del Guerrero/) | **ATQ** | **DEF** | 
-  | [Arco Largo de Caza](/equipment/Arco Largo de Caza/) | **PV** | **DEF** | 
+  | [Ala de Cuello de Púas](/es/equipment/Ala de Cuello de Púas/) | **ATQ** | **DEF** | 
+  | [Brazaletes del Guerrero](/es/equipment/Brazaletes del Guerrero/) | **PV** | **DEF** | 
+  | [Escápula del Guerrero](/es/equipment/Escápula del Guerrero/) | **ATQ** | **DEF** | 
+  | [Arco Largo de Caza](/es/equipment/Arco Largo de Caza/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Lizardman Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Wystan](/heroes/Wystan/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Wystan](/es/heroes/Wystan/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Arpía"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Garra afilada de la Hechicera: Tiene una probabilidad de infligir daño a varios enemigos.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Daga de Puñalada en el Corazón](/equipment/Daga de Puñalada en el Corazón/) | **ATQ** | **DEF** | 
-  | [Armadura Mística](/equipment/Armadura Mística/) | **PV** | **DEF** | 
-  | [Garra Asesina](/equipment/Garra Asesina/) | **ATQ** | **DEF** | 
-  | [Espaldar de la Encantadora](/equipment/Espaldar de la Encantadora/) | **PV** | **DEF** | 
+  | [Daga de Puñalada en el Corazón](/es/equipment/Daga de Puñalada en el Corazón/) | **ATQ** | **DEF** | 
+  | [Armadura Mística](/es/equipment/Armadura Mística/) | **PV** | **DEF** | 
+  | [Garra Asesina](/es/equipment/Garra Asesina/) | **ATQ** | **DEF** | 
+  | [Espaldar de la Encantadora](/es/equipment/Espaldar de la Encantadora/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/Emblem/Guardian Angel/) (Bien)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -151,11 +151,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Adjudicadora"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Halo de apoyo, aumenta el alcance.
 
@@ -65,26 +65,26 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Báculo de la Teocracia](/equipment/Báculo de la Teocracia/) | **ATQ** | **DEF** | 
-  | [Capucha Celestial de la Felicidad](/equipment/Capucha Celestial de la Felicidad/) | **PV** | **DEF** | 
-  | [Capa ligera](/equipment/Capa ligera/) | **ATQ** | **DEF** | 
-  | [Avambrazo Divino](/equipment/Avambrazo Divino/) | **PV** | **DEF** | 
+  | [Báculo de la Teocracia](/es/equipment/Báculo de la Teocracia/) | **ATQ** | **DEF** | 
+  | [Capucha Celestial de la Felicidad](/es/equipment/Capucha Celestial de la Felicidad/) | **PV** | **DEF** | 
+  | [Capa ligera](/es/equipment/Capa ligera/) | **ATQ** | **DEF** | 
+  | [Avambrazo Divino](/es/equipment/Avambrazo Divino/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [](/Exclusive/Judicator /) 
+ **Name:** [](/es/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Magia**  (Lista de unidades lanzadoras)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

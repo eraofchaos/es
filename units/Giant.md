@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gigante"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Dios de la Guerra: Ignora el alcance e inflige daño igual a un porcentaje de los PV.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rayo](/equipment/Rayo/) | **ATQ** | **DEF** | 
-  | [Hombreras de Oro Puro](/equipment/Hombreras de Oro Puro/) | **PV** | **DEF** | 
-  | [Casco del Trueno](/equipment/Casco del Trueno/) | **ATQ** | **DEF** | 
-  | [Peto del Relámpago](/equipment/Peto del Relámpago/) | **PV** | **DEF** | 
+  | [Rayo](/es/equipment/Rayo/) | **ATQ** | **DEF** | 
+  | [Hombreras de Oro Puro](/es/equipment/Hombreras de Oro Puro/) | **PV** | **DEF** | 
+  | [Casco del Trueno](/es/equipment/Casco del Trueno/) | **ATQ** | **DEF** | 
+  | [Peto del Relámpago](/es/equipment/Peto del Relámpago/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Mil Toneladas](/Exclusive/Giant Thousand Ton/) 
+ **Name:** [Mil Toneladas](/es/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Cíclope"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Bárbaro
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Piedra llameante: inflige un daño catastrófico a las tropas enemigas a su paso.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Roca](/equipment/Roca/) | **ATQ** | **DEF** | 
-  | [Grilletes de la Guerra](/equipment/Grilletes de la Guerra/) | **PV** | **DEF** | 
-  | [Brazaletes de Púas](/equipment/Brazaletes de Púas/) | **ATQ** | **DEF** | 
-  | [Pantalones de cuero](/equipment/Pantalones de cuero/) | **PV** | **DEF** | 
+  | [Roca](/es/equipment/Roca/) | **ATQ** | **DEF** | 
+  | [Grilletes de la Guerra](/es/equipment/Grilletes de la Guerra/) | **PV** | **DEF** | 
+  | [Brazaletes de Púas](/es/equipment/Brazaletes de Púas/) | **ATQ** | **DEF** | 
+  | [Pantalones de cuero](/es/equipment/Pantalones de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Cyclops Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/es/heroes/Yog/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

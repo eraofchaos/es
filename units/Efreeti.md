@@ -3,7 +3,7 @@ title: "Efrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Efrit"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Espíritu maligno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Bola de fuego: inflige un daño colosal al enemigo y causa quemadura.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe de Llamas](/equipment/Orbe de Llamas/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera de Llamas](/equipment/Armadura Ligera de Llamas/) | **PV** | **DEF** | 
-  | [Brazaletes de Llamas](/equipment/Brazaletes de Llamas/) | **ATQ** | **DEF** | 
-  | [Hombreras de Llamas](/equipment/Hombreras de Llamas/) | **PV** | **DEF** | 
+  | [Orbe de Llamas](/es/equipment/Orbe de Llamas/) | **ATQ** | **DEF** | 
+  | [Armadura Ligera de Llamas](/es/equipment/Armadura Ligera de Llamas/) | **PV** | **DEF** | 
+  | [Brazaletes de Llamas](/es/equipment/Brazaletes de Llamas/) | **ATQ** | **DEF** | 
+  | [Hombreras de Llamas](/es/equipment/Hombreras de Llamas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Efreeti Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -162,10 +162,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Rashka](/heroes/Rashka/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Rashka](/es/heroes/Rashka/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

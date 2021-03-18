@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Tortuga Dragón"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Los Inframares
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Tanque. Regenera PV.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Diente Afilado de Tortuga Dragón](/equipment/Diente Afilado de Tortuga Dragón/) | **ATQ** | **DEF** | 
-  | [Caparazón de Galápago con Púas](/equipment/Caparazón de Galápago con Púas/) | **PV** | **DEF** | 
-  | [Garra Afilada de Tortuga Dragón](/equipment/Garra Afilada de Tortuga Dragón/) | **ATQ** | **DEF** | 
-  | [Cola de Tortuga Dragón](/equipment/Cola de Tortuga Dragón/) | **PV** | **DEF** | 
+  | [Diente Afilado de Tortuga Dragón](/es/equipment/Diente Afilado de Tortuga Dragón/) | **ATQ** | **DEF** | 
+  | [Caparazón de Galápago con Púas](/es/equipment/Caparazón de Galápago con Púas/) | **PV** | **DEF** | 
+  | [Garra Afilada de Tortuga Dragón](/es/equipment/Garra Afilada de Tortuga Dragón/) | **ATQ** | **DEF** | 
+  | [Cola de Tortuga Dragón](/es/equipment/Cola de Tortuga Dragón/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Obediencia](/Exclusive/Dragon Turtle Obedience/) 
+ **Name:** [Obediencia](/es/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Avaricia](/Emblem/Greed/) (Caos)
-* [Núcleo de la red global](/Emblem/Core of the Global Network/) (Neutral)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
+* [Núcleo de la red global](/es/Emblem/Core of the Global Network/) (Neutral)
 
 ## Información de combinación
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

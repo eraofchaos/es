@@ -2,20 +2,20 @@
 title: "Exclusivo - Energía de fuego"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energía de fuego. Energía de fuego. Era of Chaos Exclusivo Energía de fuego. Elemental de Fuego Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Fire Elemental Energía de fuego.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Energía de fuego** 
 
- **Exclusivo for Unit:** [Elemental de Fuego](/units/Fire Elemental/) 
+ **Exclusivo for Unit:** [Elemental de Fuego](/es/units/Fire Elemental/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1560
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Elemental de Fuego en 150. |

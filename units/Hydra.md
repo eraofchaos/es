@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Hidra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Unicornio
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Ataque elevado. Resistente. Control potente.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cola de Dragón de Plaga](/equipment/Cola de Dragón de Plaga/) | **ATQ** | **DEF** | 
-  | [Pendientes del Gobernante](/equipment/Pendientes del Gobernante/) | **PV** | **DEF** | 
-  | [Garra de Dragón de Plaga](/equipment/Garra de Dragón de Plaga/) | **ATQ** | **DEF** | 
-  | [Púas Traseras Afiladas](/equipment/Púas Traseras Afiladas/) | **PV** | **DEF** | 
+  | [Cola de Dragón de Plaga](/es/equipment/Cola de Dragón de Plaga/) | **ATQ** | **DEF** | 
+  | [Pendientes del Gobernante](/es/equipment/Pendientes del Gobernante/) | **PV** | **DEF** | 
+  | [Garra de Dragón de Plaga](/es/equipment/Garra de Dragón de Plaga/) | **ATQ** | **DEF** | 
+  | [Púas Traseras Afiladas](/es/equipment/Púas Traseras Afiladas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Cabeza de Hidra](/Exclusive/Hydra Hydra's Head/) 
+ **Name:** [Cabeza de Hidra](/es/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
 
 ## Información de combinación
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** Dragón
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Miedo: reduce la defensa de los enemigos mucho y causa moral baja.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pincho Óseo](/equipment/Pincho Óseo/) | **ATQ** | **DEF** | 
-  | [Cráneo Draconiano](/equipment/Cráneo Draconiano/) | **PV** | **DEF** | 
-  | [Garras Perforadoras](/equipment/Garras Perforadoras/) | **ATQ** | **DEF** | 
-  | [Gema de Alma](/equipment/Gema de Alma/) | **PV** | **DEF** | 
+  | [Pincho Óseo](/es/equipment/Pincho Óseo/) | **ATQ** | **DEF** | 
+  | [Cráneo Draconiano](/es/equipment/Cráneo Draconiano/) | **PV** | **DEF** | 
+  | [Garras Perforadoras](/es/equipment/Garras Perforadoras/) | **ATQ** | **DEF** | 
+  | [Gema de Alma](/es/equipment/Gema de Alma/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Hueso de Dragón Inmortal](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Name:** [Hueso de Dragón Inmortal](/es/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Vidomina](/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/es/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

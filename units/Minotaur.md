@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Minotauro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Torbellino: Inflige daño en área y reduce la velocidad de ataque.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de Gorgona](/equipment/Hacha de Guerra de Gorgona/) | **ATQ** | **DEF** | 
-  | [Espaldar de Gorgona](/equipment/Espaldar de Gorgona/) | **PV** | **DEF** | 
-  | [Bandas de Gorgona](/equipment/Bandas de Gorgona/) | **ATQ** | **DEF** | 
-  | [Cinturón de Gorgona](/equipment/Cinturón de Gorgona/) | **PV** | **DEF** | 
+  | [Hacha de Guerra de Gorgona](/es/equipment/Hacha de Guerra de Gorgona/) | **ATQ** | **DEF** | 
+  | [Espaldar de Gorgona](/es/equipment/Espaldar de Gorgona/) | **PV** | **DEF** | 
+  | [Bandas de Gorgona](/es/equipment/Bandas de Gorgona/) | **ATQ** | **DEF** | 
+  | [Cinturón de Gorgona](/es/equipment/Cinturón de Gorgona/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Minotaur Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Gárgola de Piedra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gárgola de Piedra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Forma de piedra: Aumenta el ATQ y la velocidad de ataque.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuerno de Piedra](/equipment/Cuerno de Piedra/) | **ATQ** | **DEF** | 
-  | [Alas de Piedra](/equipment/Alas de Piedra/) | **PV** | **DEF** | 
-  | [Garras de Roca Afilada](/equipment/Garras de Roca Afilada/) | **ATQ** | **DEF** | 
-  | [Cola Encantada](/equipment/Cola Encantada/) | **PV** | **DEF** | 
+  | [Cuerno de Piedra](/es/equipment/Cuerno de Piedra/) | **ATQ** | **DEF** | 
+  | [Alas de Piedra](/es/equipment/Alas de Piedra/) | **PV** | **DEF** | 
+  | [Garras de Roca Afilada](/es/equipment/Garras de Roca Afilada/) | **ATQ** | **DEF** | 
+  | [Cola Encantada](/es/equipment/Cola Encantada/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Stone Gargoyle Sword/) 
+ **Name:** [Espada](/es/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

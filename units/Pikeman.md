@@ -3,7 +3,7 @@ title: "Piquero"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo."
 unitID: 101
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Piquero"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Formación de lanzas: inflige daño a las unidades enemigas y las aturde.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lanza Azur](/equipment/Lanza Azur/) | **ATQ** | **DEF** | 
-  | [Yelmo Chapado](/equipment/Yelmo Chapado/) | **PV** | **DEF** | 
-  | [Escudo del Centinela](/equipment/Escudo del Centinela/) | **ATQ** | **DEF** | 
-  | [Hombreras Chapadas](/equipment/Hombreras Chapadas/) | **PV** | **DEF** | 
+  | [Lanza Azur](/es/equipment/Lanza Azur/) | **ATQ** | **DEF** | 
+  | [Yelmo Chapado](/es/equipment/Yelmo Chapado/) | **PV** | **DEF** | 
+  | [Escudo del Centinela](/es/equipment/Escudo del Centinela/) | **ATQ** | **DEF** | 
+  | [Hombreras Chapadas](/es/equipment/Hombreras Chapadas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Pikeman Sword/) 
+ **Name:** [Espada](/es/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/Emblem/Guardian Angel/) (Bien)
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

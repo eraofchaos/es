@@ -3,7 +3,7 @@ title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gólem Dragón"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Dragón
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Defensa suprema.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garra de aleación](/equipment/Garra de aleación/) | **ATQ** | **DEF** | 
-  | [Cabeza de Dragón de Titanio](/equipment/Cabeza de Dragón de Titanio/) | **PV** | **DEF** | 
-  | [Palanca de control principal](/equipment/Palanca de control principal/) | **ATQ** | **DEF** | 
-  | [Armadura de aleación](/equipment/Armadura de aleación/) | **PV** | **DEF** | 
+  | [Garra de aleación](/es/equipment/Garra de aleación/) | **ATQ** | **DEF** | 
+  | [Cabeza de Dragón de Titanio](/es/equipment/Cabeza de Dragón de Titanio/) | **PV** | **DEF** | 
+  | [Palanca de control principal](/es/equipment/Palanca de control principal/) | **ATQ** | **DEF** | 
+  | [Armadura de aleación](/es/equipment/Armadura de aleación/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
-* [Avaricia](/Emblem/Greed/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Defensa**  (Lista de unidades defensivas)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

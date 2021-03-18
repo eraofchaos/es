@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental de Fuego"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** Quemadura. Explosión amplia.
 
@@ -66,27 +66,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Núcleo de Fuego](/equipment/Núcleo de Fuego/) | **ATQ** | **DEF** | 
-  | [Escudo Sofocante](/equipment/Escudo Sofocante/) | **PV** | **DEF** | 
-  | [Observador de Zafiro](/equipment/Observador de Zafiro/) | **ATQ** | **DEF** | 
-  | [Garra Afilada Añil](/equipment/Garra Afilada Añil/) | **PV** | **DEF** | 
+  | [Núcleo de Fuego](/es/equipment/Núcleo de Fuego/) | **ATQ** | **DEF** | 
+  | [Escudo Sofocante](/es/equipment/Escudo Sofocante/) | **PV** | **DEF** | 
+  | [Observador de Zafiro](/es/equipment/Observador de Zafiro/) | **ATQ** | **DEF** | 
+  | [Garra Afilada Añil](/es/equipment/Garra Afilada Añil/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Energía de fuego](/Exclusive/Fire Elemental Fire Energy/) 
+ **Name:** [Energía de fuego](/es/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Fiur](/heroes/Fiur/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/es/heroes/Fiur/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

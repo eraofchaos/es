@@ -2,20 +2,20 @@
 title: "Exclusivo - Sable del Inframundo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sable del Inframundo. Sable del Inframundo. Era of Chaos Exclusivo Sable del Inframundo. Caballero Negro Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Black Knight Sable del Inframundo.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Sable del Inframundo** 
 
- **Exclusivo for Unit:** [Caballero Negro](/units/Black Knight/) 
+ **Exclusivo for Unit:** [Caballero Negro](/es/units/Black Knight/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,16 +25,16 @@ classes: wide
 
  **Power:** 1610
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | El Caballero Negro reduce la DEF de las unidades hostiles en una zona grande un 30%. Aumenta su penetración en 500 cuando se enfrenta a unidades con «Moral baja». |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Caballeros Negros un 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Caballeros Negros un 25%. |
   | **3x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Caballero Negro carga hacia un punto. Es inmune a todo el daño durante este tiempo. Aparece delante de la unidad hostil al final de la fila en 6 s. Si no hay un objetivo válido, ataca a una unidad de la retaguardia aleatoria e impacta con un golpe crítico (Sin efecto de despertar. Solo tiene efecto una vez por batalla). |
-  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida del Caballero Negro un 20%. Gana un 20% más de absorción de vida tras impactar con un golpe crítico durante 5 s. |
+  | **4x** <i class="fas fa-star"/> | ? | Cuando asesta un golpe crítico, el Caballero Negro gana 50 de golpe crítico y un 20% de resistencia mágica. Dura 5 s y se puede acumular hasta 10 veces. |
+  | **5x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida del Caballero Negro un 20% y otro 20% adicional tras asestar un golpe crítico. Dura 5 s. |
   | **6x** <i class="fas fa-star"/> | ? | <King's Revival> Invoca a un Caballero Negro cada 20 s. Se puede invocar a un Caballero Negro cuando la unidad objetivo haya sido derrotada. Cuando aparece un Caballero Negro, aumenta el golpe crítico de la unidad en 100 y la penetración en 50. |
 
 

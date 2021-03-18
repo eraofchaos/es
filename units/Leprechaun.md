@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Duendecillo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Unicornio
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Esquiva y bloquea. Concede una ventaja de contraataque.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bendicionesafortunadas](/equipment/Bendicionesafortunadas/) | **ATQ** | **DEF** | 
-  | [Fuentedeenergía](/equipment/Fuentedeenergía/) | **PV** | **DEF** | 
-  | [Guardavidas](/equipment/Guardavidas/) | **ATQ** | **DEF** | 
-  | [Laligerezadelviento](/equipment/Laligerezadelviento/) | **PV** | **DEF** | 
+  | [Bendiciones de la suerte](/es/equipment/Bendiciones de la suerte/) | **ATQ** | **DEF** | 
+  | [Fuente de poder](/es/equipment/Fuente de poder/) | **PV** | **DEF** | 
+  | [Guardia vital](/es/equipment/Guardia vital/) | **ATQ** | **DEF** | 
+  | [La ligereza del viento](/es/equipment/La ligereza del viento/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espinas](/Exclusive/Leprechaun Thorns/) 
+ **Name:** [Espinas](/es/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -174,10 +174,11 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -196,21 +197,21 @@ toc: true
  **Awaking Descripción:** La leyenda habla de un inmenso Árbol del Mundo en el Plano del Conflujo. Los aventureros anhelan y temen este árbol antiguo y misterioso. Eso se debe a que un grupo de feroces guardianes está guarnecido cerca de él, preparado para eliminar a cualquier criatura que se atreva a acercarse al Árbol del Mundo. Muchos aventureros valientes han partido hacia allí por admiración, pero jamás han regresado.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Despliega un Duendecillo con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Conflujo y completa Utopía del Dragón </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas heroicas de Duendecillo Maestro en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Despliega a un Duendecillo y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Golpe pesado
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo tiene quemadura, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está quemado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 2nd Skill (or 1st): Golpe directo
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px"> Merma la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. Cada penalización dura 7 s y se puede acumular hasta 8 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe directo&gt;</span><span style="color: #645252;font-size:18px">Disminuye la reducción de daño de unidad del objetivo un 3%. Si el objetivo está congelado, su DEF también se reduce un 2%. La penalización dura 7 s y se puede acumular hasta 8 veces.</span>
 
 ### 3rd Skill (or 4th): Número de la suerte
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fortuna&gt;</span><span style="color: #645252;font-size:18px"> La acumulación del efecto de la habilidad propia del Duendecillo aumenta a 5-12 acumulaciones.</span>

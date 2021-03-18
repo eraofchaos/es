@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Daño rápido de energía. Quemadura.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Núcleo de la Estrella Polar](/equipment/Núcleo de la Estrella Polar/) | **ATQ** | **DEF** | 
-  | [Estrella Celestial](/equipment/Estrella Celestial/) | **PV** | **DEF** | 
-  | [Corona de Espíritu Estelar](/equipment/Corona de Espíritu Estelar/) | **ATQ** | **DEF** | 
-  | [Avambrazo Poderoso](/equipment/Avambrazo Poderoso/) | **PV** | **DEF** | 
+  | [Núcleo de la Estrella Polar](/es/equipment/Núcleo de la Estrella Polar/) | **ATQ** | **DEF** | 
+  | [Estrella Celestial](/es/equipment/Estrella Celestial/) | **PV** | **DEF** | 
+  | [Corona de Espíritu Estelar](/es/equipment/Corona de Espíritu Estelar/) | **ATQ** | **DEF** | 
+  | [Avambrazo Poderoso](/es/equipment/Avambrazo Poderoso/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Núcleo Espiritual](/Exclusive/Psychic Elemental Spirit Core/) 
+ **Name:** [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Profeta Verde](/Emblem/Green Prophet/) (Bien)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -153,11 +153,12 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Monere](/heroes/Monere/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Monere](/es/heroes/Monere/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

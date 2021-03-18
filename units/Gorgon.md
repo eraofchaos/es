@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gorgona"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Ataque elevado. Resistente. Control potente.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuero Adamantino](/equipment/Cuero Adamantino/) | **ATQ** | **DEF** | 
-  | [Armadura Trasera de Bárbaro](/equipment/Armadura Trasera de Bárbaro/) | **PV** | **DEF** | 
-  | [Cuerno de Buey Mortífero](/equipment/Cuerno de Buey Mortífero/) | **ATQ** | **DEF** | 
-  | [Pezuña de Buey Mágica](/equipment/Pezuña de Buey Mágica/) | **PV** | **DEF** | 
+  | [Cuero Adamantino](/es/equipment/Cuero Adamantino/) | **ATQ** | **DEF** | 
+  | [Armadura Trasera de Bárbaro](/es/equipment/Armadura Trasera de Bárbaro/) | **PV** | **DEF** | 
+  | [Cuerno de Buey Mortífero](/es/equipment/Cuerno de Buey Mortífero/) | **ATQ** | **DEF** | 
+  | [Pezuña de Buey Mágica](/es/equipment/Pezuña de Buey Mágica/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Cuerno de Gorgona](/Exclusive/Gorgon Gorgon's Horn/) 
+ **Name:** [Cuerno de Gorgona](/es/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -169,10 +169,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

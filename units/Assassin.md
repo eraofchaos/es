@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Asesino"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Ejército Neutral](/units/Faction Neutral Army/)
+ **Facción:** [Ejército Neutral](/es/units/Faction Neutral Army/)
 
  **Race:** Gremio de Asesinos
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Daño de asesinato. Debilita la curación.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Capucha de Asesino](/equipment/Capucha de Asesino/) | **ATQ** | **DEF** | 
-  | [Hoja oculta](/equipment/Hoja oculta/) | **PV** | **DEF** | 
-  | [Cinturón de Asesino](/equipment/Cinturón de Asesino/) | **ATQ** | **DEF** | 
-  | [Botas de cuero](/equipment/Botas de cuero/) | **PV** | **DEF** | 
+  | [Capucha de Asesino](/es/equipment/Capucha de Asesino/) | **ATQ** | **DEF** | 
+  | [Hoja oculta](/es/equipment/Hoja oculta/) | **PV** | **DEF** | 
+  | [Cinturón de Asesino](/es/equipment/Cinturón de Asesino/) | **ATQ** | **DEF** | 
+  | [Botas de cuero](/es/equipment/Botas de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/Emblem/Guardian Angel/) (Bien)
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -150,10 +150,11 @@ toc: true
 
 * **Unidad neutral**  (Lista neutral)
 * **Carga**  (Lista de unidades de carga)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Ezio](/heroes/Ezio/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ezio](/es/heroes/Ezio/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

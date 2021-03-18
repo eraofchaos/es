@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Vampiro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** Espíritu maligno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Absorción de vida: absorbe vida de la unidad enemiga para restaurar la suya propia.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cinturón de Sed de Sangre](/equipment/Cinturón de Sed de Sangre/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera de Sed de Sangre](/equipment/Armadura Ligera de Sed de Sangre/) | **PV** | **DEF** | 
-  | [Hombreras Sombrías](/equipment/Hombreras Sombrías/) | **ATQ** | **DEF** | 
-  | [Capa de Sombra](/equipment/Capa de Sombra/) | **PV** | **DEF** | 
+  | [Cinturón de Sed de Sangre](/es/equipment/Cinturón de Sed de Sangre/) | **ATQ** | **DEF** | 
+  | [Armadura Ligera de Sed de Sangre](/es/equipment/Armadura Ligera de Sed de Sangre/) | **PV** | **DEF** | 
+  | [Hombreras Sombrías](/es/equipment/Hombreras Sombrías/) | **ATQ** | **DEF** | 
+  | [Capa de Sombra](/es/equipment/Capa de Sombra/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

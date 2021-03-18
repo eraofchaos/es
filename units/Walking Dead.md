@@ -3,7 +3,7 @@ title: "Muerto Viviente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Muerto Viviente"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Explosivo: inflige daño a las tropas enemigas cercanas al morir.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machete Ensangrentado](/equipment/Machete Ensangrentado/) | **ATQ** | **DEF** | 
-  | [Collar Óseo](/equipment/Collar Óseo/) | **PV** | **DEF** | 
-  | [Brazalete de Acero Refinado](/equipment/Brazalete de Acero Refinado/) | **ATQ** | **DEF** | 
-  | [Pantalones de Descomposición](/equipment/Pantalones de Descomposición/) | **PV** | **DEF** | 
+  | [Machete Ensangrentado](/es/equipment/Machete Ensangrentado/) | **ATQ** | **DEF** | 
+  | [Collar Óseo](/es/equipment/Collar Óseo/) | **PV** | **DEF** | 
+  | [Brazalete de Acero Refinado](/es/equipment/Brazalete de Acero Refinado/) | **ATQ** | **DEF** | 
+  | [Pantalones de Descomposición](/es/equipment/Pantalones de Descomposición/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Walking Dead Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Defensa**  (Lista de unidades defensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

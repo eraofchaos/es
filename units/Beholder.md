@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Observador"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Espíritu maligno
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Control mental: Inmoviliza a enemigos y hace que pierdan PV de forma prolongada.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ojo de Blasfemia](/equipment/Ojo de Blasfemia/) | **ATQ** | **DEF** | 
-  | [Pupilo de la Muerte](/equipment/Pupilo de la Muerte/) | **PV** | **DEF** | 
-  | [Colmillo Maligno](/equipment/Colmillo Maligno/) | **ATQ** | **DEF** | 
-  | [Tentáculos del Abismo](/equipment/Tentáculos del Abismo/) | **PV** | **DEF** | 
+  | [Ojo de Blasfemia](/es/equipment/Ojo de Blasfemia/) | **ATQ** | **DEF** | 
+  | [Pupilo de la Muerte](/es/equipment/Pupilo de la Muerte/) | **PV** | **DEF** | 
+  | [Colmillo Maligno](/es/equipment/Colmillo Maligno/) | **ATQ** | **DEF** | 
+  | [Tentáculos del Abismo](/es/equipment/Tentáculos del Abismo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Mirada Oscura](/Exclusive/Beholder Dark Gaze/) 
+ **Name:** [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -149,11 +149,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Guiverno"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Potente cuerpo a cuerpo. Tóxico.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras de Dragón](/equipment/Garras de Dragón/) | **ATQ** | **DEF** | 
-  | [Colmillo de Plaga](/equipment/Colmillo de Plaga/) | **PV** | **DEF** | 
-  | [Púas Traseras de Diablillo](/equipment/Púas Traseras de Diablillo/) | **ATQ** | **DEF** | 
-  | [Alas de Dragón](/equipment/Alas de Dragón/) | **PV** | **DEF** | 
+  | [Garras de Dragón](/es/equipment/Garras de Dragón/) | **ATQ** | **DEF** | 
+  | [Colmillo de Plaga](/es/equipment/Colmillo de Plaga/) | **PV** | **DEF** | 
+  | [Púas Traseras de Diablillo](/es/equipment/Púas Traseras de Diablillo/) | **ATQ** | **DEF** | 
+  | [Alas de Dragón](/es/equipment/Alas de Dragón/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Cola de Guiverno](/Exclusive/Wyvern Wyvern's Tail/) 
+ **Name:** [Cola de Guiverno](/es/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

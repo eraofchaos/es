@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Ángel"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Ángel
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Condena: inflige un daño colosal a 3 unidades y las aturde.
 
@@ -71,26 +71,26 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Espada del Imperio](/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
-  | [Armadura ligera de batalla](/equipment/Armadura ligera de batalla/) | **PV** | **DEF** | 
-  | [Guanteletes ligeros](/equipment/Guanteletes ligeros/) | **ATQ** | **DEF** | 
-  | [Hombreras de la Ligereza](/equipment/Hombreras de la Ligereza/) | **PV** | **DEF** | 
+  | [Espada del Imperio](/es/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
+  | [Armadura ligera de batalla](/es/equipment/Armadura ligera de batalla/) | **PV** | **DEF** | 
+  | [Guanteletes ligeros](/es/equipment/Guanteletes ligeros/) | **ATQ** | **DEF** | 
+  | [Hombreras de la Ligereza](/es/equipment/Hombreras de la Ligereza/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Durandel](/Exclusive/Angel Durandel/) 
+ **Name:** [Durandel](/es/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Profeta Verde](/Emblem/Green Prophet/) (Bien)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
 
 ## Información de combinación
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Ogro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Bárbaro
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Charco sangriento: mejora la absorción de vida de las unidades cercanas.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Báculo de Cabeza de Carnero](/equipment/Báculo de Cabeza de Carnero/) | **ATQ** | **DEF** | 
-  | [Cinturón del Ritual](/equipment/Cinturón del Ritual/) | **PV** | **DEF** | 
-  | [Talismán Tribal](/equipment/Talismán Tribal/) | **ATQ** | **DEF** | 
-  | [Hombreras del Ritual](/equipment/Hombreras del Ritual/) | **PV** | **DEF** | 
+  | [Báculo de Cabeza de Carnero](/es/equipment/Báculo de Cabeza de Carnero/) | **ATQ** | **DEF** | 
+  | [Cinturón del Ritual](/es/equipment/Cinturón del Ritual/) | **PV** | **DEF** | 
+  | [Talismán Tribal](/es/equipment/Talismán Tribal/) | **ATQ** | **DEF** | 
+  | [Hombreras del Ritual](/es/equipment/Hombreras del Ritual/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Ogre Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Ogre Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

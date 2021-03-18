@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Demonio del Abismo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Manantial de fuego: Cura a las unidades amistosas a su paso constantemente.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Látigo Infernal](/equipment/Látigo Infernal/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera Encantada](/equipment/Armadura Ligera Encantada/) | **PV** | **DEF** | 
-  | [Cuerno Encantado](/equipment/Cuerno Encantado/) | **ATQ** | **DEF** | 
-  | [Hombreras Encantadas](/equipment/Hombreras Encantadas/) | **PV** | **DEF** | 
+  | [Látigo Infernal](/es/equipment/Látigo Infernal/) | **ATQ** | **DEF** | 
+  | [Armadura Ligera Encantada](/es/equipment/Armadura Ligera Encantada/) | **PV** | **DEF** | 
+  | [Cuerno Encantado](/es/equipment/Cuerno Encantado/) | **ATQ** | **DEF** | 
+  | [Hombreras Encantadas](/es/equipment/Hombreras Encantadas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Pit Fiend Sword/) 
+ **Name:** [Espada](/es/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

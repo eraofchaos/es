@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragón Rojo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Dragón
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Señor de los Dragones y potente rugido.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuerno de Fuego Rojo](/equipment/Cuerno de Fuego Rojo/) | **ATQ** | **DEF** | 
-  | [Alas Ancestrales](/equipment/Alas Ancestrales/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Cola de Dragón Vehemente](/equipment/Cola de Dragón Vehemente/) | **PV** | **DEF** | 
+  | [Cuerno de Fuego Rojo](/es/equipment/Cuerno de Fuego Rojo/) | **ATQ** | **DEF** | 
+  | [Alas Ancestrales](/es/equipment/Alas Ancestrales/) | **PV** | **DEF** | 
+  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
+  | [Cola de Dragón Vehemente](/es/equipment/Cola de Dragón Vehemente/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Aniquilación](/Exclusive/Red Dragon Annihilation/) 
+ **Name:** [Aniquilación](/es/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

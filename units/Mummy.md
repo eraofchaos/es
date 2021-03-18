@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Momia"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Maldición de putrefacción: Reduce la curación de los enemigos mucho
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Toque Inmortal](/equipment/Toque Inmortal/) | **ATQ** | **DEF** | 
-  | [Vendaje Ancestral](/equipment/Vendaje Ancestral/) | **PV** | **DEF** | 
-  | [Pupilo de los Difuntos](/equipment/Pupilo de los Difuntos/) | **ATQ** | **DEF** | 
-  | [Aliento de Muerte](/equipment/Aliento de Muerte/) | **PV** | **DEF** | 
+  | [Toque Inmortal](/es/equipment/Toque Inmortal/) | **ATQ** | **DEF** | 
+  | [Vendaje Ancestral](/es/equipment/Vendaje Ancestral/) | **PV** | **DEF** | 
+  | [Pupilo de los Difuntos](/es/equipment/Pupilo de los Difuntos/) | **ATQ** | **DEF** | 
+  | [Aliento de Muerte](/es/equipment/Aliento de Muerte/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Gasa](/Exclusive/Mummy Gauze/) 
+ **Name:** [Gasa](/es/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

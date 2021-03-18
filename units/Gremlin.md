@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gremlin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Bola de hierro mágica: Aumenta mucho el ATQ y la velocidad de ataque.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Mangual del Relámpago](/equipment/Mangual del Relámpago/) | **ATQ** | **DEF** | 
-  | [Capucha Encantada](/equipment/Capucha Encantada/) | **PV** | **DEF** | 
-  | [Guantes Encantados](/equipment/Guantes Encantados/) | **ATQ** | **DEF** | 
-  | [Capa Cortavientos](/equipment/Capa Cortavientos/) | **PV** | **DEF** | 
+  | [Mangual del Relámpago](/es/equipment/Mangual del Relámpago/) | **ATQ** | **DEF** | 
+  | [Capucha Encantada](/es/equipment/Capucha Encantada/) | **PV** | **DEF** | 
+  | [Guantes Encantados](/es/equipment/Guantes Encantados/) | **ATQ** | **DEF** | 
+  | [Capa Cortavientos](/es/equipment/Capa Cortavientos/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Gremlin Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Arquero**  (Lista de unidades a distancia)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

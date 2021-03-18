@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Libélula Menor"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** Debilita y controla la retaguardia.
 
@@ -68,27 +68,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Demonio](/equipment/Ala de Cuello de Demonio/) | **ATQ** | **DEF** | 
-  | [Bucal Mortífero](/equipment/Bucal Mortífero/) | **PV** | **DEF** | 
-  | [Espina Lúgubre](/equipment/Espina Lúgubre/) | **ATQ** | **DEF** | 
-  | [Colmillo Tóxico](/equipment/Colmillo Tóxico/) | **PV** | **DEF** | 
+  | [Ala de Cuello de Demonio](/es/equipment/Ala de Cuello de Demonio/) | **ATQ** | **DEF** | 
+  | [Bucal Mortífero](/es/equipment/Bucal Mortífero/) | **PV** | **DEF** | 
+  | [Espina Lúgubre](/es/equipment/Espina Lúgubre/) | **ATQ** | **DEF** | 
+  | [Colmillo Tóxico](/es/equipment/Colmillo Tóxico/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Serpent Fly Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -172,11 +172,12 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Korbac](/heroes/Korbac/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/es/heroes/Korbac/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

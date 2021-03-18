@@ -3,7 +3,7 @@ title: "Hechicera Maligna"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios."
 unitID: 709
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Hechicera Maligna"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Refleja los hechizos. Domina las ventajas.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_7091](/es/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_7092](/es/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
+  | [UnknownEquipment_7093](/es/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_7094](/es/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Carga**  (Lista de unidades de carga)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

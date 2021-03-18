@@ -2,32 +2,32 @@
 title: "Exclusivo - Tributo de Muerte"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Tributo de Muerte. Tributo de Muerte. Era of Chaos Exclusivo Tributo de Muerte. Liche Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Lich Tributo de Muerte.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Tributo de Muerte** 
 
- **Exclusivo for Unit:** [Liche](/units/Lich/) 
+ **Exclusivo for Unit:** [Liche](/es/units/Lich/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
  **Type:** A distancia
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Dragon Soul Sacrifice> Cuando han pasado 5 s y 45 s desde el inicio de la batalla, se invoca un Dragón de Hueso que dura 20 s.　(El ATQ y los PV del Dragón de Hueso dependen del nivel de la unidad. El Dragón de Hueso tiene <Fear> y <Penetration>. Cuando está en el campo de batalla, aumenta el daño y la reducción de daño de las unidades de Necrópolis amistosas un 20%). |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la Liche un 20%. |

@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Aparición"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Chillido horripilante: silencia a las tropas enemigas a su paso.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras Fantasmales](/equipment/Garras Fantasmales/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera del Réquiem](/equipment/Armadura Ligera del Réquiem/) | **PV** | **DEF** | 
-  | [Alma Impía](/equipment/Alma Impía/) | **ATQ** | **DEF** | 
-  | [Vestido del Réquiem](/equipment/Vestido del Réquiem/) | **PV** | **DEF** | 
+  | [Garras Fantasmales](/es/equipment/Garras Fantasmales/) | **ATQ** | **DEF** | 
+  | [Armadura Ligera del Réquiem](/es/equipment/Armadura Ligera del Réquiem/) | **PV** | **DEF** | 
+  | [Alma Impía](/es/equipment/Alma Impía/) | **ATQ** | **DEF** | 
+  | [Vestido del Réquiem](/es/equipment/Vestido del Réquiem/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Wight Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Profeta Verde](/Emblem/Green Prophet/) (Bien)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

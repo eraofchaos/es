@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Golpe crítico y penetración.
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arbalesta del Océano](/equipment/Arbalesta del Océano/) | **ATQ** | **DEF** | 
-  | [Gorra de Prestigio](/equipment/Gorra de Prestigio/) | **PV** | **DEF** | 
-  | [Flecha de Acero](/equipment/Flecha de Acero/) | **ATQ** | **DEF** | 
-  | [Vestimenta de Cazador](/equipment/Vestimenta de Cazador/) | **PV** | **DEF** | 
+  | [Arbalesta del Océano](/es/equipment/Arbalesta del Océano/) | **ATQ** | **DEF** | 
+  | [Gorra de Prestigio](/es/equipment/Gorra de Prestigio/) | **PV** | **DEF** | 
+  | [Flecha de Acero](/es/equipment/Flecha de Acero/) | **ATQ** | **DEF** | 
+  | [Vestimenta de Cazador](/es/equipment/Vestimenta de Cazador/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Milagro](/Exclusive/Regnan Archer Miracle/) 
+ **Name:** [Milagro](/es/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Arquero**  (Lista de unidades a distancia)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Peter Lee](/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/es/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

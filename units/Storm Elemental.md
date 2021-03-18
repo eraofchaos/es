@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** Marca a un objetivo y le inflige mucho daño.
 
@@ -66,27 +66,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bola de Relámpago Titilante](/equipment/Bola de Relámpago Titilante/) | **ATQ** | **DEF** | 
-  | [Núcleo de Trueno](/equipment/Núcleo de Trueno/) | **PV** | **DEF** | 
-  | [Garra Mágica](/equipment/Garra Mágica/) | **ATQ** | **DEF** | 
-  | [Observador de Relámpago](/equipment/Observador de Relámpago/) | **PV** | **DEF** | 
+  | [Bola de Relámpago Titilante](/es/equipment/Bola de Relámpago Titilante/) | **ATQ** | **DEF** | 
+  | [Núcleo de Trueno](/es/equipment/Núcleo de Trueno/) | **PV** | **DEF** | 
+  | [Garra Mágica](/es/equipment/Garra Mágica/) | **ATQ** | **DEF** | 
+  | [Observador de Relámpago](/es/equipment/Observador de Relámpago/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Storm Elemental Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

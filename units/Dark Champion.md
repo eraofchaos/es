@@ -3,7 +3,7 @@ title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Campeón Oscuro"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Realiza ejecuciones. Invencible en su propio dominio.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hoz del silencio](/equipment/Hoz del silencio/) | **ATQ** | **DEF** | 
-  | [Yelmo Pesado de Previda](/equipment/Yelmo Pesado de Previda/) | **PV** | **DEF** | 
-  | [Fuego Infernal de Salvación](/equipment/Fuego Infernal de Salvación/) | **ATQ** | **DEF** | 
-  | [Escápula del Hades](/equipment/Escápula del Hades/) | **PV** | **DEF** | 
+  | [Hoz del silencio](/es/equipment/Hoz del silencio/) | **ATQ** | **DEF** | 
+  | [Yelmo Pesado de Previda](/es/equipment/Yelmo Pesado de Previda/) | **PV** | **DEF** | 
+  | [Fuego Infernal de Salvación](/es/equipment/Fuego Infernal de Salvación/) | **ATQ** | **DEF** | 
+  | [Escápula del Hades](/es/equipment/Escápula del Hades/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Vidomina](/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/es/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Grifo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Bestia
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Picado: inflige daño a 3 unidades del oponente al atacar.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras Dentadas](/equipment/Garras Dentadas/) | **ATQ** | **DEF** | 
-  | [Yelmo de Placas de Velocidad](/equipment/Yelmo de Placas de Velocidad/) | **PV** | **DEF** | 
-  | [Pluma de Archigrifo](/equipment/Pluma de Archigrifo/) | **ATQ** | **DEF** | 
-  | [Blasón del Imperio](/equipment/Blasón del Imperio/) | **PV** | **DEF** | 
+  | [Garras Dentadas](/es/equipment/Garras Dentadas/) | **ATQ** | **DEF** | 
+  | [Yelmo de Placas de Velocidad](/es/equipment/Yelmo de Placas de Velocidad/) | **PV** | **DEF** | 
+  | [Pluma de Archigrifo](/es/equipment/Pluma de Archigrifo/) | **ATQ** | **DEF** | 
+  | [Blasón del Imperio](/es/equipment/Blasón del Imperio/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Testigo](/Emblem/Witness/) (Bien)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Testigo](/es/Emblem/Witness/) (Bien)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -175,40 +176,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Grifo sagrado
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Los Grifos entrenados por la familia Edrick ahora hacen las veces de guardianes de Erathia. Surcan los cielos del castillo día y noche. Los invasores lo bastante osados como para aproximarse al castillo, terminan hechos pedazos a causa de las afiladas garras de los Grifos.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega un Grifo con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Castillo y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Grifo sagrado en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Despliega un Grifo con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Castillo y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Aire turbulento
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Contraataque en picado&gt;</span><span style="color: #645252;font-size:18px"> Disminuye la velocidad de ataque de la unidad objetivo un 40% durante 5 s.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Emboscada en picado
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Contraataque en picado&gt;</span><span style="color: #645252;font-size:18px"> Aumenta su propia velocidad de ataque un 40% durante 5 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Señor sagrado
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Torre del comandante&gt;</span><span style="color: #645252;font-size:18px"> El Grifo libera el poder de las águilas. Al comienzo de la batalla, aumenta el daño de unidad de las unidades voladoras amistosas un 40% durante 20 s.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Guardián sagrado
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Torre del comandante&gt;</span><span style="color: #645252;font-size:18px"> El Grifo libera el poder de los leones. Al comienzo de la batalla, aumenta la reducción de daño de unidad de las unidades cuerpo a cuerpo amistosas un 40% durante 20 s.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Apoyo aéreo
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Arcángel&gt;</span><span style="color: #645252;font-size:18px"> Cada unidad voladora amistosa desplegada en el campo de batalla aumenta la DEF del Grifo un 5%.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Impacto de Sacudida de tierra
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Arcángel&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de unidad del Grifo un 50% cuando se enfrenta a unidades terrestres.</span>
 
 ## Technical info
  **runart:** 1

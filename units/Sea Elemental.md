@@ -3,7 +3,7 @@ title: "Elemental del Mar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental del Mar"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Los Inframares
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Short description:** Control por ralentización.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lágrima Eterna](/equipment/Lágrima Eterna/) | **ATQ** | **DEF** | 
-  | [Núcleo de Elemental de Agua](/equipment/Núcleo de Elemental de Agua/) | **PV** | **DEF** | 
-  | [Río Ondulante](/equipment/Río Ondulante/) | **ATQ** | **DEF** | 
-  | [Cicatriz de Vórtice](/equipment/Cicatriz de Vórtice/) | **PV** | **DEF** | 
+  | [Lágrima Eterna](/es/equipment/Lágrima Eterna/) | **ATQ** | **DEF** | 
+  | [Núcleo de Elemental de Agua](/es/equipment/Núcleo de Elemental de Agua/) | **PV** | **DEF** | 
+  | [Río Ondulante](/es/equipment/Río Ondulante/) | **ATQ** | **DEF** | 
+  | [Cicatriz de Vórtice](/es/equipment/Cicatriz de Vórtice/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Sea Elemental Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Magia**  (Lista de unidades lanzadoras)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

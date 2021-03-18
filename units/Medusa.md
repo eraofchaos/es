@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Medusa"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Espíritu maligno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Mirada petrificadora: Petrifica a los enemigos y reduce la reducción de daño de la unidad.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arco Largo de la Matanza](/equipment/Arco Largo de la Matanza/) | **ATQ** | **DEF** | 
-  | [Cabellera de Serpientes](/equipment/Cabellera de Serpientes/) | **PV** | **DEF** | 
-  | [Corona de la Reina](/equipment/Corona de la Reina/) | **ATQ** | **DEF** | 
-  | [Armadura del Abismo](/equipment/Armadura del Abismo/) | **PV** | **DEF** | 
+  | [Arco Largo de la Matanza](/es/equipment/Arco Largo de la Matanza/) | **ATQ** | **DEF** | 
+  | [Cabellera de Serpientes](/es/equipment/Cabellera de Serpientes/) | **PV** | **DEF** | 
+  | [Corona de la Reina](/es/equipment/Corona de la Reina/) | **ATQ** | **DEF** | 
+  | [Armadura del Abismo](/es/equipment/Armadura del Abismo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco de Medusa](/Exclusive/Medusa Medusa's Bow/) 
+ **Name:** [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -153,12 +153,13 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sephinroth](/heroes/Sephinroth/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sephinroth](/es/heroes/Sephinroth/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

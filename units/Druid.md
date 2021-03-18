@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Druida"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Bosque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Cronosfera forestal: Las unidades en el círculo mágico son inmunes al daño mágico
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corona de Tranquilidad](/equipment/Corona de Tranquilidad/) | **ATQ** | **DEF** | 
-  | [Báculo de los Ancianos](/equipment/Báculo de los Ancianos/) | **PV** | **DEF** | 
-  | [Túnica de Rabia Tormentosa](/equipment/Túnica de Rabia Tormentosa/) | **ATQ** | **DEF** | 
-  | [Botas Altas del Bosque](/equipment/Botas Altas del Bosque/) | **PV** | **DEF** | 
+  | [Corona de Tranquilidad](/es/equipment/Corona de Tranquilidad/) | **ATQ** | **DEF** | 
+  | [Báculo de los Ancianos](/es/equipment/Báculo de los Ancianos/) | **PV** | **DEF** | 
+  | [Túnica de Rabia Tormentosa](/es/equipment/Túnica de Rabia Tormentosa/) | **ATQ** | **DEF** | 
+  | [Botas Altas del Bosque](/es/equipment/Botas Altas del Bosque/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Báculo de Resurgimiento](/Exclusive/Druid Staff of Regrowth/) 
+ **Name:** [Báculo de Resurgimiento](/es/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
-* [Avaricia](/Emblem/Greed/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

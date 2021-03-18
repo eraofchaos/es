@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Guardia Dendroide"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Diablo
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Atadura: Reduce la velocidad de ataque de la unidad del oponente y la ralentiza.
 
@@ -72,27 +72,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Rama de Vitalidad](/equipment/Rama de Vitalidad/) | **ATQ** | **DEF** | 
-  | [Corona de la Abundancia](/equipment/Corona de la Abundancia/) | **PV** | **DEF** | 
-  | [Runa del Verdor](/equipment/Runa del Verdor/) | **ATQ** | **DEF** | 
-  | [Armadura de Vid](/equipment/Armadura de Vid/) | **PV** | **DEF** | 
+  | [Rama de Vitalidad](/es/equipment/Rama de Vitalidad/) | **ATQ** | **DEF** | 
+  | [Corona de la Abundancia](/es/equipment/Corona de la Abundancia/) | **PV** | **DEF** | 
+  | [Runa del Verdor](/es/equipment/Runa del Verdor/) | **ATQ** | **DEF** | 
+  | [Armadura de Vid](/es/equipment/Armadura de Vid/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Dendroid Guard Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Avaricia](/Emblem/Greed/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Ryland](/heroes/Ryland/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ryland](/es/heroes/Ryland/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

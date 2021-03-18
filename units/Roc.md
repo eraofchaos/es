@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Roc"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Unicornio
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Trueno: inflige un daño catastrófico a las tropas enemigas a su paso.
 
@@ -72,27 +72,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pico de Trueno](/equipment/Pico de Trueno/) | **ATQ** | **DEF** | 
-  | [Alas de Relámpago](/equipment/Alas de Relámpago/) | **PV** | **DEF** | 
-  | [Garras de Rayo](/equipment/Garras de Rayo/) | **ATQ** | **DEF** | 
-  | [Armadura del Relámpago](/equipment/Armadura del Relámpago/) | **PV** | **DEF** | 
+  | [Pico de Trueno](/es/equipment/Pico de Trueno/) | **ATQ** | **DEF** | 
+  | [Alas de Relámpago](/es/equipment/Alas de Relámpago/) | **PV** | **DEF** | 
+  | [Garras de Rayo](/es/equipment/Garras de Rayo/) | **ATQ** | **DEF** | 
+  | [Armadura del Relámpago](/es/equipment/Armadura del Relámpago/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Roc Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Shiva](/heroes/Shiva/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Shiva](/es/heroes/Shiva/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

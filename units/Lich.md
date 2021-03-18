@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Liche"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Sacrificio: invoca una horda de Esqueletos.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Báculo del Inframundo](/equipment/Báculo del Inframundo/) | **ATQ** | **DEF** | 
-  | [Corona de Carroña](/equipment/Corona de Carroña/) | **PV** | **DEF** | 
-  | [Cinto de Almas](/equipment/Cinto de Almas/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera del Inframundo](/equipment/Armadura Ligera del Inframundo/) | **PV** | **DEF** | 
+  | [Báculo del Inframundo](/es/equipment/Báculo del Inframundo/) | **ATQ** | **DEF** | 
+  | [Corona de Carroña](/es/equipment/Corona de Carroña/) | **PV** | **DEF** | 
+  | [Cinto de Almas](/es/equipment/Cinto de Almas/) | **ATQ** | **DEF** | 
+  | [Armadura Ligera del Inframundo](/es/equipment/Armadura Ligera del Inframundo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Tributo de Muerte](/Exclusive/Lich Death Tribute/) 
+ **Name:** [Tributo de Muerte](/es/Exclusive/Lich Death Tribute/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Autónimo olvidado](/Emblem/Forgotten Autonym/) (Maligno)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Autónimo olvidado](/es/Emblem/Forgotten Autonym/) (Maligno)
 
 ## Información de combinación
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Vidomina](/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/es/heroes/Vidomina/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

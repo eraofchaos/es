@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Centauro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Bosque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Pisotón de batalla: inflige daño a las unidades más cercanas y las ralentiza.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de la Naturaleza](/equipment/Hacha de Guerra de la Naturaleza/) | **ATQ** | **DEF** | 
-  | [Yelmo de la Naturaleza](/equipment/Yelmo de la Naturaleza/) | **PV** | **DEF** | 
-  | [Guanteletes de la Naturaleza](/equipment/Guanteletes de la Naturaleza/) | **ATQ** | **DEF** | 
-  | [Hombreras de la Naturaleza](/equipment/Hombreras de la Naturaleza/) | **PV** | **DEF** | 
+  | [Hacha de Guerra de la Naturaleza](/es/equipment/Hacha de Guerra de la Naturaleza/) | **ATQ** | **DEF** | 
+  | [Yelmo de la Naturaleza](/es/equipment/Yelmo de la Naturaleza/) | **PV** | **DEF** | 
+  | [Guanteletes de la Naturaleza](/es/equipment/Guanteletes de la Naturaleza/) | **ATQ** | **DEF** | 
+  | [Hombreras de la Naturaleza](/es/equipment/Hombreras de la Naturaleza/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Centaur Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Defensa**  (Lista de unidades defensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

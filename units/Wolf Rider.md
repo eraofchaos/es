@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Jinete Lupino"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Bestia compañera: invoca lobos a la batalla al morir.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sable Afilado](/equipment/Sable Afilado/) | **ATQ** | **DEF** | 
-  | [Cinturón Poderoso](/equipment/Cinturón Poderoso/) | **PV** | **DEF** | 
-  | [Brazalete del Lobo](/equipment/Brazalete del Lobo/) | **ATQ** | **DEF** | 
-  | [Hombreras de Lengua de Lobo](/equipment/Hombreras de Lengua de Lobo/) | **PV** | **DEF** | 
+  | [Sable Afilado](/es/equipment/Sable Afilado/) | **ATQ** | **DEF** | 
+  | [Cinturón Poderoso](/es/equipment/Cinturón Poderoso/) | **PV** | **DEF** | 
+  | [Brazalete del Lobo](/es/equipment/Brazalete del Lobo/) | **ATQ** | **DEF** | 
+  | [Hombreras de Lengua de Lobo](/es/equipment/Hombreras de Lengua de Lobo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -163,11 +163,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Carga**  (Lista de unidades de carga)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

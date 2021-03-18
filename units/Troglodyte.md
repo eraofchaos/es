@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Troglodita"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Formación de lanzas: Daño en área y aturde.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lanza Ósea del Destripador](/equipment/Lanza Ósea del Destripador/) | **ATQ** | **DEF** | 
-  | [Cráneo Huésped](/equipment/Cráneo Huésped/) | **PV** | **DEF** | 
-  | [Puñalada Rompecolumnas](/equipment/Puñalada Rompecolumnas/) | **ATQ** | **DEF** | 
-  | [Sangre de Ácido Potente](/equipment/Sangre de Ácido Potente/) | **PV** | **DEF** | 
+  | [Lanza Ósea del Destripador](/es/equipment/Lanza Ósea del Destripador/) | **ATQ** | **DEF** | 
+  | [Cráneo Huésped](/es/equipment/Cráneo Huésped/) | **PV** | **DEF** | 
+  | [Puñalada Rompecolumnas](/es/equipment/Puñalada Rompecolumnas/) | **ATQ** | **DEF** | 
+  | [Sangre de Ácido Potente](/es/equipment/Sangre de Ácido Potente/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Troglodyte Sword/) 
+ **Name:** [Espada](/es/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -154,11 +154,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

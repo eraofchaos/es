@@ -2,20 +2,20 @@
 title: "Exclusivo - Pica de Caballero"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Catafracto Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Cavalier Pica de Caballero.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Pica de Caballero** 
 
- **Exclusivo for Unit:** [Catafracto](/units/Cavalier/) 
+ **Exclusivo for Unit:** [Catafracto](/es/units/Cavalier/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,11 +25,11 @@ classes: wide
 
  **Power:** 1510
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Despertar  | ? | <Jabalina sofocante> 2 s después de que empiece la batalla, los Caballeros arrojan las lanzas adicionales que sostienen. Esto inflige un daño equivalente al 200% de su ATQ a un objetivo enemigo aleatorio y reduce la DEF del objetivo un 10% durante 30 s. Al enfrentarse a unidades lanzadoras/a distancia, reduce el daño de unidad un 20%. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Catafractos un 25% cuando reciben daño a distancia. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de los Catafractos un 20% y el daño de la unidad un 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Aumenta la DEF de los Catafractos un 10%. Al principio de la batalla, aumenta la penetración de todas las unidades de Castillo amistosas en 300. Este efecto no se puede disipar |

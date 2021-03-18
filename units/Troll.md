@@ -3,30 +3,27 @@ title: "Trol"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Troles son criaturas muy inteligentes que emplean pedruscos pesados como armas. Suelen posicionarse en la vanguardia de los combates para luchar contra los enemigos asestando violentos y demoledores golpes."
 unitID: 409
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Trol"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Descripción:** Los Troles son criaturas muy inteligentes que emplean pedruscos pesados como armas. Suelen posicionarse en la vanguardia de los combates para luchar contra los enemigos asestando violentos y demoledores golpes.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Amaestrador
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Asalto contra un solo objetivo. Daño rápido.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pedrusco en cadena](/equipment/Pedrusco en cadena/) | **ATQ** | **DEF** | 
-  | [Poder de los Señores](/equipment/Poder de los Señores/) | **PV** | **DEF** | 
-  | [Fisura de armadura](/equipment/Fisura de armadura/) | **ATQ** | **DEF** | 
-  | [Botas de guarnición](/equipment/Botas de guarnición/) | **PV** | **DEF** | 
+  | [Pedrusco en cadena](/es/equipment/Pedrusco en cadena/) | **ATQ** | **DEF** | 
+  | [Poder de los Señores](/es/equipment/Poder de los Señores/) | **PV** | **DEF** | 
+  | [Fisura de armadura](/es/equipment/Fisura de armadura/) | **ATQ** | **DEF** | 
+  | [Botas de guarnición](/es/equipment/Botas de guarnición/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -176,11 +173,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Arquero**  (Lista de unidades a distancia)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

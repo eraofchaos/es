@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Monje"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Plegaria: cura a la unidad con la vida más baja de tu ejército.
 
@@ -71,26 +71,26 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Orbe de Divinidad](/equipment/Orbe de Divinidad/) | **ATQ** | **DEF** | 
-  | [Bonete de Místico](/equipment/Bonete de Místico/) | **PV** | **DEF** | 
-  | [Runa del Ritual](/equipment/Runa del Ritual/) | **ATQ** | **DEF** | 
-  | [Armadura ligera básica](/equipment/Armadura ligera básica/) | **PV** | **DEF** | 
+  | [Orbe de Divinidad](/es/equipment/Orbe de Divinidad/) | **ATQ** | **DEF** | 
+  | [Bonete de Místico](/es/equipment/Bonete de Místico/) | **PV** | **DEF** | 
+  | [Runa del Ritual](/es/equipment/Runa del Ritual/) | **ATQ** | **DEF** | 
+  | [Armadura ligera básica](/es/equipment/Armadura ligera básica/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Monk Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -154,19 +154,14 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Castillo**  (Lista de Castillo)
-* **Magia**  (Lista de unidades lanzadoras)
 
 ### Bonificación de Héroe
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
-* Ataque
-* PV
-* Curación
-* Resistencia mágica
+* ?!? 
 
 
 ## Awaking
@@ -185,26 +180,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Fanático en el Subterráneo: niveles 13-2 y 13-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Despliega un Monje y gana </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> batallas en la Arena.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Inquisición de la Luz sagrada.
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bendiciones del valiente&gt;</span><span style="color: #645252;font-size:18px"> Otorga moral alta durante 10 s a todas las unidades amistosas en una zona grande junto a la unidad lanzadora cada 30 s. Además, al inicio de la batalla, el Monje aumenta el daño de golpe crítico de todas las unidades amistosas y la curación recibida en un 20% cada una durante 60 s. Durante los primeros 60 s de batalla, cada unidad de Monje inflige daño equivalente al 10% de su ATQ a las unidades del Infierno enemigas una vez cada 2 s.</span>
-
-### 2nd Skill (or 1st): Bendición de Luz sagrada
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bendiciones del valiente&gt;</span><span style="color: #645252;font-size:18px"> Otorga moral alta durante 10 s a todas las unidades amistosas en una zona grande junto a la unidad lanzadora cada 30 s. Cuando el Monje está en el campo de batalla, aumenta el daño de golpe crítico de todas las unidades amistosas y la curación recibida en un 20% cada una durante 120 s. Durante los primeros 60 s de batalla, cada unidad de Monje curará a las unidades de Castillo amistosas los PV equivalentes al 10% de su ATQ una vez cada 2 s.</span>
-
-### 3rd Skill (or 4th): Bendición radiante
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Meditación&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el golpe crítico de todas las unidades amistosas en 200 puntos cuando el Monje consigue moral alta. El efecto dura toda la batalla, pero no se puede acumular. También aumenta el maná de los Héroes en 10. La recarga es de 3 s.</span>
-
-### 4th Skill (or 3rd): Gracia magnífica
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Meditación&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el golpe crítico de todas las unidades amistosas en 200 puntos cuando el Monje consigue moral alta. El efecto dura toda la batalla, pero no se puede acumular. También aumenta la recuperación de maná de los Héroes en 0,5. La recarga es de 3 s. La ventaja de recuperación de maná se puede activar hasta 4 veces.</span>
-
-### 5th Skill (or 6th): Juicio sabio
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Recuperación&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la curación recibida de las unidades amistosas en un 20% cuando el Monje está en el campo de batalla. Cuando se lanza Plegaria, también se inicia un ataque en 3 fases contra la unidad enemiga con menos PV, infligiendo daño equivalente al 150% del ATQ propio.</span>
-
-### 6th Skill (or 5th): Salmo de la masa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Recuperación&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la curación recibida de las unidades amistosas en un 20% cuando el Monje está en el campo de batalla. Cuando se lanza Plegaria, también se cura a la unidad amistosa con menos PV con los PV equivalentes al 150% del ATQ propio en 3 fases.</span>
 
 ## Technical info
  **runart:** 0

@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Bestia
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Destrozo: cada impacto es un golpe crítico durante un breve período.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dientes Hirvientes](/equipment/Dientes Hirvientes/) | **ATQ** | **DEF** | 
-  | [Armadura Infernal](/equipment/Armadura Infernal/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Melena de Llamas](/equipment/Melena de Llamas/) | **PV** | **DEF** | 
+  | [Dientes Hirvientes](/es/equipment/Dientes Hirvientes/) | **ATQ** | **DEF** | 
+  | [Armadura Infernal](/es/equipment/Armadura Infernal/) | **PV** | **DEF** | 
+  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
+  | [Melena de Llamas](/es/equipment/Melena de Llamas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Hell Hound Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

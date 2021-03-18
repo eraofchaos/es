@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Goblin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garrote de Púas](/equipment/Garrote de Púas/) | **ATQ** | **DEF** | 
-  | [Cinturón de cuero](/equipment/Cinturón de cuero/) | **PV** | **DEF** | 
-  | [Collar de Hueso](/equipment/Collar de Hueso/) | **ATQ** | **DEF** | 
-  | [Hombreras de cuero](/equipment/Hombreras de cuero/) | **PV** | **DEF** | 
+  | [Garrote de Púas](/es/equipment/Garrote de Púas/) | **ATQ** | **DEF** | 
+  | [Cinturón de cuero](/es/equipment/Cinturón de cuero/) | **PV** | **DEF** | 
+  | [Collar de Hueso](/es/equipment/Collar de Hueso/) | **ATQ** | **DEF** | 
+  | [Hombreras de cuero](/es/equipment/Hombreras de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Goblin Sword/) 
+ **Name:** [Espada](/es/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

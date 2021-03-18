@@ -3,7 +3,7 @@ title: "Demonio"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Demonio"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Golpe hirviente: inflige un daño colosal a las tropas enemigas.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuerno Abrasador](/equipment/Cuerno Abrasador/) | **ATQ** | **DEF** | 
-  | [Collar de acero](/equipment/Collar de acero/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Brazaletes de Púas](/equipment/Brazaletes de Púas/) | **PV** | **DEF** | 
+  | [Cuerno Abrasador](/es/equipment/Cuerno Abrasador/) | **ATQ** | **DEF** | 
+  | [Collar de acero](/es/equipment/Collar de acero/) | **PV** | **DEF** | 
+  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
+  | [Brazaletes de Púas](/es/equipment/Brazaletes de Púas/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Demon Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Avaricia](/Emblem/Greed/) (Caos)
-* [Lujuria](/Emblem/Lust/) (Caos)
-* [Señal ominosa](/Emblem/Ominous Sign/) (Maligno)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
+* [Señal ominosa](/es/Emblem/Ominous Sign/) (Maligno)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -172,40 +173,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Guardia del Infierno
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Si me preguntaran quién es la persona más imparcial de este mundo, sin duda diría que el Guardia del Infierno, con su cara de acero y sus manos manchadas de sangre. Ya sean demonios o espíritus, sabios o ladrones, sus elegidos son enviados al Portal de Cerbero y obligados a descender hacia sus ardientes llamas.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega un Demonio con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades del Infierno y completa Utopía del Dragón </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> piezas de equipo en una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Guardia del Infierno en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Despliega un Demonio y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Impacto hirviente
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe hirviente&gt;</span><span style="color: #645252;font-size:18px"> Reduce adicionalmente el golpe crítico de las unidades enemigas dentro de la zona del objetivo en 200. Si el objetivo está silenciado, su velocidad de ataque también se reduce un 15%. Dura 7 s.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Aniquilación hirviente
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Golpe hirviente&gt;</span><span style="color: #645252;font-size:18px"> Reduce adicionalmente el golpe crítico de las unidades enemigas dentro de la zona del objetivo en 200. Si el objetivo está quemado, su velocidad de ataque también se reduce un 15%. Dura 7 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Llamarada
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Calidez&gt;</span><span style="color: #645252;font-size:18px"> Restaura adicionalmente PV de las unidades Guardia del Infierno equivalentes al 50% de su propio ATQ.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Magma
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Calidez&gt;</span><span style="color: #645252;font-size:18px"> Aumenta los efectos de recuperación un 50%.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Esbirro demoníaco
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Esbirro del Infierno&gt;</span><span style="color: #645252;font-size:18px"> La tenacidad del Demonio aumenta en 80 cada vez que esquiva. Se acumula hasta 5 veces. Dura toda la batalla.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Esbirro astado
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Esbirro del Infierno&gt;</span><span style="color: #645252;font-size:18px"> La tenacidad del Demonio aumenta en 300.</span>
 
 ## Technical info
  **runart:** 1

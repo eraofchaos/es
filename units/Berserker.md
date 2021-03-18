@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Berserker"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Bastión](/units/Faction Stronghold/)
+ **Facción:** [Bastión](/es/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de Obsidiana](/equipment/Hacha de Guerra de Obsidiana/) | **ATQ** | **DEF** | 
-  | [Collar de Hueso](/equipment/Collar de Hueso/) | **PV** | **DEF** | 
-  | [Yelmo de Huesos de Bestia](/equipment/Yelmo de Huesos de Bestia/) | **ATQ** | **DEF** | 
-  | [Banda de cuero](/equipment/Banda de cuero/) | **PV** | **DEF** | 
+  | [Hacha de Guerra de Obsidiana](/es/equipment/Hacha de Guerra de Obsidiana/) | **ATQ** | **DEF** | 
+  | [Collar de Hueso](/es/equipment/Collar de Hueso/) | **PV** | **DEF** | 
+  | [Yelmo de Huesos de Bestia](/es/equipment/Yelmo de Huesos de Bestia/) | **ATQ** | **DEF** | 
+  | [Banda de cuero](/es/equipment/Banda de cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Hacha de Berserker](/Exclusive/Berserker Berserker's Axe/) 
+ **Name:** [Hacha de Berserker](/es/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
 
 ## Información de combinación
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Bastión**  (Lista de Bastión)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Crag Hack](/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/es/heroes/Crag Hack/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/es/heroes/Kilgor/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

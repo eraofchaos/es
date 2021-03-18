@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Aeronave Mágica"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** DPS de retaguardia que otorga ventaja
 
@@ -65,27 +65,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sistema de despegue](/equipment/Sistema de despegue/) | **ATQ** | **DEF** | 
-  | [Sistema de control](/equipment/Sistema de control/) | **PV** | **DEF** | 
-  | [Torre de control principal](/equipment/Torre de control principal/) | **ATQ** | **DEF** | 
-  | [Puesto de observación](/equipment/Puesto de observación/) | **PV** | **DEF** | 
+  | [Sistema de despegue](/es/equipment/Sistema de despegue/) | **ATQ** | **DEF** | 
+  | [Sistema de control](/es/equipment/Sistema de control/) | **PV** | **DEF** | 
+  | [Torre de control principal](/es/equipment/Torre de control principal/) | **ATQ** | **DEF** | 
+  | [Puesto de observación](/es/equipment/Puesto de observación/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Polaris](/Exclusive/Magic Airship Polaris/) 
+ **Name:** [Polaris](/es/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

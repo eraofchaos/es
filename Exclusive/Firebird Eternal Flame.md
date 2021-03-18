@@ -2,20 +2,20 @@
 title: "Exclusivo - Llama eterna"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Llama eterna. Llama eterna. Era of Chaos Exclusivo Llama eterna. Pájaro Ígneo Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Firebird Llama eterna.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Llama eterna** 
 
- **Exclusivo for Unit:** [Pájaro Ígneo](/units/Firebird/) 
+ **Exclusivo for Unit:** [Pájaro Ígneo](/es/units/Firebird/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,14 +25,14 @@ classes: wide
 
  **Power:** 1560
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Tierra en llamas> El Pájaro Ígneo inflige daño 3 veces a las unidades hostiles que estén en la misma fila que el objetivo cada 10 s y las quema durante 8 s. |
+  |  Despertar  | ? | <Tierra en llamas> Cada 10 s, el Pájaro Ígneo inflige daño 3 veces a todas las unidades enemigas que se encuentran en la misma fila que el objetivo y les inflige daño por quemadura durante 8 s. |
   | **1x** <i class="fas fa-star"/> | ? | El Pájaro Ígneo es inmune al daño infligido con los hechizos de fuego. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pájaro Ígneo un 10% y su velocidad de ataque un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
+  | **3x** <i class="fas fa-star"/> | ? | Cuando el Pájaro Ígneo se enfrenta a unidades de 1 o 4 miembros, inflige un daño equivalente al 20% de su ATQ a todas las unidades enemigas situadas a cierta distancia de la unidad objetivo y les causa daño por quemadura. |
   | **4x** <i class="fas fa-star"/> | ? | Cuando se enfrenta a unidades con quemadura, la penetración del Pájaro Ígneo aumenta en 400. |
   | **5x** <i class="fas fa-star"/> | ? | Cuando un Héroe amistoso lanza un hechizo de fuego, restaura un 10% de los PV. Puede activarse cada 5 s. |
   | **6x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pájaro Ígneo un 20%. Cuando un Héroe hostil lanza un hechizo de fuego, aumenta el daño de la unidad y la reducción de daño de la unidad un 20%. El efecto dura 5 s. |

@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Guerreros espartanos"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Ejército Neutral](/units/Faction Neutral Army/)
+ **Facción:** [Ejército Neutral](/es/units/Faction Neutral Army/)
 
  **Race:** Gremio de Asesinos
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Aturdimiento de escudo. La muerte inspira.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Yelmo espartano](/equipment/Yelmo espartano/) | **ATQ** | **DEF** | 
-  | [Escudo de acero](/equipment/Escudo de acero/) | **PV** | **DEF** | 
-  | [Lanza perforadora](/equipment/Lanza perforadora/) | **ATQ** | **DEF** | 
-  | [Paño para los pies](/equipment/Paño para los pies/) | **PV** | **DEF** | 
+  | [Yelmo espartano](/es/equipment/Yelmo espartano/) | **ATQ** | **DEF** | 
+  | [Escudo de acero](/es/equipment/Escudo de acero/) | **PV** | **DEF** | 
+  | [Lanza perforadora](/es/equipment/Lanza perforadora/) | **ATQ** | **DEF** | 
+  | [Paño para los pies](/es/equipment/Paño para los pies/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -148,10 +148,11 @@ toc: true
 
 * **Unidad neutral**  (Lista neutral)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kassandra](/heroes/Kassandra/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kassandra](/es/heroes/Kassandra/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

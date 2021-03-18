@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Catafracto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Justa: inflige daño considerable y aturde con el primer ataque.
 
@@ -73,27 +73,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lanza de Catafracto](/equipment/Lanza de Catafracto/) | **ATQ** | **DEF** | 
-  | [Visera de Defensa](/equipment/Visera de Defensa/) | **PV** | **DEF** | 
-  | [Escudo de Protección](/equipment/Escudo de Protección/) | **ATQ** | **DEF** | 
-  | [Hombrera de Paladín](/equipment/Hombrera de Paladín/) | **PV** | **DEF** | 
+  | [Lanza de Catafracto](/es/equipment/Lanza de Catafracto/) | **ATQ** | **DEF** | 
+  | [Visera de Defensa](/es/equipment/Visera de Defensa/) | **PV** | **DEF** | 
+  | [Escudo de Protección](/es/equipment/Escudo de Protección/) | **ATQ** | **DEF** | 
+  | [Hombrera de Paladín](/es/equipment/Hombrera de Paladín/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ángel Guardián](/Emblem/Guardian Angel/) (Bien)
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -160,19 +160,14 @@ toc: true
 ## Relevancia
 ### Conexión de lista
 
-* **Castillo**  (Lista de Castillo)
-* **Carga**  (Lista de unidades de carga)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
-* Ataque
-* PV
-* Daño de la unidad
-* Reducción de daño de la unidad
+* ?!? 
 
 
 ## Awaking
@@ -191,26 +186,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Caballero Campeón en el Subterráneo: niveles 16-2 y 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Despliega a un Catafracto y gana </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> batallas en el Duelo de Campeones con el liderazgo de Mullich.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Habilidades de supervivencia
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta los PV y la resistencia mágica un 30%</span>
-
-### 2nd Skill (or 1st): Habilidades de guerra
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Knight Abilities&gt;</span><span style="color: #645252;font-size:18px">Aumenta el ATQ y la resistencia mágica un 30% más</span>
-
-### 3rd Skill (or 4th): Acometida de caballero con armadura ligera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Aniquilación rápida&gt;</span><span style="color: #645252;font-size:18px">Activa Aniquilación rápida cuando muere una unidad objetivo (excluyendo los monstruos invocados)</span>
-
-### 4th Skill (or 3rd): Carga con armadura pesada
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Fast Breaching&gt;</span><span style="color: #645252;font-size:18px">Aumenta el daño al 150%, tras otro asalto, y &lt;stuns&gt; a los enemigos durante 5 s.</span>
-
-### 5th Skill (or 6th): Fanatismo
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de caballero&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 20% adicional. El efecto se duplica si tiene «Moral alta»</span>
-
-### 6th Skill (or 5th): Pensamiento apacible
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pica de Caballero&gt; </span><span style="color: #645252;font-size:18px">En combate, garantiza infligir un golpe crítico bajo los efectos de moral alta. El efecto dura 10 s</span>
 
 ## Technical info
  **runart:** 1

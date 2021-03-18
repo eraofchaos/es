@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Basilisco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Controla los tanques. Petrifica.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Basilisco](/equipment/Ala de Cuello de Basilisco/) | **ATQ** | **DEF** | 
-  | [Escama Adamantina](/equipment/Escama Adamantina/) | **PV** | **DEF** | 
-  | [Garra Envenenada](/equipment/Garra Envenenada/) | **ATQ** | **DEF** | 
-  | [Colmillo de Petrificación](/equipment/Colmillo de Petrificación/) | **PV** | **DEF** | 
+  | [Ala de Cuello de Basilisco](/es/equipment/Ala de Cuello de Basilisco/) | **ATQ** | **DEF** | 
+  | [Escama Adamantina](/es/equipment/Escama Adamantina/) | **PV** | **DEF** | 
+  | [Garra Envenenada](/es/equipment/Garra Envenenada/) | **ATQ** | **DEF** | 
+  | [Colmillo de Petrificación](/es/equipment/Colmillo de Petrificación/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Cola de Basilisco](/Exclusive/Basilisk Basilisk's Tail/) 
+ **Name:** [Cola de Basilisco](/es/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

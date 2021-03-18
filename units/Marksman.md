@@ -3,7 +3,7 @@ title: "Ballestero"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Ballestero"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Unit description:** Flecha explosiva: inflige daño considerable a las unidades enemigas.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ballesta ligera](/equipment/Ballesta ligera/) | **ATQ** | **DEF** | 
-  | [Bonete de Acero](/equipment/Bonete de Acero/) | **PV** | **DEF** | 
-  | [Virotes Perforadores](/equipment/Virotes Perforadores/) | **ATQ** | **DEF** | 
-  | [Guanteletes de Cuero](/equipment/Guanteletes de Cuero/) | **PV** | **DEF** | 
+  | [Ballesta ligera](/es/equipment/Ballesta ligera/) | **ATQ** | **DEF** | 
+  | [Bonete de Acero](/es/equipment/Bonete de Acero/) | **PV** | **DEF** | 
+  | [Virotes Perforadores](/es/equipment/Virotes Perforadores/) | **ATQ** | **DEF** | 
+  | [Guanteletes de Cuero](/es/equipment/Guanteletes de Cuero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Marksman Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Testigo](/Emblem/Witness/) (Bien)
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Testigo](/es/Emblem/Witness/) (Bien)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Arquero**  (Lista de unidades a distancia)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

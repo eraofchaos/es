@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad."
 unitID: 209
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Mantis"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Unicornio
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Aumenta el alcance del corte rápido.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_2091](/es/equipment/UnknownEquipment_2091/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_2092](/es/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
+  | [UnknownEquipment_2093](/es/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_2094](/es/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Profeta Verde](/Emblem/Green Prophet/) (Bien)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Profeta Verde](/es/Emblem/Green Prophet/) (Bien)
 
 ## Información de combinación
 
@@ -166,10 +166,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

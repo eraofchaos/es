@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Unicornio
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Aliento de llamas: inflige daño a las tropas enemigas a su paso.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pico de Llama Virulenta](/equipment/Pico de Llama Virulenta/) | **ATQ** | **DEF** | 
-  | [Runa de Revivir](/equipment/Runa de Revivir/) | **PV** | **DEF** | 
-  | [Garras de Llama Virulenta](/equipment/Garras de Llama Virulenta/) | **ATQ** | **DEF** | 
-  | [Alas de Plumas Arcoíris](/equipment/Alas de Plumas Arcoíris/) | **PV** | **DEF** | 
+  | [Pico de Llama Virulenta](/es/equipment/Pico de Llama Virulenta/) | **ATQ** | **DEF** | 
+  | [Runa de Revivir](/es/equipment/Runa de Revivir/) | **PV** | **DEF** | 
+  | [Garras de Llama Virulenta](/es/equipment/Garras de Llama Virulenta/) | **ATQ** | **DEF** | 
+  | [Alas de Plumas Arcoíris](/es/equipment/Alas de Plumas Arcoíris/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Llama eterna](/Exclusive/Firebird Eternal Flame/) 
+ **Name:** [Llama eterna](/es/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Luna](/heroes/Luna/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Luna](/es/heroes/Luna/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

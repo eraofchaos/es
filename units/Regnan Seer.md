@@ -3,7 +3,7 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Vidente Regnan"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Los Inframares
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Líder de Cala. Control potente.
 
@@ -68,27 +68,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cetro Divino del Alma del Océano](/equipment/Cetro Divino del Alma del Océano/) | **ATQ** | **DEF** | 
-  | [Collar del Alma de Poseidón](/equipment/Collar del Alma de Poseidón/) | **PV** | **DEF** | 
-  | [Cintillo de Radiancia](/equipment/Cintillo de Radiancia/) | **ATQ** | **DEF** | 
-  | [Brazalete Noble](/equipment/Brazalete Noble/) | **PV** | **DEF** | 
+  | [Cetro Divino del Alma del Océano](/es/equipment/Cetro Divino del Alma del Océano/) | **ATQ** | **DEF** | 
+  | [Collar del Alma de Poseidón](/es/equipment/Collar del Alma de Poseidón/) | **PV** | **DEF** | 
+  | [Cintillo de Radiancia](/es/equipment/Cintillo de Radiancia/) | **ATQ** | **DEF** | 
+  | [Brazalete Noble](/es/equipment/Brazalete Noble/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [](/Exclusive/Regnan Seer /) 
+ **Name:** [](/es/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -163,10 +163,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Magia**  (Lista de unidades lanzadoras)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

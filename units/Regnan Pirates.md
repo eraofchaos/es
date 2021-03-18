@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Piratas Regnan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** Daño masivo y aumenta el valor.
 
@@ -68,27 +68,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machete Endurecido](/equipment/Machete Endurecido/) | **ATQ** | **DEF** | 
-  | [Camisa de Marinero](/equipment/Camisa de Marinero/) | **PV** | **DEF** | 
-  | [Cintillo de Rectitud](/equipment/Cintillo de Rectitud/) | **ATQ** | **DEF** | 
-  | [Pantalones de Marinero](/equipment/Pantalones de Marinero/) | **PV** | **DEF** | 
+  | [Machete Endurecido](/es/equipment/Machete Endurecido/) | **ATQ** | **DEF** | 
+  | [Camisa de Marinero](/es/equipment/Camisa de Marinero/) | **PV** | **DEF** | 
+  | [Cintillo de Rectitud](/es/equipment/Cintillo de Rectitud/) | **ATQ** | **DEF** | 
+  | [Pantalones de Marinero](/es/equipment/Pantalones de Marinero/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Regnan Pirates Sword/) 
+ **Name:** [Espada](/es/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/) (Maligno)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) (Maligno)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Peter Lee](/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/es/heroes/Peter Lee/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

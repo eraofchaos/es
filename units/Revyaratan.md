@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Revyaratan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Kraken de las profundidades. No puede revivir.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Colmillos afilados](/equipment/Colmillos afilados/) | **ATQ** | **DEF** | 
-  | [Aleta Helada](/equipment/Aleta Helada/) | **PV** | **DEF** | 
-  | [Cola de Monstruo Marino](/equipment/Cola de Monstruo Marino/) | **ATQ** | **DEF** | 
-  | [Tentáculos de las Tentaciones](/equipment/Tentáculos de las Tentaciones/) | **PV** | **DEF** | 
+  | [Colmillos afilados](/es/equipment/Colmillos afilados/) | **ATQ** | **DEF** | 
+  | [Aleta Helada](/es/equipment/Aleta Helada/) | **PV** | **DEF** | 
+  | [Cola de Monstruo Marino](/es/equipment/Cola de Monstruo Marino/) | **ATQ** | **DEF** | 
+  | [Tentáculos de las Tentaciones](/es/equipment/Tentáculos de las Tentaciones/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Mareas Sombrías](/Exclusive/Revyaratan Gloom Tides/) 
+ **Name:** [Mareas Sombrías](/es/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Aliento del Rey Dragón](/Emblem/Dragon King's Breath/) (Maligno)
-* [Profecía rota](/Emblem/Broken Prophecy/) (Maligno)
-* [Envidia](/Emblem/Jealousy/) (Caos)
+* [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) (Maligno)
+* [Profecía rota](/es/Emblem/Broken Prophecy/) (Maligno)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
 
 ## Información de combinación
 
@@ -165,10 +165,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

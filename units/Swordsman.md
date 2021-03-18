@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Espadachín"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Protección divina: reduce el daño recibido.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Espada del Imperio](/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
-  | [Casco de Oficial](/equipment/Casco de Oficial/) | **PV** | **DEF** | 
-  | [Escudo del Imperio](/equipment/Escudo del Imperio/) | **ATQ** | **DEF** | 
-  | [Hombreras del Imperio](/equipment/Hombreras del Imperio/) | **PV** | **DEF** | 
+  | [Espada del Imperio](/es/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
+  | [Casco de Oficial](/es/equipment/Casco de Oficial/) | **PV** | **DEF** | 
+  | [Escudo del Imperio](/es/equipment/Escudo del Imperio/) | **ATQ** | **DEF** | 
+  | [Hombreras del Imperio](/es/equipment/Hombreras del Imperio/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Swordsman Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
-* [Avaricia](/Emblem/Greed/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Avaricia](/es/Emblem/Greed/) (Caos)
 
 ## Información de combinación
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Catherine](/heroes/Catherine/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Catherine](/es/heroes/Catherine/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

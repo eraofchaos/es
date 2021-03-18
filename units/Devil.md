@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Diablo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Infierno](/units/Faction Inferno/)
+ **Facción:** [Infierno](/es/units/Faction Inferno/)
 
  **Race:** Demoníaco
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Segador doloroso: inflige un daño catastrófico al enemigo y lo aturde.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Guadaña del Diablo](/equipment/Guadaña del Diablo/) | **ATQ** | **DEF** | 
-  | [Pentagrama Fundido](/equipment/Pentagrama Fundido/) | **PV** | **DEF** | 
-  | [Guanteletes de Lava Fundida](/equipment/Guanteletes de Lava Fundida/) | **ATQ** | **DEF** | 
-  | [Hombreras de Lava Fundida](/equipment/Hombreras de Lava Fundida/) | **PV** | **DEF** | 
+  | [Guadaña del Diablo](/es/equipment/Guadaña del Diablo/) | **ATQ** | **DEF** | 
+  | [Pentagrama Fundido](/es/equipment/Pentagrama Fundido/) | **PV** | **DEF** | 
+  | [Guanteletes de Lava Fundida](/es/equipment/Guanteletes de Lava Fundida/) | **ATQ** | **DEF** | 
+  | [Hombreras de Lava Fundida](/es/equipment/Hombreras de Lava Fundida/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Guadaña del Diablo](/Exclusive/Devil Devil Scythe/) 
+ **Name:** [Guadaña del Diablo](/es/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Calamidad del Rey](/Emblem/King's Calamity/) (Maligno)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Calamidad del Rey](/es/Emblem/King's Calamity/) (Maligno)
 
 ## Información de combinación
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Infierno**  (Lista de Infierno)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Unicornio"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Unicornio"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Unicornio
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Ceguera: Reduce la precisión de una fila de las tropas enemigas.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuerno Largo de Cristal](/equipment/Cuerno Largo de Cristal/) | **ATQ** | **DEF** | 
-  | [Piedras de Soñador](/equipment/Piedras de Soñador/) | **PV** | **DEF** | 
-  | [Pezuñas de Cristal](/equipment/Pezuñas de Cristal/) | **ATQ** | **DEF** | 
-  | [Melena Brumosa](/equipment/Melena Brumosa/) | **PV** | **DEF** | 
+  | [Cuerno Largo de Cristal](/es/equipment/Cuerno Largo de Cristal/) | **ATQ** | **DEF** | 
+  | [Piedras de Soñador](/es/equipment/Piedras de Soñador/) | **PV** | **DEF** | 
+  | [Pezuñas de Cristal](/es/equipment/Pezuñas de Cristal/) | **ATQ** | **DEF** | 
+  | [Melena Brumosa](/es/equipment/Melena Brumosa/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Pica de Caballero](/es/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Señal ominosa](/Emblem/Ominous Sign/) (Maligno)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Señal ominosa](/es/Emblem/Ominous Sign/) (Maligno)
 
 ## Información de combinación
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Dragón
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Refuerzos del Cielo: inflige un daño colosal a tres tropas enemigas de la retaguardia.
 
@@ -71,27 +71,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuerno venenoso](/equipment/Cuerno venenoso/) | **ATQ** | **DEF** | 
-  | [Armadura de Escamas de Dragón](/equipment/Armadura de Escamas de Dragón/) | **PV** | **DEF** | 
-  | [Garras de Descomposición](/equipment/Garras de Descomposición/) | **ATQ** | **DEF** | 
-  | [Sangre de Dragón Venenoso](/equipment/Sangre de Dragón Venenoso/) | **PV** | **DEF** | 
+  | [Cuerno venenoso](/es/equipment/Cuerno venenoso/) | **ATQ** | **DEF** | 
+  | [Armadura de Escamas de Dragón](/es/equipment/Armadura de Escamas de Dragón/) | **PV** | **DEF** | 
+  | [Garras de Descomposición](/es/equipment/Garras de Descomposición/) | **ATQ** | **DEF** | 
+  | [Sangre de Dragón Venenoso](/es/equipment/Sangre de Dragón Venenoso/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Ala de Dragón Resplandeciente](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Name:** [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -2,20 +2,20 @@
 title: "Exclusivo - Espada de Naga"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Espada de Naga. Espada de Naga. Era of Chaos Exclusivo Espada de Naga. Naga Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Naga Espada de Naga.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Espada de Naga** 
 
- **Exclusivo for Unit:** [Naga](/units/Naga/) 
+ **Exclusivo for Unit:** [Naga](/es/units/Naga/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,17 +25,17 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Despertar  | ? | <Voluntad inquebrantable> Cuando la Naga recibe un efecto de aturdimiento, petrificación o silencio, se vuelve inmune a la mayoría de controles y penalizaciones (p. ej.: congelación, silencio, ralentización, petrificación, aturdimiento, moral baja, desaliento y <Detener el tiempo>) y aumenta un 20% la reducción de daño de unidad durante 5 s. La recarga es de 15 s. (Surte efecto tras equipar un Emblema Sagrado). |
   | **1x** <i class="fas fa-star"/> | ? | Reduce la duración de los efectos de aturdimiento, petrificación, ralentización, congelación, moral baja y silencio un 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ y daño de la unidad de la Naga un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
+  | **3x** <i class="fas fa-star"/> | ? | <Formación de espadas Naga> Cuando sus PV caen por debajo del 25% por primera vez, la Naga invoca su Formación de espadas Naga. Las unidades amistosas situadas en una zona amplia aumentan la penetración en 20 y la absorción de vida un 2% por segundo. Este efecto puede acumularse hasta 10 veces. (Sigue teniendo efecto incluso después de que la Naga haya sido derrotada). |
   | **4x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida de la Naga y la reducción de daño de la unidad un 20%. |
   | **5x** <i class="fas fa-star"/> | ? | La Naga es inmune a los efectos de aturdimiento. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
+  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Inflige daño igual al 200% de su ATQ a todas las unidades hostiles de la fila del objetivo cada 15 s, reduce la DEF del enemigo y la reducción de daño de la unidad un 30% y aumenta su golpe crítico en 1000 y el Absorción de vida en un 20% durante 5 segundos. |
 
 
 ## Subir de nivel

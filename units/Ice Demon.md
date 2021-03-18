@@ -3,30 +3,27 @@ title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Demonio de Hielo"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Descripción:** Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Controla al arquero. Otorga ventaja a los aliados.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Hielo antiguo](/equipment/Hielo antiguo/) | **ATQ** | **DEF** | 
-  | [Toque gélido](/equipment/Toque gélido/) | **PV** | **DEF** | 
-  | [Yelmo frígido](/equipment/Yelmo frígido/) | **ATQ** | **DEF** | 
-  | [Trono de hielo](/equipment/Trono de hielo/) | **PV** | **DEF** | 
+  | [Hielo antiguo](/es/equipment/Hielo antiguo/) | **ATQ** | **DEF** | 
+  | [Toque gélido](/es/equipment/Toque gélido/) | **PV** | **DEF** | 
+  | [Yelmo frígido](/es/equipment/Yelmo frígido/) | **ATQ** | **DEF** | 
+  | [Trono de hielo](/es/equipment/Trono de hielo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -176,10 +173,11 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Arquero**  (Lista de unidades a distancia)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

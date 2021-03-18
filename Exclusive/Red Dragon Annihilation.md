@@ -2,20 +2,20 @@
 title: "Exclusivo - Aniquilación"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Aniquilación. Aniquilación. Era of Chaos Exclusivo Aniquilación. Dragón Rojo Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Red Dragon Aniquilación.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Aniquilación** 
 
- **Exclusivo for Unit:** [Dragón Rojo](/units/Red Dragon/) 
+ **Exclusivo for Unit:** [Dragón Rojo](/es/units/Red Dragon/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Alma de Dragón> El Dragón Rojo condensa 1 Alma de Dragón en su cuerpo cada 15 s hasta un máximo de 4 Almas de Dragón. Cada Alma de Dragón aumenta el daño de unidad del Dragón Rojo un 10% y la reducción de daño de unidad un 10%. Cuando el Dragón Rojo tiene un Alma de Dragón, lanza <Llama Infernal>, que inflige daño equivalente al 150% del propio ATQ a la unidad objetivo y daño adicional equivalente al 20% de los PV máximos a las unidades quemadas. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Dragón Rojo en 50 y la penetración en 50 cada vez que se despliega una unidad de Subterráneo. |

@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Elemental de Hielo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos.
 
- **Clase:** [Lanzador](/units/Unit Class Caster/)
+ **Clase:** [Lanzador](/es/units/Unit Class Caster/)
 
  **Clase Descripción:** Las unidades lanzahechizos dominan los secretos de la magia, por lo que tienen una reducción de resistencia mágica superior.
 
- **Facción:** [Conflujo](/units/Faction Conflux/)
+ **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
  **Race:** Amaestrador
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Short description:** Aura de hielo. Muro de hielo
 
@@ -66,27 +66,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cristal de Hielo Profundo](/equipment/Cristal de Hielo Profundo/) | **ATQ** | **DEF** | 
-  | [Tocado de las Mareas](/equipment/Tocado de las Mareas/) | **PV** | **DEF** | 
-  | [Marca del Océano](/equipment/Marca del Océano/) | **ATQ** | **DEF** | 
-  | [Paño de la Sirena](/equipment/Paño de la Sirena/) | **PV** | **DEF** | 
+  | [Cristal de Hielo Profundo](/es/equipment/Cristal de Hielo Profundo/) | **ATQ** | **DEF** | 
+  | [Tocado de las Mareas](/es/equipment/Tocado de las Mareas/) | **PV** | **DEF** | 
+  | [Marca del Océano](/es/equipment/Marca del Océano/) | **ATQ** | **DEF** | 
+  | [Paño de la Sirena](/es/equipment/Paño de la Sirena/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/Exclusive/Ice Elemental Arcane Chant/) 
+ **Name:** [Canto Arcano](/es/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Legado de Puño de Hierro](/Emblem/Ironfist's Legacy/) (Orden)
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) (Orden)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Conflujo**  (Lista de Conflujo)
 * **Magia**  (Lista de unidades lanzadoras)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Dracon](/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/es/heroes/Ciele/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

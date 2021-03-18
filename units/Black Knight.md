@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Caballero Negro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Necrópolis](/units/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/units/Faction Necropolis/)
 
  **Race:** No muerto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Golpe crítico: inflige un daño colosal y causa moral baja.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Espada Maldita](/equipment/Espada Maldita/) | **ATQ** | **DEF** | 
-  | [Visera de los Muertos](/equipment/Visera de los Muertos/) | **PV** | **DEF** | 
-  | [Brazalete de Pesadilla](/equipment/Brazalete de Pesadilla/) | **ATQ** | **DEF** | 
-  | [Hombreras de Pesadilla](/equipment/Hombreras de Pesadilla/) | **PV** | **DEF** | 
+  | [Espada Maldita](/es/equipment/Espada Maldita/) | **ATQ** | **DEF** | 
+  | [Visera de los Muertos](/es/equipment/Visera de los Muertos/) | **PV** | **DEF** | 
+  | [Brazalete de Pesadilla](/es/equipment/Brazalete de Pesadilla/) | **ATQ** | **DEF** | 
+  | [Hombreras de Pesadilla](/es/equipment/Hombreras de Pesadilla/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Sable del Inframundo](/Exclusive/Black Knight Nether Sabre/) 
+ **Name:** [Sable del Inframundo](/es/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [Testigo](/Emblem/Witness/) (Bien)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [Testigo](/es/Emblem/Witness/) (Bien)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -161,12 +161,13 @@ toc: true
 
 * **Necrópolis**  (Lista de Necrópolis)
 * **Carga**  (Lista de unidades de carga)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Lord Haart](/heroes/Lord Haart/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro humano](/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Lord Haart](/es/heroes/Lord Haart/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/es/heroes/Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro humano](/es/heroes/Human Sandro/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

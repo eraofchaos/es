@@ -3,7 +3,7 @@ title: "Enano"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Enano"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Bosque
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Aullido enano: aumenta la vida máxima de la unidad al inicio de la batalla.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Mazo Vigoroso](/equipment/Mazo Vigoroso/) | **ATQ** | **DEF** | 
-  | [Yelmo Astado](/equipment/Yelmo Astado/) | **PV** | **DEF** | 
-  | [Guanteletes del Fuego de Hogar](/equipment/Guanteletes del Fuego de Hogar/) | **ATQ** | **DEF** | 
-  | [Hombreras del Fuego de Hogar](/equipment/Hombreras del Fuego de Hogar/) | **PV** | **DEF** | 
+  | [Mazo Vigoroso](/es/equipment/Mazo Vigoroso/) | **ATQ** | **DEF** | 
+  | [Yelmo Astado](/es/equipment/Yelmo Astado/) | **PV** | **DEF** | 
+  | [Guanteletes del Fuego de Hogar](/es/equipment/Guanteletes del Fuego de Hogar/) | **ATQ** | **DEF** | 
+  | [Hombreras del Fuego de Hogar](/es/equipment/Hombreras del Fuego de Hogar/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Dwarf Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Ángel Guardián](/Emblem/Guardian Angel/) (Bien)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Ángel Guardián](/es/Emblem/Guardian Angel/) (Bien)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -164,10 +164,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

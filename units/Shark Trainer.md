@@ -3,7 +3,7 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Domador de Tiburones"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Invoca a tiburones para destrozar y desgarrar.
 
@@ -68,27 +68,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cimitarra de acero](/equipment/Cimitarra de acero/) | **ATQ** | **DEF** | 
-  | [Correa protectora](/equipment/Correa protectora/) | **PV** | **DEF** | 
-  | [Guantes protectores](/equipment/Guantes protectores/) | **ATQ** | **DEF** | 
-  | [Riendas de tiburón](/equipment/Riendas de tiburón/) | **PV** | **DEF** | 
+  | [Cimitarra de acero](/es/equipment/Cimitarra de acero/) | **ATQ** | **DEF** | 
+  | [Correa protectora](/es/equipment/Correa protectora/) | **PV** | **DEF** | 
+  | [Guantes protectores](/es/equipment/Guantes protectores/) | **ATQ** | **DEF** | 
+  | [Riendas de tiburón](/es/equipment/Riendas de tiburón/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Olas de ruptura](/Exclusive/Shark Trainer Break Waves/) 
+ **Name:** [Olas de ruptura](/es/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Envidia](/Emblem/Jealousy/) (Caos)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Envidia](/es/Emblem/Jealousy/) (Caos)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
 
 ## Información de combinación
 
@@ -197,10 +197,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Carga**  (Lista de unidades de carga)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

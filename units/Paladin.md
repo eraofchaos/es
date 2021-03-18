@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Paladín"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Castillo](/units/Faction Castle/)
+ **Facción:** [Castillo](/es/units/Faction Castle/)
 
  **Race:** Humano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/es/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Refuerzos de los valientes: Invoca una Comitiva de Refugio para que luche
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Espada del Juicio](/equipment/Espada del Juicio/) | **ATQ** | **DEF** | 
-  | [Yelmo del Juramento](/equipment/Yelmo del Juramento/) | **PV** | **DEF** | 
-  | [Hombreras de hierro](/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
-  | [Brazaletes forjados](/equipment/Brazaletes forjados/) | **PV** | **DEF** | 
+  | [Espada del Juicio](/es/equipment/Espada del Juicio/) | **ATQ** | **DEF** | 
+  | [Yelmo del Juramento](/es/equipment/Yelmo del Juramento/) | **PV** | **DEF** | 
+  | [Hombreras de hierro](/es/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
+  | [Brazaletes forjados](/es/equipment/Brazaletes forjados/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [](/Exclusive/Paladin /) 
+ **Name:** [](/es/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Castillo**  (Lista de Castillo)
 * **Defensa**  (Lista de unidades defensivas)
+* **SSR**  (SSR)
 
 ### Bonificación de Héroe
-* [Roland](/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/es/heroes/Roland/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -168,7 +169,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Paladín Supremo
 

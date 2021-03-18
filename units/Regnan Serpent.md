@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Serpiente Regnan"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Cala](/units/Faction Cove/)
+ **Facción:** [Cala](/es/units/Faction Cove/)
 
  **Race:** Los Inframares
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Unit description:** Pisotón de las profundidades: Control en área, desalienta a los enemigos y reduce el golpe crítico.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Tridente](/equipment/Tridente/) | **ATQ** | **DEF** | 
-  | [Cuerno de Caparazón](/equipment/Cuerno de Caparazón/) | **PV** | **DEF** | 
-  | [Garras de Sirena](/equipment/Garras de Sirena/) | **ATQ** | **DEF** | 
-  | [Aleta Añil](/equipment/Aleta Añil/) | **PV** | **DEF** | 
+  | [Tridente](/es/equipment/Tridente/) | **ATQ** | **DEF** | 
+  | [Cuerno de Caparazón](/es/equipment/Cuerno de Caparazón/) | **PV** | **DEF** | 
+  | [Garras de Sirena](/es/equipment/Garras de Sirena/) | **ATQ** | **DEF** | 
+  | [Aleta Añil](/es/equipment/Aleta Añil/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Mareas Diurnas](/Exclusive/Regnan Serpent Day Tides/) 
+ **Name:** [Mareas Diurnas](/es/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Ficha de Aksoe](/Emblem/Aksoe Token/) (Neutral)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Ficha de Aksoe](/es/Emblem/Aksoe Token/) (Neutral)
 
 ## Información de combinación
 
@@ -170,10 +170,11 @@ toc: true
 
 * **Cala**  (Lista de Cala)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/es/heroes/Cassanbel/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

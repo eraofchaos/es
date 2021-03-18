@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Mantícora"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Mazmorra](/units/Faction Dungeon/)
+ **Facción:** [Mazmorra](/es/units/Faction Dungeon/)
 
  **Race:** Tropas de Mazmorra
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Short description:** Grandes DPS y resistencia.
 
@@ -67,27 +67,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Garras del Abismo](/equipment/Garras del Abismo/) | **ATQ** | **DEF** | 
-  | [Colmillo de Ponzoña Letal](/equipment/Colmillo de Ponzoña Letal/) | **PV** | **DEF** | 
-  | [Cola Tóxica](/equipment/Cola Tóxica/) | **ATQ** | **DEF** | 
-  | [Alas de Mantícora](/equipment/Alas de Mantícora/) | **PV** | **DEF** | 
+  | [Garras del Abismo](/es/equipment/Garras del Abismo/) | **ATQ** | **DEF** | 
+  | [Colmillo de Ponzoña Letal](/es/equipment/Colmillo de Ponzoña Letal/) | **PV** | **DEF** | 
+  | [Cola Tóxica](/es/equipment/Cola Tóxica/) | **ATQ** | **DEF** | 
+  | [Alas de Mantícora](/es/equipment/Alas de Mantícora/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Cola de Escorpión](/Exclusive/Manticore Scorpion Tail/) 
+ **Name:** [Cola de Escorpión](/es/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Secreto interminable](/Emblem/Everlasting Secret/) (Orden)
-* [Enfado](/Emblem/Anger/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación
 
@@ -148,11 +148,12 @@ toc: true
 
 * **Mazmorra**  (Lista de Mazmorra)
 * **Carga**  (Lista de unidades de carga)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragona Mutare](/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/es/heroes/Mutare/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dragona Mutare](/es/heroes/Dragon Mutare/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

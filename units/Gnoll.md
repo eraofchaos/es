@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gnoll"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil.
 
- **Clase:** [Ofensa](/units/Unit Class Offense/)
+ **Clase:** [Ofensa](/es/units/Unit Class Offense/)
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Amaestrador
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/es/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
  **Short description:** DPS en cuerpo a cuerpo. Aturde.
 
@@ -69,27 +69,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machete de Licántropo](/equipment/Machete de Licántropo/) | **ATQ** | **DEF** | 
-  | [Tarja de Licántropo](/equipment/Tarja de Licántropo/) | **PV** | **DEF** | 
-  | [Cadena de Licántropo](/equipment/Cadena de Licántropo/) | **ATQ** | **DEF** | 
-  | [Guanteletes de Licántropo](/equipment/Guanteletes de Licántropo/) | **PV** | **DEF** | 
+  | [Machete de Licántropo](/es/equipment/Machete de Licántropo/) | **ATQ** | **DEF** | 
+  | [Tarja de Licántropo](/es/equipment/Tarja de Licántropo/) | **PV** | **DEF** | 
+  | [Cadena de Licántropo](/es/equipment/Cadena de Licántropo/) | **ATQ** | **DEF** | 
+  | [Guanteletes de Licántropo](/es/equipment/Guanteletes de Licántropo/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Espada](/Exclusive/Gnoll Sword/) 
+ **Name:** [Espada](/es/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Alas de Grifo](/Emblem/Griffin Wings/) (Orden)
-* [El juicio de los padres](/Emblem/The Judgment of Fathers/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Alas de Grifo](/es/Emblem/Griffin Wings/) (Orden)
+* [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Ofensa**  (Lista de unidades ofensivas)
+* **R**  (R)
 
 ### Bonificación de Héroe
-* [Kendal](/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/es/heroes/Kendal/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -194,7 +195,7 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bofetada en cadena&gt;</span><span style="color: #645252;font-size:18px"> Inflige daño adicional equivalente al 400% de su propio ATQ a la unidad objetivo.</span>
 
 ### 2nd Skill (or 1st): Golpe en cadena
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bofetada en cadena&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración del efecto de aturdimiento de la habilidad en 5 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bofetada en cadena&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración del efecto de aturdimiento de la habilidad a 5 s.</span>
 
 ### 3rd Skill (or 4th): Llamada de lo salvaje
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Salvajismo primitivo&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la penetración en 100. El efecto se duplica contra enemigos bajo los efectos de aturdimiento.</span>

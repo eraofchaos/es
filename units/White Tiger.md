@@ -3,7 +3,7 @@ title: "Tigre Blanco"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa."
 unitID: 809
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Tigre Blanco"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descripción:** El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa.
 
- **Clase:** [Carga](/units/Unit Class Charging/)
+ **Clase:** [Carga](/es/units/Unit Class Charging/)
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Fortaleza](/units/Faction Fortress/)
+ **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
  **Race:** Unicornio
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/es/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
  **Position :** El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa.
 
@@ -66,19 +66,19 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **PV** | **DEF** | 
+  | [UnknownEquipment_8091](/es/equipment/UnknownEquipment_8091/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_8092](/es/equipment/UnknownEquipment_8092/) | **PV** | **DEF** | 
+  | [UnknownEquipment_8093](/es/equipment/UnknownEquipment_8093/) | **ATQ** | **DEF** | 
+  | [UnknownEquipment_8094](/es/equipment/UnknownEquipment_8094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
 
 ## Emblemas Sagrados recomendados
 
-* [Principios legales del sucesor](/Emblem/Successors' Legal Principles/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Principios legales del sucesor](/es/Emblem/Successors' Legal Principles/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -168,10 +168,11 @@ toc: true
 
 * **Fortaleza**  (Lista de Fortaleza)
 * **Carga**  (Lista de unidades de carga)
+* **Comandante**  (Comandante)
 
 ### Bonificación de Héroe
-* [Mullich](/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/es/heroes/Mullich/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/es/heroes/Tazar/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

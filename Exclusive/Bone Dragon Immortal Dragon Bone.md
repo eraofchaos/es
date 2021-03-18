@@ -2,20 +2,20 @@
 title: "Exclusivo - Hueso de Dragón Inmortal"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Hueso de Dragón Inmortal. Hueso de Dragón Inmortal. Era of Chaos Exclusivo Hueso de Dragón Inmortal. Dragón de Hueso Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Bone Dragon Hueso de Dragón Inmortal.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Hueso de Dragón Inmortal** 
 
- **Exclusivo for Unit:** [Dragón de Hueso](/units/Bone Dragon/) 
+ **Exclusivo for Unit:** [Dragón de Hueso](/es/units/Bone Dragon/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1610
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | <Dragon Power> Se puede lanzar cada 12 s para reducir la DEF un 5% y la resistencia mágica un 30% de todas las unidades hostiles durante 15 s, hasta un máximo de 5 acumulaciones. Además, <silence> a las unidades hostiles durante 3 s. Este efecto se activa cada vez que se derrota a una unidad hostil. |
   | **1x** <i class="fas fa-star"/> | ? | Si hay un Dragón de Hueso en el campo de batalla, aumenta la tenacidad en 200 y la DEF un 10% de todas las unidades de Necrópolis amistosas. |

@@ -2,20 +2,20 @@
 title: "Exclusivo - Guadaña del Diablo"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Guadaña del Diablo. Guadaña del Diablo. Era of Chaos Exclusivo Guadaña del Diablo. Diablo Exclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Devil Guadaña del Diablo.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Guadaña del Diablo** 
 
- **Exclusivo for Unit:** [Diablo](/units/Devil/) 
+ **Exclusivo for Unit:** [Diablo](/es/units/Devil/) 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
@@ -25,9 +25,9 @@ classes: wide
 
  **Power:** 1660
 
-## Subida de rango
+## Subir rango
 
-  |     Stars    |  Required to Up | Efecto exclusivo |
+  |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
   |  Despertar  | ? | El Diablo revive en su punto de aparición 6 s después de su primera muerte. Cuando el Diablo revive, aumenta el daño crítico, la velocidad de ataque y la reducción de daño de la unidad un 10% de todas las unidades amistosas durante 20 s. Para las unidades de la facción de Infierno, el efecto se duplica. Cuando el Diablo revive, desata una <Revenge> sobre la unidad objetivo. <Revenge> Inflige daño igual al 200% del ATQ y «demacra» al objetivo. La habilidad puede activarse cada 45 s. «Demacración» dura 5 s y no se puede disipar. Reduce la reducción de daño de la unidad «demacrada» un 20% y la DEF un 20%. |
   | **1x** <i class="fas fa-star"/> | ? | El Diablo lanza [Inferno Mark] a una unidad hostil aleatoria cada 9 s. Cada acumulación de la marca reduce la reducción de daño de la unidad objetivo un 7%, hasta un máximo de 3 acumulaciones. Cuando se alcanzan las tres acumulaciones, las marcas se consumen e infligen 300% de daño al objetivo. Las marcas duran toda la batalla y no se pueden disipar. |

@@ -3,7 +3,7 @@ title: "Gólem de Hierro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gólem de Hierro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia.
 
- **Clase:** [Defensa](/units/Unit Class Defense/)
+ **Clase:** [Defensa](/es/units/Unit Class Defense/)
 
  **Clase Descripción:** Las unidades defensivas pueden resistir un ataque durante más tiempo y cuentan con reducción de daño.
 
- **Facción:** [Torre](/units/Faction Tower/)
+ **Facción:** [Torre](/es/units/Faction Tower/)
 
  **Race:** Humano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Resonancia metálica: Activa un escudo protector que defiende a las unidades amistosas.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Guanteletes de Hierro](/equipment/Guanteletes de Hierro/) | **ATQ** | **DEF** | 
-  | [Hombreras de Púas](/equipment/Hombreras de Púas/) | **PV** | **DEF** | 
-  | [Corazón Arcano](/equipment/Corazón Arcano/) | **ATQ** | **DEF** | 
-  | [Peto de Hierro Endurecido](/equipment/Peto de Hierro Endurecido/) | **PV** | **DEF** | 
+  | [Guanteletes de Hierro](/es/equipment/Guanteletes de Hierro/) | **ATQ** | **DEF** | 
+  | [Hombreras de Púas](/es/equipment/Hombreras de Púas/) | **PV** | **DEF** | 
+  | [Corazón Arcano](/es/equipment/Corazón Arcano/) | **ATQ** | **DEF** | 
+  | [Peto de Hierro Endurecido](/es/equipment/Peto de Hierro Endurecido/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/Exclusive/Iron Golem Iris Shield/) 
+ **Name:** [Escudo Iris](/es/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Bendición de la Reina](/Emblem/Queen's Blessing/) (Orden)
-* [Engranaje del tiempo](/Emblem/Gear of Time/) (Bien)
-* [Lujuria](/Emblem/Lust/) (Caos)
+* [Bendición de la Reina](/es/Emblem/Queen's Blessing/) (Orden)
+* [Engranaje del tiempo](/es/Emblem/Gear of Time/) (Bien)
+* [Lujuria](/es/Emblem/Lust/) (Caos)
 
 ## Información de combinación
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Torre**  (Lista de Torre)
 * **Defensa**  (Lista de unidades defensivas)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Mephala](/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/es/heroes/Astral/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

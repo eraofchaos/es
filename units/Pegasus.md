@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: es
 ref: "Pegaso"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descripción:** Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque.
 
- **Clase:** [A distancia](/units/Unit Class Ranged/)
+ **Clase:** [A distancia](/es/units/Unit Class Ranged/)
 
  **Clase Descripción:** Cuanto mayor sea la distancia entre una unidad a distancia y su objetivo, más letal será su Ataque.
 
- **Facción:** [Murallas](/units/Faction Rampart/)
+ **Facción:** [Murallas](/es/units/Faction Rampart/)
 
  **Race:** Bosque
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/es/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
  **Unit description:** Protección de vitalidad: otorga un escudo de vida a la unidad más cercana en tu ejército.
 
@@ -70,27 +70,27 @@ toc: true
 
   |  Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Chakra de Espinas](/equipment/Chakra de Espinas/) | **ATQ** | **DEF** | 
-  | [Diadema del Verdor](/equipment/Diadema del Verdor/) | **PV** | **DEF** | 
-  | [Guanteletes de Rosas](/equipment/Guanteletes de Rosas/) | **ATQ** | **DEF** | 
-  | [Armadura Portentosa](/equipment/Armadura Portentosa/) | **PV** | **DEF** | 
+  | [Chakra de Espinas](/es/equipment/Chakra de Espinas/) | **ATQ** | **DEF** | 
+  | [Diadema del Verdor](/es/equipment/Diadema del Verdor/) | **PV** | **DEF** | 
+  | [Guanteletes de Rosas](/es/equipment/Guanteletes de Rosas/) | **ATQ** | **DEF** | 
+  | [Armadura Portentosa](/es/equipment/Armadura Portentosa/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
- **Name:** [Arco largo](/Exclusive/Pegasus Long Bow/) 
+ **Name:** [Arco largo](/es/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Subida de rango:** -
+ **Item to Subir rango:** -
 
  **Skin:** -
 
 
 ## Emblemas Sagrados recomendados
 
-* [Fuego antiguo](/Emblem/Ancient Fire/) (Orden)
-* [Llave de piedra a los Portales](/Emblem/Stone Key to the Gates/) (Neutral)
-* [Arrogancia](/Emblem/Arrogance/) (Caos)
+* [Fuego antiguo](/es/Emblem/Ancient Fire/) (Orden)
+* [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) (Neutral)
+* [Arrogancia](/es/Emblem/Arrogance/) (Caos)
 
 ## Información de combinación
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Murallas**  (Lista de Murallas)
 * **Arquero**  (Lista de unidades a distancia)
+* **SR**  (SR)
 
 ### Bonificación de Héroe
-* [Gelu](/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/es/heroes/Gelu/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/es/heroes/Gem/)  ->   Especialidad:<i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
