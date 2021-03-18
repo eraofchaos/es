@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Caballero Negro](/es/Items/unt_213/)
+
  **Unit description:** Golpe crítico: inflige un daño colosal y causa moral baja.
 
  **Short description:** Daño potente. Decapitación mejorada.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Sable del Inframundo](/es/Exclusive/Black Knight Nether Sabre/) 
+ **Nombre:** [Sable del Inframundo](/es/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Sable del Inframundo](/es/Items/con_979/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Sable del Inframundo](/es/Items/con_647/)
 
 
 ## Emblemas Sagrados recomendados
@@ -176,9 +178,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Caballero del Terror

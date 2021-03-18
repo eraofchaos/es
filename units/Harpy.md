@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Arpía](/es/Items/unt_245/)
+
  **Unit description:** Garra afilada de la Hechicera: Tiene una probabilidad de infligir daño a varios enemigos.
 
  **Short description:** Apoyo. Control de masas.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -165,9 +167,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** 

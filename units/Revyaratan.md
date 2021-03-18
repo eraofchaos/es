@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Revyaratan](/es/Items/unt_280/)
+
  **Short description:** Kraken de las profundidades. No puede revivir.
 
  **Position :** Inflige muchísimo daño constante, desalienta a los enemigos y tiene cierta probabilidad de recuperar PV al devorar cuerpos.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Mareas Sombrías](/es/Exclusive/Revyaratan Gloom Tides/) 
+ **Nombre:** [Mareas Sombrías](/es/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -178,9 +180,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Monstruo Marino Ancestral

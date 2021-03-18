@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Demonio de Hielo](/es/Items/unt_269/)
+
  **Short description:** Controla al arquero. Otorga ventaja a los aliados.
 
  **Position :** Controla al arquero. Otorga ventaja a los aliados.
@@ -186,9 +188,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

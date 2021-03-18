@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Hombre Lagarto](/es/Items/unt_254/)
+
  **Short description:** DPS potente.
 
  **Position :** Potente DPS. Inflige más daño al luchar contra unidades grandes.
@@ -75,13 +77,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Lizardman Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

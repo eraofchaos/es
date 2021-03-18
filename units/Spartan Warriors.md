@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Guerreros Espartanos](/es/Items/unt_272/)
+
  **Short description:** Aturdimiento de escudo. La muerte inspira.
 
  **Position :** Los golpes de escudo aturden a los enemigos. La muerte de una unidad inspira a los aliados.
@@ -161,9 +163,11 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Monje](/es/Items/unt_194/)
+
  **Unit description:** Plegaria: cura a la unidad con la vida más baja de tu ejército.
 
  **Short description:** Curación y Ventajas potentes.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -163,9 +165,11 @@ toc: true
 
 * ?!? 
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Fanático

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Ballestero](/es/Items/unt_191/)
+
  **Unit description:** Flecha explosiva: inflige daño considerable a las unidades enemigas.
 
  **Short description:** Ataca dos veces. Eficaz contra unidades grandes.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Marksman Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Golpe crítico de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Arquero Maestro

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Dragón Negro](/es/Items/unt_250/)
+
  **Unit description:** Aliento de dragón: Ataca a los enemigos en una zona grande y los quema.
 
  **Short description:** Defensa y ataque mágicos genéricos.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escama de Dragón Negro](/es/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Nombre:** [Escama de Dragón Negro](/es/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escama de Dragón Negro](/es/Items/con_993/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Escama de Dragón Negro](/es/Items/con_661/)
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Rey Dragón Negro

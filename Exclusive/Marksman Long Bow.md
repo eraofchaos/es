@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco largo** 
+### Detalles
+ **Nombre: Arco largo** 
 
  **Exclusivo for Unit:** [Ballestero](/es/units/Marksman/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 300% de su propio ATQ e ignora 1000 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Ballestero un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Ballestero un 20% cuando el Ballestero tiene la moral alta. |
-  | **3x** <i class="fas fa-star"/> | ? | Los ataques del Ballestero infligen Castigo a las unidades enemigas. Al atacar a la misma unidad objetivo un total de 18 veces, esta recibe daño adicional equivalente al 200% del ATQ del Ballestero. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad Ballestero un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la resistencia mágica del Ballestero un 40%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Juramento de Muerte> Cuando la unidad recibe daño letal, esta no muere y obtiene invencibilidad, aumenta su daño de unidad un 50%, la velocidad de ataque un 150%, el golpe crítico en 500 y la absorción de vida un 20% durante 5 s. Este efecto se puede activar una vez por unidad a lo largo de toda la batalla. <Flecha Penetraarmaduras> se activa de inmediato la primera vez que una unidad activa <Juramento de Muerte>. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 300% de su propio ATQ e ignora 1000 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el ATQ del Ballestero un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la DEF del Ballestero un 20% cuando el Ballestero tiene la moral alta. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | Los ataques del Ballestero infligen Castigo a las unidades enemigas. Al atacar a la misma unidad objetivo un total de 18 veces, esta recibe daño adicional equivalente al 200% del ATQ del Ballestero. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el daño de unidad Ballestero un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la resistencia mágica del Ballestero un 40%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | <Juramento de Muerte> Cuando la unidad recibe daño letal, esta no muere y obtiene invencibilidad, aumenta su daño de unidad un 50%, la velocidad de ataque un 150%, el golpe crítico en 500 y la absorción de vida un 20% durante 5 s. Este efecto se puede activar una vez por unidad a lo largo de toda la batalla. <Flecha Penetraarmaduras> se activa de inmediato la primera vez que una unidad activa <Juramento de Muerte>. |
 
 
 ## Subir de nivel

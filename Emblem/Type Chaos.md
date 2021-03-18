@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Caos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Caos. Era of Chaos Caos"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "typeCaos.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nombre            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Lujuria](/es/Emblem/Lust/) | Caos | Recomendado para unidades defensivas | 
   | 2 | [Arrogancia](/es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 

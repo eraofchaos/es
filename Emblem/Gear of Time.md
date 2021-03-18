@@ -2,20 +2,20 @@
 title: "Emblema Sagrado - Engranaje del tiempo"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Engranaje del tiempo. Engranaje del tiempo. Era of Chaos Emblema Sagrado Engranaje del tiempo. Era of Chaos Bien Engranaje del tiempo"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gear of Time.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Engranaje del tiempo
+ **Nombre:** Engranaje del tiempo
 
  **Type:** [Bien](/es/Emblem/Type Goodness/)
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +15, Emblema Sagrado de DEF +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 2,5% por cada 5% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +37,5, Emblema Sagrado de DEF +37,5</span> | 
   | [Engranaje del tiempo](/es/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +9, Emblema Sagrado de DEF +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Las unidades desplegadas consiguen un aumento de DEF del 2% por cada 7% de PV que hayan perdido.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +22,5, Emblema Sagrado de DEF +22,5</span> | 

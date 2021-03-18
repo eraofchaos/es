@@ -15,14 +15,14 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Piquero](/es/units/Pikeman/) | [Espada](/es/Exclusive/Pikeman Sword/) | - | Carga | - | - |
-  | 2  | [Ballestero](/es/units/Marksman/) | [Arco largo](/es/Exclusive/Marksman Long Bow/) | - | Carga | - | - |
-  | 3  | [Grifo](/es/units/Griffin/) | [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) | - | Carga | - | - |
-  | 4  | [Espadachín](/es/units/Swordsman/) | [Escudo Iris](/es/Exclusive/Swordsman Iris Shield/) | - | Carga | - | - |
-  | 5  | [Monje](/es/units/Monk/) | [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) | - | Carga | - | - |
-  | 6  | [Catafracto](/es/units/Cavalier/) | [Pica de Caballero](/es/Exclusive/Cavalier Knight Pike/) | + | Carga | - | - |
-  | 7  | [Ángel](/es/units/Angel/) | [Durandel](/es/Exclusive/Angel Durandel/) | - | Asistencia técnica | - | - |
-  | 8  | [Paladín](/es/units/Paladin/) | [](/es/Exclusive/Paladin /) | - | Asistencia técnica | - | - |
-  | 9  | [Adjudicadora](/es/units/Judicator/) | [](/es/Exclusive/Judicator /) | - | Capital | - | - |
+  | 1  | [Piquero](/es/units/Pikeman/) | [Espada](/es/Exclusive/Pikeman Sword/) | - | Carga | [Ficha de espada](/es/Items/con_912/) | - |
+  | 2  | [Ballestero](/es/units/Marksman/) | [Arco largo](/es/Exclusive/Marksman Long Bow/) | - | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
+  | 3  | [Grifo](/es/units/Griffin/) | [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
+  | 4  | [Espadachín](/es/units/Swordsman/) | [Escudo Iris](/es/Exclusive/Swordsman Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 5  | [Monje](/es/units/Monk/) | [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
+  | 6  | [Catafracto](/es/units/Cavalier/) | [Pica de Caballero](/es/Exclusive/Cavalier Knight Pike/) | + | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
+  | 7  | [Ángel](/es/units/Angel/) | [Durandel](/es/Exclusive/Angel Durandel/) | - | Asistencia técnica | [Ficha de Durandel](/es/Items/con_973/) | [Aspecto Especial de Durandel](/es/Items/con_641/) |
+  | 8  | [Paladín](/es/units/Paladin/) | [](/es/Exclusive/Paladin /) | - | Asistencia técnica | [Ficha de Valiente](/es/Items/con_974/) | [Aspecto Especial de Valiente](/es/Items/con_642/) |
+  | 9  | [Adjudicadora](/es/units/Judicator/) | [](/es/Exclusive/Judicator /) | - | Capital | [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) | [Tool_210909](/es/Items/con_643/) |

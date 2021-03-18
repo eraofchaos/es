@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Domador de Tiburones](/es/Items/unt_281/)
+
  **Short description:** Invoca a tiburones para destrozar y desgarrar.
 
  **Position :** Invoca poderosos tiburones que se hacen más fuertes a medida que pelean, lo que les permite destrozar a sus rivales.
@@ -75,13 +77,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Olas de ruptura](/es/Exclusive/Shark Trainer Break Waves/) 
+ **Nombre:** [Olas de ruptura](/es/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -210,9 +212,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Jinete de tiburones

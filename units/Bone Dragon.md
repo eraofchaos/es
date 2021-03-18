@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Dragón de Hueso](/es/Items/unt_214/)
+
  **Unit description:** Miedo: reduce la defensa de los enemigos mucho y causa moral baja.
 
  **Short description:** Escapa e inflige daño adicional.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Hueso de Dragón Inmortal](/es/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Nombre:** [Hueso de Dragón Inmortal](/es/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha del Hueso de Dragón Inmortal](/es/Items/con_980/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Hueso de Dragón Inmortal](/es/Items/con_648/)
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Dragón Fantasma

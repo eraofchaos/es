@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Piratas Regnan](/es/Items/unt_273/)
+
  **Short description:** Daño masivo y aumenta el valor.
 
  **Position :** Usa Destrozo al inicio. DPS potente. Reduce la DEF de los enemigos.
@@ -75,13 +77,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Regnan Pirates Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -169,9 +171,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Rey de los Piratas

@@ -3,13 +3,13 @@ title: "Dragona Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragona Mutare. Dragona Mutare. Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
 heroID: 61302
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragon Mutare"
 toc: true
 ---
  **Descripción:** Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones.
-## Details
+## Detalles
  **Profession:** Adalid
 
  **Race:** Mazmorra

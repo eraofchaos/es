@@ -3,13 +3,13 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. De joven, Kilgor derrotó a su padre para conseguir el título de jefe del clan. Su fama se ha extendido por todo Krewlod desde entonces. Muchos lo consideran el único guerrero capaz de ganar el Festival de la Vida de esta generación."
 heroID: 60601
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Kilgor"
 toc: true
 ---
  **Descripción:** De joven, Kilgor derrotó a su padre para conseguir el título de jefe del clan. Su fama se ha extendido por todo Krewlod desde entonces. Muchos lo consideran el único guerrero capaz de ganar el Festival de la Vida de esta generación.
-## Details
+## Detalles
  **Profession:** Bárbaro
 
  **Race:** Bastión

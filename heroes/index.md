@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
+  | Nr |    Nombre    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/es/heroes/Adelaide/) | Castillo | Clérigos | R+ |  Anillo Gélido  |
   | 2 | [Astral](/es/heroes/Astral/) | Torre | Hechicero | SSR |  Amplificación mágica  |

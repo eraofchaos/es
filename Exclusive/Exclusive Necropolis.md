@@ -15,14 +15,14 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Esqueleto](/es/units/Skeleton/) | [Escudo Iris](/es/Exclusive/Skeleton Iris Shield/) | - | Carga | - | - |
-  | 2  | [Muerto Viviente](/es/units/Walking Dead/) | [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) | - | Carga | - | - |
-  | 3  | [Aparición](/es/units/Wight/) | [Canto Arcano](/es/Exclusive/Wight Arcane Chant/) | - | Carga | - | - |
-  | 4  | [Vampiro](/es/units/Vampire/) | [Pica de Caballero](/es/Exclusive/Vampire Knight Pike/) | - | Carga | - | - |
-  | 5  | [Liche](/es/units/Lich/) | [Tributo de Muerte](/es/Exclusive/Lich Death Tribute/) | + | A distancia | - | - |
-  | 6  | [Caballero Negro](/es/units/Black Knight/) | [Sable del Inframundo](/es/Exclusive/Black Knight Nether Sabre/) | + | Asistencia técnica | - | - |
-  | 7  | [Dragón de Hueso](/es/units/Bone Dragon/) | [Hueso de Dragón Inmortal](/es/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Asistencia técnica | - | - |
-  | 8  | [Momia](/es/units/Mummy/) | [Gasa](/es/Exclusive/Mummy Gauze/) | - | A distancia | - | - |
+  | 1  | [Esqueleto](/es/units/Skeleton/) | [Escudo Iris](/es/Exclusive/Skeleton Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 2  | [Muerto Viviente](/es/units/Walking Dead/) | [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 3  | [Aparición](/es/units/Wight/) | [Canto Arcano](/es/Exclusive/Wight Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
+  | 4  | [Vampiro](/es/units/Vampire/) | [Pica de Caballero](/es/Exclusive/Vampire Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
+  | 5  | [Liche](/es/units/Lich/) | [Tributo de Muerte](/es/Exclusive/Lich Death Tribute/) | + | A distancia | [Ficha de Tributo de Muerte](/es/Items/con_978/) | [Aspecto Especial de Tributo de Muerte](/es/Items/con_646/) |
+  | 6  | [Caballero Negro](/es/units/Black Knight/) | [Sable del Inframundo](/es/Exclusive/Black Knight Nether Sabre/) | + | Asistencia técnica | [Ficha de Sable del Inframundo](/es/Items/con_979/) | [Aspecto Especial de Sable del Inframundo](/es/Items/con_647/) |
+  | 7  | [Dragón de Hueso](/es/units/Bone Dragon/) | [Hueso de Dragón Inmortal](/es/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Asistencia técnica | [Ficha del Hueso de Dragón Inmortal](/es/Items/con_980/) | [Aspecto Especial de Hueso de Dragón Inmortal](/es/Items/con_648/) |
+  | 8  | [Momia](/es/units/Mummy/) | [Gasa](/es/Exclusive/Mummy Gauze/) | - | A distancia | [Ficha de Gasa](/es/Items/con_981/) | [Aspecto Especial de Gasa](/es/Items/con_649/) |
   | 9  | [Campeón Oscuro](/es/units/Dark Champion/) | - | - | - | none | none |

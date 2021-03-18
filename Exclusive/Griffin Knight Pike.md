@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pica de Caballero** 
+### Detalles
+ **Nombre: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Grifo](/es/units/Griffin/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Picotazo> El Grifo le da un picotazo a la unidad objetivo y le inflige daño equivalente al 150% de su propio ATQ. Inflige sangrado, reduce la precisión en 300 y la velocidad de ataque un 20% durante 8 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Grifo un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la esquiva del Grifo en 500. |
-  | **3x** <i class="fas fa-star"/> | ? | <Giro Aéreo> La tenacidad del Grifo aumenta en 50 cada vez que consigue esquivar e inflige daño a la unidad objetivo equivalente al 75% de su ATQ. La tenacidad se puede acumular hasta llegar a 500. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Grifo un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Grifo en 500 al comienzo de la batalla. La tenacidad se reduce en 20 cada 2 s, pero conserva un mínimo de 100 de tenacidad. |
-  | **6x** <i class="fas fa-star"/> | ? | <Instinto Animal> El Grifo obtiene moral alta 10 s después del comienzo de la batalla. Cuando una unidad objetivo es asesinada, el Grifo obtiene moral alta durante 10 s y recupera el 20% de sus PV máximos. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Picotazo> El Grifo le da un picotazo a la unidad objetivo y le inflige daño equivalente al 150% de su propio ATQ. Inflige sangrado, reduce la precisión en 300 y la velocidad de ataque un 20% durante 8 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de unidad del Grifo un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la esquiva del Grifo en 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Giro Aéreo> La tenacidad del Grifo aumenta en 50 cada vez que consigue esquivar e inflige daño a la unidad objetivo equivalente al 75% de su ATQ. La tenacidad se puede acumular hasta llegar a 500. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la reducción de daño de unidad del Grifo un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la tenacidad del Grifo en 500 al comienzo de la batalla. La tenacidad se reduce en 20 cada 2 s, pero conserva un mínimo de 100 de tenacidad. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Instinto Animal> El Grifo obtiene moral alta 10 s después del comienzo de la batalla. Cuando una unidad objetivo es asesinada, el Grifo obtiene moral alta durante 10 s y recupera el 20% de sus PV máximos. |
 
 
 ## Subir de nivel

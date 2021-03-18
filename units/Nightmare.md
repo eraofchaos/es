@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Pesadilla](/es/Items/unt_233/)
+
  **Short description:** De apoyo. Daño rápido inicial.
 
  **Position :** Apoyo de defensa. Aumenta el Poder general de las unidades del Infierno.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [](/es/Exclusive/Nightmare /) 
+ **Nombre:** [](/es/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Ojo de Pesadilla](/es/Items/con_985/)
 
- **Skin:** -
+ **Aspecto:** [Tool_250809](/es/Items/con_653/)
 
 
 ## Emblemas Sagrados recomendados
@@ -165,9 +167,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Rey de la Pesadilla

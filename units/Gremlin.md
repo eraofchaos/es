@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Gremlin](/es/Items/unt_235/)
+
  **Unit description:** Bola de hierro mágica: Aumenta mucho el ATQ y la velocidad de ataque.
 
  **Short description:** Magia y precisión mejorados.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Gremlin Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

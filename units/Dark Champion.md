@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Campeón Oscuro](/es/Items/unt_216/)
+
  **Short description:** Realiza ejecuciones. Invencible en su propio dominio.
 
  **Position :** Reduce la moral de los enemigos. Inflige mucho daño y mata a las unidades al instante. Hace invencibles a los aliados en el dominio.
@@ -173,9 +175,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

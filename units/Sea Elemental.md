@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Elemental del Mar](/es/Items/unt_275/)
+
  **Short description:** Control por ralentización.
 
  **Position :** Potente controlador de batalla. Debilita a los enemigos constantemente.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Sea Elemental Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Elemental de la Marea

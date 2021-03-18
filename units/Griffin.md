@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Grifo](/es/Items/unt_192/)
+
  **Unit description:** Picado: inflige daño a 3 unidades del oponente al atacar.
 
  **Short description:** Unidad aérea. Contraataques ilimitados.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Grifo sagrado

@@ -2,20 +2,20 @@
 title: "Emblema Sagrado - Envidia"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Envidia. Envidia. Era of Chaos Emblema Sagrado Envidia. Era of Chaos Caos Envidia"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Jealousy.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Envidia
+ **Nombre:** Envidia
 
  **Type:** [Caos](/es/Emblem/Type Chaos/)
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Envidia](/es/Emblem/Jealousy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado ATQ +2, PV +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asestan un golpe crítico con un ataque normal, tienen una probabilidad del 20% de infligir un 10% de daño adicional.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +6, PV +2%</span> | 
   | [Envidia](/es/Emblem/Jealousy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas asestan un golpe crítico con un ataque normal, tienen una probabilidad del 20% de infligir un 20% de daño adicional.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 

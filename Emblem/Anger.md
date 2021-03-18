@@ -2,20 +2,20 @@
 title: "Emblema Sagrado - Enfado"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Enfado. Enfado. Era of Chaos Emblema Sagrado Enfado. Era of Chaos Caos Enfado"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Anger.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Enfado
+ **Nombre:** Enfado
 
  **Type:** [Caos](/es/Emblem/Type Chaos/)
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Enfado](/es/Emblem/Anger/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +5%, Emblema Sagrado de DEF +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Todas las habilidades definitivas de las unidades desplegadas consiguen un aumento de nivel de 2</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +15%, Emblema Sagrado de DEF +30</span> | 
   | [Enfado](/es/Emblem/Anger/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATQ +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Todas las habilidades definitivas de las unidades desplegadas consiguen un aumento de nivel de 4</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATQ +20%, Emblema Sagrado de DEF +55</span> | 

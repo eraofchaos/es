@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: ?** 
+### Detalles
+ **Nombre: ?** 
 
  **Exclusivo for Unit:** [Adjudicadora](/es/units/Judicator/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/)
 
- **Skin:** -
+ **Aspecto:** [Tool_210909](/es/Items/con_643/)
 
  **Type:** Capital
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? |  |
-  | **1x** <i class="fas fa-star"/> | ? |  |
-  | **2x** <i class="fas fa-star"/> | ? |  |
-  | **3x** <i class="fas fa-star"/> | ? |  |
-  | **4x** <i class="fas fa-star"/> | ? |  |
-  | **5x** <i class="fas fa-star"/> | ? |  |
-  | **6x** <i class="fas fa-star"/> | ? |  |
+  |  Despertar  | **100x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
 
 
 ## Subir de nivel

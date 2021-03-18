@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Sirena](/es/Items/unt_277/)
+
  **Short description:** Curación en grupo. Ventajas potentes.
 
  **Position :** Sanadora potente. Otorga grandes ventajas al inicio de la batalla.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Mareas Nocturnas](/es/Exclusive/Mermaid Night Tides/) 
+ **Nombre:** [Mareas Nocturnas](/es/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Mareas Nocturnas](/es/Items/con_1004/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Mareas Nocturnas](/es/Items/con_672/)
 
 
 ## Emblemas Sagrados recomendados
@@ -168,9 +170,11 @@ toc: true
 * Velocidad de ataque
 * Curación
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

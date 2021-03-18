@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Guardia Dendroide](/es/Items/unt_203/)
+
  **Unit description:** Atadura: Reduce la velocidad de ataque de la unidad del oponente y la ralentiza.
 
  **Short description:** Protege y ralentiza.
@@ -79,13 +81,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/es/Exclusive/Dendroid Guard Iris Shield/) 
+ **Nombre:** [Escudo Iris](/es/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Soldado Dendroide

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Diablillo](/es/Items/unt_226/)
+
  **Unit description:** Impulso: la unidad tiene una probabilidad de revivir con la vida al máximo al morir.
 
  **Short description:** Con escudo. Capacidad de revivir y de control de masas.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/es/Exclusive/Imp Iris Shield/) 
+ **Nombre:** [Escudo Iris](/es/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Evasión de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Familiar

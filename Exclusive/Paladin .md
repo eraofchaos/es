@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: ?** 
+### Detalles
+ **Nombre: ?** 
 
  **Exclusivo for Unit:** [Paladín](/es/units/Paladin/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Valiente](/es/Items/con_974/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Valiente](/es/Items/con_642/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Guardia Imperecedera> El Paladín se protege a sí mismo y a una unidad aleatoria cuerpo a cuerpo que no sea del Infierno, aumenta la DEF y la reducción de daño de unidad un 20% a cada uno durante 10 s. También otorga el estado Guardián, que aumenta la DEF y la reducción de daño de unidad un 20% adicional a cada uno. El estado Guardián desaparece cuando la unidad recibe daño 10 veces. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de las unidades amistosas cercanas a corta distancia un 20% y elimina los límites de las unidades de Castillo. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF de base del Paladín en 300 y la curación recibida un 30%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Orador Fiel> Despierta el poder intrépido del Paladín durante un breve instante, lo que reduce en 300 la precisión de las unidades enemigas en una zona grande y aumenta la tenacidad de las unidades amistosas en 300. Cada 4 s, purifica a las unidades amistosas dentro del alcance, lo que elimina 1 acumulación de penalización. Dura 12 s. La recarga es de 20 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Paladín en 300 y aumenta el daño de unidad de todas las unidades amistosas un 20% cada vez que se lanza <Orador Fiel>. Dura 10 s. |
-  | **5x** <i class="fas fa-star"/> | ? | Si el daño que recibe el Paladín de un solo ataque excede el 18% de sus PV máximos, se vuelve inmune al daño más allá de ese 18%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Última Defensa> Cuando el Paladín pierde el 5% de sus PV, su propia DEF aumenta un 5%. Cuando los PV se reducen al 66% y al 33% por primera vez, se vuelve inmune a todo tipo de daño durante 6 s. |
+  |  Despertar  | **100x** [Ficha de Valiente](/es/Items/con_974/) | <Guardia Imperecedera> El Paladín se protege a sí mismo y a una unidad aleatoria cuerpo a cuerpo que no sea del Infierno, aumenta la DEF y la reducción de daño de unidad un 20% a cada uno durante 10 s. También otorga el estado Guardián, que aumenta la DEF y la reducción de daño de unidad un 20% adicional a cada uno. El estado Guardián desaparece cuando la unidad recibe daño 10 veces. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Valiente](/es/Items/con_974/) | Aumenta la reducción de daño de unidad de las unidades amistosas cercanas a corta distancia un 20% y elimina los límites de las unidades de Castillo. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Valiente](/es/Items/con_974/) | Aumenta la DEF de base del Paladín en 300 y la curación recibida un 30%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Valiente](/es/Items/con_974/) | <Orador Fiel> Despierta el poder intrépido del Paladín durante un breve instante, lo que reduce en 300 la precisión de las unidades enemigas en una zona grande y aumenta la tenacidad de las unidades amistosas en 300. Cada 4 s, purifica a las unidades amistosas dentro del alcance, lo que elimina 1 acumulación de penalización. Dura 12 s. La recarga es de 20 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Valiente](/es/Items/con_974/) | Aumenta la tenacidad del Paladín en 300 y aumenta el daño de unidad de todas las unidades amistosas un 20% cada vez que se lanza <Orador Fiel>. Dura 10 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Valiente](/es/Items/con_974/) | Si el daño que recibe el Paladín de un solo ataque excede el 18% de sus PV máximos, se vuelve inmune al daño más allá de ese 18%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Valiente](/es/Items/con_974/) | <Última Defensa> Cuando el Paladín pierde el 5% de sus PV, su propia DEF aumenta un 5%. Cuando los PV se reducen al 66% y al 33% por primera vez, se vuelve inmune a todo tipo de daño durante 6 s. |
 
 
 ## Subir de nivel

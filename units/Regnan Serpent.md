@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Serpiente Regnan](/es/Items/unt_276/)
+
  **Unit description:** Pisotón de las profundidades: Control en área, desalienta a los enemigos y reduce el golpe crítico.
 
  **Short description:** Tanque potente. Guardia de las profundidades.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Mareas Diurnas](/es/Exclusive/Regnan Serpent Day Tides/) 
+ **Nombre:** [Mareas Diurnas](/es/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Mareas Diurnas](/es/Items/con_1003/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Mareas Diurnas](/es/Items/con_671/)
 
 
 ## Emblemas Sagrados recomendados
@@ -183,9 +185,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** 

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Aparición](/es/Items/unt_210/)
+
  **Unit description:** Chillido horripilante: silencia a las tropas enemigas a su paso.
 
  **Short description:** Silencio en masa. Esquiva ataques. Regenera magia.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Wight Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -169,9 +171,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Espectro

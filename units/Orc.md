@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Orco](/es/Items/unt_219/)
+
  **Unit description:** Ejecución: inflige daño adicional a los enemigos que tengan la vida por debajo del 30%.
 
  **Short description:** Causa sangrado. Eficaz contra objetivos con poca vida.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Orc Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -176,9 +178,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Comandante Orco

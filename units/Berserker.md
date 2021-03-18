@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Berserker](/es/Items/unt_224/)
+
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
  **Short description:** Potente contra una sola unidad. Ventaja al matar.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Hacha de Berserker](/es/Exclusive/Berserker Berserker's Axe/) 
+ **Nombre:** [Hacha de Berserker](/es/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Hacha de Berserker](/es/Items/con_983/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Hacha de Berserker](/es/Items/con_651/)
 
 
 ## Emblemas Sagrados recomendados
@@ -179,9 +181,11 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Aullador de Muerte

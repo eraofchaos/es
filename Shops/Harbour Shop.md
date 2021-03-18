@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 **Info** You can find this Shop under **Cove Attack** -> **Store** 
 {: .notice--danger}
 
-  |  Nr  |      Name      |         Price        |   Maximum available      |
+  |  Nr  |      Nombre      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Fervor(Un objeto usado para desafiar a jefes en el evento de ataque de Cala.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** Alas de triunfo: Catherine(Se usa para obtener el aspecto de Alas de triunfo de Catherine) |  **2500x** Siclo  | **1** |

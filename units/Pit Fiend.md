@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Demonio del Abismo](/es/Items/unt_230/)
+
  **Unit description:** Manantial de fuego: Cura a las unidades amistosas a su paso constantemente.
 
  **Short description:** Invoca a un Demonio sanador.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Pit Fiend Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Curación
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Señor del Abismo

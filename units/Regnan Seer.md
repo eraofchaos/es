@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Vidente Regnan](/es/Items/unt_279/)
+
  **Short description:** Líder de Cala. Control potente.
 
  **Position :** El alma de la facción de la Cala. Buena con las descargas en área.
@@ -75,13 +77,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [](/es/Exclusive/Regnan Seer /) 
+ **Nombre:** [](/es/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/)
 
- **Skin:** -
+ **Aspecto:** [Tool_2990709](/es/Items/con_674/)
 
 
 ## Emblemas Sagrados recomendados
@@ -176,9 +178,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Elemental de la Marea

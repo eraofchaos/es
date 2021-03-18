@@ -2,7 +2,7 @@
 title: "Emblema Sagrado"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Equipar Emblemas Sagrados aumenta mucho el Poder de las unidades. Los Emblemas Sagrados tienen varias combinaciones de facción y calidad. Los conjuntos de Emblemas Sagrados conceden atributos adicionales geniales."
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "index.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-## Emblema Sagrado (by name):
+## Emblema Sagrado (by Nombre):
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nombre            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Señal ominosa](/es/Emblem/Ominous Sign/) | Maligno | Adecuado para cualquier unidad | 
   | 2 | [Principios legales del sucesor](/es/Emblem/Successors' Legal Principles/) | Neutral | Recomendado para unidades defensivas | 

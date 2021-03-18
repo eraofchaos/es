@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Sabueso Infernal](/es/Items/unt_228/)
+
  **Unit description:** Destrozo: cada impacto es un golpe crítico durante un breve período.
 
  **Short description:** Crítico potente. Causa sangrado.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Golpe crítico de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

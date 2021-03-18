@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Gárgola de Piedra](/es/Items/unt_236/)
+
  **Unit description:** Forma de piedra: Aumenta el ATQ y la velocidad de ataque.
 
  **Short description:** ATQ elevado. Resistencia mágica. Penetración.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Stone Gargoyle Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -174,9 +176,11 @@ toc: true
 * Evasión de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** 

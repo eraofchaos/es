@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Goblin](/es/Items/unt_217/)
+
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
  **Short description:** Contraataque a distancia. Absorbe vida con críticos.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Goblin Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Hobgoblin

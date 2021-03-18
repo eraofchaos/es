@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Dragón Rojo](/es/Items/unt_251/)
+
  **Short description:** Señor de los Dragones y potente rugido.
 
  **Position :** El Dragón ruge, volviéndose inmune a los controles de estado. La verdadera sangre del Dragón resuena con el resto de su raza.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Aniquilación](/es/Exclusive/Red Dragon Annihilation/) 
+ **Nombre:** [Aniquilación](/es/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -176,9 +178,11 @@ toc: true
 * Daño de la unidad
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

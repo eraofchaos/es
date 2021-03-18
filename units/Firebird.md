@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Pájaro Ígneo](/es/Items/unt_268/)
+
  **Unit description:** Aliento de llamas: inflige daño a las tropas enemigas a su paso.
 
  **Short description:** Daño a distancia por fuego. Revive al morir.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Llama eterna](/es/Exclusive/Firebird Eternal Flame/) 
+ **Nombre:** [Llama eterna](/es/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Llama eterna](/es/Items/con_1001/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Llama eterna](/es/Items/con_669/)
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Fénix

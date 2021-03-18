@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Gasa** 
+### Detalles
+ **Nombre: Gasa** 
 
  **Exclusivo for Unit:** [Momia](/es/units/Mummy/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Gasa](/es/Items/con_981/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Gasa](/es/Items/con_649/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Momia un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | La Momia aumenta su propia DEF un 15% durante 5 s cuando está bajo los efectos de moral baja y recupera PV equivalentes al 8% de sus PV máximos. La recarga es de 15 s. |
-  | **3x** <i class="fas fa-star"/> | ? | <Momificación> La Momia utiliza vendas para envolver a las unidades cuerpo a cuerpo cercanas, lo que les impide moverse, atacar y lanzar habilidades, y disminuye su reducción de daño de unidad un 15% durante 3 s. La recarga es de 25 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta su propia reducción de daño de unidad un 6% por cada unidad de Necrópolis en el campo de batalla. |
-  | **5x** <i class="fas fa-star"/> | ? | Cuando un héroe amistoso lanza un hechizo de tipo tierra, la Momia aumenta el daño de unidad de las unidades de Necrópolis en una zona grande un 5% y la reducción de daño de unidad un 10% durante 6 s. Se acumula hasta 3 veces. |
-  | **6x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad un 40% cuando la Momia está siendo atacada por unidades lanzadoras/a distancia. <Momificación> se vuelve a activar cuando los PV caen por debajo del 75%, el 50% y el 25%, lo que le permite recuperar PV equivalentes al 3% de sus PV máximos por segundo. |
+  |  Despertar  | **100x** [Ficha de Gasa](/es/Items/con_981/) | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta la reducción de daño de unidad de la Momia un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Gasa](/es/Items/con_981/) | La Momia aumenta su propia DEF un 15% durante 5 s cuando está bajo los efectos de moral baja y recupera PV equivalentes al 8% de sus PV máximos. La recarga es de 15 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Gasa](/es/Items/con_981/) | <Momificación> La Momia utiliza vendas para envolver a las unidades cuerpo a cuerpo cercanas, lo que les impide moverse, atacar y lanzar habilidades, y disminuye su reducción de daño de unidad un 15% durante 3 s. La recarga es de 25 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta su propia reducción de daño de unidad un 6% por cada unidad de Necrópolis en el campo de batalla. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Gasa](/es/Items/con_981/) | Cuando un héroe amistoso lanza un hechizo de tipo tierra, la Momia aumenta el daño de unidad de las unidades de Necrópolis en una zona grande un 5% y la reducción de daño de unidad un 10% durante 6 s. Se acumula hasta 3 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta la reducción de daño de unidad un 40% cuando la Momia está siendo atacada por unidades lanzadoras/a distancia. <Momificación> se vuelve a activar cuando los PV caen por debajo del 75%, el 50% y el 25%, lo que le permite recuperar PV equivalentes al 3% de sus PV máximos por segundo. |
 
 
 ## Subir de nivel

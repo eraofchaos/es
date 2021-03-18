@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Troglodita](/es/Items/unt_244/)
+
  **Unit description:** Formación de lanzas: Daño en área y aturde.
 
  **Short description:** Comodín. Causa sangrado.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Troglodyte Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -168,9 +170,11 @@ toc: true
 * Golpe crítico de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Troglodita Oscuro

@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Canto Arcano** 
+### Detalles
+ **Nombre: Canto Arcano** 
 
  **Exclusivo for Unit:** [Elemental de Hielo](/es/units/Ice Elemental/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Fractura Fría> Golpea a un enemigo con un frío extremo, lo que le inflige daño a la unidad objetivo equivalente al 200% de su propio ATQ y le causa congelación durante 5 s. La recarga es de 20 s. La recarga previa es de 11 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Elemental de Hielo un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | <Escudo de hielo> Proporciona un Escudo de hielo a una unidad de vanguardia amistosa aleatoria. Cuando están atacando a esta unidad, causa ralentización durante 3 s. El Escudo de hielo dura 10 s. La recarga es de 15 s. Esta habilidad se lanza al comienzo de la batalla. |
-  | **3x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Elemental de Hielo en 200. Cuando la unidad objetivo está bajo los efectos de congelación, este efecto se duplica. Al lanzar <Fractura Fría>, si la unidad objetivo está sufriendo la penalización de reducción de daño de unidad del efecto exclusivo de 3 estrellas del Elemental de Piedra, también disminuye la resistencia mágica de la unidad objetivo un 50%. Este efecto dura 8 s |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Elemental de Hielo un 25%. |
-  | **5x** <i class="fas fa-star"/> | ? | El Elemental de Hielo es inmune al daño de los hechizos de tipo agua. |
-  | **6x** <i class="fas fa-star"/> | ? | <Resonancia Elemental> Cuando el Elemental de Hielo está en el campo de batalla, aumenta la resistencia mágica de todas las unidades de Conflujo amistosas un 50%. Cuando se lanza <Fractura Fría>, aumenta la resistencia mágica de las unidades de Conflujo un 50% adicional. El efecto dura toda la batalla, pero no se puede acumular. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Fractura Fría> Golpea a un enemigo con un frío extremo, lo que le inflige daño a la unidad objetivo equivalente al 200% de su propio ATQ y le causa congelación durante 5 s. La recarga es de 20 s. La recarga previa es de 11 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de unidad del Elemental de Hielo un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Escudo de hielo> Proporciona un Escudo de hielo a una unidad de vanguardia amistosa aleatoria. Cuando están atacando a esta unidad, causa ralentización durante 3 s. El Escudo de hielo dura 10 s. La recarga es de 15 s. Esta habilidad se lanza al comienzo de la batalla. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el golpe crítico del Elemental de Hielo en 200. Cuando la unidad objetivo está bajo los efectos de congelación, este efecto se duplica. Al lanzar <Fractura Fría>, si la unidad objetivo está sufriendo la penalización de reducción de daño de unidad del efecto exclusivo de 3 estrellas del Elemental de Piedra, también disminuye la resistencia mágica de la unidad objetivo un 50%. Este efecto dura 8 s |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la reducción de daño de unidad del Elemental de Hielo un 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | El Elemental de Hielo es inmune al daño de los hechizos de tipo agua. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Resonancia Elemental> Cuando el Elemental de Hielo está en el campo de batalla, aumenta la resistencia mágica de todas las unidades de Conflujo amistosas un 50%. Cuando se lanza <Fractura Fría>, aumenta la resistencia mágica de las unidades de Conflujo un 50% adicional. El efecto dura toda la batalla, pero no se puede acumular. |
 
 
 ## Subir de nivel

@@ -15,14 +15,14 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Troglodita](/es/units/Troglodyte/) | [Espada](/es/Exclusive/Troglodyte Sword/) | - | Carga | - | - |
-  | 2  | [Arpía](/es/units/Harpy/) | [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) | - | Carga | - | - |
-  | 3  | [Observador](/es/units/Beholder/) | [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) | - | A distancia | - | - |
-  | 4  | [Medusa](/es/units/Medusa/) | [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) | - | A distancia | - | - |
-  | 5  | [Minotauro](/es/units/Minotaur/) | [Escudo Iris](/es/Exclusive/Minotaur Iris Shield/) | - | Carga | - | - |
-  | 6  | [Mantícora](/es/units/Manticore/) | [Cola de Escorpión](/es/Exclusive/Manticore Scorpion Tail/) | + | A distancia | - | - |
-  | 7  | [Dragón Negro](/es/units/Black Dragon/) | [Escama de Dragón Negro](/es/Exclusive/Black Dragon Black Dragon's Scale/) | - | Asistencia técnica | - | - |
+  | 1  | [Troglodita](/es/units/Troglodyte/) | [Espada](/es/Exclusive/Troglodyte Sword/) | - | Carga | [Ficha de espada](/es/Items/con_912/) | - |
+  | 2  | [Arpía](/es/units/Harpy/) | [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
+  | 3  | [Observador](/es/units/Beholder/) | [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) | - | A distancia | [Ficha de Mirada Oscura](/es/Items/con_990/) | [Aspecto Especial de Mirada Oscura](/es/Items/con_658/) |
+  | 4  | [Medusa](/es/units/Medusa/) | [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) | - | A distancia | [Ficha de Arco de Medusa](/es/Items/con_991/) | [Aspecto Especial de Arco de Medusa](/es/Items/con_659/) |
+  | 5  | [Minotauro](/es/units/Minotaur/) | [Escudo Iris](/es/Exclusive/Minotaur Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 6  | [Mantícora](/es/units/Manticore/) | [Cola de Escorpión](/es/Exclusive/Manticore Scorpion Tail/) | + | A distancia | [Ficha de Cola de Escorpión](/es/Items/con_992/) | [Aspecto Especial de Cola de Escorpión](/es/Items/con_660/) |
+  | 7  | [Dragón Negro](/es/units/Black Dragon/) | [Escama de Dragón Negro](/es/Exclusive/Black Dragon Black Dragon's Scale/) | - | Asistencia técnica | [Ficha de Escama de Dragón Negro](/es/Items/con_993/) | [Aspecto Especial de Escama de Dragón Negro](/es/Items/con_661/) |
   | 8  | [Dragón Rojo](/es/units/Red Dragon/) | [Aniquilación](/es/Exclusive/Red Dragon Annihilation/) | - | Asistencia técnica | - | - |
   | 9  | [Hechicera Maligna](/es/units/Evil Sorceress/) | - | - | - | none | none |

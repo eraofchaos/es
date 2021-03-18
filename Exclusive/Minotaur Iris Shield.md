@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Minotauro](/es/units/Minotaur/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Acometida Brutal> El Minotauro arremete con violencia contra el objetivo, le inflige daño equivalente al 300% de su propio ATQ y disminuye la reducción de daño de unidad de las unidades enemigas un 20% en una zona grande y su velocidad de ataque un 10% durante 7 s. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Minotauro un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad en 400 durante 5 s cuando tiene la moral alta. |
-  | **3x** <i class="fas fa-star"/> | ? | <Acometida Sanguinolenta> El Minotauro recupera PV equivalentes al 10% de sus propios PV máximos y reduce el daño de unidad de las unidades enemigas a corta distancia un 20% durante 6 s. La recarga es de 15 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta los PV del Minotauro un 8% y la DEF un 5% cada vez que se despliega una unidad de Mazmorra. |
-  | **5x** <i class="fas fa-star"/> | ? | Cuando los PV del Minotauro caen por debajo del 30% por primera vez, aumenta su propia DEF un 50% y la velocidad de ataque propia y de las unidades amistosas a corta distancia un 20% durante 15 s. |
-  | **6x** <i class="fas fa-star"/> | ? | <Rugido> El Minotauro ruge para aterrar a los enemigos, lo que aumenta el daño que infligen las unidades amistosas un 20% y disminuye la reducción de daño de unidad de las unidades enemigas envenenadas un 20%. Dura 7 s. La recarga es de 15 s. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Acometida Brutal> El Minotauro arremete con violencia contra el objetivo, le inflige daño equivalente al 300% de su propio ATQ y disminuye la reducción de daño de unidad de las unidades enemigas un 20% en una zona grande y su velocidad de ataque un 10% durante 7 s. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la reducción de daño de unidad del Minotauro un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la tenacidad en 400 durante 5 s cuando tiene la moral alta. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Acometida Sanguinolenta> El Minotauro recupera PV equivalentes al 10% de sus propios PV máximos y reduce el daño de unidad de las unidades enemigas a corta distancia un 20% durante 6 s. La recarga es de 15 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Minotauro un 8% y la DEF un 5% cada vez que se despliega una unidad de Mazmorra. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cuando los PV del Minotauro caen por debajo del 30% por primera vez, aumenta su propia DEF un 50% y la velocidad de ataque propia y de las unidades amistosas a corta distancia un 20% durante 15 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Rugido> El Minotauro ruge para aterrar a los enemigos, lo que aumenta el daño que infligen las unidades amistosas un 20% y disminuye la reducción de daño de unidad de las unidades enemigas envenenadas un 20%. Dura 7 s. La recarga es de 15 s. |
 
 
 ## Subir de nivel

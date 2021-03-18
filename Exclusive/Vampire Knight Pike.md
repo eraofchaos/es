@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pica de Caballero** 
+### Detalles
+ **Nombre: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Vampiro](/es/units/Vampire/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Golpe Carmesí> El Vampiro se transforma en un murciélago y se precipita sobre la formación enemiga. En ese periodo, la velocidad de movimiento del Vampiro aumenta en 30 y se vuelve inmune a aturdimiento, congelación y ralentización. El Vampiro recupera su forma humana al enfrentarse a una unidad enemiga, y su primer ataque inflige un daño equivalente al 500% de su propio ATQ. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Vampiro un 20% y su DEF un 10%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Vampiro un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Góspel Colmillosangriento> El Vampiro inflige un daño equivalente al 300% de su propio ATQ a la unidad objetivo, lo que disminuye su reducción de daño de unidad un 20%. Si la unidad objetivo está bajo los efectos de moral baja, su DEF se reduce un 10% durante 5 s. La recarga es de 25 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Vampiro un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico en 200 y el daño de golpe crítico un 20% al atacar a los enemigos con moral baja. |
-  | **6x** <i class="fas fa-star"/> | ? | <Armadura Ensangrentada> Las unidades de Vampiros obtienen un escudo equivalente al 5% de sus PV máximos cuando un Vampiro muere. Cada vez que se activa esta habilidad, el escudo aumenta un 5% su valor de base hasta un máximo de un 45% de sus PV máximos. Cada escudo dura 5 s al activarse. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Golpe Carmesí> El Vampiro se transforma en un murciélago y se precipita sobre la formación enemiga. En ese periodo, la velocidad de movimiento del Vampiro aumenta en 30 y se vuelve inmune a aturdimiento, congelación y ralentización. El Vampiro recupera su forma humana al enfrentarse a una unidad enemiga, y su primer ataque inflige un daño equivalente al 500% de su propio ATQ. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta los PV del Vampiro un 20% y su DEF un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la reducción de daño de unidad del Vampiro un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Góspel Colmillosangriento> El Vampiro inflige un daño equivalente al 300% de su propio ATQ a la unidad objetivo, lo que disminuye su reducción de daño de unidad un 20%. Si la unidad objetivo está bajo los efectos de moral baja, su DEF se reduce un 10% durante 5 s. La recarga es de 25 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de unidad del Vampiro un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el golpe crítico en 200 y el daño de golpe crítico un 20% al atacar a los enemigos con moral baja. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Armadura Ensangrentada> Las unidades de Vampiros obtienen un escudo equivalente al 5% de sus PV máximos cuando un Vampiro muere. Cada vez que se activa esta habilidad, el escudo aumenta un 5% su valor de base hasta un máximo de un 45% de sus PV máximos. Cada escudo dura 5 s al activarse. |
 
 
 ## Subir de nivel

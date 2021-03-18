@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Demonio](/es/Items/unt_229/)
+
  **Unit description:** Golpe hirviente: inflige un daño colosal a las tropas enemigas.
 
  **Short description:** Escudo evasivo. Recupera vida.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/es/Exclusive/Demon Iris Shield/) 
+ **Nombre:** [Escudo Iris](/es/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Defensa
 * Evasión de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Guardia del Infierno

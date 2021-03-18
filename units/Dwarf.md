@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Enano](/es/Items/unt_200/)
+
  **Unit description:** Aullido enano: aumenta la vida máxima de la unidad al inicio de la batalla.
 
  **Short description:** Aumenta la vida considerablemente. Escudo mágico.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) 
+ **Nombre:** [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -177,9 +179,11 @@ toc: true
 * Defensa
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

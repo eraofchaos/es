@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Espada** 
+### Detalles
+ **Nombre: Espada** 
 
  **Exclusivo for Unit:** [Troglodita](/es/units/Troglodyte/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Estocada> El Troglodita inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa envenenamiento durante 8 s. Si la unidad objetivo ya está bajo los efectos de envenenamiento, la unidad objetivo recibe aturdimiento durante 1 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Troglodita un 20% y la esquiva en 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Troglodita un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Olor a rompehechizos> Aumenta la DEF del Troglodita un 5% y la tenacidad en 40 durante 6 s. Se acumula hasta 5 veces. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Troglodita un 15%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida un 10%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Olor a rompehechizos> Cuando hay 3 o más acumulaciones de efectos, cada vez que se activa <Olor a rompehechizos>, <Estocada> también se activa una vez. |
+  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Estocada> El Troglodita inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa envenenamiento durante 8 s. Si la unidad objetivo ya está bajo los efectos de envenenamiento, la unidad objetivo recibe aturdimiento durante 1 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta los PV del Troglodita un 20% y la esquiva en 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta el ATQ del Troglodita un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Olor a rompehechizos> Aumenta la DEF del Troglodita un 5% y la tenacidad en 40 durante 6 s. Se acumula hasta 5 veces. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de unidad del Troglodita un 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Aumenta la absorción de vida un 10%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Olor a rompehechizos> Cuando hay 3 o más acumulaciones de efectos, cada vez que se activa <Olor a rompehechizos>, <Estocada> también se activa una vez. |
 
 
 ## Subir de nivel

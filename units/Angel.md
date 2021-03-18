@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Ángel](/es/Items/unt_196/)
+
  **Unit description:** Condena: inflige un daño colosal a 3 unidades y las aturde.
 
  **Short description:** Aura de curación que afecta a los aliados.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Durandel](/es/Exclusive/Angel Durandel/) 
+ **Nombre:** [Durandel](/es/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Durandel](/es/Items/con_973/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Durandel](/es/Items/con_641/)
 
 
 ## Emblemas Sagrados recomendados
@@ -169,9 +171,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Arcángel

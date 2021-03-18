@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Muerto Viviente](/es/Items/unt_209/)
+
  **Unit description:** Explosivo: inflige daño a las tropas enemigas cercanas al morir.
 
  **Short description:** Aura venenosa. Explota al morir.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) 
+ **Nombre:** [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Zombi

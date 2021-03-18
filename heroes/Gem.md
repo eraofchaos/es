@@ -3,13 +3,13 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem es la bruja más poderosa de Enroth. En ambas guerras, luchó por Roland Puño de Hierro. Cuando Roland fue coronado Rey, Gem se trasladó a Erathia y estableció allí su nuevo hogar."
 heroID: 60304
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Gem"
 toc: true
 ---
  **Descripción:** Gem es la bruja más poderosa de Enroth. En ambas guerras, luchó por Roland Puño de Hierro. Cuando Roland fue coronado Rey, Gem se trasladó a Erathia y estableció allí su nuevo hogar.
-## Details
+## Detalles
  **Profession:** Druida
 
  **Race:** Murallas

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Pegaso](/es/Items/unt_202/)
+
  **Unit description:** Protección de vitalidad: otorga un escudo de vida a la unidad más cercana en tu ejército.
 
  **Short description:** Protege y causa sangrado.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Pegasus Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -174,9 +176,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Pegaso Plateada

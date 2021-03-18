@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Elemental Psíquico](/es/Items/unt_267/)
+
  **Short description:** Daño rápido de energía. Quemadura.
 
  **Position :** Daño a distancia, reduce el maná del enemigo al morir, atacante básico
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) 
+ **Nombre:** [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Núcleo Espiritual](/es/Items/con_1000/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Núcleo Espiritual](/es/Items/con_668/)
 
 
 ## Emblemas Sagrados recomendados
@@ -167,9 +169,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Elemental de Magia

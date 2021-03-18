@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Mantícora](/es/Items/unt_249/)
+
  **Short description:** Grandes DPS y resistencia.
 
  **Position :** Apoyo de Asalto. Aumenta el DPS de los aliados y debilita la Defensa enemiga.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cola de Escorpión](/es/Exclusive/Manticore Scorpion Tail/) 
+ **Nombre:** [Cola de Escorpión](/es/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Cola de Escorpión](/es/Items/con_992/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Cola de Escorpión](/es/Items/con_660/)
 
 
 ## Emblemas Sagrados recomendados
@@ -162,9 +164,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Escorpícora

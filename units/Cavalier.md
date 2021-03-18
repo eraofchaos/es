@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Catafracto](/es/Items/unt_195/)
+
  **Unit description:** Justa: inflige daño considerable y aturde con el primer ataque.
 
  **Short description:** Daño rápido inicial. Carga potente.
@@ -80,13 +82,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Cavalier Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -169,9 +171,11 @@ toc: true
 
 * ?!? 
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Caballeros Campeones

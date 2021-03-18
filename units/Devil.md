@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Diablo](/es/Items/unt_232/)
+
  **Unit description:** Segador doloroso: inflige un daño catastrófico al enemigo y lo aturde.
 
  **Short description:** Mucho daño de ataque y daño de aura.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Guadaña del Diablo](/es/Exclusive/Devil Devil Scythe/) 
+ **Nombre:** [Guadaña del Diablo](/es/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Guadaña del Diablo](/es/Items/con_984/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Guadaña del Diablo](/es/Items/con_652/)
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Archidiablo

@@ -3,13 +3,13 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja."
 heroID: 60501
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Sandro"
 toc: true
 ---
  **Descripción:** Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja.
-## Details
+## Detalles
  **Profession:** Nigromante
 
  **Race:** Necrópolis

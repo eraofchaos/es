@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Elfa del Bosque](/es/Items/unt_201/)
+
  **Unit description:** Lluvia de flechas: aumenta la velocidad de ataque un 500% durante un breve período de tiempo.
 
  **Short description:** Disparo rápido. Golpe doble.
@@ -79,13 +81,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco largo](/es/Exclusive/Wood Elf Long Bow/) 
+ **Nombre:** [Arco largo](/es/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Gran Elfa

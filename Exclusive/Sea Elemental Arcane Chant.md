@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Canto Arcano** 
+### Detalles
+ **Nombre: Canto Arcano** 
 
  **Exclusivo for Unit:** [Elemental del Mar](/es/units/Sea Elemental/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Tidal Waves> Puede activarse cada 20 s. Invoca una ola a los pies de la unidad hostil, lo que inflige daño igual al 200% de su ATQ a las unidades hostiles en un alcance corto. |
-  | **1x** <i class="fas fa-star"/> | ? | Al principio de la batalla, todas las unidades ganan una [Bubble] igual al 10% de sus PV máximos. |
-  | **2x** <i class="fas fa-star"/> | ? | Los ataques del Elemental del Mar reducen el daño de la unidad objetivo un 10% y su resistencia mágica un 50%. |
-  | **3x** <i class="fas fa-star"/> | ? | Cuando el Elemental del Mar se enfrenta a unidades de uno o cuatro, sus ataques normales infligen un 30% de daño en área. Cuando se enfrenta a unidades de nueve, sus ataques normales infligen un 50% de daño a cinco unidades en el objetivo. |
-  | **4x** <i class="fas fa-star"/> | ? | Si el Elemental del Mar recibe daño único superior al 30% de sus PV, gana una [bubble] igual al 30% de sus PV durante 10 s. Puede activarse cada 15 s. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad y el daño de la unidad de Elemental del Mar un 20%. |
-  | **6x** <i class="fas fa-star"/> | ? | Cuando el Elemental del Mar crea una Jaula del abismo, aumenta el ATQ un 10% y el golpe crítico en 100 de todas las unidades amistosas durante 5 s. Para las unidades de la facción de la Cala, el efecto se duplica. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Tidal Waves> Puede activarse cada 20 s. Invoca una ola a los pies de la unidad hostil, lo que inflige daño igual al 200% de su ATQ a las unidades hostiles en un alcance corto. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Al principio de la batalla, todas las unidades ganan una [Bubble] igual al 10% de sus PV máximos. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Los ataques del Elemental del Mar reducen el daño de la unidad objetivo un 10% y su resistencia mágica un 50%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando el Elemental del Mar se enfrenta a unidades de uno o cuatro, sus ataques normales infligen un 30% de daño en área. Cuando se enfrenta a unidades de nueve, sus ataques normales infligen un 50% de daño a cinco unidades en el objetivo. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Si el Elemental del Mar recibe daño único superior al 30% de sus PV, gana una [bubble] igual al 30% de sus PV durante 10 s. Puede activarse cada 15 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la reducción de daño de la unidad y el daño de la unidad de Elemental del Mar un 20%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando el Elemental del Mar crea una Jaula del abismo, aumenta el ATQ un 10% y el golpe crítico en 100 de todas las unidades amistosas durante 5 s. Para las unidades de la facción de la Cala, el efecto se duplica. |
 
 
 ## Subir de nivel

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Elemental de Hielo](/es/Items/unt_264/)
+
  **Short description:** Aura de hielo. Muro de hielo
 
  **Position :** Maga de control, cubre todo de hielo, muro de hielo de apoyo.
@@ -73,13 +75,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Ice Elemental Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -168,9 +170,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Espíritu de las Nieves Silencioso

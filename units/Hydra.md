@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Hidra](/es/Items/unt_259/)
+
  **Short description:** Ataque elevado. Resistente. Control potente.
 
  **Position :** Unidad DPS de primera categoría. Destruye enemigos con ataques ininterrumpidos.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cabeza de Hidra](/es/Exclusive/Hydra Hydra's Head/) 
+ **Nombre:** [Cabeza de Hidra](/es/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Cabeza de Hidra](/es/Items/con_997/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Núcleo de energía](/es/Items/con_665/)
 
 
 ## Emblemas Sagrados recomendados
@@ -167,9 +169,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Hidra del Caos

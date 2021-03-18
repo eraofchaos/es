@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Duendecillo](/es/Items/unt_270/)
+
  **Short description:** Esquiva y bloquea. Concede una ventaja de contraataque.
 
  **Position :** Un experto en boqueo con Defensa colectiva y escudo Elemental.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espinas](/es/Exclusive/Leprechaun Thorns/) 
+ **Nombre:** [Espinas](/es/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -187,9 +189,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Duendecillo maestro

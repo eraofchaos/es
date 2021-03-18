@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pica de Caballero** 
+### Detalles
+ **Nombre: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Unicornio](/es/units/Unicorn/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Reflejo de Escudo> Cuando el Unicornio pierde su escudo, inflige daño equivalente al 150% de su propio ATQ a los enemigos a corta distancia. Si la unidad objetivo está sangrando, su DEF también se reduce un 20%. Dura 5 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Unicornio un 20% y la esquiva en 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Unicornio un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Racha Azul> Cuando el Unicornio recibe daño por encima del 15% de sus PV máximos en un solo ataque, su cuerno emite una luz brillante que ciega a la unidad objetivo. Si la unidad objetivo ya está cegada, su daño de unidad también se reduce un 20%. Dura 8 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Unicornio un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta el ATQ y la velocidad de ataque un 20% al atacar a enemigos que estén sangrando. |
-  | **6x** <i class="fas fa-star"/> | ? | <Guardián Lunabrillante> Al lanzar <Reflejo de Escudo>, el daño aumenta un 50%, las unidades objetivo saltan por los aires (solo sirve con unidades de 9 y 16 miembros) y el daño de unidad y la reducción de daño de unidad de los objetivos se reduce un 20%. Dura 5 s. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Reflejo de Escudo> Cuando el Unicornio pierde su escudo, inflige daño equivalente al 150% de su propio ATQ a los enemigos a corta distancia. Si la unidad objetivo está sangrando, su DEF también se reduce un 20%. Dura 5 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta los PV del Unicornio un 20% y la esquiva en 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la reducción de daño de unidad del Unicornio un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Racha Azul> Cuando el Unicornio recibe daño por encima del 15% de sus PV máximos en un solo ataque, su cuerno emite una luz brillante que ciega a la unidad objetivo. Si la unidad objetivo ya está cegada, su daño de unidad también se reduce un 20%. Dura 8 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de unidad del Unicornio un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el ATQ y la velocidad de ataque un 20% al atacar a enemigos que estén sangrando. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Guardián Lunabrillante> Al lanzar <Reflejo de Escudo>, el daño aumenta un 50%, las unidades objetivo saltan por los aires (solo sirve con unidades de 9 y 16 miembros) y el daño de unidad y la reducción de daño de unidad de los objetivos se reduce un 20%. Dura 5 s. |
 
 
 ## Subir de nivel

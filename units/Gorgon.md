@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Gorgona](/es/Items/unt_257/)
+
  **Short description:** Ataque elevado. Resistente. Control potente.
 
  **Position :** Tanque potente. Tiene cierta probabilidad de matar enemigos al instante.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cuerno de Gorgona](/es/Exclusive/Gorgon Gorgon's Horn/) 
+ **Nombre:** [Cuerno de Gorgona](/es/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Cuerno de Gorgona](/es/Items/con_995/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Cuerno de Gorgona](/es/Items/con_663/)
 
 
 ## Emblemas Sagrados recomendados
@@ -182,9 +184,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Gran Gorgona

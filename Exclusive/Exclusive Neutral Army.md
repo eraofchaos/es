@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Asesino](/es/units/Assassin/) | - | - | - | none | none |
   | 2  | [Guerreros espartanos](/es/units/Spartan Warriors/) | - | - | - | none | none |

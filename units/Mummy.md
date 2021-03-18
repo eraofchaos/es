@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Momia](/es/Items/unt_215/)
+
  **Unit description:** Maldición de putrefacción: Reduce la curación de los enemigos mucho
 
  **Short description:** Causa enfermedad que reduce los PV y la curación.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Gasa](/es/Exclusive/Mummy Gauze/) 
+ **Nombre:** [Gasa](/es/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Gasa](/es/Items/con_981/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Gasa](/es/Items/con_649/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Rey Momia

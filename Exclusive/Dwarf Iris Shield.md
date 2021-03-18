@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Enano](/es/units/Dwarf/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | El Enano golpea su yunque cuando recibe un ataque, lo que aumenta su DEF un 50% durante 5 s, pero le impide moverse y atacar. Cuando concluye este efecto, las unidades de vanguardia amistosas obtienen un escudo equivalente al 10% de los PV máximos que dura 5 s. La recarga es de 25 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Enano un 20% y su DEF un 10%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Enano un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Martillazo> El Enano pega un golpe con su martillo e inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande y las ralentiza durante 5 s. La recarga es de 20 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta los PV del Enano un 8% y la reducción de daño de unidad un 4% cada vez que se despliega una unidad de Murallas. |
-  | **5x** <i class="fas fa-star"/> | ? | Después de activar <Martillazo>, aparece un cráter en el lugar del impacto que inflige daño equivalente al 5% de los PV máximos del Enano cada 2 s a las unidades enemigas dentro del cráter. Dura 10 s. |
-  | **6x** <i class="fas fa-star"/> | ? | <Armadura Corporal> El Enano se coloca una armadura la primera vez que sus PV caen por debajo del 66% y del 33%, lo que le otorga un escudo equivalente al 10% de sus PV máximos y un 10% de aumento de la reducción de daño de unidad para el resto de la batalla. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | El Enano golpea su yunque cuando recibe un ataque, lo que aumenta su DEF un 50% durante 5 s, pero le impide moverse y atacar. Cuando concluye este efecto, las unidades de vanguardia amistosas obtienen un escudo equivalente al 10% de los PV máximos que dura 5 s. La recarga es de 25 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Enano un 20% y su DEF un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la reducción de daño de unidad del Enano un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Martillazo> El Enano pega un golpe con su martillo e inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande y las ralentiza durante 5 s. La recarga es de 20 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Enano un 8% y la reducción de daño de unidad un 4% cada vez que se despliega una unidad de Murallas. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Después de activar <Martillazo>, aparece un cráter en el lugar del impacto que inflige daño equivalente al 5% de los PV máximos del Enano cada 2 s a las unidades enemigas dentro del cráter. Dura 10 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Armadura Corporal> El Enano se coloca una armadura la primera vez que sus PV caen por debajo del 66% y del 33%, lo que le otorga un escudo equivalente al 10% de sus PV máximos y un 10% de aumento de la reducción de daño de unidad para el resto de la batalla. |
 
 
 ## Subir de nivel

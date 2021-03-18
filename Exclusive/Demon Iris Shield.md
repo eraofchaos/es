@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Demonio](/es/units/Demon/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | Al principio de la batalla, aumenta la evasión del Demonio en 1000 durante 30 s. Aumenta la reducción de daño de la unidad de manera permanente un 1% por cada esquiva, hasta un máximo de un 30%. |
-  | **1x** <i class="fas fa-star"/> | ? | Al principio de la batalla, aumenta la tenacidad del Demonio en 500 durante 30 s. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV del Demonio un 20% y la reducción de daño de la unidad un 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Demonio un 10%. La primera vez que se reducen los PV por debajo del 50% la DEF aumenta un 100% durante 10 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Demonio un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Los ataques del Demonio reducen la esquiva de la unidad objetivo en 1000 durante 5 s. |
-  | **6x** <i class="fas fa-star"/> | ? | Si hay un Demonio en el campo de batalla, la esquiva de todas las unidades hostiles se reduce en 500. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | Al principio de la batalla, aumenta la evasión del Demonio en 1000 durante 30 s. Aumenta la reducción de daño de la unidad de manera permanente un 1% por cada esquiva, hasta un máximo de un 30%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Al principio de la batalla, aumenta la tenacidad del Demonio en 500 durante 30 s. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Demonio un 20% y la reducción de daño de la unidad un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF del Demonio un 10%. La primera vez que se reducen los PV por debajo del 50% la DEF aumenta un 100% durante 10 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF del Demonio un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Los ataques del Demonio reducen la esquiva de la unidad objetivo en 1000 durante 5 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | Si hay un Demonio en el campo de batalla, la esquiva de todas las unidades hostiles se reduce en 500. |
 
 
 ## Subir de nivel

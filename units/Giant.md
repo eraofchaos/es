@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Gigante](/es/Items/unt_241/)
+
  **Unit description:** Dios de la Guerra: Ignora el alcance e inflige daño igual a un porcentaje de los PV.
 
  **Short description:** Dios de la batalla. ¡Lo mata todo!
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Mil Toneladas](/es/Exclusive/Giant Thousand Ton/) 
+ **Nombre:** [Mil Toneladas](/es/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Mil Toneladas](/es/Items/con_988/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Mil Toneladas](/es/Items/con_656/)
 
 
 ## Emblemas Sagrados recomendados
@@ -167,9 +169,11 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Titán

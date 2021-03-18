@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Jinete Lupino](/es/Items/unt_218/)
+
  **Unit description:** Bestia compañera: invoca lobos a la batalla al morir.
 
  **Short description:** Invoca un lobo que absorbe vida con críticos.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Wolf Rider Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -177,9 +179,11 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Incursor Lupino

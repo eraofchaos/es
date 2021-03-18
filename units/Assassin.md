@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Asesino](/es/Items/unt_271/)
+
  **Short description:** Daño de asesinato. Debilita la curación.
 
  **Position :** Daño de asesinato, debilita la curación, lanza cuchillos y silencia a los enemigos.
@@ -163,9 +165,11 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

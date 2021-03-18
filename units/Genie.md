@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Genio](/es/Items/unt_239/)
+
  **Unit description:** Obsequio de energía: Convierte el ATQ en curación.
 
  **Short description:** Potentes ventajas y curación.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Lyra](/es/Exclusive/Genie Lyra/) 
+ **Nombre:** [Lyra](/es/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Lyra](/es/Items/con_986/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Lyra](/es/Items/con_654/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,9 +176,11 @@ toc: true
 * Curación
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Genio Maestra

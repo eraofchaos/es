@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Naga](/es/Items/unt_240/)
+
  **Unit description:** Danza de hojas: Daño en área y reducción de la DEF de daño en área.
 
  **Short description:** Aterroriza. Enorme daño.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada de Naga](/es/Exclusive/Naga Naga Sword/) 
+ **Nombre:** [Espada de Naga](/es/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Espada Naga](/es/Items/con_987/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Espada de Naga](/es/Items/con_655/)
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Naga Reina

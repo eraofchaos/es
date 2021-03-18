@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pica de Caballero** 
+### Detalles
+ **Nombre: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Sabueso Infernal](/es/units/Hell Hound/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | El Sabueso Infernal ataca con sus 3 cabezas, lo que aumenta la velocidad de ataque un 300%, pero reduce el daño de unidad un 20%. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Sabueso Infernal un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de golpe crítico un 5% durante 3 s cada vez que el Sabueso Infernal ataca. Se acumula hasta 10 veces. |
-  | **3x** <i class="fas fa-star"/> | ? | <Muerto Viviente> Cuando los PV del Sabueso Infernal caen por debajo del 66% y del 33% por primera vez, sacrifica una de sus cabezas y se vuelve inmune a todos los estados anormales, aumenta la esquiva en 2000 y la tenacidad en 1000 durante 5 s. |
-  | **4x** <i class="fas fa-star"/> | ? | <Abrasión> El Sabueso Infernal causa quemaduras constantes a los enemigos en una zona concreta a su alrededor y reduce su tenacidad en 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Cada vez que el Sabueso Infernal ataca, disminuye la reducción de daño de unidad de la unidad objetivo un 3% durante 3 s. Se acumula hasta 8 veces. |
-  | **6x** <i class="fas fa-star"/> | ? | Cuando se activa <Muerto Viviente>, la cabeza derrotada suelta un aullido infernal que aumenta la velocidad de ataque de todas las unidades del Infierno amistosas un 100% durante 3 s y reduce la DEF de todas las unidades enemigas en una zona grande a su alrededor un 30% durante 10 s. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | El Sabueso Infernal ataca con sus 3 cabezas, lo que aumenta la velocidad de ataque un 300%, pero reduce el daño de unidad un 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de unidad del Sabueso Infernal un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de golpe crítico un 5% durante 3 s cada vez que el Sabueso Infernal ataca. Se acumula hasta 10 veces. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Muerto Viviente> Cuando los PV del Sabueso Infernal caen por debajo del 66% y del 33% por primera vez, sacrifica una de sus cabezas y se vuelve inmune a todos los estados anormales, aumenta la esquiva en 2000 y la tenacidad en 1000 durante 5 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Abrasión> El Sabueso Infernal causa quemaduras constantes a los enemigos en una zona concreta a su alrededor y reduce su tenacidad en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Cada vez que el Sabueso Infernal ataca, disminuye la reducción de daño de unidad de la unidad objetivo un 3% durante 3 s. Se acumula hasta 8 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Cuando se activa <Muerto Viviente>, la cabeza derrotada suelta un aullido infernal que aumenta la velocidad de ataque de todas las unidades del Infierno amistosas un 100% durante 3 s y reduce la DEF de todas las unidades enemigas en una zona grande a su alrededor un 30% durante 10 s. |
 
 
 ## Subir de nivel

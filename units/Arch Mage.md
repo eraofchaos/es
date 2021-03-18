@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Maga](/es/Items/unt_238/)
+
  **Unit description:** Penetración de hechizo: El daño contra unidades únicas aumenta constantemente.
 
  **Short description:** Unidad mágica con absorción
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Arch Mage Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Arch Mage Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -169,9 +171,11 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Archimaga

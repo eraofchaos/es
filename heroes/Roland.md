@@ -3,13 +3,13 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. El Rey Roland fue rescatado de los Kreegan por un grupo de guerreros. En agradecimiento, se unió al ejército de Erathia y se convirtió en su general. Entonces conoció a Catherine y lucharon juntos contra las fuerzas extranjeras."
 heroID: 60103
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Roland"
 toc: true
 ---
  **Descripción:** El Rey Roland fue rescatado de los Kreegan por un grupo de guerreros. En agradecimiento, se unió al ejército de Erathia y se convirtió en su general. Entonces conoció a Catherine y lucharon juntos contra las fuerzas extranjeras.
-## Details
+## Detalles
  **Profession:** Caballero
 
  **Race:** Castillo

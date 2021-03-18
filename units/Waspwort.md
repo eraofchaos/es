@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Hierbavispa](/es/Items/unt_260/)
+
  **Short description:** DPS y control.
 
  **Position :** Unidad DPS que domina el control. Invoca unidades para destruir los enemigos.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Hoja de Hierbavispa](/es/Exclusive/Waspwort Waspwort Leaf/) 
+ **Nombre:** [Hoja de Hierbavispa](/es/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -172,9 +174,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

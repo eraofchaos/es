@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Energía de fuego** 
+### Detalles
+ **Nombre: Energía de fuego** 
 
  **Exclusivo for Unit:** [Elemental de Fuego](/es/units/Fire Elemental/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Energía de fuego](/es/Items/con_998/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_666/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Elemental de Fuego en 150. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ un 20% y el daño de la unidad un 10% del Elemental de Fuego. |
-  | **3x** <i class="fas fa-star"/> | ? | Al principio de la batalla, el Elemental de Fuego gana un escudo igual al 100% de sus PV máximos. Su fuego inflige daño por segundo igual al 10% de su ATQ a las unidades hostiles a su alrededor en una zona pequeña. Este efecto no se puede disipar |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño crítico un 20% y la velocidad de ataque un 10% del Elemental de Fuego. |
-  | **5x** <i class="fas fa-star"/> | ? | El Elemental de Fuego es inmune al daño infligido con hechizos de fuego. |
-  | **6x** <i class="fas fa-star"/> | ? | <Resonancia elemental> Si hay un Elemental de Fuego en el campo de batalla, la velocidad de ataque de todas las unidades de la facción de Conflujo aumenta un 10%. Cuando se lanza Trío, la velocidad de ataque de todas las unidades de la facción de Conflujo aumenta un 10%. El efecto dura toda la batalla, pero no se puede acumular. |
+  |  Despertar  | **100x** [Ficha de Energía de fuego](/es/Items/con_998/) | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta la penetración del Elemental de Fuego en 150. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta el ATQ un 20% y el daño de la unidad un 10% del Elemental de Fuego. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Energía de fuego](/es/Items/con_998/) | Al principio de la batalla, el Elemental de Fuego gana un escudo igual al 100% de sus PV máximos. Su fuego inflige daño por segundo igual al 10% de su ATQ a las unidades hostiles a su alrededor en una zona pequeña. Este efecto no se puede disipar |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta el daño crítico un 20% y la velocidad de ataque un 10% del Elemental de Fuego. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Energía de fuego](/es/Items/con_998/) | El Elemental de Fuego es inmune al daño infligido con hechizos de fuego. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Energía de fuego](/es/Items/con_998/) | <Resonancia elemental> Si hay un Elemental de Fuego en el campo de batalla, la velocidad de ataque de todas las unidades de la facción de Conflujo aumenta un 10%. Cuando se lanza Trío, la velocidad de ataque de todas las unidades de la facción de Conflujo aumenta un 10%. El efecto dura toda la batalla, pero no se puede acumular. |
 
 
 ## Subir de nivel

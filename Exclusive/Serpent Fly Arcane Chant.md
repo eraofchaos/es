@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Canto Arcano** 
+### Detalles
+ **Nombre: Canto Arcano** 
 
  **Exclusivo for Unit:** [Libélula Menor](/es/units/Serpent Fly/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
-  | **1x** <i class="fas fa-star"/> | ? | La Libélula Menor tiene un 30% de probabilidad de hacer sangrar a la unidad objetivo al atacar. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la absorción de vida de la Libélula Menor un 15%. |
-  | **3x** <i class="fas fa-star"/> | ? | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el ATQ un 20% y la velocidad de ataque un 10% de la Libélula Menor. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta el daño crítico de la Libélula Menor un 25%. |
-  | **6x** <i class="fas fa-star"/> | ? | Invoca 1 Libélula cada 20 s que dura 30 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | La Libélula Menor tiene un 30% de probabilidad de hacer sangrar a la unidad objetivo al atacar. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la absorción de vida de la Libélula Menor un 15%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el ATQ un 20% y la velocidad de ataque un 10% de la Libélula Menor. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño crítico de la Libélula Menor un 25%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | Invoca 1 Libélula cada 20 s que dura 30 s. |
 
 
 ## Subir de nivel

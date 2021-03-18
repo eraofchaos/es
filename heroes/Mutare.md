@@ -3,13 +3,13 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Nombrada Señora de Nighon recientemente, Mutare nació con la habilidad para controlar a los dragones, lo que la hace casi invencible en las guerras."
 heroID: 61301
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Mutare"
 toc: true
 ---
  **Descripción:** Nombrada Señora de Nighon recientemente, Mutare nació con la habilidad para controlar a los dragones, lo que la hace casi invencible en las guerras.
-## Details
+## Detalles
  **Profession:** Adalid
 
  **Race:** Mazmorra

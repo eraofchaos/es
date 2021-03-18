@@ -2,20 +2,20 @@
 title: "Emblema Sagrado - Muro de la Sabiduría"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Muro de la Sabiduría. Muro de la Sabiduría. Era of Chaos Emblema Sagrado Muro de la Sabiduría. Era of Chaos Bien Muro de la Sabiduría"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Wall of Knowledge.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Muro de la Sabiduría
+ **Nombre:** Muro de la Sabiduría
 
  **Type:** [Bien](/es/Emblem/Type Goodness/)
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, DEF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 4% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +30, DEF +1,5%</span> | 
   | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, DEF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 5% cuando hay una unidad de la misma clase desplegada en tu formación.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +55, DEF +2%</span> | 

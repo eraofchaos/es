@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Adjudicadora](/es/Items/unt_198/)
+
  **Short description:** Halo de apoyo, aumenta el alcance.
 
  **Position :** Aura de grupo que se usa para recuperar PV. El aura protege contra el daño. La tierra sagrada fortalece a tus aliados
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [](/es/Exclusive/Judicator /) 
+ **Nombre:** [](/es/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/)
 
- **Skin:** -
+ **Aspecto:** [Tool_210909](/es/Items/con_643/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Curación
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

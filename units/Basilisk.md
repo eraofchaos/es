@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Basilisco](/es/Items/unt_256/)
+
  **Short description:** Controla los tanques. Petrifica.
 
  **Position :** Un tanque que domina el control. Petrifica todas las unidades a su alrededor cuando muere.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cola de Basilisco](/es/Exclusive/Basilisk Basilisk's Tail/) 
+ **Nombre:** [Cola de Basilisco](/es/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Cola de Basilisco](/es/Items/con_994/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_662/)
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Reducción de daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

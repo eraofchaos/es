@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Medusa](/es/Items/unt_247/)
+
  **Unit description:** Mirada petrificadora: Petrifica a los enemigos y reduce la reducción de daño de la unidad.
 
  **Short description:** Petrifica. Gran DPS.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) 
+ **Nombre:** [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco de Medusa](/es/Items/con_991/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Arco de Medusa](/es/Items/con_659/)
 
 
 ## Emblemas Sagrados recomendados
@@ -168,9 +170,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Reina Medusa

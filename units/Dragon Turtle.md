@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Tortuga Dragón](/es/Items/unt_278/)
+
  **Short description:** Tanque. Regenera PV.
 
  **Position :** Defensor potente. Recupera PV al morir.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Obediencia](/es/Exclusive/Dragon Turtle Obedience/) 
+ **Nombre:** [Obediencia](/es/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Obediencia](/es/Items/con_1005/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Obediencia](/es/Items/con_673/)
 
 
 ## Emblemas Sagrados recomendados
@@ -165,9 +167,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Tortuga Dragón Primigenia

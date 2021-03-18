@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
+ **Unit Soul:** [Efrit](/es/Items/unt_231/)
+
  **Unit description:** Bola de fuego: inflige un daño colosal al enemigo y causa quemadura.
 
  **Short description:** El escudo refleja el daño. Causa quemadura.
@@ -77,13 +79,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) 
+ **Nombre:** [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -175,9 +177,11 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Sultán Efrit

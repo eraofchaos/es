@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Ogro](/es/units/Ogre/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | Invoca un círculo de sacrificios cada 30 s, lo que inflige daño igual al 1,5% de los PV máximos a las unidades hostiles en el círculo y restaura PV igual al 5% del ATQ a las unidades amistosas en el circulo durante 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de la unidad de Ogros un 20% |
-  | **2x** <i class="fas fa-star"/> | ? | Cuando el Ogro enfurece, aumenta el daño de todas las unidades amistosas un 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | Cuando se despliega al Ogro, este aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 10%. Aumenta su DEF un 10%. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Ogro en 500. |
-  | **5x** <i class="fas fa-star"/> | ? | Cuando se despliega al Ogro, este reduce la DEF de las unidades hostiles un 10% a cambio de un 100% de resistencia mágica. |
-  | **6x** <i class="fas fa-star"/> | ? | La DEF del Ogro aumenta un 5% por cada unidad defensiva desplegada. Los PV del Ogro aumentan en 1000 por cada unidad de Bastión desplegada. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | Invoca un círculo de sacrificios cada 30 s, lo que inflige daño igual al 1,5% de los PV máximos a las unidades hostiles en el círculo y restaura PV igual al 5% del ATQ a las unidades amistosas en el circulo durante 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la reducción de daño de la unidad de Ogros un 20% |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cuando el Ogro enfurece, aumenta el daño de todas las unidades amistosas un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cuando se despliega al Ogro, este aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 10%. Aumenta su DEF un 10%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la tenacidad del Ogro en 500. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cuando se despliega al Ogro, este reduce la DEF de las unidades hostiles un 10% a cambio de un 100% de resistencia mágica. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | La DEF del Ogro aumenta un 5% por cada unidad defensiva desplegada. Los PV del Ogro aumentan en 1000 por cada unidad de Bastión desplegada. |
 
 
 ## Subir de nivel

@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Gólem Dragón](/es/Items/unt_243/)
+
  **Short description:** Defensa suprema.
 
  **Position :** La protección de grupo al principio de la batalla reduce el daño recibido. Defensa de retaguardia definitiva e invencible. Control a distancia; intimida a todas las unidades en el campo de batalla.
@@ -172,9 +174,11 @@ toc: true
 * Reducción de daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

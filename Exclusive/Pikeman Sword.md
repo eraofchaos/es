@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Espada** 
+### Detalles
+ **Nombre: Espada** 
 
  **Exclusivo for Unit:** [Piquero](/es/units/Pikeman/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la velocidad de ataque del Piquero un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Piquero en 150. |
-  | **3x** <i class="fas fa-star"/> | ? | <Carga Ferviente> Activa un <Lanzazo Sagrado> adicional cuando el Piquero tiene la moral alta. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de golpe crítico del Piquero un 15%. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la DEF un 3% y la esquiva en 30 por cada unidad de Castillo en el campo de batalla. |
-  | **6x** <i class="fas fa-star"/> | ? | <Valentía> Cuando los ataques del Piquero son esquivados, todas las unidades amistosas en su camino aumentan su daño de golpe crítico y velocidad de ataque un 20% durante 12 s. La recarga es de 20 s. |
+  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta la velocidad de ataque del Piquero un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta la tenacidad del Piquero en 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Carga Ferviente> Activa un <Lanzazo Sagrado> adicional cuando el Piquero tiene la moral alta. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de golpe crítico del Piquero un 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Aumenta la DEF un 3% y la esquiva en 30 por cada unidad de Castillo en el campo de batalla. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Valentía> Cuando los ataques del Piquero son esquivados, todas las unidades amistosas en su camino aumentan su daño de golpe crítico y velocidad de ataque un 20% durante 12 s. La recarga es de 20 s. |
 
 
 ## Subir de nivel

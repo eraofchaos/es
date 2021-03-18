@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Diablillo](/es/units/Imp/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la resistencia mágica del Diablillo un 25%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF del Diablillo un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Armadura Robusta> Cuando los PV del Diablillo caen por debajo del 60% y 30% por primera vez, obtiene un escudo equivalente al 20% de sus PV máximos y aumenta la tenacidad en 150 durante 20 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta los PV del Diablillo un 20% y la tenacidad en 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad del Diablillo un 2% y la tenacidad en 30 cada vez que se despliega una unidad del Infierno. |
-  | **6x** <i class="fas fa-star"/> | ? | <Forma Flexible> Cada vez que un Diablillo esquiva, hay un 25% de probabilidad de que recupere PV equivalentes al 3% de sus PV máximos y aumente el ATQ un 5% durante 5 s. Se acumula hasta el 250%. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la resistencia mágica del Diablillo un 25%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF del Diablillo un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Armadura Robusta> Cuando los PV del Diablillo caen por debajo del 60% y 30% por primera vez, obtiene un escudo equivalente al 20% de sus PV máximos y aumenta la tenacidad en 150 durante 20 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Diablillo un 20% y la tenacidad en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la reducción de daño de unidad del Diablillo un 2% y la tenacidad en 30 cada vez que se despliega una unidad del Infierno. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Forma Flexible> Cada vez que un Diablillo esquiva, hay un 25% de probabilidad de que recupere PV equivalentes al 3% de sus PV máximos y aumente el ATQ un 5% durante 5 s. Se acumula hasta el 250%. |
 
 
 ## Subir de nivel

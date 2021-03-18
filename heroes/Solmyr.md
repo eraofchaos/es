@@ -3,13 +3,13 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna."
 heroID: 61201
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Solmyr"
 toc: true
 ---
  **Descripción:** Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna.
-## Details
+## Detalles
  **Profession:** Hechicero
 
  **Race:** Torre

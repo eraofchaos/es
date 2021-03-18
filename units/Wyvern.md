@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Guiverno](/es/Items/unt_258/)
+
  **Short description:** Potente cuerpo a cuerpo. Tóxico.
 
  **Position :** Unidad DPS. Tiene varias formas de propagar la plaga.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Cola de Guiverno](/es/Exclusive/Wyvern Wyvern's Tail/) 
+ **Nombre:** [Cola de Guiverno](/es/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Cola de Guiverno](/es/Items/con_996/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Cola de Guiverno](/es/Items/con_664/)
 
 
 ## Emblemas Sagrados recomendados
@@ -168,9 +170,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** Guiverno Monarca

@@ -2,20 +2,20 @@
 title: "Emblema Sagrado - Aliento del Rey Dragón"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Aliento del Rey Dragón. Aliento del Rey Dragón. Era of Chaos Emblema Sagrado Aliento del Rey Dragón. Era of Chaos Maligno Aliento del Rey Dragón"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Dragon King's Breath.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Aliento del Rey Dragón
+ **Nombre:** Aliento del Rey Dragón
 
  **Type:** [Maligno](/es/Emblem/Type Evil/)
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +1,5, Emblema Sagrado de DEF +1,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;congeladas, aturdidas o petrificadas&gt;, recuperan un 2% de sus PV. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +4, Emblema Sagrado de DEF +4</span> | 
   | [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +4,5, Emblema Sagrado de DEF +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;congeladas, aturdidas o petrificadas&gt;, recuperan un 4% de sus PV. La recarga es de 10 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +11,5, Emblema Sagrado de DEF +11,5</span> | 

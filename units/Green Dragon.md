@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Dragón Verde](/es/Items/unt_205/)
+
  **Unit description:** Refuerzos del Cielo: inflige un daño colosal a tres tropas enemigas de la retaguardia.
 
  **Short description:** Daño de agua. Resistencia al agua.
@@ -78,13 +80,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Nombre:** [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Ala de Dragón Resplandeciente](/es/Items/con_976/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Ala de Dragón Resplandeciente](/es/Items/con_644/)
 
 
 ## Emblemas Sagrados recomendados
@@ -173,9 +175,11 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Dragón Dorado

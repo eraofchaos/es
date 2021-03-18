@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Bien"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Bien. Era of Chaos Bien"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "typeBien.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nombre            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
   | 2 | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 

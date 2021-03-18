@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco largo** 
+### Detalles
+ **Nombre: Arco largo** 
 
  **Exclusivo for Unit:** [Cíclope](/es/units/Cyclops/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Lanzamiento de pedruscos> lanza rocas que infligen daño igual al 200% de los PV máximos a todos los enemigos en la zona objetivo. Puede activarse cada 15 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Usa <Lanzamiento de pedruscos> cuando los Cíclopes ataquen por primera vez. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Cíclopes y la velocidad de ataque un 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Cuando se reducen los PV por debajo del 30% por primera vez, el Cíclope desata Sacudida de tierra una vez, lo que aumenta su velocidad de ataque un 25% de manera permanente. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño y la DEF del Cíclope un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Los ataques del Cíclope reducen el golpe crítico de la unidad objetivo en 500. |
-  | **6x** <i class="fas fa-star"/> | ? | <Misfortune Stare> Al principio de la batalla, la velocidad de ataque de todas las unidades hostiles se reduce un 10% durante 20 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | <Lanzamiento de pedruscos> lanza rocas que infligen daño igual al 200% de los PV máximos a todos los enemigos en la zona objetivo. Puede activarse cada 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Usa <Lanzamiento de pedruscos> cuando los Cíclopes ataquen por primera vez. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el daño de la unidad de Cíclopes y la velocidad de ataque un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | Cuando se reducen los PV por debajo del 30% por primera vez, el Cíclope desata Sacudida de tierra una vez, lo que aumenta su velocidad de ataque un 25% de manera permanente. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la reducción de daño y la DEF del Cíclope un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | Los ataques del Cíclope reducen el golpe crítico de la unidad objetivo en 500. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | <Misfortune Stare> Al principio de la batalla, la velocidad de ataque de todas las unidades hostiles se reduce un 10% durante 20 s. |
 
 
 ## Subir de nivel

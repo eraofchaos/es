@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco largo** 
+### Detalles
+ **Nombre: Arco largo** 
 
  **Exclusivo for Unit:** [Pegaso](/es/units/Pegasus/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | Los ataques normales infligen daño adicional igual al 30% de su ATQ al objetivo. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el daño de la unidad de Pegasos un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el ATQ de Pegaso un 20% y su velocidad de ataque un 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Bladestorm> La Pegaso lanza una espina de rosa cada 25 s que inflige daño igual al 5% de los PV máximos más el 20% del ATQ a todas las unidades hostiles y hace sangrar a los enemigos durante 10 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Los ataques normales de las Pegasos reducen la reducción de daño de la unidad objetivo un 2%. El efecto dura 3 s y se acumula hasta 7 veces. |
-  | **5x** <i class="fas fa-star"/> | ? | Cuando se enfrenta a unidades con <Shield>, la velocidad de ataque de la Pegaso aumenta un 10% durante 3 s. Cuando se enfrenta a objetivos con <Bleeding>, el daño de su unidad aumenta un 20% durante 3 s. |
-  | **6x** <i class="fas fa-star"/> | ? | <Puñalada en el corazón> Pegaso inflige 250% de daño a un miembro de la unidad objetivo y reduce su DEF un 20% durante 3 s cada 15 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | Los ataques normales infligen daño adicional igual al 30% de su ATQ al objetivo. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el daño de la unidad de Pegasos un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el ATQ de Pegaso un 20% y su velocidad de ataque un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | <Bladestorm> La Pegaso lanza una espina de rosa cada 25 s que inflige daño igual al 5% de los PV máximos más el 20% del ATQ a todas las unidades hostiles y hace sangrar a los enemigos durante 10 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Los ataques normales de las Pegasos reducen la reducción de daño de la unidad objetivo un 2%. El efecto dura 3 s y se acumula hasta 7 veces. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | Cuando se enfrenta a unidades con <Shield>, la velocidad de ataque de la Pegaso aumenta un 10% durante 3 s. Cuando se enfrenta a objetivos con <Bleeding>, el daño de su unidad aumenta un 20% durante 3 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | <Puñalada en el corazón> Pegaso inflige 250% de daño a un miembro de la unidad objetivo y reduce su DEF un 20% durante 3 s cada 15 s. |
 
 
 ## Subir de nivel

@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Escudo Iris** 
+### Detalles
+ **Nombre: Escudo Iris** 
 
  **Exclusivo for Unit:** [Guardia Dendroide](/es/units/Dendroid Guard/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Armadura Arbórea> Le otorga al Guardia Dendroide y a 1 unidad de Murallas aleatoria un 10% de aumento de la reducción de daño de unidad y un escudo equivalente al 10% de los PV máximos. Dura 8 s. La recarga es de 18 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta los PV del Guardia Dendroide un 20% y la reducción de daño de unidad un 10%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta la DEF de base del Guardia Dendroide en 50 cada vez que se despliega una unidad de Murallas. |
-  | **3x** <i class="fas fa-star"/> | ? | <Raíces Profundas> El Guardia Dendroide entierra sus raíces en las profundidades, lo que aumenta su reducción de daño de unidad un 15%, inflige daño equivalente al 2% de los PV máximos a las unidades enemigas en una zona grande por segundo y recupera un 1% de sus PV máximos cada segundo durante 10 s. En este tiempo, el Guardia Dendroide no puede moverse. La recarga es de 25 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad del Guardia Dendroide en 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Cuando el Guardia Dendroide obtiene un escudo, aumenta su velocidad de ataque un 10% y la DEF un 2% durante 4 s. Se acumula hasta 20 veces. |
-  | **6x** <i class="fas fa-star"/> | ? | Cada vez que el Guardia Dendroide usa un ataque normal, existe un 12% de probabilidad de que el ataque robe un 3% de la reducción de daño de unidad a la unidad objetivo y un 3% de su DEF. Se acumula hasta 10 veces. También aumenta la tenacidad del Guardia Dendroide en 15 y la esquiva en 20 cada 10 s. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Armadura Arbórea> Le otorga al Guardia Dendroide y a 1 unidad de Murallas aleatoria un 10% de aumento de la reducción de daño de unidad y un escudo equivalente al 10% de los PV máximos. Dura 8 s. La recarga es de 18 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Guardia Dendroide un 20% y la reducción de daño de unidad un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF de base del Guardia Dendroide en 50 cada vez que se despliega una unidad de Murallas. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Raíces Profundas> El Guardia Dendroide entierra sus raíces en las profundidades, lo que aumenta su reducción de daño de unidad un 15%, inflige daño equivalente al 2% de los PV máximos a las unidades enemigas en una zona grande por segundo y recupera un 1% de sus PV máximos cada segundo durante 10 s. En este tiempo, el Guardia Dendroide no puede moverse. La recarga es de 25 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la tenacidad del Guardia Dendroide en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cuando el Guardia Dendroide obtiene un escudo, aumenta su velocidad de ataque un 10% y la DEF un 2% durante 4 s. Se acumula hasta 20 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | Cada vez que el Guardia Dendroide usa un ataque normal, existe un 12% de probabilidad de que el ataque robe un 3% de la reducción de daño de unidad a la unidad objetivo y un 3% de su DEF. Se acumula hasta 10 veces. También aumenta la tenacidad del Guardia Dendroide en 15 y la esquiva en 20 cada 10 s. |
 
 
 ## Subir de nivel

@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Tool_3509](/es/Items/unt_234/)
+
  **Short description:** Roba almas para dar la vuelta a la partida. Nacido para morir.
 
  **Position :** Roba almas para dar la vuelta a la partida. Nacido para morir.
@@ -231,9 +233,11 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
+ **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Pica de Caballero** 
+### Detalles
+ **Nombre: Pica de Caballero** 
 
  **Exclusivo for Unit:** [Hada](/es/units/Sprite/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | Al comienzo de la batalla, aumenta el daño de unidad del Hada y la velocidad de ataque un 20% durante 30 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta el ATQ del Hada un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta el golpe crítico del Hada en 200. |
-  | **3x** <i class="fas fa-star"/> | ? | El Hada inflige daño equivalente al 450% de su propio ATQ a la unidad objetivo y le causa aleatoriamente congelación, quemaduras, petrificación o estática durante 3 s. La recarga es de 18 s. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta el daño de unidad del Hada un 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | La primera vez que los PV del Hada caen por debajo del 80%/60%/40%/20%, todos los héroes amistosos recuperan 8 de maná. |
-  | **6x** <i class="fas fa-star"/> | ? | Cuando un Hada muere, aumenta el daño de unidad y la velocidad de ataque de todas las unidades de Conflujo amistosas un 3% durante 60 s. Se acumula hasta 9 veces. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Al comienzo de la batalla, aumenta el daño de unidad del Hada y la velocidad de ataque un 20% durante 30 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el ATQ del Hada un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el golpe crítico del Hada en 200. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | El Hada inflige daño equivalente al 450% de su propio ATQ a la unidad objetivo y le causa aleatoriamente congelación, quemaduras, petrificación o estática durante 3 s. La recarga es de 18 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el daño de unidad del Hada un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | La primera vez que los PV del Hada caen por debajo del 80%/60%/40%/20%, todos los héroes amistosos recuperan 8 de maná. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Cuando un Hada muere, aumenta el daño de unidad y la velocidad de ataque de todas las unidades de Conflujo amistosas un 3% durante 60 s. Se acumula hasta 9 veces. |
 
 
 ## Subir de nivel

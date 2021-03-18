@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Hada](/es/Items/unt_262/)
+
  **Short description:** Silencia. Hechizo inicial mejorado.
 
  **Position :** Explota al morir, silencia al objetivo y aumenta el maná de Héroe inicial.
@@ -74,13 +76,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Pica de Caballero](/es/Exclusive/Sprite Knight Pike/) 
+ **Nombre:** [Pica de Caballero](/es/Exclusive/Sprite Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -166,9 +168,11 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** 

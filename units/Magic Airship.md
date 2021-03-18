@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Aeronave Mágica](/es/Items/unt_242/)
+
  **Short description:** DPS de retaguardia que otorga ventaja
 
  **Position :** Apoyo de Maga. Aumenta la velocidad de ataque de las unidades lanzahechizos y congela los ataques de los enemigos.
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Polaris](/es/Exclusive/Magic Airship Polaris/) 
+ **Nombre:** [Polaris](/es/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Polaris](/es/Items/con_989/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Polaris](/es/Items/con_657/)
 
 
 ## Emblemas Sagrados recomendados
@@ -170,9 +172,11 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

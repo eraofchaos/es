@@ -3,13 +3,13 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart fue asesinado y ha sido revivido. Como general del ejército de no muertos, tiene poderes aún más formidables que cuando estaba vivo."
 heroID: 60401
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: es
 ref: "Lord Haart"
 toc: true
 ---
  **Descripción:** Lord Haart fue asesinado y ha sido revivido. Como general del ejército de no muertos, tiene poderes aún más formidables que cuando estaba vivo.
-## Details
+## Detalles
  **Profession:** Caballero de la Muerte
 
  **Race:** Necrópolis

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Observador](/es/Items/unt_246/)
+
  **Unit description:** Control mental: Inmoviliza a enemigos y hace que pierdan PV de forma prolongada.
 
  **Short description:** Potente daño rápido inicial. Control mental.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) 
+ **Nombre:** [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Mirada Oscura](/es/Items/con_990/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Mirada Oscura](/es/Items/con_658/)
 
 
 ## Emblemas Sagrados recomendados
@@ -163,9 +165,11 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Ojo maléfico

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Arquera Regnan](/es/Items/unt_274/)
+
  **Short description:** Golpe crítico y penetración.
 
  **Position :** Golpe crítico y penetración. Segador de batalla
@@ -72,13 +74,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Milagro](/es/Exclusive/Regnan Archer Miracle/) 
+ **Nombre:** [Milagro](/es/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
  **Item to Subir rango:** -
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -175,9 +177,11 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
+ **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -15,14 +15,14 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centauro](/es/units/Centaur/) | [Escudo Iris](/es/Exclusive/Centaur Iris Shield/) | - | Carga | - | - |
-  | 2  | [Enano](/es/units/Dwarf/) | [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) | - | Carga | - | - |
-  | 3  | [Elfa del Bosque](/es/units/Wood Elf/) | [Arco largo](/es/Exclusive/Wood Elf Long Bow/) | - | Carga | - | - |
-  | 4  | [Pegaso](/es/units/Pegasus/) | [Arco largo](/es/Exclusive/Pegasus Long Bow/) | + | Carga | - | - |
-  | 5  | [Guardia Dendroide](/es/units/Dendroid Guard/) | [Escudo Iris](/es/Exclusive/Dendroid Guard Iris Shield/) | - | Carga | - | - |
-  | 6  | [Unicornio](/es/units/Unicorn/) | [Pica de Caballero](/es/Exclusive/Unicorn Knight Pike/) | - | Carga | - | - |
-  | 7  | [Dragón Verde](/es/units/Green Dragon/) | [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Asistencia técnica | - | - |
-  | 8  | [Druida](/es/units/Druid/) | [Báculo de Resurgimiento](/es/Exclusive/Druid Staff of Regrowth/) | - | A distancia | - | - |
+  | 1  | [Centauro](/es/units/Centaur/) | [Escudo Iris](/es/Exclusive/Centaur Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 2  | [Enano](/es/units/Dwarf/) | [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 3  | [Elfa del Bosque](/es/units/Wood Elf/) | [Arco largo](/es/Exclusive/Wood Elf Long Bow/) | - | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
+  | 4  | [Pegaso](/es/units/Pegasus/) | [Arco largo](/es/Exclusive/Pegasus Long Bow/) | + | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
+  | 5  | [Guardia Dendroide](/es/units/Dendroid Guard/) | [Escudo Iris](/es/Exclusive/Dendroid Guard Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 6  | [Unicornio](/es/units/Unicorn/) | [Pica de Caballero](/es/Exclusive/Unicorn Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
+  | 7  | [Dragón Verde](/es/units/Green Dragon/) | [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Asistencia técnica | [Ficha de Ala de Dragón Resplandeciente](/es/Items/con_976/) | [Aspecto Especial de Ala de Dragón Resplandeciente](/es/Items/con_644/) |
+  | 8  | [Druida](/es/units/Druid/) | [Báculo de Resurgimiento](/es/Exclusive/Druid Staff of Regrowth/) | - | A distancia | [Ficha de Báculo de Resurgimiento](/es/Items/con_977/) | [Aspecto Especial de Báculo de Resurgimiento](/es/Items/con_645/) |
   | 9  | [Mantis](/es/units/Mantis/) | - | - | - | none | none |

@@ -15,14 +15,14 @@ classes: wide
 
  **Exclusivo Level Upgrade:** [Exclusive Upgrade Cost Per Level](/Exclusive/ExclusiveUpgradeCostPerLevel/)
 
-  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
+  | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gremlin](/es/units/Gremlin/) | [Arco largo](/es/Exclusive/Gremlin Long Bow/) | - | Carga | - | - |
-  | 2  | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | [Espada](/es/Exclusive/Stone Gargoyle Sword/) | - | Carga | - | - |
-  | 3  | [Gólem de Hierro](/es/units/Iron Golem/) | [Escudo Iris](/es/Exclusive/Iron Golem Iris Shield/) | - | Carga | - | - |
-  | 4  | [Archimaga](/es/units/Arch Mage/) | [Canto Arcano](/es/Exclusive/Arch Mage Arcane Chant/) | - | Carga | - | - |
-  | 5  | [Genio](/es/units/Genie/) | [Lyra](/es/Exclusive/Genie Lyra/) | - | A distancia | - | - |
-  | 6  | [Naga](/es/units/Naga/) | [Espada de Naga](/es/Exclusive/Naga Naga Sword/) | + | Asistencia técnica | - | - |
-  | 7  | [Gigante](/es/units/Giant/) | [Mil Toneladas](/es/Exclusive/Giant Thousand Ton/) | - | Asistencia técnica | - | - |
-  | 8  | [Aeronave Mágica](/es/units/Magic Airship/) | [Polaris](/es/Exclusive/Magic Airship Polaris/) | - | A distancia | - | - |
+  | 1  | [Gremlin](/es/units/Gremlin/) | [Arco largo](/es/Exclusive/Gremlin Long Bow/) | - | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
+  | 2  | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | [Espada](/es/Exclusive/Stone Gargoyle Sword/) | - | Carga | [Ficha de espada](/es/Items/con_912/) | - |
+  | 3  | [Gólem de Hierro](/es/units/Iron Golem/) | [Escudo Iris](/es/Exclusive/Iron Golem Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 4  | [Archimaga](/es/units/Arch Mage/) | [Canto Arcano](/es/Exclusive/Arch Mage Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
+  | 5  | [Genio](/es/units/Genie/) | [Lyra](/es/Exclusive/Genie Lyra/) | - | A distancia | [Ficha de Lyra](/es/Items/con_986/) | [Aspecto Especial de Lyra](/es/Items/con_654/) |
+  | 6  | [Naga](/es/units/Naga/) | [Espada de Naga](/es/Exclusive/Naga Naga Sword/) | + | Asistencia técnica | [Ficha de Espada Naga](/es/Items/con_987/) | [Aspecto Especial de Espada de Naga](/es/Items/con_655/) |
+  | 7  | [Gigante](/es/units/Giant/) | [Mil Toneladas](/es/Exclusive/Giant Thousand Ton/) | - | Asistencia técnica | [Ficha de Mil Toneladas](/es/Items/con_988/) | [Aspecto Especial de Mil Toneladas](/es/Items/con_656/) |
+  | 8  | [Aeronave Mágica](/es/units/Magic Airship/) | [Polaris](/es/Exclusive/Magic Airship Polaris/) | - | A distancia | [Ficha de Polaris](/es/Items/con_989/) | [Aspecto Especial de Polaris](/es/Items/con_657/) |
   | 9  | [Gólem Dragón](/es/units/Dragon Golem/) | - | - | - | none | none |

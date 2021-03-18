@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco largo** 
+### Detalles
+ **Nombre: Arco largo** 
 
  **Exclusivo for Unit:** [Hombre Lagarto](/es/units/Lizardman/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
 
- **Skin:** -
+ **Aspecto:** -
 
  **Type:** Carga
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Wild Hunter> Se puede lanzar cada 20 s, lo que inflige daño igual al 300% de su ATQ a todas las unidades hostiles en una zona pequeña y daño igual al 2% de sus PV máximos por segundo durante 5 s. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la resistencia mágica del Hombre Lagarto un 50%. |
-  | **2x** <i class="fas fa-star"/> | ? | Cuando el Hombre Lagarto impacta con un golpe crítico, su golpe crítico aumenta en 10 durante 3 s, hasta un máximo de 50 acumulaciones. |
-  | **3x** <i class="fas fa-star"/> | ? | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la penetración del Hombre Lagarto en 300. |
-  | **5x** <i class="fas fa-star"/> | ? | Aumenta el ATQ un 20% y el daño de la unidad un 10% del Hombre Lagarto. |
-  | **6x** <i class="fas fa-star"/> | ? | <Wild Outbreak> aumenta la velocidad de ataque un 500% durante 5 s. Puede activarse cada 20 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | <Wild Hunter> Se puede lanzar cada 20 s, lo que inflige daño igual al 300% de su ATQ a todas las unidades hostiles en una zona pequeña y daño igual al 2% de sus PV máximos por segundo durante 5 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la resistencia mágica del Hombre Lagarto un 50%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | Cuando el Hombre Lagarto impacta con un golpe crítico, su golpe crítico aumenta en 10 durante 3 s, hasta un máximo de 50 acumulaciones. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la penetración del Hombre Lagarto en 300. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el ATQ un 20% y el daño de la unidad un 10% del Hombre Lagarto. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | <Wild Outbreak> aumenta la velocidad de ataque un 500% durante 5 s. Puede activarse cada 20 s. |
 
 
 ## Subir de nivel

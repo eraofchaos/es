@@ -10,14 +10,14 @@ classes: wide
 ---
  [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: ?** 
+### Detalles
+ **Nombre: ?** 
 
  **Exclusivo for Unit:** [Pesadilla](/es/units/Nightmare/) 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Ojo de Pesadilla](/es/Items/con_985/)
 
- **Skin:** -
+ **Aspecto:** [Tool_250809](/es/Items/con_653/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | ? | <Sin Rastro> Cada vez que la Pesadilla recibe un ataque, hay un 25% de probabilidad de aumentar su propia velocidad de ataque un 500% y la absorción de vida un 50% durante un ataque. |
-  | **1x** <i class="fas fa-star"/> | ? | Aumenta la reducción de daño de unidad de la Pesadilla un 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Aumenta los PV de la Pesadilla un 8% y la DEF un 5% cada vez que se despliega una unidad del Infierno. |
-  | **3x** <i class="fas fa-star"/> | ? | <Cura Onírica> Cuando se activa <Sin Rastro>, la Pesadilla cura a la unidad con menos PV por valor del 200% de los PV. |
-  | **4x** <i class="fas fa-star"/> | ? | Aumenta la tenacidad de la Pesadilla en 400. |
-  | **5x** <i class="fas fa-star"/> | ? | <Devorasueños> Cuando se activa <Sin Rastro>, la Pesadilla disminuye la reducción de daño de unidad, la DEF y la resistencia mágica del objetivo actual un 2% cada 6 s. Se acumula hasta 10 veces. |
-  | **6x** <i class="fas fa-star"/> | ? | <Escena Infernal> <Devorasueños> afecta a una hilera de enemigos delante suya. |
+  |  Despertar  | **100x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | <Sin Rastro> Cada vez que la Pesadilla recibe un ataque, hay un 25% de probabilidad de aumentar su propia velocidad de ataque un 500% y la absorción de vida un 50% durante un ataque. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | Aumenta la reducción de daño de unidad de la Pesadilla un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | Aumenta los PV de la Pesadilla un 8% y la DEF un 5% cada vez que se despliega una unidad del Infierno. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | <Cura Onírica> Cuando se activa <Sin Rastro>, la Pesadilla cura a la unidad con menos PV por valor del 200% de los PV. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | Aumenta la tenacidad de la Pesadilla en 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | <Devorasueños> Cuando se activa <Sin Rastro>, la Pesadilla disminuye la reducción de daño de unidad, la DEF y la resistencia mágica del objetivo actual un 2% cada 6 s. Se acumula hasta 10 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | <Escena Infernal> <Devorasueños> afecta a una hilera de enemigos delante suya. |
 
 
 ## Subir de nivel

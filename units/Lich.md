@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
+ **Unit Soul:** [Liche](/es/Items/unt_212/)
+
  **Unit description:** Sacrificio: invoca una horda de Esqueletos.
 
  **Short description:** Invoca Esqueletos. Magia ósea mejorada.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Tributo de Muerte](/es/Exclusive/Lich Death Tribute/) 
+ **Nombre:** [Tributo de Muerte](/es/Exclusive/Lich Death Tribute/) 
 
  **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Tributo de Muerte](/es/Items/con_978/)
 
- **Skin:** -
+ **Aspecto:** [Aspecto Especial de Tributo de Muerte](/es/Items/con_646/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
+ **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Archiliche

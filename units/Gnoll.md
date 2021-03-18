@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
+ **Unit Soul:** [Gnoll](/es/Items/unt_253/)
+
  **Short description:** DPS en cuerpo a cuerpo. Aturde.
 
  **Position :** Aturde a los enemigos e inflige muchísimo daño. Consigue una bonificación de ATQ al enfrentarse a la unidad con menos PV restantes.
@@ -76,13 +78,13 @@ toc: true
 
 ## Exclusivo
 
- **Name:** [Espada](/es/Exclusive/Gnoll Sword/) 
+ **Nombre:** [Espada](/es/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
 
- **Skin:** -
+ **Aspecto:** -
 
 
 ## Emblemas Sagrados recomendados
@@ -171,9 +173,11 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
+ **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Detalles
  **Is it possible right now?** YES
 
  **Awaking Name:** Guerrero Gnoll
