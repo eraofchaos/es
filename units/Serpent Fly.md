@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Libélula Menor"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Demonio](/es/equipment/Ala de Cuello de Demonio/) | **ATQ** | **DEF** | 
-  | [Bucal Mortífero](/es/equipment/Bucal Mortífero/) | **PV** | **DEF** | 
-  | [Espina Lúgubre](/es/equipment/Espina Lúgubre/) | **ATQ** | **DEF** | 
-  | [Colmillo Tóxico](/es/equipment/Colmillo Tóxico/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala de Cuello de Demonio](/images/e/e_8031.png) | [Ala de Cuello de Demonio](/es/equipment/Fiend's Neck Umbrella/) | **ATQ** | **DEF** | 
+  | ![Bucal Mortífero](/images/e/e_8032.png) | [Bucal Mortífero](/es/equipment/Fatal Jaw Weapon/) | **PV** | **DEF** | 
+  | ![Espina Lúgubre](/images/e/e_8033.png) | [Espina Lúgubre](/es/equipment/Bleak Barb/) | **ATQ** | **DEF** | 
+  | ![Colmillo Tóxico](/images/e/e_8034.png) | [Colmillo Tóxico](/es/equipment/Toxic Fang/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Liche"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Báculo del Inframundo](/es/equipment/Báculo del Inframundo/) | **ATQ** | **DEF** | 
-  | [Corona de Carroña](/es/equipment/Corona de Carroña/) | **PV** | **DEF** | 
-  | [Cinto de Almas](/es/equipment/Cinto de Almas/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera del Inframundo](/es/equipment/Armadura Ligera del Inframundo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Báculo del Inframundo](/images/e/e_3051.png) | [Báculo del Inframundo](/es/equipment/Nether Staff/) | **ATQ** | **DEF** | 
+  | ![Corona de Carroña](/images/e/e_3052.png) | [Corona de Carroña](/es/equipment/Carrion Crown/) | **PV** | **DEF** | 
+  | ![Cinto de Almas](/images/e/e_3053.png) | [Cinto de Almas](/es/equipment/Soul Belt/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera del Inframundo](/images/e/e_3054.png) | [Armadura Ligera del Inframundo](/es/equipment/Light Armor of the Netherworld/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Demonio"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Demonio"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuerno Abrasador](/es/equipment/Cuerno Abrasador/) | **ATQ** | **DEF** | 
-  | [Collar de acero](/es/equipment/Collar de acero/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Brazaletes de Púas](/es/equipment/Brazaletes de Púas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuerno Abrasador](/images/e/e_5041.png) | [Cuerno Abrasador](/es/equipment/Horn of Scorching/) | **ATQ** | **DEF** | 
+  | ![Collar de acero](/images/e/e_5042.png) | [Collar de acero](/es/equipment/Steel Necklet/) | **PV** | **DEF** | 
+  | ![Garras Hirvientes](/images/e/e_5043.png) | [Garras Hirvientes](/es/equipment/Scalding Claws/) | **ATQ** | **DEF** | 
+  | ![Brazaletes de Púas](/images/e/e_5044.png) | [Brazaletes de Púas](/es/equipment/Spiked Bracers/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

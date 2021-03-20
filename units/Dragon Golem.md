@@ -3,7 +3,7 @@ title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gólem Dragón"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garra de aleación](/es/equipment/Garra de aleación/) | **ATQ** | **DEF** | 
-  | [Cabeza de Dragón de Titanio](/es/equipment/Cabeza de Dragón de Titanio/) | **PV** | **DEF** | 
-  | [Palanca de control principal](/es/equipment/Palanca de control principal/) | **ATQ** | **DEF** | 
-  | [Armadura de aleación](/es/equipment/Armadura de aleación/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garra de aleación](/images/e/e_6091.png) | [Garra de aleación](/es/equipment/Alloy Claw/) | **ATQ** | **DEF** | 
+  | ![Cabeza de Dragón de Titanio](/images/e/e_6092.png) | [Cabeza de Dragón de Titanio](/es/equipment/Titanium Dragon Head/) | **PV** | **DEF** | 
+  | ![Palanca de control principal](/images/e/e_6093.png) | [Palanca de control principal](/es/equipment/Main Control Stick/) | **ATQ** | **DEF** | 
+  | ![Armadura de aleación](/images/e/e_6094.png) | [Armadura de aleación](/es/equipment/Alloy Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

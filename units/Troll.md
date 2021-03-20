@@ -3,7 +3,7 @@ title: "Trol"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Troles son criaturas muy inteligentes que emplean pedruscos pesados como armas. Suelen posicionarse en la vanguardia de los combates para luchar contra los enemigos asestando violentos y demoledores golpes."
 unitID: 409
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Trol"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pedrusco en cadena](/es/equipment/Pedrusco en cadena/) | **ATQ** | **DEF** | 
-  | [Poder de los Señores](/es/equipment/Poder de los Señores/) | **PV** | **DEF** | 
-  | [Fisura de armadura](/es/equipment/Fisura de armadura/) | **ATQ** | **DEF** | 
-  | [Botas de guarnición](/es/equipment/Botas de guarnición/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pedrusco en cadena](/images/e/e_4091.png) | [Pedrusco en cadena](/es/equipment/Chained Boulder/) | **ATQ** | **DEF** | 
+  | ![Poder de los Señores](/images/e/e_4092.png) | [Poder de los Señores](/es/equipment/Might of Lords/) | **PV** | **DEF** | 
+  | ![Fisura de armadura](/images/e/e_4093.png) | [Fisura de armadura](/es/equipment/Breach Armor/) | **ATQ** | **DEF** | 
+  | ![Botas de guarnición](/images/e/e_4094.png) | [Botas de guarnición](/es/equipment/Garrison Boots/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

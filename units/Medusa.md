@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Medusa"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arco Largo de la Matanza](/es/equipment/Arco Largo de la Matanza/) | **ATQ** | **DEF** | 
-  | [Cabellera de Serpientes](/es/equipment/Cabellera de Serpientes/) | **PV** | **DEF** | 
-  | [Corona de la Reina](/es/equipment/Corona de la Reina/) | **ATQ** | **DEF** | 
-  | [Armadura del Abismo](/es/equipment/Armadura del Abismo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arco Largo de la Matanza](/images/e/e_7041.png) | [Arco Largo de la Matanza](/es/equipment/Slaughter Longbow/) | **ATQ** | **DEF** | 
+  | ![Cabellera de Serpientes](/images/e/e_7042.png) | [Cabellera de Serpientes](/es/equipment/Writhing Snake Hair/) | **PV** | **DEF** | 
+  | ![Corona de la Reina](/images/e/e_7043.png) | [Corona de la Reina](/es/equipment/Queen's Crown/) | **ATQ** | **DEF** | 
+  | ![Armadura del Abismo](/images/e/e_7044.png) | [Armadura del Abismo](/es/equipment/Abyss Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

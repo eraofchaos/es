@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental de Fuego"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Núcleo de Fuego](/es/equipment/Núcleo de Fuego/) | **ATQ** | **DEF** | 
-  | [Escudo Sofocante](/es/equipment/Escudo Sofocante/) | **PV** | **DEF** | 
-  | [Observador de Zafiro](/es/equipment/Observador de Zafiro/) | **ATQ** | **DEF** | 
-  | [Garra Afilada Añil](/es/equipment/Garra Afilada Añil/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Núcleo de Fuego](/images/e/e_9041.png) | [Núcleo de Fuego](/es/equipment/Core of Fire/) | **ATQ** | **DEF** | 
+  | ![Escudo Sofocante](/images/e/e_9042.png) | [Escudo Sofocante](/es/equipment/Boiling Shield/) | **PV** | **DEF** | 
+  | ![Observador de Zafiro](/images/e/e_9043.png) | [Observador de Zafiro](/es/equipment/Beholder of Sapphire/) | **ATQ** | **DEF** | 
+  | ![Garra Afilada Añil](/images/e/e_9044.png) | [Garra Afilada Añil](/es/equipment/Navy Blue Sharp Claw/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

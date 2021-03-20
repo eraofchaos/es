@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Paladín"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Espada del Juicio](/es/equipment/Espada del Juicio/) | **ATQ** | **DEF** | 
-  | [Yelmo del Juramento](/es/equipment/Yelmo del Juramento/) | **PV** | **DEF** | 
-  | [Hombreras de hierro](/es/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
-  | [Brazaletes forjados](/es/equipment/Brazaletes forjados/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Espada del Juicio](/images/e/e_1081.png) | [Espada del Juicio](/es/equipment/Judgment Sword/) | **ATQ** | **DEF** | 
+  | ![Yelmo del Juramento](/images/e/e_1082.png) | [Yelmo del Juramento](/es/equipment/Vow Helmet/) | **PV** | **DEF** | 
+  | ![Hombreras de hierro](/images/e/e_1083.png) | [Hombreras de hierro](/es/equipment/Iron Pauldrons/) | **ATQ** | **DEF** | 
+  | ![Brazaletes forjados](/images/e/e_1084.png) | [Brazaletes forjados](/es/equipment/Forged Bracers/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

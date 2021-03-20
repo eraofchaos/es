@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental de Piedra"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Núcleo de Magma](/es/equipment/Núcleo de Magma/) | **ATQ** | **DEF** | 
-  | [Magma Explosivo](/es/equipment/Magma Explosivo/) | **PV** | **DEF** | 
-  | [Piedra del Crepúsculo](/es/equipment/Piedra del Crepúsculo/) | **ATQ** | **DEF** | 
-  | [Corona de Piedra](/es/equipment/Corona de Piedra/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Núcleo de Magma](/images/e/e_9051.png) | [Núcleo de Magma](/es/equipment/Core of Magma/) | **ATQ** | **DEF** | 
+  | ![Magma Explosivo](/images/e/e_9052.png) | [Magma Explosivo](/es/equipment/Exploding Magma/) | **PV** | **DEF** | 
+  | ![Piedra del Crepúsculo](/images/e/e_9053.png) | [Piedra del Crepúsculo](/es/equipment/Twilight Stone/) | **ATQ** | **DEF** | 
+  | ![Corona de Piedra](/images/e/e_9054.png) | [Corona de Piedra](/es/equipment/Crown of Stone/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

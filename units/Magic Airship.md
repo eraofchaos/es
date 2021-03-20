@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Aeronave Mágica"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sistema de despegue](/es/equipment/Sistema de despegue/) | **ATQ** | **DEF** | 
-  | [Sistema de control](/es/equipment/Sistema de control/) | **PV** | **DEF** | 
-  | [Torre de control principal](/es/equipment/Torre de control principal/) | **ATQ** | **DEF** | 
-  | [Puesto de observación](/es/equipment/Puesto de observación/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sistema de despegue](/images/e/e_6081.png) | [Sistema de despegue](/es/equipment/Lift-off System/) | **ATQ** | **DEF** | 
+  | ![Sistema de control](/images/e/e_6082.png) | [Sistema de control](/es/equipment/Control System/) | **PV** | **DEF** | 
+  | ![Torre de control principal](/images/e/e_6083.png) | [Torre de control principal](/es/equipment/Main Control Tower/) | **ATQ** | **DEF** | 
+  | ![Puesto de observación](/images/e/e_6084.png) | [Puesto de observación](/es/equipment/Observation Deck/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

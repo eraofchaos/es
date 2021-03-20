@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gorgona"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuero Adamantino](/es/equipment/Cuero Adamantino/) | **ATQ** | **DEF** | 
-  | [Armadura Trasera de Bárbaro](/es/equipment/Armadura Trasera de Bárbaro/) | **PV** | **DEF** | 
-  | [Cuerno de Buey Mortífero](/es/equipment/Cuerno de Buey Mortífero/) | **ATQ** | **DEF** | 
-  | [Pezuña de Buey Mágica](/es/equipment/Pezuña de Buey Mágica/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuero Adamantino](/images/e/e_8051.png) | [Cuero Adamantino](/es/equipment/Adamantine Leather/) | **ATQ** | **DEF** | 
+  | ![Armadura Trasera de Bárbaro](/images/e/e_8052.png) | [Armadura Trasera de Bárbaro](/es/equipment/Barbarian Back Armor/) | **PV** | **DEF** | 
+  | ![Cuerno de Buey Mortífero](/images/e/e_8053.png) | [Cuerno de Buey Mortífero](/es/equipment/Deadly Ox Horn/) | **ATQ** | **DEF** | 
+  | ![Pezuña de Buey Mágica](/images/e/e_8054.png) | [Pezuña de Buey Mágica](/es/equipment/Magic Ox Hoof/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

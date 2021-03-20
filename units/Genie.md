@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Genio"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lámpara de Oro Mística](/es/equipment/Lámpara de Oro Mística/) | **ATQ** | **DEF** | 
-  | [Ornamento de Cristal Extraño](/es/equipment/Ornamento de Cristal Extraño/) | **PV** | **DEF** | 
-  | [Brazalete de Cobre Rojo](/es/equipment/Brazalete de Cobre Rojo/) | **ATQ** | **DEF** | 
-  | [Armadura Encantada](/es/equipment/Armadura Encantada/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lámpara de Oro Mística](/images/e/e_6051.png) | [Lámpara de Oro Mística](/es/equipment/Mystic Gold Lamp/) | **ATQ** | **DEF** | 
+  | ![Ornamento de Cristal Extraño](/images/e/e_6052.png) | [Ornamento de Cristal Extraño](/es/equipment/Strange Crystal Ornament/) | **PV** | **DEF** | 
+  | ![Brazalete de Cobre Rojo](/images/e/e_6053.png) | [Brazalete de Cobre Rojo](/es/equipment/Red Copper Bracer/) | **ATQ** | **DEF** | 
+  | ![Armadura Encantada](/images/e/e_6054.png) | [Armadura Encantada](/es/equipment/Enchanted Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

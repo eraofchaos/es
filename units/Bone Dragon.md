@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pincho Óseo](/es/equipment/Pincho Óseo/) | **ATQ** | **DEF** | 
-  | [Cráneo Draconiano](/es/equipment/Cráneo Draconiano/) | **PV** | **DEF** | 
-  | [Garras Perforadoras](/es/equipment/Garras Perforadoras/) | **ATQ** | **DEF** | 
-  | [Gema de Alma](/es/equipment/Gema de Alma/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pincho Óseo](/images/e/e_3071.png) | [Pincho Óseo](/es/equipment/Bone Spike/) | **ATQ** | **DEF** | 
+  | ![Cráneo Draconiano](/images/e/e_3072.png) | [Cráneo Draconiano](/es/equipment/Draconic Skull/) | **PV** | **DEF** | 
+  | ![Garras Perforadoras](/images/e/e_3073.png) | [Garras Perforadoras](/es/equipment/Piercing Claws/) | **ATQ** | **DEF** | 
+  | ![Gema de Alma](/images/e/e_3074.png) | [Gema de Alma](/es/equipment/Soul Gem/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

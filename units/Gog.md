@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gog"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe Hirviente](/es/equipment/Orbe Hirviente/) | **ATQ** | **DEF** | 
-  | [Cuerno Ardiente](/es/equipment/Cuerno Ardiente/) | **PV** | **DEF** | 
-  | [Cola de Llamas](/es/equipment/Cola de Llamas/) | **ATQ** | **DEF** | 
-  | [Brazaletes Hirvientes](/es/equipment/Brazaletes Hirvientes/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe Hirviente](/images/e/e_5021.png) | [Orbe Hirviente](/es/equipment/Scalding Orb/) | **ATQ** | **DEF** | 
+  | ![Cuerno Ardiente](/images/e/e_5022.png) | [Cuerno Ardiente](/es/equipment/Fiery Horn/) | **PV** | **DEF** | 
+  | ![Cola de Llamas](/images/e/e_5023.png) | [Cola de Llamas](/es/equipment/Tail of Flame/) | **ATQ** | **DEF** | 
+  | ![Brazaletes Hirvientes](/images/e/e_5024.png) | [Brazaletes Hirvientes](/es/equipment/Scalding Bracers/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

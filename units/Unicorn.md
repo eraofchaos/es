@@ -3,7 +3,7 @@ title: "Unicornio"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Unicornio"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuerno Largo de Cristal](/es/equipment/Cuerno Largo de Cristal/) | **ATQ** | **DEF** | 
-  | [Piedras de Soñador](/es/equipment/Piedras de Soñador/) | **PV** | **DEF** | 
-  | [Pezuñas de Cristal](/es/equipment/Pezuñas de Cristal/) | **ATQ** | **DEF** | 
-  | [Melena Brumosa](/es/equipment/Melena Brumosa/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuerno Largo de Cristal](/images/e/e_2061.png) | [Cuerno Largo de Cristal](/es/equipment/Crystal Longhorn/) | **ATQ** | **DEF** | 
+  | ![Piedras de Soñador](/images/e/e_2062.png) | [Piedras de Soñador](/es/equipment/Dreamer's Stones/) | **PV** | **DEF** | 
+  | ![Pezuñas de Cristal](/images/e/e_2063.png) | [Pezuñas de Cristal](/es/equipment/Crystal Hooves/) | **ATQ** | **DEF** | 
+  | ![Melena Brumosa](/images/e/e_2064.png) | [Melena Brumosa](/es/equipment/Misty Mane/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

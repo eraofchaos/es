@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gremlin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Mangual del Relámpago](/es/equipment/Mangual del Relámpago/) | **ATQ** | **DEF** | 
-  | [Capucha Encantada](/es/equipment/Capucha Encantada/) | **PV** | **DEF** | 
-  | [Guantes Encantados](/es/equipment/Guantes Encantados/) | **ATQ** | **DEF** | 
-  | [Capa Cortavientos](/es/equipment/Capa Cortavientos/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Mangual del Relámpago](/images/e/e_6011.png) | [Mangual del Relámpago](/es/equipment/Lightning's Flail/) | **ATQ** | **DEF** | 
+  | ![Capucha Encantada](/images/e/e_6012.png) | [Capucha Encantada](/es/equipment/Enchanted Hood/) | **PV** | **DEF** | 
+  | ![Guantes Encantados](/images/e/e_6013.png) | [Guantes Encantados](/es/equipment/Enchanted Gloves/) | **ATQ** | **DEF** | 
+  | ![Capa Cortavientos](/images/e/e_6014.png) | [Capa Cortavientos](/es/equipment/Windproof Cloak/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

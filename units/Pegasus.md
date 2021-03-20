@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Pegaso"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Chakra de Espinas](/es/equipment/Chakra de Espinas/) | **ATQ** | **DEF** | 
-  | [Diadema del Verdor](/es/equipment/Diadema del Verdor/) | **PV** | **DEF** | 
-  | [Guanteletes de Rosas](/es/equipment/Guanteletes de Rosas/) | **ATQ** | **DEF** | 
-  | [Armadura Portentosa](/es/equipment/Armadura Portentosa/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Chakra de Espinas](/images/e/e_2041.png) | [Chakra de Espinas](/es/equipment/Thorn's Chakram/) | **ATQ** | **DEF** | 
+  | ![Diadema del Verdor](/images/e/e_2042.png) | [Diadema del Verdor](/es/equipment/Evergreen Circlet/) | **PV** | **DEF** | 
+  | ![Guanteletes de Rosas](/images/e/e_2043.png) | [Guanteletes de Rosas](/es/equipment/Gauntlets of Roses/) | **ATQ** | **DEF** | 
+  | ![Armadura Portentosa](/images/e/e_2044.png) | [Armadura Portentosa](/es/equipment/Armor of Wonder/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

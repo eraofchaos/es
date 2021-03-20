@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Hidra"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cola de Dragón de Plaga](/es/equipment/Cola de Dragón de Plaga/) | **ATQ** | **DEF** | 
-  | [Pendientes del Gobernante](/es/equipment/Pendientes del Gobernante/) | **PV** | **DEF** | 
-  | [Garra de Dragón de Plaga](/es/equipment/Garra de Dragón de Plaga/) | **ATQ** | **DEF** | 
-  | [Púas Traseras Afiladas](/es/equipment/Púas Traseras Afiladas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cola de Dragón de Plaga](/images/e/e_8071.png) | [Cola de Dragón de Plaga](/es/equipment/Plague Dragon Tail/) | **ATQ** | **DEF** | 
+  | ![Pendientes del Gobernante](/images/e/e_8072.png) | [Pendientes del Gobernante](/es/equipment/Ruler's Earrings/) | **PV** | **DEF** | 
+  | ![Garra de Dragón de Plaga](/images/e/e_8073.png) | [Garra de Dragón de Plaga](/es/equipment/Plague Dragon Claw/) | **ATQ** | **DEF** | 
+  | ![Púas Traseras Afiladas](/images/e/e_8074.png) | [Púas Traseras Afiladas](/es/equipment/Sharp Back-spikes/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

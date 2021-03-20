@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Behemoth"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras Atroces](/es/equipment/Garras Atroces/) | **ATQ** | **DEF** | 
-  | [Piel Blindada](/es/equipment/Piel Blindada/) | **PV** | **DEF** | 
-  | [Colmillos Atroces](/es/equipment/Colmillos Atroces/) | **ATQ** | **DEF** | 
-  | [Pelaje grueso](/es/equipment/Pelaje grueso/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras Atroces](/images/e/e_4071.png) | [Garras Atroces](/es/equipment/Ferocious Claws/) | **ATQ** | **DEF** | 
+  | ![Piel Blindada](/images/e/e_4072.png) | [Piel Blindada](/es/equipment/Ironclad Skin/) | **PV** | **DEF** | 
+  | ![Colmillos Atroces](/images/e/e_4073.png) | [Colmillos Atroces](/es/equipment/Ferocious Fangs/) | **ATQ** | **DEF** | 
+  | ![Pelaje grueso](/images/e/e_4074.png) | [Pelaje grueso](/es/equipment/Thick Fur Hide/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

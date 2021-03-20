@@ -3,7 +3,7 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Domador de Tiburones"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cimitarra de acero](/es/equipment/Cimitarra de acero/) | **ATQ** | **DEF** | 
-  | [Correa protectora](/es/equipment/Correa protectora/) | **PV** | **DEF** | 
-  | [Guantes protectores](/es/equipment/Guantes protectores/) | **ATQ** | **DEF** | 
-  | [Riendas de tiburón](/es/equipment/Riendas de tiburón/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cimitarra de acero](/images/e/e_99091.png) | [Cimitarra de acero](/es/equipment/Steel Scimitar/) | **ATQ** | **DEF** | 
+  | ![Correa protectora](/images/e/e_99093.png) | [Correa protectora](/es/equipment/Protective Strap/) | **PV** | **DEF** | 
+  | ![Guantes protectores](/images/e/e_99092.png) | [Guantes protectores](/es/equipment/Protective Gloves/) | **ATQ** | **DEF** | 
+  | ![Riendas de tiburón](/images/e/e_99094.png) | [Riendas de tiburón](/es/equipment/Shark Reins/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

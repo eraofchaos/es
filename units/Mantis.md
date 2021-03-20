@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Mantis"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/es/equipment/UnknownEquipment_2091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2092](/es/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_2093](/es/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_2094](/es/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/es/equipment/UnknownEquipment_2091/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/es/equipment/UnknownEquipment_2092/) | **PV** | **DEF** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/es/equipment/UnknownEquipment_2093/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/es/equipment/UnknownEquipment_2094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

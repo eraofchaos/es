@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Espadachín"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Espada del Imperio](/es/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
-  | [Casco de Oficial](/es/equipment/Casco de Oficial/) | **PV** | **DEF** | 
-  | [Escudo del Imperio](/es/equipment/Escudo del Imperio/) | **ATQ** | **DEF** | 
-  | [Hombreras del Imperio](/es/equipment/Hombreras del Imperio/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Espada del Imperio](/images/e/e_1041.png) | [Espada del Imperio](/es/equipment/Empire's Sword/) | **ATQ** | **DEF** | 
+  | ![Casco de Oficial](/images/e/e_1042.png) | [Casco de Oficial](/es/equipment/Officer's Helmet/) | **PV** | **DEF** | 
+  | ![Escudo del Imperio](/images/e/e_1043.png) | [Escudo del Imperio](/es/equipment/Empire's Shield/) | **ATQ** | **DEF** | 
+  | ![Hombreras del Imperio](/images/e/e_1044.png) | [Hombreras del Imperio](/es/equipment/Empire's Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

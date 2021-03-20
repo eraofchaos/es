@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Asesino"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Capucha de Asesino](/es/equipment/Capucha de Asesino/) | **ATQ** | **DEF** | 
-  | [Hoja oculta](/es/equipment/Hoja oculta/) | **PV** | **DEF** | 
-  | [Cinturón de Asesino](/es/equipment/Cinturón de Asesino/) | **ATQ** | **DEF** | 
-  | [Botas de cuero](/es/equipment/Botas de cuero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Capucha de Asesino](/es/equipment/Assassin's Hood/) | **ATQ** | **DEF** | 
+  |  | [Hoja oculta](/es/equipment/Hidden Blade/) | **PV** | **DEF** | 
+  |  | [Cinturón de Asesino](/es/equipment/Assassin's Belt/) | **ATQ** | **DEF** | 
+  |  | [Botas de cuero](/es/equipment/Leather Boots/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

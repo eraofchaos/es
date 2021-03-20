@@ -3,7 +3,7 @@ title: "Gárgola de Piedra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estas estatuas demoníacas encantadas protegen las propiedades de los magos. Les encanta engañar a los enemigos inferiores durante el combate."
 unitID: 602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gárgola de Piedra"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuerno de Piedra](/es/equipment/Cuerno de Piedra/) | **ATQ** | **DEF** | 
-  | [Alas de Piedra](/es/equipment/Alas de Piedra/) | **PV** | **DEF** | 
-  | [Garras de Roca Afilada](/es/equipment/Garras de Roca Afilada/) | **ATQ** | **DEF** | 
-  | [Cola Encantada](/es/equipment/Cola Encantada/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuerno de Piedra](/images/e/e_6021.png) | [Cuerno de Piedra](/es/equipment/Stone Horn/) | **ATQ** | **DEF** | 
+  | ![Alas de Piedra](/images/e/e_6022.png) | [Alas de Piedra](/es/equipment/Stone Wings/) | **PV** | **DEF** | 
+  | ![Garras de Roca Afilada](/images/e/e_6023.png) | [Garras de Roca Afilada](/es/equipment/Sharp Rock Claws/) | **ATQ** | **DEF** | 
+  | ![Cola Encantada](/images/e/e_6024.png) | [Cola Encantada](/es/equipment/Enchanted Tail/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

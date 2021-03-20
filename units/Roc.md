@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Roc"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pico de Trueno](/es/equipment/Pico de Trueno/) | **ATQ** | **DEF** | 
-  | [Alas de Relámpago](/es/equipment/Alas de Relámpago/) | **PV** | **DEF** | 
-  | [Garras de Rayo](/es/equipment/Garras de Rayo/) | **ATQ** | **DEF** | 
-  | [Armadura del Relámpago](/es/equipment/Armadura del Relámpago/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pico de Trueno](/images/e/e_4051.png) | [Pico de Trueno](/es/equipment/Beak of Thunder/) | **ATQ** | **DEF** | 
+  | ![Alas de Relámpago](/images/e/e_4052.png) | [Alas de Relámpago](/es/equipment/Wings of a Thunderbolt/) | **PV** | **DEF** | 
+  | ![Garras de Rayo](/images/e/e_4053.png) | [Garras de Rayo](/es/equipment/Claws of Lightning/) | **ATQ** | **DEF** | 
+  | ![Armadura del Relámpago](/images/e/e_4054.png) | [Armadura del Relámpago](/es/equipment/Lightning's armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Grifo"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras Dentadas](/es/equipment/Garras Dentadas/) | **ATQ** | **DEF** | 
-  | [Yelmo de Placas de Velocidad](/es/equipment/Yelmo de Placas de Velocidad/) | **PV** | **DEF** | 
-  | [Pluma de Archigrifo](/es/equipment/Pluma de Archigrifo/) | **ATQ** | **DEF** | 
-  | [Blasón del Imperio](/es/equipment/Blasón del Imperio/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras Dentadas](/images/e/e_1031.png) | [Garras Dentadas](/es/equipment/Serrated Claws/) | **ATQ** | **DEF** | 
+  | ![Yelmo de Placas de Velocidad](/images/e/e_1032.png) | [Yelmo de Placas de Velocidad](/es/equipment/Headplate of Speed/) | **PV** | **DEF** | 
+  | ![Pluma de Archigrifo](/images/e/e_1033.png) | [Pluma de Archigrifo](/es/equipment/Archgriffin Feather/) | **ATQ** | **DEF** | 
+  | ![Blasón del Imperio](/images/e/e_1034.png) | [Blasón del Imperio](/es/equipment/Empire's Crest/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

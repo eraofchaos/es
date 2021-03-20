@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arbalesta del Océano](/es/equipment/Arbalesta del Océano/) | **ATQ** | **DEF** | 
-  | [Gorra de Prestigio](/es/equipment/Gorra de Prestigio/) | **PV** | **DEF** | 
-  | [Flecha de Acero](/es/equipment/Flecha de Acero/) | **ATQ** | **DEF** | 
-  | [Vestimenta de Cazador](/es/equipment/Vestimenta de Cazador/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arbalesta del Océano](/images/e/e_99021.png) | [Arbalesta del Océano](/es/equipment/Ocean's Arbalest/) | **ATQ** | **DEF** | 
+  | ![Gorra de Prestigio](/images/e/e_99022.png) | [Gorra de Prestigio](/es/equipment/Cap of Prestige/) | **PV** | **DEF** | 
+  | ![Flecha de Acero](/images/e/e_99023.png) | [Flecha de Acero](/es/equipment/Steel Arrow/) | **ATQ** | **DEF** | 
+  | ![Vestimenta de Cazador](/images/e/e_99024.png) | [Vestimenta de Cazador](/es/equipment/Hunter's Clothing/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Centauro"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de la Naturaleza](/es/equipment/Hacha de Guerra de la Naturaleza/) | **ATQ** | **DEF** | 
-  | [Yelmo de la Naturaleza](/es/equipment/Yelmo de la Naturaleza/) | **PV** | **DEF** | 
-  | [Guanteletes de la Naturaleza](/es/equipment/Guanteletes de la Naturaleza/) | **ATQ** | **DEF** | 
-  | [Hombreras de la Naturaleza](/es/equipment/Hombreras de la Naturaleza/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hacha de Guerra de la Naturaleza](/images/e/e_2011.png) | [Hacha de Guerra de la Naturaleza](/es/equipment/Battleaxe of the Wild/) | **ATQ** | **DEF** | 
+  | ![Yelmo de la Naturaleza](/images/e/e_2012.png) | [Yelmo de la Naturaleza](/es/equipment/Helm of the Wild/) | **PV** | **DEF** | 
+  | ![Guanteletes de la Naturaleza](/images/e/e_2013.png) | [Guanteletes de la Naturaleza](/es/equipment/Gauntlets of the Wild/) | **ATQ** | **DEF** | 
+  | ![Hombreras de la Naturaleza](/images/e/e_2014.png) | [Hombreras de la Naturaleza](/es/equipment/Pauldrons of Wild/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

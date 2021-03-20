@@ -3,7 +3,7 @@ title: "Hada"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Hada"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Guirnalda Fragante](/es/equipment/Guirnalda Fragante/) | **ATQ** | **DEF** | 
-  | [Toga de Luna y Estrellas](/es/equipment/Toga de Luna y Estrellas/) | **PV** | **DEF** | 
-  | [Alas de Mariposa de Fósforo](/es/equipment/Alas de Mariposa de Fósforo/) | **ATQ** | **DEF** | 
-  | [Brazal Esmeralda](/es/equipment/Brazal Esmeralda/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Guirnalda Fragante](/images/e/e_9011.png) | [Guirnalda Fragante](/es/equipment/Fragrant Wreath/) | **ATQ** | **DEF** | 
+  | ![Toga de Luna y Estrellas](/images/e/e_9012.png) | [Toga de Luna y Estrellas](/es/equipment/Gown of Moon and Stars/) | **PV** | **DEF** | 
+  | ![Alas de Mariposa de Fósforo](/images/e/e_9013.png) | [Alas de Mariposa de Fósforo](/es/equipment/Phosphorus Butterfly Wings/) | **ATQ** | **DEF** | 
+  | ![Brazal Esmeralda](/images/e/e_9014.png) | [Brazal Esmeralda](/es/equipment/Emerald Arm Ring/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

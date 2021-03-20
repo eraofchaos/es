@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Minotauro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de Gorgona](/es/equipment/Hacha de Guerra de Gorgona/) | **ATQ** | **DEF** | 
-  | [Espaldar de Gorgona](/es/equipment/Espaldar de Gorgona/) | **PV** | **DEF** | 
-  | [Bandas de Gorgona](/es/equipment/Bandas de Gorgona/) | **ATQ** | **DEF** | 
-  | [Cinturón de Gorgona](/es/equipment/Cinturón de Gorgona/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hacha de Guerra de Gorgona](/images/e/e_7051.png) | [Hacha de Guerra de Gorgona](/es/equipment/Gorgon Battle Axe/) | **ATQ** | **DEF** | 
+  | ![Espaldar de Gorgona](/images/e/e_7052.png) | [Espaldar de Gorgona](/es/equipment/Gorgon Shoulder-guards/) | **PV** | **DEF** | 
+  | ![Bandas de Gorgona](/images/e/e_7053.png) | [Bandas de Gorgona](/es/equipment/Gorgon Bands/) | **ATQ** | **DEF** | 
+  | ![Cinturón de Gorgona](/images/e/e_7054.png) | [Cinturón de Gorgona](/es/equipment/Gorgon Belt/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

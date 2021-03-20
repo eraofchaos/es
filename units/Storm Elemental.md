@@ -3,7 +3,7 @@ title: "Elemental de Tormenta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental de Tormenta"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bola de Relámpago Titilante](/es/equipment/Bola de Relámpago Titilante/) | **ATQ** | **DEF** | 
-  | [Núcleo de Trueno](/es/equipment/Núcleo de Trueno/) | **PV** | **DEF** | 
-  | [Garra Mágica](/es/equipment/Garra Mágica/) | **ATQ** | **DEF** | 
-  | [Observador de Relámpago](/es/equipment/Observador de Relámpago/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bola de Relámpago Titilante](/images/e/e_9021.png) | [Bola de Relámpago Titilante](/es/equipment/Flickering Lightning Ball/) | **ATQ** | **DEF** | 
+  | ![Núcleo de Trueno](/images/e/e_9022.png) | [Núcleo de Trueno](/es/equipment/Thunder Core/) | **PV** | **DEF** | 
+  | ![Garra Mágica](/images/e/e_9023.png) | [Garra Mágica](/es/equipment/Magic Claw/) | **ATQ** | **DEF** | 
+  | ![Observador de Relámpago](/images/e/e_9024.png) | [Observador de Relámpago](/es/equipment/Beholder of Lightning/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

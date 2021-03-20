@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Núcleo de la Estrella Polar](/es/equipment/Núcleo de la Estrella Polar/) | **ATQ** | **DEF** | 
-  | [Estrella Celestial](/es/equipment/Estrella Celestial/) | **PV** | **DEF** | 
-  | [Corona de Espíritu Estelar](/es/equipment/Corona de Espíritu Estelar/) | **ATQ** | **DEF** | 
-  | [Avambrazo Poderoso](/es/equipment/Avambrazo Poderoso/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Núcleo de la Estrella Polar](/images/e/e_9061.png) | [Núcleo de la Estrella Polar](/es/equipment/Core of the Pole Star/) | **ATQ** | **DEF** | 
+  | ![Estrella Celestial](/images/e/e_9062.png) | [Estrella Celestial](/es/equipment/Heavenly Star/) | **PV** | **DEF** | 
+  | ![Corona de Espíritu Estelar](/images/e/e_9063.png) | [Corona de Espíritu Estelar](/es/equipment/Star Spirit Crown/) | **ATQ** | **DEF** | 
+  | ![Avambrazo Poderoso](/images/e/e_9064.png) | [Avambrazo Poderoso](/es/equipment/Mighty Vambrace/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

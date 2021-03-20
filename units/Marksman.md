@@ -3,7 +3,7 @@ title: "Ballestero"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Ballestero"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ballesta ligera](/es/equipment/Ballesta ligera/) | **ATQ** | **DEF** | 
-  | [Bonete de Acero](/es/equipment/Bonete de Acero/) | **PV** | **DEF** | 
-  | [Virotes Perforadores](/es/equipment/Virotes Perforadores/) | **ATQ** | **DEF** | 
-  | [Guanteletes de Cuero](/es/equipment/Guanteletes de Cuero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ballesta ligera](/images/e/e_1021.png) | [Ballesta ligera](/es/equipment/Light Crossbow/) | **ATQ** | **DEF** | 
+  | ![Bonete de Acero](/images/e/e_1022.png) | [Bonete de Acero](/es/equipment/Steel Cap/) | **PV** | **DEF** | 
+  | ![Virotes Perforadores](/images/e/e_1023.png) | [Virotes Perforadores](/es/equipment/Piercing Bolts/) | **ATQ** | **DEF** | 
+  | ![Guanteletes de Cuero](/images/e/e_1024.png) | [Guanteletes de Cuero](/es/equipment/Leather Gauntlets/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

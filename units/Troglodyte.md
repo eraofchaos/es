@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Troglodita"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lanza Ósea del Destripador](/es/equipment/Lanza Ósea del Destripador/) | **ATQ** | **DEF** | 
-  | [Cráneo Huésped](/es/equipment/Cráneo Huésped/) | **PV** | **DEF** | 
-  | [Puñalada Rompecolumnas](/es/equipment/Puñalada Rompecolumnas/) | **ATQ** | **DEF** | 
-  | [Sangre de Ácido Potente](/es/equipment/Sangre de Ácido Potente/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lanza Ósea del Destripador](/images/e/e_7011.png) | [Lanza Ósea del Destripador](/es/equipment/Ripper's Bone Spear/) | **ATQ** | **DEF** | 
+  | ![Cráneo Huésped](/images/e/e_7012.png) | [Cráneo Huésped](/es/equipment/Host Cranium/) | **PV** | **DEF** | 
+  | ![Puñalada Rompecolumnas](/images/e/e_7013.png) | [Puñalada Rompecolumnas](/es/equipment/Spine-breaking Stab/) | **ATQ** | **DEF** | 
+  | ![Sangre de Ácido Potente](/images/e/e_7014.png) | [Sangre de Ácido Potente](/es/equipment/Blood of Strong Acid/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

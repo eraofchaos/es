@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Basilisco"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Basilisco](/es/equipment/Ala de Cuello de Basilisco/) | **ATQ** | **DEF** | 
-  | [Escama Adamantina](/es/equipment/Escama Adamantina/) | **PV** | **DEF** | 
-  | [Garra Envenenada](/es/equipment/Garra Envenenada/) | **ATQ** | **DEF** | 
-  | [Colmillo de Petrificación](/es/equipment/Colmillo de Petrificación/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala de Cuello de Basilisco](/images/e/e_8041.png) | [Ala de Cuello de Basilisco](/es/equipment/Basilisk's Neck Umbrella/) | **ATQ** | **DEF** | 
+  | ![Escama Adamantina](/images/e/e_8042.png) | [Escama Adamantina](/es/equipment/Adamantine Scale/) | **PV** | **DEF** | 
+  | ![Garra Envenenada](/images/e/e_8043.png) | [Garra Envenenada](/es/equipment/Poisoned Claw/) | **ATQ** | **DEF** | 
+  | ![Colmillo de Petrificación](/images/e/e_8044.png) | [Colmillo de Petrificación](/es/equipment/Petrification Fang/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

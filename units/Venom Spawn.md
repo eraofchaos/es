@@ -3,7 +3,7 @@ title: "Engendro Venenoso"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos demonios nacieron de las llamas y las sombras en los fulgores de las profundidades del infierno. Según las leyendas que cuenta la gente, son pesadillas aterradoras que reducen a cenizas los campos de batalla con las llamas kármicas del pecado."
 unitID: 509
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Engendro Venenoso"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/es/equipment/UnknownEquipment_5091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_5092](/es/equipment/UnknownEquipment_5092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_5093](/es/equipment/UnknownEquipment_5093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_5094](/es/equipment/UnknownEquipment_5094/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/es/equipment/UnknownEquipment_5091/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/es/equipment/UnknownEquipment_5092/) | **PV** | **DEF** | 
+  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/es/equipment/UnknownEquipment_5093/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/es/equipment/UnknownEquipment_5094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

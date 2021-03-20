@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Diablo"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Guadaña del Diablo](/es/equipment/Guadaña del Diablo/) | **ATQ** | **DEF** | 
-  | [Pentagrama Fundido](/es/equipment/Pentagrama Fundido/) | **PV** | **DEF** | 
-  | [Guanteletes de Lava Fundida](/es/equipment/Guanteletes de Lava Fundida/) | **ATQ** | **DEF** | 
-  | [Hombreras de Lava Fundida](/es/equipment/Hombreras de Lava Fundida/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Guadaña del Diablo](/images/e/e_5071.png) | [Guadaña del Diablo](/es/equipment/Devil's Scythe/) | **ATQ** | **DEF** | 
+  | ![Pentagrama Fundido](/images/e/e_5072.png) | [Pentagrama Fundido](/es/equipment/Molten Pentagram/) | **PV** | **DEF** | 
+  | ![Guanteletes de Lava Fundida](/images/e/e_5073.png) | [Guanteletes de Lava Fundida](/es/equipment/Gauntlets of Molten Lava/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Lava Fundida](/images/e/e_5074.png) | [Hombreras de Lava Fundida](/es/equipment/Pauldrons of Molten Lava/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

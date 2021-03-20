@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Jinete Lupino"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sable Afilado](/es/equipment/Sable Afilado/) | **ATQ** | **DEF** | 
-  | [Cinturón Poderoso](/es/equipment/Cinturón Poderoso/) | **PV** | **DEF** | 
-  | [Brazalete del Lobo](/es/equipment/Brazalete del Lobo/) | **ATQ** | **DEF** | 
-  | [Hombreras de Lengua de Lobo](/es/equipment/Hombreras de Lengua de Lobo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sable Afilado](/images/e/e_4021.png) | [Sable Afilado](/es/equipment/Razor-bladed Sabre/) | **ATQ** | **DEF** | 
+  | ![Cinturón Poderoso](/images/e/e_4022.png) | [Cinturón Poderoso](/es/equipment/Mighty Belt/) | **PV** | **DEF** | 
+  | ![Brazalete del Lobo](/images/e/e_4023.png) | [Brazalete del Lobo](/es/equipment/Bracer of the Wolf/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Lengua de Lobo](/images/e/e_4024.png) | [Hombreras de Lengua de Lobo](/es/equipment/Pauldrons of Wolf-tongue/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

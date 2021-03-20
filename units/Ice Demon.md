@@ -3,7 +3,7 @@ title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Demonio de Hielo"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hielo antiguo](/es/equipment/Hielo antiguo/) | **ATQ** | **DEF** | 
-  | [Toque gélido](/es/equipment/Toque gélido/) | **PV** | **DEF** | 
-  | [Yelmo frígido](/es/equipment/Yelmo frígido/) | **ATQ** | **DEF** | 
-  | [Trono de hielo](/es/equipment/Trono de hielo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hielo antiguo](/images/e/e_9081.png) | [Hielo antiguo](/es/equipment/Ancient Ice/) | **ATQ** | **DEF** | 
+  | ![Toque gélido](/images/e/e_9082.png) | [Toque gélido](/es/equipment/Frost Touch/) | **PV** | **DEF** | 
+  | ![Yelmo frígido](/images/e/e_9083.png) | [Yelmo frígido](/es/equipment/Frigid Helm/) | **ATQ** | **DEF** | 
+  | ![Trono de hielo](/images/e/e_9084.png) | [Trono de hielo](/es/equipment/Throne of Ice/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Arpía"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Daga de Puñalada en el Corazón](/es/equipment/Daga de Puñalada en el Corazón/) | **ATQ** | **DEF** | 
-  | [Armadura Mística](/es/equipment/Armadura Mística/) | **PV** | **DEF** | 
-  | [Garra Asesina](/es/equipment/Garra Asesina/) | **ATQ** | **DEF** | 
-  | [Espaldar de la Encantadora](/es/equipment/Espaldar de la Encantadora/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Daga de Puñalada en el Corazón](/images/e/e_7021.png) | [Daga de Puñalada en el Corazón](/es/equipment/Heart Stab Dagger/) | **ATQ** | **DEF** | 
+  | ![Armadura Mística](/images/e/e_7022.png) | [Armadura Mística](/es/equipment/Mystic Armor/) | **PV** | **DEF** | 
+  | ![Garra Asesina](/images/e/e_7023.png) | [Garra Asesina](/es/equipment/Claw Killer/) | **ATQ** | **DEF** | 
+  | ![Espaldar de la Encantadora](/images/e/e_7024.png) | [Espaldar de la Encantadora](/es/equipment/Enchantress' Shoulder-guards/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

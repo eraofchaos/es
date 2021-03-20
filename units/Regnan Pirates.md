@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Piratas Regnan"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete Endurecido](/es/equipment/Machete Endurecido/) | **ATQ** | **DEF** | 
-  | [Camisa de Marinero](/es/equipment/Camisa de Marinero/) | **PV** | **DEF** | 
-  | [Cintillo de Rectitud](/es/equipment/Cintillo de Rectitud/) | **ATQ** | **DEF** | 
-  | [Pantalones de Marinero](/es/equipment/Pantalones de Marinero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete Endurecido](/images/e/e_99011.png) | [Machete Endurecido](/es/equipment/Toughened Machete/) | **ATQ** | **DEF** | 
+  | ![Camisa de Marinero](/images/e/e_99012.png) | [Camisa de Marinero](/es/equipment/Sailor's Shirt/) | **PV** | **DEF** | 
+  | ![Cintillo de Rectitud](/images/e/e_99013.png) | [Cintillo de Rectitud](/es/equipment/Righteous Headband/) | **ATQ** | **DEF** | 
+  | ![Pantalones de Marinero](/images/e/e_99014.png) | [Pantalones de Marinero](/es/equipment/Sailor's Pants/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

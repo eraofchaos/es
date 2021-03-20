@@ -2,7 +2,7 @@
 title: "Exclusivo - Mirada Oscura"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Mirada Oscura. Mirada Oscura. Era of Chaos Exclusivo Mirada Oscura. Observador Exclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Beholder Mirada Oscura.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuerno venenoso](/es/equipment/Cuerno venenoso/) | **ATQ** | **DEF** | 
-  | [Armadura de Escamas de Dragón](/es/equipment/Armadura de Escamas de Dragón/) | **PV** | **DEF** | 
-  | [Garras de Descomposición](/es/equipment/Garras de Descomposición/) | **ATQ** | **DEF** | 
-  | [Sangre de Dragón Venenoso](/es/equipment/Sangre de Dragón Venenoso/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuerno venenoso](/images/e/e_2071.png) | [Cuerno venenoso](/es/equipment/Venomous Horn/) | **ATQ** | **DEF** | 
+  | ![Armadura de Escamas de Dragón](/images/e/e_2072.png) | [Armadura de Escamas de Dragón](/es/equipment/Dragon Scale Armor/) | **PV** | **DEF** | 
+  | ![Garras de Descomposición](/images/e/e_2073.png) | [Garras de Descomposición](/es/equipment/Claws of Decay/) | **ATQ** | **DEF** | 
+  | ![Sangre de Dragón Venenoso](/images/e/e_2074.png) | [Sangre de Dragón Venenoso](/es/equipment/Venomous Dragon Blood/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

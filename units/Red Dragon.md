@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Dragón Rojo"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuerno de Fuego Rojo](/es/equipment/Cuerno de Fuego Rojo/) | **ATQ** | **DEF** | 
-  | [Alas Ancestrales](/es/equipment/Alas Ancestrales/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Cola de Dragón Vehemente](/es/equipment/Cola de Dragón Vehemente/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuerno de Fuego Rojo](/images/e/e_7081.png) | [Cuerno de Fuego Rojo](/es/equipment/Horn of Red Fire/) | **ATQ** | **DEF** | 
+  | ![Alas Ancestrales](/images/e/e_7082.png) | [Alas Ancestrales](/es/equipment/Ancient Wings/) | **PV** | **DEF** | 
+  | ![Garras Hirvientes](/images/e/e_7083.png) | [Garras Hirvientes](/es/equipment/Scalding Claws/) | **ATQ** | **DEF** | 
+  | ![Cola de Dragón Vehemente](/images/e/e_7084.png) | [Cola de Dragón Vehemente](/es/equipment/Vehement Dragon Tail/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

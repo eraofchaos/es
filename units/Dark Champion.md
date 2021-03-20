@@ -3,7 +3,7 @@ title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Campeón Oscuro"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hoz del silencio](/es/equipment/Hoz del silencio/) | **ATQ** | **DEF** | 
-  | [Yelmo Pesado de Previda](/es/equipment/Yelmo Pesado de Previda/) | **PV** | **DEF** | 
-  | [Fuego Infernal de Salvación](/es/equipment/Fuego Infernal de Salvación/) | **ATQ** | **DEF** | 
-  | [Escápula del Hades](/es/equipment/Escápula del Hades/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hoz del silencio](/images/e/e_3091.png) | [Hoz del silencio](/es/equipment/Sickle of Silence/) | **ATQ** | **DEF** | 
+  | ![Yelmo Pesado de Previda](/images/e/e_3092.png) | [Yelmo Pesado de Previda](/es/equipment/Heavy Helm of Pre-life/) | **PV** | **DEF** | 
+  | ![Fuego Infernal de Salvación](/images/e/e_3093.png) | [Fuego Infernal de Salvación](/es/equipment/Salvation Inferno Fire/) | **ATQ** | **DEF** | 
+  | ![Escápula del Hades](/images/e/e_3094.png) | [Escápula del Hades](/es/equipment/Hades' Scapula/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Duendecillo"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!"
 unitID: 909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Duendecillo"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bendiciones de la suerte](/es/equipment/Bendiciones de la suerte/) | **ATQ** | **DEF** | 
-  | [Fuente de poder](/es/equipment/Fuente de poder/) | **PV** | **DEF** | 
-  | [Guardia vital](/es/equipment/Guardia vital/) | **ATQ** | **DEF** | 
-  | [La ligereza del viento](/es/equipment/La ligereza del viento/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bendiciones de la suerte](/images/e/e_9091.png) | [Bendiciones de la suerte](/es/equipment/Lucky Blessings/) | **ATQ** | **DEF** | 
+  | ![Fuente de poder](/images/e/e_9092.png) | [Fuente de poder](/es/equipment/Source of Power/) | **PV** | **DEF** | 
+  | ![Guardia vital](/images/e/e_9093.png) | [Guardia vital](/es/equipment/Life Guardian/) | **ATQ** | **DEF** | 
+  | ![La ligereza del viento](/images/e/e_9094.png) | [La ligereza del viento](/es/equipment/The Lightness of the Wind/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

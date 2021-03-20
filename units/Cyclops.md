@@ -3,7 +3,7 @@ title: "Cíclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cíclopes son famosos por su único ojo y su enorme cuerpo. Son irascibles y fieros. Su linaje se remonta a los Demonios."
 unitID: 406
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Cíclope"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Roca](/es/equipment/Roca/) | **ATQ** | **DEF** | 
-  | [Grilletes de la Guerra](/es/equipment/Grilletes de la Guerra/) | **PV** | **DEF** | 
-  | [Brazaletes de Púas](/es/equipment/Brazaletes de Púas/) | **ATQ** | **DEF** | 
-  | [Pantalones de cuero](/es/equipment/Pantalones de cuero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Roca](/images/e/e_4061.png) | [Roca](/es/equipment/Boulder/) | **ATQ** | **DEF** | 
+  | ![Grilletes de la Guerra](/images/e/e_4062.png) | [Grilletes de la Guerra](/es/equipment/Shackles of War/) | **PV** | **DEF** | 
+  | ![Brazaletes de Púas](/images/e/e_4063.png) | [Brazaletes de Púas](/es/equipment/Spiked Bracers/) | **ATQ** | **DEF** | 
+  | ![Pantalones de cuero](/images/e/e_4064.png) | [Pantalones de cuero](/es/equipment/Leather Trousers/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

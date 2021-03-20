@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gnoll"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete de Licántropo](/es/equipment/Machete de Licántropo/) | **ATQ** | **DEF** | 
-  | [Tarja de Licántropo](/es/equipment/Tarja de Licántropo/) | **PV** | **DEF** | 
-  | [Cadena de Licántropo](/es/equipment/Cadena de Licántropo/) | **ATQ** | **DEF** | 
-  | [Guanteletes de Licántropo](/es/equipment/Guanteletes de Licántropo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete de Licántropo](/images/e/e_8011.png) | [Machete de Licántropo](/es/equipment/Werewolf's Machete/) | **ATQ** | **DEF** | 
+  | ![Tarja de Licántropo](/images/e/e_8012.png) | [Tarja de Licántropo](/es/equipment/Werewolf's Square Shield/) | **PV** | **DEF** | 
+  | ![Cadena de Licántropo](/images/e/e_8013.png) | [Cadena de Licántropo](/es/equipment/Werewolf's Chain/) | **ATQ** | **DEF** | 
+  | ![Guanteletes de Licántropo](/images/e/e_8014.png) | [Guanteletes de Licántropo](/es/equipment/Werewolf's Gauntlets/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

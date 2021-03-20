@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Sirena"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Órgano del Mar](/es/equipment/Órgano del Mar/) | **ATQ** | **DEF** | 
-  | [Pendientes de Murloc](/es/equipment/Pendientes de Murloc/) | **PV** | **DEF** | 
-  | [Cola de Pez Flexible](/es/equipment/Cola de Pez Flexible/) | **ATQ** | **DEF** | 
-  | [Protección del Océano](/es/equipment/Protección del Océano/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Órgano del Mar](/images/e/e_99051.png) | [Órgano del Mar](/es/equipment/Sea Organ/) | **ATQ** | **DEF** | 
+  | ![Pendientes de Murloc](/images/e/e_99052.png) | [Pendientes de Murloc](/es/equipment/Merman Earrings/) | **PV** | **DEF** | 
+  | ![Cola de Pez Flexible](/images/e/e_99053.png) | [Cola de Pez Flexible](/es/equipment/Flexible Fishtail/) | **ATQ** | **DEF** | 
+  | ![Protección del Océano](/images/e/e_99054.png) | [Protección del Océano](/es/equipment/Ocean's Protection/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

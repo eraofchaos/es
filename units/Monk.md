@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Monje"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe de Divinidad](/es/equipment/Orbe de Divinidad/) | **ATQ** | **DEF** | 
-  | [Bonete de Místico](/es/equipment/Bonete de Místico/) | **PV** | **DEF** | 
-  | [Runa del Ritual](/es/equipment/Runa del Ritual/) | **ATQ** | **DEF** | 
-  | [Armadura ligera básica](/es/equipment/Armadura ligera básica/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe de Divinidad](/images/e/e_1051.png) | [Orbe de Divinidad](/es/equipment/Orb of Divinity/) | **ATQ** | **DEF** | 
+  | ![Bonete de Místico](/images/e/e_1052.png) | [Bonete de Místico](/es/equipment/Mystic's Cap/) | **PV** | **DEF** | 
+  | ![Runa del Ritual](/images/e/e_1053.png) | [Runa del Ritual](/es/equipment/Rune of Ritual/) | **ATQ** | **DEF** | 
+  | ![Armadura ligera básica](/images/e/e_1054.png) | [Armadura ligera básica](/es/equipment/Basic Light Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Diablillo"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Diablillo"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras Siniestras](/es/equipment/Garras Siniestras/) | **ATQ** | **DEF** | 
-  | [Katar Siniestro](/es/equipment/Katar Siniestro/) | **PV** | **DEF** | 
-  | [Alas Siniestras](/es/equipment/Alas Siniestras/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera Siniestra](/es/equipment/Armadura Ligera Siniestra/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras Siniestras](/images/e/e_5011.png) | [Garras Siniestras](/es/equipment/Sinister Claws/) | **ATQ** | **DEF** | 
+  | ![Katar Siniestro](/images/e/e_5012.png) | [Katar Siniestro](/es/equipment/Sinister Katar/) | **PV** | **DEF** | 
+  | ![Alas Siniestras](/images/e/e_5013.png) | [Alas Siniestras](/es/equipment/Sinister Wings/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera Siniestra](/images/e/e_5014.png) | [Armadura Ligera Siniestra](/es/equipment/Sinister Light Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

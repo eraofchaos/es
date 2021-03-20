@@ -2,7 +2,7 @@
 title: "Exclusivo - Núcleo de Energía"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Núcleo de Energía. Núcleo de Energía. Era of Chaos Exclusivo Núcleo de Energía. Elemental de Piedra Exclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Stone Elemental Núcleo de Energía.md"
 toc: false

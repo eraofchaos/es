@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Naga"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hoja Imperecedera](/es/equipment/Hoja Imperecedera/) | **ATQ** | **DEF** | 
-  | [Hombreras de Navegación](/es/equipment/Hombreras de Navegación/) | **PV** | **DEF** | 
-  | [Tocado del Dios Serpiente](/es/equipment/Tocado del Dios Serpiente/) | **ATQ** | **DEF** | 
-  | [Pretina Fuerte y Flexible](/es/equipment/Pretina Fuerte y Flexible/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hoja Imperecedera](/images/e/e_6061.png) | [Hoja Imperecedera](/es/equipment/Everflowing Blade/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Navegación](/images/e/e_6062.png) | [Hombreras de Navegación](/es/equipment/Seafaring Pauldrons/) | **PV** | **DEF** | 
+  | ![Tocado del Dios Serpiente](/images/e/e_6063.png) | [Tocado del Dios Serpiente](/es/equipment/Headdress of the Serpent God/) | **ATQ** | **DEF** | 
+  | ![Pretina Fuerte y Flexible](/images/e/e_6064.png) | [Pretina Fuerte y Flexible](/es/equipment/Strong and Flexible Waistplate/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

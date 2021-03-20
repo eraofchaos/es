@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Revyaratan"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Colmillos afilados](/es/equipment/Colmillos afilados/) | **ATQ** | **DEF** | 
-  | [Aleta Helada](/es/equipment/Aleta Helada/) | **PV** | **DEF** | 
-  | [Cola de Monstruo Marino](/es/equipment/Cola de Monstruo Marino/) | **ATQ** | **DEF** | 
-  | [Tentáculos de las Tentaciones](/es/equipment/Tentáculos de las Tentaciones/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Colmillos afilados](/images/e/e_99081.png) | [Colmillos afilados](/es/equipment/Sharp Fangs/) | **ATQ** | **DEF** | 
+  | ![Aleta Helada](/images/e/e_99082.png) | [Aleta Helada](/es/equipment/Ice-cold Fin/) | **PV** | **DEF** | 
+  | ![Cola de Monstruo Marino](/images/e/e_99083.png) | [Cola de Monstruo Marino](/es/equipment/Sea Monster Tail/) | **ATQ** | **DEF** | 
+  | ![Tentáculos de las Tentaciones](/images/e/e_99084.png) | [Tentáculos de las Tentaciones](/es/equipment/Tentacles of Temptation/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

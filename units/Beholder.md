@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Observador"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ojo de Blasfemia](/es/equipment/Ojo de Blasfemia/) | **ATQ** | **DEF** | 
-  | [Pupilo de la Muerte](/es/equipment/Pupilo de la Muerte/) | **PV** | **DEF** | 
-  | [Colmillo Maligno](/es/equipment/Colmillo Maligno/) | **ATQ** | **DEF** | 
-  | [Tentáculos del Abismo](/es/equipment/Tentáculos del Abismo/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ojo de Blasfemia](/images/e/e_7031.png) | [Ojo de Blasfemia](/es/equipment/Eye of Blasphemy/) | **ATQ** | **DEF** | 
+  | ![Pupilo de la Muerte](/images/e/e_7032.png) | [Pupilo de la Muerte](/es/equipment/Pupil of Death/) | **PV** | **DEF** | 
+  | ![Colmillo Maligno](/images/e/e_7033.png) | [Colmillo Maligno](/es/equipment/Evil Tusk/) | **ATQ** | **DEF** | 
+  | ![Tentáculos del Abismo](/images/e/e_7034.png) | [Tentáculos del Abismo](/es/equipment/Tentacles from the Abyss/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Goblin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garrote de Púas](/es/equipment/Garrote de Púas/) | **ATQ** | **DEF** | 
-  | [Cinturón de cuero](/es/equipment/Cinturón de cuero/) | **PV** | **DEF** | 
-  | [Collar de Hueso](/es/equipment/Collar de Hueso/) | **ATQ** | **DEF** | 
-  | [Hombreras de cuero](/es/equipment/Hombreras de cuero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garrote de Púas](/images/e/e_4011.png) | [Garrote de Púas](/es/equipment/Spiked Club/) | **ATQ** | **DEF** | 
+  | ![Cinturón de cuero](/images/e/e_4012.png) | [Cinturón de cuero](/es/equipment/Leather Belt/) | **PV** | **DEF** | 
+  | ![Collar de Hueso](/images/e/e_4013.png) | [Collar de Hueso](/es/equipment/Necklace of Bone/) | **ATQ** | **DEF** | 
+  | ![Hombreras de cuero](/images/e/e_4014.png) | [Hombreras de cuero](/es/equipment/Leather Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

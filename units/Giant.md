@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gigante"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rayo](/es/equipment/Rayo/) | **ATQ** | **DEF** | 
-  | [Hombreras de Oro Puro](/es/equipment/Hombreras de Oro Puro/) | **PV** | **DEF** | 
-  | [Casco del Trueno](/es/equipment/Casco del Trueno/) | **ATQ** | **DEF** | 
-  | [Peto del Relámpago](/es/equipment/Peto del Relámpago/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rayo](/images/e/e_6071.png) | [Rayo](/es/equipment/Thunderbolt/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Oro Puro](/images/e/e_6072.png) | [Hombreras de Oro Puro](/es/equipment/Pauldrons of Pure Gold/) | **PV** | **DEF** | 
+  | ![Casco del Trueno](/images/e/e_6073.png) | [Casco del Trueno](/es/equipment/Thunder Helmet/) | **ATQ** | **DEF** | 
+  | ![Peto del Relámpago](/images/e/e_6074.png) | [Peto del Relámpago](/es/equipment/Breastplate of Lightning/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Hierbavispa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
 unitID: 808
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Hierbavispa"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rama Floreciente Recia](/es/equipment/Rama Floreciente Recia/) | **ATQ** | **DEF** | 
-  | [Espina Tóxica](/es/equipment/Espina Tóxica/) | **PV** | **DEF** | 
-  | [Adalid Floral](/es/equipment/Adalid Floral/) | **ATQ** | **DEF** | 
-  | [Abeja Asesina](/es/equipment/Abeja Asesina/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rama Floreciente Recia](/images/e/e_8081.png) | [Rama Floreciente Recia](/es/equipment/Strong Flowering Branch/) | **ATQ** | **DEF** | 
+  | ![Espina Tóxica](/images/e/e_8082.png) | [Espina Tóxica](/es/equipment/Toxic Thorn/) | **PV** | **DEF** | 
+  | ![Adalid Floral](/images/e/e_8083.png) | [Adalid Floral](/es/equipment/Flower Overlord/) | **ATQ** | **DEF** | 
+  | ![Abeja Asesina](/images/e/e_8084.png) | [Abeja Asesina](/es/equipment/Killer Bee/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

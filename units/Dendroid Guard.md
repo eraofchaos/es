@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Guardia Dendroide"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Rama de Vitalidad](/es/equipment/Rama de Vitalidad/) | **ATQ** | **DEF** | 
-  | [Corona de la Abundancia](/es/equipment/Corona de la Abundancia/) | **PV** | **DEF** | 
-  | [Runa del Verdor](/es/equipment/Runa del Verdor/) | **ATQ** | **DEF** | 
-  | [Armadura de Vid](/es/equipment/Armadura de Vid/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Rama de Vitalidad](/images/e/e_2051.png) | [Rama de Vitalidad](/es/equipment/Branch of Vitality/) | **ATQ** | **DEF** | 
+  | ![Corona de la Abundancia](/images/e/e_2052.png) | [Corona de la Abundancia](/es/equipment/Bountiful's Crown/) | **PV** | **DEF** | 
+  | ![Runa del Verdor](/images/e/e_2053.png) | [Runa del Verdor](/es/equipment/Evergreen Rune/) | **ATQ** | **DEF** | 
+  | ![Armadura de Vid](/images/e/e_2054.png) | [Armadura de Vid](/es/equipment/Vine's Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

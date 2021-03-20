@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Guiverno"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras de Dragón](/es/equipment/Garras de Dragón/) | **ATQ** | **DEF** | 
-  | [Colmillo de Plaga](/es/equipment/Colmillo de Plaga/) | **PV** | **DEF** | 
-  | [Púas Traseras de Diablillo](/es/equipment/Púas Traseras de Diablillo/) | **ATQ** | **DEF** | 
-  | [Alas de Dragón](/es/equipment/Alas de Dragón/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras de Dragón](/images/e/e_8061.png) | [Garras de Dragón](/es/equipment/Dragon Claws/) | **ATQ** | **DEF** | 
+  | ![Colmillo de Plaga](/images/e/e_8062.png) | [Colmillo de Plaga](/es/equipment/Plague Fang/) | **PV** | **DEF** | 
+  | ![Púas Traseras de Diablillo](/images/e/e_8063.png) | [Púas Traseras de Diablillo](/es/equipment/Imp Back-spikes/) | **ATQ** | **DEF** | 
+  | ![Alas de Dragón](/images/e/e_8064.png) | [Alas de Dragón](/es/equipment/Dragon Wings/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Vidente Regnan"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cetro Divino del Alma del Océano](/es/equipment/Cetro Divino del Alma del Océano/) | **ATQ** | **DEF** | 
-  | [Collar del Alma de Poseidón](/es/equipment/Collar del Alma de Poseidón/) | **PV** | **DEF** | 
-  | [Cintillo de Radiancia](/es/equipment/Cintillo de Radiancia/) | **ATQ** | **DEF** | 
-  | [Brazalete Noble](/es/equipment/Brazalete Noble/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cetro Divino del Alma del Océano](/images/e/e_99071.png) | [Cetro Divino del Alma del Océano](/es/equipment/Divine Scepter of the Ocean's Soul/) | **ATQ** | **DEF** | 
+  | ![Collar del Alma de Poseidón](/images/e/e_99072.png) | [Collar del Alma de Poseidón](/es/equipment/Poseidon's Soul Necklace/) | **PV** | **DEF** | 
+  | ![Cintillo de Radiancia](/images/e/e_99073.png) | [Cintillo de Radiancia](/es/equipment/Radiance Headband/) | **ATQ** | **DEF** | 
+  | ![Brazalete Noble](/images/e/e_99074.png) | [Brazalete Noble](/es/equipment/Noble Bracelet/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Tigre Blanco"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Tigre Blanco"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/es/equipment/UnknownEquipment_8091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_8092](/es/equipment/UnknownEquipment_8092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_8093](/es/equipment/UnknownEquipment_8093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_8094](/es/equipment/UnknownEquipment_8094/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/es/equipment/UnknownEquipment_8091/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/es/equipment/UnknownEquipment_8092/) | **PV** | **DEF** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/es/equipment/UnknownEquipment_8093/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/es/equipment/UnknownEquipment_8094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

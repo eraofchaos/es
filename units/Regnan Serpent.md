@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Serpiente Regnan"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Tridente](/es/equipment/Tridente/) | **ATQ** | **DEF** | 
-  | [Cuerno de Caparazón](/es/equipment/Cuerno de Caparazón/) | **PV** | **DEF** | 
-  | [Garras de Sirena](/es/equipment/Garras de Sirena/) | **ATQ** | **DEF** | 
-  | [Aleta Añil](/es/equipment/Aleta Añil/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Tridente](/images/e/e_99041.png) | [Tridente](/es/equipment/Trident/) | **ATQ** | **DEF** | 
+  | ![Cuerno de Caparazón](/images/e/e_99042.png) | [Cuerno de Caparazón](/es/equipment/Shell Horn/) | **PV** | **DEF** | 
+  | ![Garras de Sirena](/images/e/e_99043.png) | [Garras de Sirena](/es/equipment/Mermaid Claws/) | **ATQ** | **DEF** | 
+  | ![Aleta Añil](/images/e/e_99044.png) | [Aleta Añil](/es/equipment/Mazarine Fin/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

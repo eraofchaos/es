@@ -3,7 +3,7 @@ title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Demonio del Abismo"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Látigo Infernal](/es/equipment/Látigo Infernal/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera Encantada](/es/equipment/Armadura Ligera Encantada/) | **PV** | **DEF** | 
-  | [Cuerno Encantado](/es/equipment/Cuerno Encantado/) | **ATQ** | **DEF** | 
-  | [Hombreras Encantadas](/es/equipment/Hombreras Encantadas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Látigo Infernal](/images/e/e_5051.png) | [Látigo Infernal](/es/equipment/Hellish Whip/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera Encantada](/images/e/e_5052.png) | [Armadura Ligera Encantada](/es/equipment/Charmed Light Armor/) | **PV** | **DEF** | 
+  | ![Cuerno Encantado](/images/e/e_5053.png) | [Cuerno Encantado](/es/equipment/Charmed Horn/) | **ATQ** | **DEF** | 
+  | ![Hombreras Encantadas](/images/e/e_5054.png) | [Hombreras Encantadas](/es/equipment/Charming Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

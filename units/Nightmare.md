@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Pesadilla"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pupilo de Pesadilla](/es/equipment/Pupilo de Pesadilla/) | **ATQ** | **DEF** | 
-  | [Fuego en el Abismo](/es/equipment/Fuego en el Abismo/) | **PV** | **DEF** | 
-  | [Herradura de Ceniza](/es/equipment/Herradura de Ceniza/) | **ATQ** | **DEF** | 
-  | [Crin de Fuego](/es/equipment/Crin de Fuego/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pupilo de Pesadilla](/images/e/e_5081.png) | [Pupilo de Pesadilla](/es/equipment/Nightmare Pupil/) | **ATQ** | **DEF** | 
+  | ![Fuego en el Abismo](/images/e/e_5082.png) | [Fuego en el Abismo](/es/equipment/Fire in the Abyss/) | **PV** | **DEF** | 
+  | ![Herradura de Ceniza](/images/e/e_5083.png) | [Herradura de Ceniza](/es/equipment/Ash Horseshoe/) | **ATQ** | **DEF** | 
+  | ![Crin de Fuego](/images/e/e_5084.png) | [Crin de Fuego](/es/equipment/Horsehair of Fire/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

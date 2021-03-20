@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dientes Hirvientes](/es/equipment/Dientes Hirvientes/) | **ATQ** | **DEF** | 
-  | [Armadura Infernal](/es/equipment/Armadura Infernal/) | **PV** | **DEF** | 
-  | [Garras Hirvientes](/es/equipment/Garras Hirvientes/) | **ATQ** | **DEF** | 
-  | [Melena de Llamas](/es/equipment/Melena de Llamas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dientes Hirvientes](/images/e/e_5031.png) | [Dientes Hirvientes](/es/equipment/Scalding Teeth/) | **ATQ** | **DEF** | 
+  | ![Armadura Infernal](/images/e/e_5032.png) | [Armadura Infernal](/es/equipment/Hellish Armor/) | **PV** | **DEF** | 
+  | ![Garras Hirvientes](/images/e/e_5033.png) | [Garras Hirvientes](/es/equipment/Scalding Claws/) | **ATQ** | **DEF** | 
+  | ![Melena de Llamas](/images/e/e_5034.png) | [Melena de Llamas](/es/equipment/Mane of Flame/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

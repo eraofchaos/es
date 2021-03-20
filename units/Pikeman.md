@@ -3,7 +3,7 @@ title: "Piquero"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Piqueros son la primera línea de defensa del reino. Se trata de hábiles soldados que han luchado con honor en grandes batallas y son leales al reino, lo que les ha valido el clamor del pueblo."
 unitID: 101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Piquero"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lanza Azur](/es/equipment/Lanza Azur/) | **ATQ** | **DEF** | 
-  | [Yelmo Chapado](/es/equipment/Yelmo Chapado/) | **PV** | **DEF** | 
-  | [Escudo del Centinela](/es/equipment/Escudo del Centinela/) | **ATQ** | **DEF** | 
-  | [Hombreras Chapadas](/es/equipment/Hombreras Chapadas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lanza Azur](/images/e/e_1011.png) | [Lanza Azur](/es/equipment/Azure Lance/) | **ATQ** | **DEF** | 
+  | ![Yelmo Chapado](/images/e/e_1012.png) | [Yelmo Chapado](/es/equipment/Plate Helmet/) | **PV** | **DEF** | 
+  | ![Escudo del Centinela](/images/e/e_1013.png) | [Escudo del Centinela](/es/equipment/Sentinel's Shield/) | **ATQ** | **DEF** | 
+  | ![Hombreras Chapadas](/images/e/e_1014.png) | [Hombreras Chapadas](/es/equipment/Plated Shoulderpads/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

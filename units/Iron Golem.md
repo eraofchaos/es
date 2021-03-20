@@ -3,7 +3,7 @@ title: "Gólem de Hierro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Gólem de Hierro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Guanteletes de Hierro](/es/equipment/Guanteletes de Hierro/) | **ATQ** | **DEF** | 
-  | [Hombreras de Púas](/es/equipment/Hombreras de Púas/) | **PV** | **DEF** | 
-  | [Corazón Arcano](/es/equipment/Corazón Arcano/) | **ATQ** | **DEF** | 
-  | [Peto de Hierro Endurecido](/es/equipment/Peto de Hierro Endurecido/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Guanteletes de Hierro](/images/e/e_6031.png) | [Guanteletes de Hierro](/es/equipment/Iron Gauntlets/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Púas](/images/e/e_6032.png) | [Hombreras de Púas](/es/equipment/Spiked Pauldrons/) | **PV** | **DEF** | 
+  | ![Corazón Arcano](/images/e/e_6033.png) | [Corazón Arcano](/es/equipment/Arcane Heart/) | **ATQ** | **DEF** | 
+  | ![Peto de Hierro Endurecido](/images/e/e_6034.png) | [Peto de Hierro Endurecido](/es/equipment/Hardened Iron Chest Armor/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

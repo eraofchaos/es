@@ -3,7 +3,7 @@ title: "Elfa del Bosque"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elfa del Bosque"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arco Largo Silvano](/es/equipment/Arco Largo Silvano/) | **ATQ** | **DEF** | 
-  | [Diadema de Hojas Exuberantes](/es/equipment/Diadema de Hojas Exuberantes/) | **PV** | **DEF** | 
-  | [Flechas de Jade](/es/equipment/Flechas de Jade/) | **ATQ** | **DEF** | 
-  | [Túnica Corta de Hojas Exuberantes](/es/equipment/Túnica Corta de Hojas Exuberantes/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arco Largo Silvano](/images/e/e_2031.png) | [Arco Largo Silvano](/es/equipment/Sylvan Longbow/) | **ATQ** | **DEF** | 
+  | ![Diadema de Hojas Exuberantes](/images/e/e_2032.png) | [Diadema de Hojas Exuberantes](/es/equipment/Circlet of Verdurous Leaves/) | **PV** | **DEF** | 
+  | ![Flechas de Jade](/images/e/e_2033.png) | [Flechas de Jade](/es/equipment/Arrows of Jade/) | **ATQ** | **DEF** | 
+  | ![Túnica Corta de Hojas Exuberantes](/images/e/e_2034.png) | [Túnica Corta de Hojas Exuberantes](/es/equipment/Short Robe of Verdurous Leaves/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

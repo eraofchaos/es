@@ -3,7 +3,7 @@ title: "Hechicera Maligna"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Hechicera Maligna"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/es/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7092](/es/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
-  | [UnknownEquipment_7093](/es/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
-  | [UnknownEquipment_7094](/es/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/es/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/es/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/es/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/es/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

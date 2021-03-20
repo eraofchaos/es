@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Ángel"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Espada del Imperio](/es/equipment/Espada del Imperio/) | **ATQ** | **DEF** | 
-  | [Armadura ligera de batalla](/es/equipment/Armadura ligera de batalla/) | **PV** | **DEF** | 
-  | [Guanteletes ligeros](/es/equipment/Guanteletes ligeros/) | **ATQ** | **DEF** | 
-  | [Hombreras de la Ligereza](/es/equipment/Hombreras de la Ligereza/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Espada del Imperio](/images/e/e_1071.png) | [Espada del Imperio](/es/equipment/Empire's Sword/) | **ATQ** | **DEF** | 
+  | ![Armadura ligera de batalla](/images/e/e_1072.png) | [Armadura ligera de batalla](/es/equipment/Light Battle Armor/) | **PV** | **DEF** | 
+  | ![Guanteletes ligeros](/images/e/e_1073.png) | [Guanteletes ligeros](/es/equipment/Light Gauntlets/) | **ATQ** | **DEF** | 
+  | ![Hombreras de la Ligereza](/images/e/e_1074.png) | [Hombreras de la Ligereza](/es/equipment/Pauldrons of Lightness/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

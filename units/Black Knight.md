@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Caballero Negro"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Espada Maldita](/es/equipment/Espada Maldita/) | **ATQ** | **DEF** | 
-  | [Visera de los Muertos](/es/equipment/Visera de los Muertos/) | **PV** | **DEF** | 
-  | [Brazalete de Pesadilla](/es/equipment/Brazalete de Pesadilla/) | **ATQ** | **DEF** | 
-  | [Hombreras de Pesadilla](/es/equipment/Hombreras de Pesadilla/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Espada Maldita](/images/e/e_3061.png) | [Espada Maldita](/es/equipment/Cursed Sword/) | **ATQ** | **DEF** | 
+  | ![Visera de los Muertos](/images/e/e_3062.png) | [Visera de los Muertos](/es/equipment/Visor of the Dead/) | **PV** | **DEF** | 
+  | ![Brazalete de Pesadilla](/images/e/e_3063.png) | [Brazalete de Pesadilla](/es/equipment/Bracer of Nightmares/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Pesadilla](/images/e/e_3064.png) | [Hombreras de Pesadilla](/es/equipment/Nightmare Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

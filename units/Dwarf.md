@@ -3,7 +3,7 @@ title: "Enano"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Enano"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Mazo Vigoroso](/es/equipment/Mazo Vigoroso/) | **ATQ** | **DEF** | 
-  | [Yelmo Astado](/es/equipment/Yelmo Astado/) | **PV** | **DEF** | 
-  | [Guanteletes del Fuego de Hogar](/es/equipment/Guanteletes del Fuego de Hogar/) | **ATQ** | **DEF** | 
-  | [Hombreras del Fuego de Hogar](/es/equipment/Hombreras del Fuego de Hogar/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Mazo Vigoroso](/images/e/e_2021.png) | [Mazo Vigoroso](/es/equipment/Strong Hammer/) | **ATQ** | **DEF** | 
+  | ![Yelmo Astado](/images/e/e_2022.png) | [Yelmo Astado](/es/equipment/Horned Helmet/) | **PV** | **DEF** | 
+  | ![Guanteletes del Fuego de Hogar](/images/e/e_2023.png) | [Guanteletes del Fuego de Hogar](/es/equipment/Gauntlets of Hearth Fire/) | **ATQ** | **DEF** | 
+  | ![Hombreras del Fuego de Hogar](/images/e/e_2024.png) | [Hombreras del Fuego de Hogar](/es/equipment/Pauldrons of Hearth Fire/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

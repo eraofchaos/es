@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Mantícora"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras del Abismo](/es/equipment/Garras del Abismo/) | **ATQ** | **DEF** | 
-  | [Colmillo de Ponzoña Letal](/es/equipment/Colmillo de Ponzoña Letal/) | **PV** | **DEF** | 
-  | [Cola Tóxica](/es/equipment/Cola Tóxica/) | **ATQ** | **DEF** | 
-  | [Alas de Mantícora](/es/equipment/Alas de Mantícora/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras del Abismo](/images/e/e_7061.png) | [Garras del Abismo](/es/equipment/Abyss Claw/) | **ATQ** | **DEF** | 
+  | ![Colmillo de Ponzoña Letal](/images/e/e_7062.png) | [Colmillo de Ponzoña Letal](/es/equipment/Fatal Poison Fang/) | **PV** | **DEF** | 
+  | ![Cola Tóxica](/images/e/e_7063.png) | [Cola Tóxica](/es/equipment/Toxic Tail/) | **ATQ** | **DEF** | 
+  | ![Alas de Mantícora](/images/e/e_7064.png) | [Alas de Mantícora](/es/equipment/Manticore Wings/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

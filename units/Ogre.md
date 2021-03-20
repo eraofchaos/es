@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Ogro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Báculo de Cabeza de Carnero](/es/equipment/Báculo de Cabeza de Carnero/) | **ATQ** | **DEF** | 
-  | [Cinturón del Ritual](/es/equipment/Cinturón del Ritual/) | **PV** | **DEF** | 
-  | [Talismán Tribal](/es/equipment/Talismán Tribal/) | **ATQ** | **DEF** | 
-  | [Hombreras del Ritual](/es/equipment/Hombreras del Ritual/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Báculo de Cabeza de Carnero](/images/e/e_4041.png) | [Báculo de Cabeza de Carnero](/es/equipment/Rams-head Staff/) | **ATQ** | **DEF** | 
+  | ![Cinturón del Ritual](/images/e/e_4042.png) | [Cinturón del Ritual](/es/equipment/Belt of Ritual/) | **PV** | **DEF** | 
+  | ![Talismán Tribal](/images/e/e_4043.png) | [Talismán Tribal](/es/equipment/Tribal Talisman/) | **ATQ** | **DEF** | 
+  | ![Hombreras del Ritual](/images/e/e_4044.png) | [Hombreras del Ritual](/es/equipment/Pauldrons of Ritual/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

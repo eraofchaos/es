@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Adjudicadora"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Báculo de la Teocracia](/es/equipment/Báculo de la Teocracia/) | **ATQ** | **DEF** | 
-  | [Capucha Celestial de la Felicidad](/es/equipment/Capucha Celestial de la Felicidad/) | **PV** | **DEF** | 
-  | [Capa ligera](/es/equipment/Capa ligera/) | **ATQ** | **DEF** | 
-  | [Avambrazo Divino](/es/equipment/Avambrazo Divino/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Báculo de la Teocracia](/images/e/e_1091.png) | [Báculo de la Teocracia](/es/equipment/Staff of Theocracy/) | **ATQ** | **DEF** | 
+  | ![Capucha Celestial de la Felicidad](/images/e/e_1092.png) | [Capucha Celestial de la Felicidad](/es/equipment/Celestial Hood of Bliss/) | **PV** | **DEF** | 
+  | ![Capa ligera](/images/e/e_1093.png) | [Capa ligera](/es/equipment/Light Cape/) | **ATQ** | **DEF** | 
+  | ![Avambrazo Divino](/images/e/e_1094.png) | [Avambrazo Divino](/es/equipment/Divine Vambrace/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

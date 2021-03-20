@@ -3,7 +3,7 @@ title: "Archimaga"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Archimaga"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Báculo Largo de Poder Místico](/es/equipment/Báculo Largo de Poder Místico/) | **ATQ** | **DEF** | 
-  | [Corona de Cristal de Magia](/es/equipment/Corona de Cristal de Magia/) | **PV** | **DEF** | 
-  | [Orbe Místico de Maná](/es/equipment/Orbe Místico de Maná/) | **ATQ** | **DEF** | 
-  | [Manto del Mago](/es/equipment/Manto del Mago/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Báculo Largo de Poder Místico](/images/e/e_6041.png) | [Báculo Largo de Poder Místico](/es/equipment/Long Staff of Mystic Power/) | **ATQ** | **DEF** | 
+  | ![Corona de Cristal de Magia](/images/e/e_6042.png) | [Corona de Cristal de Magia](/es/equipment/Crystal Crown of Magic/) | **PV** | **DEF** | 
+  | ![Orbe Místico de Maná](/images/e/e_6043.png) | [Orbe Místico de Maná](/es/equipment/Mystic Orb of Mana/) | **ATQ** | **DEF** | 
+  | ![Manto del Mago](/images/e/e_6044.png) | [Manto del Mago](/es/equipment/Mantle of the Magi/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

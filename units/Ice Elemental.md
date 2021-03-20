@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental de Hielo"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cristal de Hielo Profundo](/es/equipment/Cristal de Hielo Profundo/) | **ATQ** | **DEF** | 
-  | [Tocado de las Mareas](/es/equipment/Tocado de las Mareas/) | **PV** | **DEF** | 
-  | [Marca del Océano](/es/equipment/Marca del Océano/) | **ATQ** | **DEF** | 
-  | [Paño de la Sirena](/es/equipment/Paño de la Sirena/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cristal de Hielo Profundo](/images/e/e_9031.png) | [Cristal de Hielo Profundo](/es/equipment/Deep Ice Crystal/) | **ATQ** | **DEF** | 
+  | ![Tocado de las Mareas](/images/e/e_9032.png) | [Tocado de las Mareas](/es/equipment/Tidal Headdress/) | **PV** | **DEF** | 
+  | ![Marca del Océano](/images/e/e_9033.png) | [Marca del Océano](/es/equipment/Mark of the Ocean/) | **ATQ** | **DEF** | 
+  | ![Paño de la Sirena](/images/e/e_9034.png) | [Paño de la Sirena](/es/equipment/Cloth of the Mermaid/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

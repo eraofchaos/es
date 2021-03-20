@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Tortuga Dragón"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Diente Afilado de Tortuga Dragón](/es/equipment/Diente Afilado de Tortuga Dragón/) | **ATQ** | **DEF** | 
-  | [Caparazón de Galápago con Púas](/es/equipment/Caparazón de Galápago con Púas/) | **PV** | **DEF** | 
-  | [Garra Afilada de Tortuga Dragón](/es/equipment/Garra Afilada de Tortuga Dragón/) | **ATQ** | **DEF** | 
-  | [Cola de Tortuga Dragón](/es/equipment/Cola de Tortuga Dragón/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Diente Afilado de Tortuga Dragón](/images/e/e_99061.png) | [Diente Afilado de Tortuga Dragón](/es/equipment/Dragon Turtle's Sharp Teeth/) | **ATQ** | **DEF** | 
+  | ![Caparazón de Galápago con Púas](/images/e/e_99062.png) | [Caparazón de Galápago con Púas](/es/equipment/Spiked Tortoise Shell/) | **PV** | **DEF** | 
+  | ![Garra Afilada de Tortuga Dragón](/images/e/e_99063.png) | [Garra Afilada de Tortuga Dragón](/es/equipment/Dragon Turtle's Sharp Claw/) | **ATQ** | **DEF** | 
+  | ![Cola de Tortuga Dragón](/images/e/e_99064.png) | [Cola de Tortuga Dragón](/es/equipment/Dragon Turtle's Tail/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

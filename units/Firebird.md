@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pico de Llama Virulenta](/es/equipment/Pico de Llama Virulenta/) | **ATQ** | **DEF** | 
-  | [Runa de Revivir](/es/equipment/Runa de Revivir/) | **PV** | **DEF** | 
-  | [Garras de Llama Virulenta](/es/equipment/Garras de Llama Virulenta/) | **ATQ** | **DEF** | 
-  | [Alas de Plumas Arcoíris](/es/equipment/Alas de Plumas Arcoíris/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pico de Llama Virulenta](/images/e/e_9071.png) | [Pico de Llama Virulenta](/es/equipment/Beak of Raging Flame/) | **ATQ** | **DEF** | 
+  | ![Runa de Revivir](/images/e/e_9072.png) | [Runa de Revivir](/es/equipment/Rune of Resurrection/) | **PV** | **DEF** | 
+  | ![Garras de Llama Virulenta](/images/e/e_9073.png) | [Garras de Llama Virulenta](/es/equipment/Claws of Raging Flame/) | **ATQ** | **DEF** | 
+  | ![Alas de Plumas Arcoíris](/images/e/e_9074.png) | [Alas de Plumas Arcoíris](/es/equipment/Rainbow Feathered Wings/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

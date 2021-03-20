@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Druida"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corona de Tranquilidad](/es/equipment/Corona de Tranquilidad/) | **ATQ** | **DEF** | 
-  | [Báculo de los Ancianos](/es/equipment/Báculo de los Ancianos/) | **PV** | **DEF** | 
-  | [Túnica de Rabia Tormentosa](/es/equipment/Túnica de Rabia Tormentosa/) | **ATQ** | **DEF** | 
-  | [Botas Altas del Bosque](/es/equipment/Botas Altas del Bosque/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corona de Tranquilidad](/images/e/e_2081.png) | [Corona de Tranquilidad](/es/equipment/Crown of Tranquility/) | **ATQ** | **DEF** | 
+  | ![Báculo de los Ancianos](/images/e/e_2082.png) | [Báculo de los Ancianos](/es/equipment/Elder Staff/) | **PV** | **DEF** | 
+  | ![Túnica de Rabia Tormentosa](/images/e/e_2083.png) | [Túnica de Rabia Tormentosa](/es/equipment/Robe of Storm Rage/) | **ATQ** | **DEF** | 
+  | ![Botas Altas del Bosque](/images/e/e_2084.png) | [Botas Altas del Bosque](/es/equipment/Thigh Boots of the Forest/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Berserker"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hacha de Guerra de Obsidiana](/es/equipment/Hacha de Guerra de Obsidiana/) | **ATQ** | **DEF** | 
-  | [Collar de Hueso](/es/equipment/Collar de Hueso/) | **PV** | **DEF** | 
-  | [Yelmo de Huesos de Bestia](/es/equipment/Yelmo de Huesos de Bestia/) | **ATQ** | **DEF** | 
-  | [Banda de cuero](/es/equipment/Banda de cuero/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hacha de Guerra de Obsidiana](/images/e/e_4081.png) | [Hacha de Guerra de Obsidiana](/es/equipment/Obsidian Battle Axe/) | **ATQ** | **DEF** | 
+  | ![Collar de Hueso](/images/e/e_4082.png) | [Collar de Hueso](/es/equipment/Necklace of Bone/) | **PV** | **DEF** | 
+  | ![Yelmo de Huesos de Bestia](/images/e/e_4083.png) | [Yelmo de Huesos de Bestia](/es/equipment/Beast-boned Helmet/) | **ATQ** | **DEF** | 
+  | ![Banda de cuero](/images/e/e_4084.png) | [Banda de cuero](/es/equipment/Leather Band/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

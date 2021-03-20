@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras de Dragón Mágico](/es/equipment/Garras de Dragón Mágico/) | **ATQ** | **DEF** | 
-  | [Fuego Devastador](/es/equipment/Fuego Devastador/) | **PV** | **DEF** | 
-  | [Alas Tapacielos](/es/equipment/Alas Tapacielos/) | **ATQ** | **DEF** | 
-  | [Escama Blindada](/es/equipment/Escama Blindada/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras de Dragón Mágico](/images/e/e_7071.png) | [Garras de Dragón Mágico](/es/equipment/Magic Dragon Claws/) | **ATQ** | **DEF** | 
+  | ![Fuego Devastador](/images/e/e_7072.png) | [Fuego Devastador](/es/equipment/Devastative Fire/) | **PV** | **DEF** | 
+  | ![Alas Tapacielos](/images/e/e_7073.png) | [Alas Tapacielos](/es/equipment/Sky-blocking Wings/) | **ATQ** | **DEF** | 
+  | ![Escama Blindada](/images/e/e_7074.png) | [Escama Blindada](/es/equipment/Ironclad Scale/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

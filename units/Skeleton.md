@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cimitarra Impía](/es/equipment/Cimitarra Impía/) | **ATQ** | **DEF** | 
-  | [Yelmo Oxidado](/es/equipment/Yelmo Oxidado/) | **PV** | **DEF** | 
-  | [Escudo Impía](/es/equipment/Escudo Impía/) | **ATQ** | **DEF** | 
-  | [Hombreras Oxidadas](/es/equipment/Hombreras Oxidadas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cimitarra Impía](/images/e/e_3011.png) | [Cimitarra Impía](/es/equipment/Unholy Scimitar/) | **ATQ** | **DEF** | 
+  | ![Yelmo Oxidado](/images/e/e_3012.png) | [Yelmo Oxidado](/es/equipment/Rusted Helmet/) | **PV** | **DEF** | 
+  | ![Escudo Impía](/images/e/e_3013.png) | [Escudo Impía](/es/equipment/Unholy Shield/) | **ATQ** | **DEF** | 
+  | ![Hombreras Oxidadas](/images/e/e_3014.png) | [Hombreras Oxidadas](/es/equipment/Rusted Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

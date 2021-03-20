@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Orco"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Hacha Arrojadiza](/es/equipment/Hacha Arrojadiza/) | **ATQ** | **DEF** | 
-  | [Cinturón de Constricción](/es/equipment/Cinturón de Constricción/) | **PV** | **DEF** | 
-  | [Hombreras de hierro](/es/equipment/Hombreras de hierro/) | **ATQ** | **DEF** | 
-  | [Hombreras de Sed de Sangre](/es/equipment/Hombreras de Sed de Sangre/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Hacha Arrojadiza](/images/e/e_4031.png) | [Hacha Arrojadiza](/es/equipment/Throwing Axe/) | **ATQ** | **DEF** | 
+  | ![Cinturón de Constricción](/images/e/e_4032.png) | [Cinturón de Constricción](/es/equipment/Belt of Constraint/) | **PV** | **DEF** | 
+  | ![Hombreras de hierro](/images/e/e_4033.png) | [Hombreras de hierro](/es/equipment/Iron Pauldrons/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Sed de Sangre](/images/e/e_4034.png) | [Hombreras de Sed de Sangre](/es/equipment/Bloodthirsty Pauldrons/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Aparición"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Garras Fantasmales](/es/equipment/Garras Fantasmales/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera del Réquiem](/es/equipment/Armadura Ligera del Réquiem/) | **PV** | **DEF** | 
-  | [Alma Impía](/es/equipment/Alma Impía/) | **ATQ** | **DEF** | 
-  | [Vestido del Réquiem](/es/equipment/Vestido del Réquiem/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Garras Fantasmales](/images/e/e_3031.png) | [Garras Fantasmales](/es/equipment/Ghostly Claws/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera del Réquiem](/images/e/e_3032.png) | [Armadura Ligera del Réquiem](/es/equipment/Light Armor of Requiem/) | **PV** | **DEF** | 
+  | ![Alma Impía](/images/e/e_3033.png) | [Alma Impía](/es/equipment/Cursed Soul/) | **ATQ** | **DEF** | 
+  | ![Vestido del Réquiem](/images/e/e_3034.png) | [Vestido del Réquiem](/es/equipment/Dress of Requiem/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

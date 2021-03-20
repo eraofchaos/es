@@ -2,7 +2,7 @@
 title: "Exclusivo - Ala de Dragón Resplandeciente"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala de Dragón Resplandeciente. Ala de Dragón Resplandeciente. Era of Chaos Exclusivo Ala de Dragón Resplandeciente. Dragón Verde Exclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Green Dragon Ala de Dragón Resplandeciente.md"
 toc: false

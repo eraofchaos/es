@@ -3,7 +3,7 @@ title: "Elemental del Mar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Elemental del Mar"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lágrima Eterna](/es/equipment/Lágrima Eterna/) | **ATQ** | **DEF** | 
-  | [Núcleo de Elemental de Agua](/es/equipment/Núcleo de Elemental de Agua/) | **PV** | **DEF** | 
-  | [Río Ondulante](/es/equipment/Río Ondulante/) | **ATQ** | **DEF** | 
-  | [Cicatriz de Vórtice](/es/equipment/Cicatriz de Vórtice/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lágrima Eterna](/images/e/e_99031.png) | [Lágrima Eterna](/es/equipment/Eternal Tear/) | **ATQ** | **DEF** | 
+  | ![Núcleo de Elemental de Agua](/images/e/e_99032.png) | [Núcleo de Elemental de Agua](/es/equipment/Core of Water Elemental/) | **PV** | **DEF** | 
+  | ![Río Ondulante](/images/e/e_99033.png) | [Río Ondulante](/es/equipment/Wavy Flow/) | **ATQ** | **DEF** | 
+  | ![Cicatriz de Vórtice](/images/e/e_99034.png) | [Cicatriz de Vórtice](/es/equipment/Vortex Scar/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

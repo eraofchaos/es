@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Catafracto"
 toc: true
@@ -73,12 +73,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lanza de Catafracto](/es/equipment/Lanza de Catafracto/) | **ATQ** | **DEF** | 
-  | [Visera de Defensa](/es/equipment/Visera de Defensa/) | **PV** | **DEF** | 
-  | [Escudo de Protección](/es/equipment/Escudo de Protección/) | **ATQ** | **DEF** | 
-  | [Hombrera de Paladín](/es/equipment/Hombrera de Paladín/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lanza de Catafracto](/images/e/e_1061.png) | [Lanza de Catafracto](/es/equipment/Cavalier's Lance/) | **ATQ** | **DEF** | 
+  | ![Visera de Defensa](/images/e/e_1062.png) | [Visera de Defensa](/es/equipment/Visor of Defense/) | **PV** | **DEF** | 
+  | ![Escudo de Protección](/images/e/e_1063.png) | [Escudo de Protección](/es/equipment/Shield of Protection/) | **ATQ** | **DEF** | 
+  | ![Hombrera de Paladín](/images/e/e_1064.png) | [Hombrera de Paladín](/es/equipment/Paladin's Pauldron/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

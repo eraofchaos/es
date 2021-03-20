@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Guerreros espartanos"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Yelmo espartano](/es/equipment/Yelmo espartano/) | **ATQ** | **DEF** | 
-  | [Escudo de acero](/es/equipment/Escudo de acero/) | **PV** | **DEF** | 
-  | [Lanza perforadora](/es/equipment/Lanza perforadora/) | **ATQ** | **DEF** | 
-  | [Paño para los pies](/es/equipment/Paño para los pies/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Yelmo espartano](/es/equipment/Spartan Helmet/) | **ATQ** | **DEF** | 
+  |  | [Escudo de acero](/es/equipment/Steel Shield/) | **PV** | **DEF** | 
+  |  | [Lanza perforadora](/es/equipment/Piercing Spear/) | **ATQ** | **DEF** | 
+  |  | [Paño para los pies](/es/equipment/Footwraps/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

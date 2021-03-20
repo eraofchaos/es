@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Vampiro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cinturón de Sed de Sangre](/es/equipment/Cinturón de Sed de Sangre/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera de Sed de Sangre](/es/equipment/Armadura Ligera de Sed de Sangre/) | **PV** | **DEF** | 
-  | [Hombreras Sombrías](/es/equipment/Hombreras Sombrías/) | **ATQ** | **DEF** | 
-  | [Capa de Sombra](/es/equipment/Capa de Sombra/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cinturón de Sed de Sangre](/images/e/e_3041.png) | [Cinturón de Sed de Sangre](/es/equipment/Bloodthirsty Belt/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera de Sed de Sangre](/images/e/e_3042.png) | [Armadura Ligera de Sed de Sangre](/es/equipment/Light Armor of Bloodthirst/) | **PV** | **DEF** | 
+  | ![Hombreras Sombrías](/images/e/e_3043.png) | [Hombreras Sombrías](/es/equipment/Shadow Shoulders/) | **ATQ** | **DEF** | 
+  | ![Capa de Sombra](/images/e/e_3044.png) | [Capa de Sombra](/es/equipment/Shadow Cloak/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

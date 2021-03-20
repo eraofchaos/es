@@ -3,7 +3,7 @@ title: "Efrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Efrit"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Orbe de Llamas](/es/equipment/Orbe de Llamas/) | **ATQ** | **DEF** | 
-  | [Armadura Ligera de Llamas](/es/equipment/Armadura Ligera de Llamas/) | **PV** | **DEF** | 
-  | [Brazaletes de Llamas](/es/equipment/Brazaletes de Llamas/) | **ATQ** | **DEF** | 
-  | [Hombreras de Llamas](/es/equipment/Hombreras de Llamas/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Orbe de Llamas](/images/e/e_5061.png) | [Orbe de Llamas](/es/equipment/Orb of Flame/) | **ATQ** | **DEF** | 
+  | ![Armadura Ligera de Llamas](/images/e/e_5062.png) | [Armadura Ligera de Llamas](/es/equipment/Light Armor of Flame/) | **PV** | **DEF** | 
+  | ![Brazaletes de Llamas](/images/e/e_5063.png) | [Brazaletes de Llamas](/es/equipment/Bracers of Flame/) | **ATQ** | **DEF** | 
+  | ![Hombreras de Llamas](/images/e/e_5064.png) | [Hombreras de Llamas](/es/equipment/Pauldrons of Flame/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

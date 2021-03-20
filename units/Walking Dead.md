@@ -3,7 +3,7 @@ title: "Muerto Viviente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Muerto Viviente"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete Ensangrentado](/es/equipment/Machete Ensangrentado/) | **ATQ** | **DEF** | 
-  | [Collar Óseo](/es/equipment/Collar Óseo/) | **PV** | **DEF** | 
-  | [Brazalete de Acero Refinado](/es/equipment/Brazalete de Acero Refinado/) | **ATQ** | **DEF** | 
-  | [Pantalones de Descomposición](/es/equipment/Pantalones de Descomposición/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete Ensangrentado](/images/e/e_3021.png) | [Machete Ensangrentado](/es/equipment/Bloodstained Machete/) | **ATQ** | **DEF** | 
+  | ![Collar Óseo](/images/e/e_3022.png) | [Collar Óseo](/es/equipment/Bone Necklet/) | **PV** | **DEF** | 
+  | ![Brazalete de Acero Refinado](/images/e/e_3023.png) | [Brazalete de Acero Refinado](/es/equipment/Refined Steel Bracer/) | **ATQ** | **DEF** | 
+  | ![Pantalones de Descomposición](/images/e/e_3024.png) | [Pantalones de Descomposición](/es/equipment/Trousers of Decay/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Momia"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Toque Inmortal](/es/equipment/Toque Inmortal/) | **ATQ** | **DEF** | 
-  | [Vendaje Ancestral](/es/equipment/Vendaje Ancestral/) | **PV** | **DEF** | 
-  | [Pupilo de los Difuntos](/es/equipment/Pupilo de los Difuntos/) | **ATQ** | **DEF** | 
-  | [Aliento de Muerte](/es/equipment/Aliento de Muerte/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Toque Inmortal](/images/e/e_3081.png) | [Toque Inmortal](/es/equipment/Immortal Touch/) | **ATQ** | **DEF** | 
+  | ![Vendaje Ancestral](/images/e/e_3082.png) | [Vendaje Ancestral](/es/equipment/Ancient Bandage/) | **PV** | **DEF** | 
+  | ![Pupilo de los Difuntos](/images/e/e_3083.png) | [Pupilo de los Difuntos](/es/equipment/Pupil of the Departed/) | **ATQ** | **DEF** | 
+  | ![Aliento de Muerte](/images/e/e_3084.png) | [Aliento de Muerte](/es/equipment/Breath of Death/) | **PV** | **DEF** | 
 
 ## Exclusivo
 

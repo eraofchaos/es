@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: es
 ref: "Hombre Lagarto"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipo
 
-  |  Equipo  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala de Cuello de Púas](/es/equipment/Ala de Cuello de Púas/) | **ATQ** | **DEF** | 
-  | [Brazaletes del Guerrero](/es/equipment/Brazaletes del Guerrero/) | **PV** | **DEF** | 
-  | [Escápula del Guerrero](/es/equipment/Escápula del Guerrero/) | **ATQ** | **DEF** | 
-  | [Arco Largo de Caza](/es/equipment/Arco Largo de Caza/) | **PV** | **DEF** | 
+  | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala de Cuello de Púas](/images/e/e_8021.png) | [Ala de Cuello de Púas](/es/equipment/Spiked Neck Umbrella/) | **ATQ** | **DEF** | 
+  | ![Brazaletes del Guerrero](/images/e/e_8022.png) | [Brazaletes del Guerrero](/es/equipment/Warrior's Bracers/) | **PV** | **DEF** | 
+  | ![Escápula del Guerrero](/images/e/e_8023.png) | [Escápula del Guerrero](/es/equipment/Warrior's Scapula/) | **ATQ** | **DEF** | 
+  | ![Arco Largo de Caza](/images/e/e_8024.png) | [Arco Largo de Caza](/es/equipment/Hunting Longbow/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
