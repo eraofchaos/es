@@ -2,13 +2,13 @@
 title: "Formación de batalla Bastión"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Formación de batalla Bastión"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: es
 ref: "BattleFormationFactionStronghold"
 toc: false
 classes: wide
 ---
- [Castillo](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Murallas](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastión](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necrópolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Infierno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Mazmorra](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortaleza](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflujo](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cala](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+ [Castillo](/es/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Murallas](/es/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastión](/es/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necrópolis](/es/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Infierno](/es/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/es/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Mazmorra](/es/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortaleza](/es/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflujo](/es/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cala](/es/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
   **Fraction:** [Bastión](/units/Faction Stronghold)
 
@@ -32,43 +32,43 @@ classes: wide
 
 ## Formación de batalla Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Stronghold - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Goblin](/units/Goblin) |
+  | 1 | Stronghold - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Goblin](/es/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Stronghold - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Goblin](/units/Goblin) |
+  | 3 | Stronghold - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Goblin](/es/units/Goblin) |
   | 4 | Stronghold - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Stronghold - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Goblin](/units/Goblin) |
+  | 5 | Stronghold - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Goblin](/es/units/Goblin) |
   | 6 | Stronghold - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Orco](/units/Orc) |
+  | 7 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Orco](/es/units/Orc) |
   | 8 | Stronghold - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Stronghold - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Orco](/units/Orc) |
+  | 9 | Stronghold - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Orco](/es/units/Orc) |
   | 10 | Stronghold - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Stronghold - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Orco](/units/Orc) |
+  | 11 | Stronghold - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Orco](/es/units/Orc) |
   | 12 | Stronghold - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
 
 ## Formación de batalla Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Stronghold - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Goblin](/units/Goblin) |
+  | 1 | Stronghold - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Goblin](/es/units/Goblin) |
   | 2 | Stronghold - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Stronghold - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Goblin](/units/Goblin) |
+  | 4 | Stronghold - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Goblin](/es/units/Goblin) |
   | 5 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Stronghold - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Ogro](/units/Ogre) |
+  | 7 | Stronghold - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Ogro](/es/units/Ogre) |
   | 8 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Stronghold - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Jinete Lupino](/units/Wolf Rider) |
+  | 10 | Stronghold - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Jinete Lupino](/es/units/Wolf Rider) |
   | 11 | Stronghold - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Stronghold - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Orco](/units/Orc) |
+  | 13 | Stronghold - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Orco](/es/units/Orc) |
   | 14 | Stronghold - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Stronghold - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Orco](/units/Orc) |
+  | 16 | Stronghold - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Orco](/es/units/Orc) |
   | 17 | Stronghold - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Stronghold - Storm Assaulter | ATQ + **1** % | 80 |   |
   

@@ -2,7 +2,7 @@
 title: "Formación de batalla Fortaleza"
 permalink: /Battle Formation/Battle Formation Faction Fortress internal
 excerpt: "Formación de batalla Fortaleza"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: es
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
- [Castillo](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+ [Castillo](/es/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/es/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/es/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/es/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/es/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/es/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/es/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/es/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/es/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/es/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
   **Fraction:** [Fortaleza](/units/Faction Fortress)
 
@@ -38,43 +38,43 @@ classes: wide
 
 ## Formación de batalla Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Fortress - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 3 | Fortress - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 4 | Fortress - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Fortress - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 5 | Fortress - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 6 | Fortress - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Fortress - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 7 | Fortress - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 8 | Fortress - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Fortress - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 9 | Fortress - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 10 | Fortress - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Fortress - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Gnoll](/units/Gnoll) |
+  | 11 | Fortress - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 12 | Fortress - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
 
 ## Formación de batalla Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Gnoll](/units/Gnoll) |
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 2 | Fortress - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Fortress - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Libélula Menor](/units/Serpent Fly) |
+  | 4 | Fortress - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
   | 5 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Fortress - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Fortress - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Hombre Lagarto](/units/Lizardman) |
+  | 7 | Fortress - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
   | 8 | Fortress - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Fortress - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Fortress - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Hombre Lagarto](/units/Lizardman) |
+  | 10 | Fortress - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
   | 11 | Fortress - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Fortress - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Fortress - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Libélula Menor](/units/Serpent Fly) |
+  | 13 | Fortress - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Fortress - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Gnoll](/units/Gnoll) |
+  | 16 | Fortress - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -82,29 +82,29 @@ classes: wide
 
 ## Formación de batalla Circle 3:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Hombre Lagarto](/units/Lizardman) |
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
   | 2 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Fortress - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Gnoll](/units/Gnoll) |
+  | 5 | Fortress - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 6 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Fortress - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Fortress - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Libélula Menor](/units/Serpent Fly) |
+  | 9 | Fortress - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
   | 10 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Fortress - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Libélula Menor](/units/Serpent Fly) |
+  | 13 | Fortress - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
   | 14 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Fortress - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Gnoll](/units/Gnoll) |
+  | 17 | Fortress - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 18 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Fortress - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Fortress - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Hombre Lagarto](/units/Lizardman) |
+  | 21 | Fortress - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
   | 22 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
@@ -113,34 +113,34 @@ classes: wide
 
 ## Formación de batalla Circle 4:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Libélula Menor](/units/Serpent Fly) |
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Libélula Menor](/es/units/Serpent Fly) |
   | 2 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   | 3 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   | 4 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 5 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
-  | 6 | Fortress - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Hombre Lagarto](/units/Lizardman) |
+  | 6 | Fortress - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
   | 7 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 8 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 9 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 10 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 11 | Fortress - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Hombre Lagarto](/units/Lizardman) |
+  | 11 | Fortress - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
   | 12 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 13 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 14 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
   | 15 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
-  | 16 | Fortress - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Hombre Lagarto](/units/Lizardman) |
+  | 16 | Fortress - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
   | 17 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
   | 18 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
   | 19 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 20 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 21 | Fortress - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Hombre Lagarto](/units/Lizardman) |
+  | 21 | Fortress - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
   | 22 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 23 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 24 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 25 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
-  | 26 | Fortress - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Libélula Menor](/units/Serpent Fly) |
+  | 26 | Fortress - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Libélula Menor](/es/units/Serpent Fly) |
   | 27 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 28 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 29 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |

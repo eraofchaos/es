@@ -2,7 +2,7 @@
 title: "Formación de batalla "
 permalink: /Battle Formation/
 excerpt: "Formación de batalla.Cada facción tiene unos potenciales y energía diferentes. Activa la formación de batalla exclusiva para activar tu poder latente."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: es
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
 ## Formación de batalla by Facción: 
 
-  [Castillo](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Murallas](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastión](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necrópolis](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Infierno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Mazmorra](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortaleza](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflujo](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cala](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+  [Castillo](/es/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Murallas](/es/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Bastión](/es/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necrópolis](/es/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Infierno](/es/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/es/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Mazmorra](/es/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortaleza](/es/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Conflujo](/es/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Cala](/es/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Normas
 

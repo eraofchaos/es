@@ -2,7 +2,7 @@
 title: "Formación de batalla Murallas"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Formación de batalla Murallas"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: es
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 **Warning** Information on this page is ONLY for internal usage! Do not share it with another persons!
 {: .notice--danger}
 
- [Castillo](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+ [Castillo](/es/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/es/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/es/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/es/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/es/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/es/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/es/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/es/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/es/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/es/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
   **Fraction:** [Murallas](/units/Faction Rampart)
 
@@ -38,43 +38,43 @@ classes: wide
 
 ## Formación de batalla Circle 1:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Centauro](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.3** % | 150 |  **10** x [Centauro](/es/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATQ + **0.9** % | 70 |   |
-  | 3 | Rampart - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Centauro](/units/Centaur) |
+  | 3 | Rampart - A Strike Hit | Precisión + **6**  | 150 |  **10** x [Centauro](/es/units/Centaur) |
   | 4 | Rampart - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 5 | Rampart - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Centauro](/units/Centaur) |
+  | 5 | Rampart - Ingeniousness | Evasión + **6**  | 150 |  **10** x [Centauro](/es/units/Centaur) |
   | 6 | Rampart - Physical Trials | PV + **0.9** % | 70 |   |
-  | 7 | Rampart - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Elfa del Bosque](/units/Wood Elf) |
+  | 7 | Rampart - Shield Practice | Reducción de daño de unidad + **0.3** % | 150 |  **10** x [Elfa del Bosque](/es/units/Wood Elf) |
   | 8 | Rampart - Physical Trials | PV + **0.9** % | 70 |   |
-  | 9 | Rampart - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Elfa del Bosque](/units/Wood Elf) |
+  | 9 | Rampart - Rocklike Skin | Tenacidad + **6**  | 150 |  **10** x [Elfa del Bosque](/es/units/Wood Elf) |
   | 10 | Rampart - Storm Assaulter | ATQ + **0.5** %, PV + **0.5** % | 70 |   |
-  | 11 | Rampart - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Elfa del Bosque](/units/Wood Elf) |
+  | 11 | Rampart - Blaster | Golpe crítico + **5**  | 150 |  **10** x [Elfa del Bosque](/es/units/Wood Elf) |
   | 12 | Rampart - Storm Assaulter | ATQ + **0.9** % | 70 |   |
   
 
 
 ## Formación de batalla Circle 2:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Centauro](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.4** % | 160 |  **10** x [Centauro](/es/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATQ + **1** % | 80 |   |
   | 3 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 4 | Rampart - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Unicornio](/units/Unicorn) |
+  | 4 | Rampart - A Strike Hit | Precisión + **6**  | 160 |  **10** x [Unicornio](/es/units/Unicorn) |
   | 5 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 6 | Rampart - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 7 | Rampart - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Enano](/units/Dwarf) |
+  | 7 | Rampart - Ingeniousness | Evasión + **6**  | 160 |  **10** x [Enano](/es/units/Dwarf) |
   | 8 | Rampart - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 9 | Rampart - Physical Trials | PV + **1** % | 80 |   |
-  | 10 | Rampart - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Unicornio](/units/Unicorn) |
+  | 10 | Rampart - Shield Practice | Reducción de daño de unidad + **0.4** % | 160 |  **10** x [Unicornio](/es/units/Unicorn) |
   | 11 | Rampart - Physical Trials | PV + **1** % | 80 |   |
   | 12 | Rampart - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
-  | 13 | Rampart - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Enano](/units/Dwarf) |
+  | 13 | Rampart - Rocklike Skin | Tenacidad + **7**  | 160 |  **10** x [Enano](/es/units/Dwarf) |
   | 14 | Rampart - Physical Trials | ATQ + **0.3** %, PV + **0.7** % | 80 |   |
   | 15 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
-  | 16 | Rampart - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Elfa del Bosque](/units/Wood Elf) |
+  | 16 | Rampart - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Elfa del Bosque](/es/units/Wood Elf) |
   | 17 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Rampart - Storm Assaulter | ATQ + **1** % | 80 |   |
   
@@ -82,29 +82,29 @@ classes: wide
 
 ## Formación de batalla Circle 3:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Centauro](/units/Centaur) |
+  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Centauro](/es/units/Centaur) |
   | 2 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 3 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 4 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 5 | Rampart - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Enano](/units/Dwarf) |
+  | 5 | Rampart - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Enano](/es/units/Dwarf) |
   | 6 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 7 | Rampart - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 8 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 9 | Rampart - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Unicornio](/units/Unicorn) |
+  | 9 | Rampart - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Unicornio](/es/units/Unicorn) |
   | 10 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 11 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
   | 12 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
-  | 13 | Rampart - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Enano](/units/Dwarf) |
+  | 13 | Rampart - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Enano](/es/units/Dwarf) |
   | 14 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
   | 15 | Rampart - Physical Trials | PV + **1.2** % | 90 |   |
   | 16 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
-  | 17 | Rampart - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Unicornio](/units/Unicorn) |
+  | 17 | Rampart - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Unicornio](/es/units/Unicorn) |
   | 18 | Rampart - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
   | 19 | Rampart - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
   | 20 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
-  | 21 | Rampart - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Elfa del Bosque](/units/Wood Elf) |
+  | 21 | Rampart - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Elfa del Bosque](/es/units/Wood Elf) |
   | 22 | Rampart - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
   | 23 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
   | 24 | Rampart - Storm Assaulter | ATQ + **1.2** % | 90 |   |
@@ -113,34 +113,34 @@ classes: wide
 
 ## Formación de batalla Circle 4:
 
-  |  Nr  |         Name        |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
   |:-----|:--------------------|:---------|:-----------------:|:----------------:|
-  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Guardia Dendroide](/units/Dendroid Guard) |
+  | 1 | Rampart - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Guardia Dendroide](/es/units/Dendroid Guard) |
   | 2 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   | 3 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   | 4 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 5 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
-  | 6 | Rampart - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Pegaso](/units/Pegasus) |
+  | 6 | Rampart - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Pegaso](/es/units/Pegasus) |
   | 7 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 8 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 9 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 10 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 11 | Rampart - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Guardia Dendroide](/units/Dendroid Guard) |
+  | 11 | Rampart - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Guardia Dendroide](/es/units/Dendroid Guard) |
   | 12 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 13 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 14 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
   | 15 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
-  | 16 | Rampart - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Pegaso](/units/Pegasus) |
+  | 16 | Rampart - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Pegaso](/es/units/Pegasus) |
   | 17 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
   | 18 | Rampart - Physical Trials | PV + **1.4** % | 100 |   |
   | 19 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 20 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
-  | 21 | Rampart - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Guardia Dendroide](/units/Dendroid Guard) |
+  | 21 | Rampart - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Guardia Dendroide](/es/units/Dendroid Guard) |
   | 22 | Rampart - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
   | 23 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 24 | Rampart - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
   | 25 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
-  | 26 | Rampart - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Pegaso](/units/Pegasus) |
+  | 26 | Rampart - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Pegaso](/es/units/Pegasus) |
   | 27 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 28 | Rampart - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
   | 29 | Rampart - Storm Assaulter | ATQ + **1.4** % | 100 |   |

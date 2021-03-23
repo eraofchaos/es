@@ -2,7 +2,7 @@
 title: "Formación de batalla INTERNAL"
 permalink: /Battle Formation/Battle Formation internal
 excerpt: "Formación de batalla.Cada facción tiene unos potenciales y energía diferentes. Activa la formación de batalla exclusiva para activar tu poder latente."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: es
 ref: "index.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
 ## Formación de batalla by Facción: 
 
-  [Castillo](/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
+  [Castillo](/es/Battle Formation/Battle Formation Faction Castle internal){: .btn .btn--primary} [Murallas](/es/Battle Formation/Battle Formation Faction Rampart internal){: .btn .btn--success} [Bastión](/es/Battle Formation/Battle Formation Faction Stronghold internal){: .btn .btn--warning} [Necrópolis](/es/Battle Formation/Battle Formation Faction Necropolis internal){: .btn .btn--danger} [Infierno](/es/Battle Formation/Battle Formation Faction Inferno internal){: .btn .btn--info} [Torre](/es/Battle Formation/Battle Formation Faction Tower internal){: .btn .btn--primary} [Mazmorra](/es/Battle Formation/Battle Formation Faction Dungeon internal){: .btn .btn--success} [Fortaleza](/es/Battle Formation/Battle Formation Faction Fortress internal){: .btn .btn--warning} [Conflujo](/es/Battle Formation/Battle Formation Faction Conflux internal){: .btn .btn--danger} [Cala](/es/Battle Formation/Battle Formation Faction Cove internal){: .btn .btn--info} 
 
 ## Normas
 
