@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria."
 heroID: 62001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Kassandra"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">silencia</span><span style="color: black"> y <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 
+## Ayudante
+
+ **Ayudante:**  [Ayudante Kassandra](/es/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Poder de Leónidas 
+
+ **Descripción:** Cuando un héroe enemigo lanza una hechizo de tipo fuego, aumenta la DEF de tus unidades neutrales un <span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))}%</span><span style="color: black"> durante 10 s.
+
+## Información de combinación
+
+  none
 ## HERO Biography
 
 ## HERO Skins

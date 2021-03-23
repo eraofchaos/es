@@ -3,7 +3,7 @@ title: "Sandro humano"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Sandro humano. Sandro humano. Sandro humano, el aprendiz del mago Eric en Bracada, es un joven mago que cruzó el mar desde Enroth. Ha estado ocultando su ambición, y ni su tutor ni el resto de personas que lo conocen saben nada de sus verdaderas intenciones."
 heroID: 60503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Human Sandro"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descripción:** Invoca una sombra que dura 10 s y que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra por segundo a las unidades enemigas dentro del alcance y reduce su velocidad de ataque un 30%. Además, aumenta la velocidad de ataque y la absorción de vida de las unidades de Necrópolis amistosas un 30%.
 
 
+## Ayudante
+
+ **Ayudante:**  [Ayudante Sandro humano](/es/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Nigromancia Prohibida 
+
+ **Descripción:** Aumenta el efecto de los hechizos de invocación de todos los héroes amistosos un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black"> y la reducción de daño de unidad un <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+  none
 ## HERO Biography
 
 ## HERO Skins

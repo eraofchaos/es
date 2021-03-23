@@ -3,7 +3,7 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Aunque perdió a su «padre» por culpa de los humanos, sigue ayudando a quienes viven en el mar."
 heroID: 61701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Cassanbel"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Maremoto
  **Descripción:** Lanza un Maremoto que descarga sobre todas las unidades enemigas, infligiendo <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> de daño de hechizo y provocándoles <span style="color: #e07c44;font-size:20px">desaliento</span><span style="color: black"> durante 10 s. También tiene un 20% de probabilidad de causarles <span style="color: #e07c44;font-size:20px">congelación</span><span style="color: black"> durante 2 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Cassanbel](/es/heroes/Adjutant Cassanbel/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Señor del Océano 
+
+ **Descripción:** Cuando los héroes amistosos lanzan hechizos de tipo agua, aumenta el golpe crítico de las unidades de Cala amistosas en <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}</span><span style="color: black"> y el daño de golpe crítico un 1%. Se acumula hasta 20 veces.
+
+## Información de combinación
+
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Congelación](/es/combination/Congelación/) 
+* [Desaliento](/es/combination/Desaliento/) 
 
 ## HERO Biography
 

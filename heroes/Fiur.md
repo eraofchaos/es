@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Aunque todavía joven e inexperto para un Elemental, Fiur posee una habilidad sin igual. Se cree que se acabará convirtiendo en uno de los Héroes Elementales más poderosos."
 heroID: 60704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Fiur"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Erupción de llamas
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> de daño de hechizo de fuego a las unidades enemigas en una zona grande e inflige daño de hechizo de fuego adicional a las unidades <span style="color: #e07c44;font-size:20px">quemadas</span><span style="color: black"> igual al 35% de sus PV máximos.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Fiur](/es/heroes/Adjutant Fiur/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Inteligencia arruinada 
+
+ **Descripción:** Reduce la Inteligencia de los héroes enemigos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
 

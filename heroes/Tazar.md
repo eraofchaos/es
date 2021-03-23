@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Durante la guerra fronteriza de seis meses con Krewlod, Tazar lideró una pequeña fuerza en un destacamento de Tatalia y contuvo al ejército de Krewlod, cinco veces mayor que el suyo, durante ocho días hasta la llegada de los refuerzos."
 heroID: 61501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Tazar"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Enfrentamiento a muerte
  **Descripción:** Todas las unidades en el campo de batalla reciben 2 penalizaciones aleatorias que no se pueden disipar. Las penalizaciones de daño del enemigo se duplican. Las unidades amistosas de Fortaleza ganan un 10% de absorción de vida durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Tazar](/es/heroes/Adjutant Tazar/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Plaga agravante 
+
+ **Descripción:** Reduce la curación que reciben todas las unidades un <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Petrificar](/es/combination/Petrificar/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

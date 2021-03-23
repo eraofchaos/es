@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere nació con la habilidad de controlar a los Elementales Psíquicos y de Magia. Es un general esencial para los Elementales."
 heroID: 60702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Monere"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Dominio místico
  **Descripción:** Crea un Dominio místico en el área objetivo, infligiendo <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas en una zona muy grande y causando <span style="color: #e07c44;font-size:20px">silencio</span><span style="color: black"> a las unidades enemigas dentro del alcance durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Monere](/es/heroes/Adjutant Monere/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Conocimiento arruinado 
+
+ **Descripción:** Reduce la Sabiduría de los héroes enemigos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Quemadura](/es/combination/Quemadura/) 
+* [Silencio](/es/combination/Silencio/) 
 
 ## HERO Biography
 

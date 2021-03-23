@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un general leal a la familia real de Erathia. Desde la muerte del Rey Corazón de Grifo, Morgan Kendal se hizo cargo del país en espera de que vuelva su legítima heredera."
 heroID: 60104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Kendal"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Táctica rápida
  **Descripción:** Aumenta la velocidad de ataque y la resistencia mágica de las unidades amistosas dentro del área objetivo un 30% y 50% respectivamente durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s. El aumento se duplica para las unidades de 9 miembros.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Kendal](/es/heroes/Adjutant Kendal/) 
+
+ **Type:**  Unidades 
+
+ **Habilidad de Ayudante:**  Fiebre de guerra 
+
+ **Descripción:** Aumenta el daño de unidad de las unidades ofensivas amistosas un <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

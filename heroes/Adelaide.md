@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. De joven, tras naufragar y quedarse sola, Adelaide acabo en el territorio de los Elfos de las Nieves. Entrenó durante 20 años con sus rescatadores y se convirtió en la maga más poderosa del Reino antes de volver a Erathia."
 heroID: 60001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Adelaide"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Anillo Gélido
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de agua a las unidades enemigas en una zona muy grande y <span style="color: #e07c44;font-size:20px">congela</span><span style="color: black"> a los objetivos <span style="color: #e07c44;font-size:20px">ralentizados</span><span style="color: black"> durante 5 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Adelaide](/es/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Magia de agua amplificada 
+
+ **Descripción:** Aumenta el daño de hechizo de tipo agua de los héroes amistosos un <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Congelación](/es/combination/Congelación/) 
 
 ## HERO Biography
 

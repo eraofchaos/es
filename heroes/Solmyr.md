@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr pasó más de mil años atrapado en una botella de Genio. Siente una eterna gratitud por la persona que lo liberó: Gavin Magnus, gobernante inmortal de las tierras altas de Bracada, y le ha jurado lealtad eterna."
 heroID: 61201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Solmyr"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Rayo en cadena
  **Descripción:** Lanza 1 descarga de relámpagos que salta 5 veces entre diferentes unidades enemigas. Cada salto inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> de daño de hechizo de aire.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Solmyr](/es/heroes/Adjutant Solmyr/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Magia de aire amplificada 
+
+ **Descripción:** Aumenta el daño de hechizo de tipo aire de los héroes amistosos un <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Estática](/es/combination/Estática/) 
 
 ## HERO Biography
    - En el Laberinto de la Mente, comenzó a formarse una nueva consciencia...

@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack era un héroe olvidado de Enroth antes de navegar hasta Erathia. En esta tierra en conflicto encontró el lugar perfecto para dar uso a sus habilidades."
 heroID: 60602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Crag Hack"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Voluntad asesina
  **Descripción:** Aumenta el ATQ en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% y la absorción de vida en {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% para todas las unidades amistosas cuerpo a cuerpo durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Crag Hack](/es/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Unidades 
+
+ **Habilidad de Ayudante:**  A Muerte 
+
+ **Descripción:** Aumenta la penetración de todas las unidades cuerpo a cuerpo amistosas en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Sangrado](/es/combination/Sangrado/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
    - Cuando no hay batallas en las que luchar, Crag Hack adora navegar por los mares y asaltar barcos y ciudades costeras para satisfacer su sed de sangre.

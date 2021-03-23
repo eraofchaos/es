@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Se dice que Sephinroth, la única hechicera que se conoce de Antagarich, es la hija ilegítima del Rey Corazón de Grifo."
 heroID: 61402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Sephinroth"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tierra cristalizada
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades hostiles que no estén <span style="color: #e07c44;font-size:20px">petrificadas</span><span style="color: black"> en una zona muy grande y las <span style="color: #e07c44;font-size:20px">petrifica</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s. Inflige el doble de daño a las unidades hostiles <span style="color: #e07c44;font-size:20px">petrificadas</span><span style="color: black">.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Sephinroth](/es/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Magia de tierra amplificada 
+
+ **Descripción:** Aumenta el daño de hechizo de tipo tierra de los héroes amistosos un <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Petrificar](/es/combination/Petrificar/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

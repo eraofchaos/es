@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Cuando Lucifer Kreegan mató a Xenofex y se hizo con el poder, Xeron fue el primero en jurar alianza al usurpador, lo que le granjeó el favor del nuevo Rey."
 heroID: 60801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Xeron"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Eco del abismo
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> de daño de hechizo de fuego a las unidades enemigas a cierta distancia e invoca 1 Diablo de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo con un ATQ de <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> e inmune a todo el daño. El Diablo dura 10 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Xeron](/es/heroes/Adjutant Xeron/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Alma Quemada 
+
+ **Descripción:** Cuando las unidades del Infierno amistosas atacan a unidades bajo los efectos de <span style="color: #e07c44;font-size:20px">quemaduras</span><span style="color: black">, aumenta el daño de unidad un <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro es un Nigromante que ha visto casi todo Enroth y Erathia. Al parecer, ahora está de lado de Finneas Vilmar, líder de los nigromantes de Deyja."
 heroID: 60501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Sandro"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Las horas más oscuras
  **Descripción:** Inflige daño de hechizo de tierra a las unidades hostiles que no sean de Necrópolis igual a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> y al 5 % de sus PV máximos, les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s. Además, restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, y les causa <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black">.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Sandro](/es/heroes/Adjutant Sandro/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Invasión Oscura 
+
+ **Descripción:** Cuando todas las unidades reciben <span style="color: #e07c44;font-size:20px">moral baja</span><span style="color: black">, disminuye la reducción de daño de unidad un <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral baja](/es/combination/Moral baja/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
    - Sandro decidió visitar Deyja tras conseguir la Capa del Rey No Muerto y la Armadura de los Condenados...

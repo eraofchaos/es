@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar se centró durante buena parte de su vida en mejorar sus hechizos, convirtiéndose en un gran lanzahechizos antes de hacerse con el liderazgo en el campo de batalla. Es más fiable que la mayoría de los demonios."
 heroID: 60901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Zydar"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Puerta de fuego
  **Descripción:** Alza 1 Puerta de fuego en el área objetivo e invoca 3 unidades de Diablillo de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. Los Diablillos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Zydar](/es/heroes/Adjutant Zydar/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Reserva de Inteligencia 
+
+ **Descripción:** Aumenta la Inteligencia de los héroes amistosos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
 

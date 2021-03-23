@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu es un semielfo y el guerrero más famoso de Erathia. Mientras servía en el ejército de la Reina Catherine, el General Morgan Kendal lo descubrió y lo ascendió."
 heroID: 60301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Gelu"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Frenesí
  **Descripción:** Sacrifica los PV de unidades amistosas equivalentes al 30% de sus PV máximos en una zona grande (no inflige un daño letal), aumentando su velocidad de ataque en un {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Gelu](/es/heroes/Adjutant Gelu/) 
+
+ **Type:**  Unidades 
+
+ **Habilidad de Ayudante:**  Ataque de precisión 
+
+ **Descripción:** Aumenta el daño de golpe crítico de las unidades a distancia amistosas un <span style="color: #48b946;font-size:20px">{(3+0.3*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Ralentizar](/es/combination/Ralentizar/) 
 
 ## HERO Biography
    - Gelu ya era un explorador excelente de pequeño y, al crecer, sus talentos se han multiplicado por diez.

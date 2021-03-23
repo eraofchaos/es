@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia."
 heroID: 61202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Dracon"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Clon
  **Descripción:** Copia 1 de tus unidades. Tiene un <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> del ATQ de la unidad original y recibe un {($duplidmg11+$duplidmg12*($sklevel-1))}% más de daño. Dura 30 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Dracon](/es/heroes/Adjutant Dracon/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Torre amplificada 
+
+ **Descripción:** Aumenta el ATQ de las unidades de Torre amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Ralentizar](/es/combination/Ralentizar/) 
 
 ## HERO Biography
 

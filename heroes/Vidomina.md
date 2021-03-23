@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal."
 heroID: 60502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Vidomina"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Ejército de no muertos
  **Descripción:** Invoca Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo que igualan el número de unidades enemigas que se encuentren en ella. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Vidomina](/es/heroes/Adjutant Vidomina/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Necrópolis amplificada 
+
+ **Descripción:** Aumenta el ATQ de las unidades de Necrópolis amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral baja](/es/combination/Moral baja/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
    - Un experimento etiquetado como herejía ayuda a Vidomina a dar con el propósito de su vida...

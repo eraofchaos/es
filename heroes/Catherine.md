@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis."
 heroID: 60102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Catherine"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Ventisca
  **Descripción:** Invoca una Ventisca que inflige daño de hechizo de agua 5 veces (hasta un total de <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) a las unidades enemigas en una zona grande y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 8 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Catherine](/es/heroes/Adjutant Catherine/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Castillo amplificado 
+
+ **Descripción:** Aumenta los PV de las unidades de Castillo amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
    - La batalla más difícil para Catherine fue también una de las últimas, la Batalla de los Acantilados de los Grifos, donde sus tropas derrotaron a un poderoso ejército de demonios. El conflicto anunció formalmente su regreso al trono.

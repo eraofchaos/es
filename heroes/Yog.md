@@ -3,7 +3,7 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog lleva muchos años estudiando con las Magas de Bracada, pero prefiere la estrategia militar a las runas mágicas. Posteriormente, el Duque de Krewlod se dio cuenta de su talento y lo convirtió en un general destacado del ejército bárbaro."
 heroID: 60604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Yog"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Retorno de energía
  **Descripción:** El daño de hechizo recibido por todas las unidades amistosas de los Héroes ahora les cura, y la recuperación de hechizo de los Héroes que curen a las unidades enemigas ahora las daña. Dura {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Yog](/es/heroes/Adjutant Yog/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Reserva de Defensa 
+
+ **Descripción:** Aumenta la DEF de los héroes amistosos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
    - El Duque Boragus ha nombrado a Yog comandante de las unidades Cíclope. Pero antes, debes ser capaz de controlarlos...

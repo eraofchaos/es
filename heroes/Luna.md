@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna vivía en Enroth cuando se enteró de que había aparecido un Elemental en Erathia. Creyendo que podría aprender magia mucho más poderosa allí, cruzó el mar para descubrir sus secretos."
 heroID: 60701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Luna"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tierra en llamas
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> de daño de hechizo de fuego a las unidades enemigas en una zona muy grande y causa <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> de daño de fuego adicional a los objetivos con <span style="color: #e07c44;font-size:20px">quemadura.</span><span style="color: black">
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Luna](/es/heroes/Adjutant Luna/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Magia de fuego amplificada 
+
+ **Descripción:** Aumenta el daño de hechizo de tipo fuego de los héroes amistosos un <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

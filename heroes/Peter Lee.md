@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos Peter Lee. Peter Lee. Peter Lee es un pirata legendario, pero parece que prefiere los tesoros y la aventura al saqueo y los incendios. Se rumorea que ha llegado hasta el fin del mundo con su flota."
 heroID: 61801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Peter Lee"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Olas de ruptura
  **Descripción:** Peter Lee dirige una nave de asalto contra las unidades enemigas, infligiendo <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> de daño de hechizo de agua a todas las unidades enemigas. Las unidades defensivas reciben daño de hechizo adicional igual al 10% de sus PV máximos.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Peter Lee](/es/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Cala amplificada 
+
+ **Descripción:** Aumenta el ATQ de las unidades de Cala amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Desaliento](/es/combination/Desaliento/) 
 
 ## HERO Biography
 

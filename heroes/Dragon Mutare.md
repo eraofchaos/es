@@ -3,7 +3,7 @@ title: "Dragona Mutare"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragona Mutare. Dragona Mutare. Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
 heroID: 61302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Dragon Mutare"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Rugido de Dragón
  **Descripción:** Inflige <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> a todas las unidades enemigas con un daño igual al <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> de sus PV máximos cada 2 s durante 16 s y las <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante 6 s. Algunas unidades pueden volverse inmunes al daño de <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> y las unidades <span style="color: #e07c44;font-size:20px">sangrando</span><span style="color: black"> tienen curación reducida.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Dragona Mutare](/es/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Círculo del Dragón 
+
+ **Descripción:** Cuando un héroe enemigo lanza un hechizo, aumenta el daño de unidad de las unidades de Mazmorra amistosas un <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> durante 5 s. Se acumula hasta 5 veces.
+
+## Información de combinación
+
+* [Sangrado](/es/combination/Sangrado/) 
+* [Quemadura](/es/combination/Quemadura/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac es conocido como Héroe en Erathia por salvar al erudito Valjean. Sea cierto o no, Korbac ha demostrado sus habilidades al servicio de Tatalia."
 heroID: 61502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Korbac"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Nido de Libélulas Menores
  **Descripción:** Invoca 1 Libélula Menor de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo. Durará 20 s y tiene un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}.</span><span style="color: black">
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Korbac](/es/heroes/Adjutant Korbac/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Reserva de Ataque 
+
+ **Descripción:** Aumenta el ATQ de los héroes amistosos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

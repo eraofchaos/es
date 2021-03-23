@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz."
 heroID: 61901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Ezio"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descripción:** Otorga <span style="color: #e07c44;font-size:20px">Ojo de halcón</span><span style="color: black"> a todas las unidades amistosas mientras aumenta el golpe crítico y la precisión en 900 durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
 
+## Ayudante
+
+ **Ayudante:**  [Ayudante Ezio](/es/heroes/Adjutant Ezio/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Nada es verdad 
+
+ **Descripción:** Cuando un héroe amistoso lanza una hechizo ofensivo, aumenta el daño de golpe crítico de tus unidades neutrales un <span style="color: #48b946;font-size:20px">{(9+1*($sklevel-1))}%</span><span style="color: black"> durante 10 s.
+
+## Información de combinación
+
+  none
 ## HERO Biography
 
 ## HERO Skins

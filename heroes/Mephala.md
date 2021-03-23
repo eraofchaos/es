@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país."
 heroID: 60302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Mephala"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Escudo sagrado
  **Descripción:** Invoca 1 escudo protector gigante que hace que las unidades amistosas sean inmunes a todo el daño durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Mephala](/es/heroes/Adjutant Mephala/) 
+
+ **Type:**  Unidades 
+
+ **Habilidad de Ayudante:**  Formación Defensiva 
+
+ **Descripción:** Aumenta el valor de escudo de las unidades defensivas amistosas en <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Escudo](/es/combination/Escudo/) 
 
 ## HERO Biography
    - Un fuego devastador ardía en el bosque. Mephala fue a investigar su fuente...

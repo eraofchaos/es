@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. De niña, los Elfos Oscuros la capturaron y traficaron con ella. Al final, Jenova pudo escapar de su deplorable vida gracias a un Unicornio vengativo. Desde entonces, decidió venerar a estas criaturas tan misteriosas en los bosques y pasar su vida junto a ellas. Nadie conoce mejor a los Unicornios que Jenova, que aprovecha la velocidad y el poder de estos para aventajar en combate."
 heroID: 60202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Jenova"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Corazón de pureza
  **Descripción:** Invoca 4 Unicornios Rey de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo. Los Unicornios durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black">.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Jenova](/es/heroes/Adjutant Jenova/) 
+
+ **Type:**  Atributos 
+
+ **Habilidad de Ayudante:**  Reserva de Sabiduría 
+
+ **Descripción:** Aumenta la Sabiduría de los héroes amistosos en <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Información de combinación
+
+* [Ceguera](/es/combination/Ceguera/) 
+* [Escudo](/es/combination/Escudo/) 
 
 ## HERO Biography
 

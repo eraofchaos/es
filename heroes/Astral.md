@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral llegó a Erathia hace más o menos una década y fue rápidamente aceptado por la Cofradía de Magos de Bracada. Tras obtener un alto rango en la Cofradía, algunos bromean sobre que tuvo que haber usado magia para ascender tan rápido."
 heroID: 61203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Astral"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tierra brillante
  **Descripción:** <span style="color: #e07c44;font-size:20px">Ciega</span><span style="color: black"> a todas las unidades hostiles y reduce su precisión en 1000 durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Astral](/es/heroes/Adjutant Astral/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Aumento de magia 
+
+ **Descripción:** Cada vez que un héroe amistoso lanza un hechizo, las unidades de Torre amistosas recuperan un <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))}%</span><span style="color: black"> de sus PV máximos. La recarga es de 4 s.
+
+## Información de combinación
+
+* [Ceguera](/es/combination/Ceguera/) 
+* [Silencio](/es/combination/Silencio/) 
 
 ## HERO Biography
 

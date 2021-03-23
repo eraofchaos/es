@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora."
 heroID: 60802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Rashka"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Llama infernal
  **Descripción:** Invoca una Fisura de Infierno que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas alrededor de la fisura cada 0,5 s durante {$olast11/1000} s. El daño se reduce a la mitad para las unidades del Infierno
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Rashka](/es/heroes/Adjutant Rashka/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Destrozo Ardiente 
+
+ **Descripción:** Aumenta el daño de hechizo de tipo fuego de los héroes amistosos un <span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
    - Rashka es un señor infernal ambicioso. Desde que destronaron a Xenofex, comenzó su plan para unificar Eeofol.

@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Nombrada Señora de Nighon recientemente, Mutare nació con la habilidad para controlar a los dragones, lo que la hace casi invencible en las guerras."
 heroID: 61301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Mutare"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Derrumbe
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> a las unidades enemigas dentro del área de efecto cada 0,8 s. Estas unidades también quedan <span style="color: #e07c44;font-size:20px">aturdidas</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s. El efecto dura {$olast11/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Mutare](/es/heroes/Adjutant Mutare/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Mazmorra amplificada 
+
+ **Descripción:** Aumenta los PV de las unidades de Mazmorra amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

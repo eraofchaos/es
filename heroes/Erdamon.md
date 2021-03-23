@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, el anciano Rey de Lava, ha dormido durante siglos en las montañas de la frontera de Eeofol. Ahora ha despertado y se ha unido a los Elementales. Erdamon está totalmente dispuesto a ir a la guerra para librar al mundo de los Kreegan."
 heroID: 60703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Erdamon"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Trampa de lava
  **Descripción:** Invoca una Trampa de lava que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> de daño de hechizo de tierra en las unidades enemigas no voladoras adyacentes a la trampa por segundo y las <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante 0,7 s. La trampa dura {$olast11/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Erdamon](/es/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Conflujo amplificado 
+
+ **Descripción:** Aumenta los PV de las unidades de Conflujo amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Aturdimiento](/es/combination/Aturdimiento/) 
+* [Escudo](/es/combination/Escudo/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele se encuentra entre los primeros Héroes que se unieron a los Elementales y es una general victoriosa en el campo de batalla. Descubrió su conexión con los Elementales de Magia con sus flechas mágicas."
 heroID: 60705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Ciele"
 toc: true
@@ -43,6 +43,24 @@ toc: true
 ### 4 Spell: Flecha de tierra
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de tierra a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 3 s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Ciele](/es/heroes/Adjutant Ciele/) 
+
+ **Type:**  Hechizo 
+
+ **Habilidad de Ayudante:**  Conflujo Iluminado 
+
+ **Descripción:** Reduce la resistencia mágica de todas las unidades enemigas a todos los hechizos un <span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Estática](/es/combination/Estática/) 
+* [Petrificar](/es/combination/Petrificar/) 
+* [Ralentizar](/es/combination/Ralentizar/) 
+* [Quemadura](/es/combination/Quemadura/) 
+* [Silencio](/es/combination/Silencio/) 
 
 ## HERO Biography
 

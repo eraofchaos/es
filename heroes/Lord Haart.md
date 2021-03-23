@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart fue asesinado y ha sido revivido. Como general del ejército de no muertos, tiene poderes aún más formidables que cuando estaba vivo."
 heroID: 60401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Lord Haart"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Orden de asesinato
  **Descripción:** Ordena a los Caballeros de la Muerte asestar <span style="color: #48b946;font-size:20px">Golpe crítico</span><span style="color: black"> una vez. El daño esta vez aumenta un 20%. Reduce la DEF del objetivo en {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Lord Haart](/es/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Aura Espantosa 
+
+ **Descripción:** Aumenta el daño de unidad de las unidades de Necrópolis amistosas un <span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Moral baja](/es/combination/Moral baja/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

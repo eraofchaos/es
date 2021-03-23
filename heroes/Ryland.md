@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland es el primer (y único hasta ahora) humano en ser totalmente aceptado por el Círculo de Ancianos Elfos. De hecho, hay quienes bromean con que en realidad es un elfo reencarnado en un cuerpo humano."
 heroID: 60303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Ryland"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Plegaria
  **Descripción:** Recupera <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> PV a las unidades amistosas que se encuentran en una zona grande. Los PV restaurados para los objetivos con un <span style="color: #e07c44;font-size:20px">escudo</span><span style="color: black"> se duplica.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Ryland](/es/heroes/Adjutant Ryland/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Murallas amplificadas 
+
+ **Descripción:** Aumenta los PV de las unidades de Murallas amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Aturdimiento](/es/combination/Aturdimiento/) 
+* [Escudo](/es/combination/Escudo/) 
 
 ## HERO Biography
 

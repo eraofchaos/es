@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. Las tropas de Sir Mullich son conocidas por su velocidad, y él es conocido por su autocontrol y disciplina. Usa un entrenamiento especial para volver más rápidas a sus tropas."
 heroID: 60101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Mullich"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Detener el tiempo
  **Descripción:** Invoca un Campo Temporal que inmoviliza a las unidades enemigas dentro del alcance durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Mullich](/es/heroes/Adjutant Mullich/) 
+
+ **Type:**  Unidades 
+
+ **Habilidad de Ayudante:**  Entre las líneas enemigas 
+
+ **Descripción:** Aumenta la reducción de daño de unidad de las unidades de carga un <span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black"> durante 20 s al comienzo de la batalla.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
    - Mullich fue nombrado caballero en una posada...

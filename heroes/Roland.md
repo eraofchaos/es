@@ -3,7 +3,7 @@ title: "Roland"
 permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. El Rey Roland fue rescatado de los Kreegan por un grupo de guerreros. En agradecimiento, se unió al ejército de Erathia y se convirtió en su general. Entonces conoció a Catherine y lucharon juntos contra las fuerzas extranjeras."
 heroID: 60103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Roland"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Viento del Rey
  **Descripción:** Fortalece a todas las unidades amistosas con <span style="color: #e07c44;font-size:20px">moral alta</span><span style="color: black"> aumentando su ATQ en 50<50*($a122+$a126+$a132+$a136)>%, durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Roland](/es/heroes/Adjutant Roland/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Aumento de moral 
+
+ **Descripción:** Cuando las unidades de Castillo amistosas tienen <span style="color: #e07c44;font-size:20px">moral alta</span><span style="color: black">, aumenta la velocidad de ataque un <span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black"> durante 6 s.
+
+## Información de combinación
+
+* [Moral alta](/es/combination/Moral alta/) 
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
 

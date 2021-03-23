@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva proviene de una familia que entrenaba y domesticaba Rocs. No quería hacerse cargo del negocio familiar, sino unirse al ejército de Krewlod y convertirse en una excelente mercenaria."
 heroID: 60603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Shiva"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Tormenta
  **Descripción:** Invoca una tormenta en el área objetivo que inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de aire a todas las unidades en un área determinada cada 0,5 s y reduce su velocidad de ataque un 15% durante {$olast11/1000} s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Shiva](/es/heroes/Adjutant Shiva/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Bastión amplificado 
+
+ **Descripción:** Aumenta el ATQ de las unidades de Bastión amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
 
 ## HERO Biography
 

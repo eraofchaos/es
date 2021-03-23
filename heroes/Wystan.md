@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan es el yerno mayor del Rey Tralossk y el segundo en la línea de sucesión a la corona. Está esperando al día de su ascenso al trono."
 heroID: 61504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Wystan"
 toc: true
@@ -43,6 +43,23 @@ toc: true
 ### 4 Spell: Cenagal
  **Descripción:** Invoca un Cenagal en la ubicación especificada, haciendo que las unidades de Fortaleza amistosas en una zona muy grande aumenten su velocidad de ataque un <span style="color: #e07c44;font-size:20px">10%</span><span style="color: black"> y restaura los PV un <span style="color: #e07c44;font-size:20px">3%</span><span style="color: black"> de sus PV máximos por segundo; reduce la velocidad de ataque un <span style="color: #e07c44;font-size:20px">30%</span><span style="color: black"> y la velocidad de ataque en <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> para las unidades hostiles no voladoras durante {($olast11+$olast12*($sklevel-1))/1000} s
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Wystan](/es/heroes/Adjutant Wystan/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Fortaleza amplificada 
+
+ **Descripción:** Aumenta los PV de las unidades de Fortaleza amistosas un <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">.
+
+## Información de combinación
+
+* [Sangrado](/es/combination/Sangrado/) 
+* [Enfermedad](/es/combination/Enfermedad/) 
+* [Aturdimiento](/es/combination/Aturdimiento/) 
+* [Escudo](/es/combination/Escudo/) 
 
 ## HERO Biography
 

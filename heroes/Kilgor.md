@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. De joven, Kilgor derrotó a su padre para conseguir el título de jefe del clan. Su fama se ha extendido por todo Krewlod desde entonces. Muchos lo consideran el único guerrero capaz de ganar el Festival de la Vida de esta generación."
 heroID: 60601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: es
 ref: "Kilgor"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Voluntad inquebrantable
  **Descripción:** Aumenta la tenacidad de todas las unidades amistosas en 50 y su daño crítico un 10%. Las unidades de Bastión amistosas recuperan <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> PV cada 3 s durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Ayudante
+
+ **Ayudante:**  [Ayudante Kilgor](/es/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Facción 
+
+ **Habilidad de Ayudante:**  Maestro de la guerra 
+
+ **Descripción:** Aumenta el daño de unidad de las unidades de Bastión amistosas un <span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black"> cada 15 s. Se acumula hasta 4 veces.
+
+## Información de combinación
+
+* [Quemadura](/es/combination/Quemadura/) 
 
 ## HERO Biography
 
