@@ -2,7 +2,7 @@
 title: "Guadaña del Diablo"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Era of Chaos Guadaña del Diablo. Guadaña del Diablo"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Devil's Scythe.md"
 toc: false

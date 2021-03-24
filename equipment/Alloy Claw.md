@@ -2,7 +2,7 @@
 title: "Garra de aleación"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Garra de aleación. Garra de aleación"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Alloy Claw.md"
 toc: false

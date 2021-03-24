@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Pájaro Ígneo"
 toc: true

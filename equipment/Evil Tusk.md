@@ -2,7 +2,7 @@
 title: "Colmillo Maligno"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Colmillo Maligno. Colmillo Maligno"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Evil Tusk.md"
 toc: false

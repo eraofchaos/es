@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre radiante"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Azufre radiante"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: es
 ref: "mat_99.md"
 toc: false

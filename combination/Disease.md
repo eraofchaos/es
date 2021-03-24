@@ -2,7 +2,7 @@
 title: "Información de combinación for Enfermedad"
 permalink: /combination/Disease/
 excerpt: "Información de combinación - Enfermedad. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Enfermedad.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Momia](/units/Momia/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Momia](/es/units/Mummy/) | [Wystan](/es/heroes/Wystan/) |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos con enfermedad
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Momia](/units/Momia/) | - |
-  | 2 | [Gorgona](/units/Gorgona/) | - |
-  | 3 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Momia](/es/units/Mummy/) | - |
+  | 2 | [Gorgona](/es/units/Gorgon/) | - |
+  | 3 | [Libélula Menor](/es/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Información de combinación for Petrificar"
 permalink: /combination/Petrify/
 excerpt: "Información de combinación - Petrificar. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Petrificar.md"
 toc: false
@@ -16,15 +16,15 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Medusa](/units/Medusa/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Basilisco](/units/Basilisco/) | [Jeddite](/heroes/Jeddite/) |
-  | 3 | - | [Ciele](/heroes/Ciele/) |
-  | 4 | - | [Tazar](/heroes/Tazar/) |
+  | 1 | [Medusa](/es/units/Medusa/) | [Sephinroth](/es/heroes/Sephinroth/) |
+  | 2 | [Basilisco](/es/units/Basilisk/) | [Jeddite](/es/heroes/Jeddite/) |
+  | 3 | - | [Ciele](/es/heroes/Ciele/) |
+  | 4 | - | [Tazar](/es/heroes/Tazar/) |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos petrificados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgona](/units/Gorgona/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Gorgona](/es/units/Gorgon/) | [Sephinroth](/es/heroes/Sephinroth/) |
+  | 2 | [Libélula Menor](/es/units/Serpent Fly/) | - |

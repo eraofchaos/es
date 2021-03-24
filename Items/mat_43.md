@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre poco común"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Azufre poco común"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: es
 ref: "mat_43.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Información de combinación for Moral baja"
 permalink: /combination/Low Morale/
 excerpt: "Información de combinación - Moral baja. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Moral baja.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Caballero Negro](/units/Caballero Negro/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Dragón de Hueso](/units/Dragón de Hueso/) | [Vidomina](/heroes/Vidomina/) |
-  | 3 | - | [Sandro](/heroes/Sandro/) |
+  | 1 | [Caballero Negro](/es/units/Black Knight/) | [Lord Haart](/es/heroes/Lord Haart/) |
+  | 2 | [Dragón de Hueso](/es/units/Bone Dragon/) | [Vidomina](/es/heroes/Vidomina/) |
+  | 3 | - | [Sandro](/es/heroes/Sandro/) |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos con moral baja
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Muerto Viviente](/units/Muerto Viviente/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Dragón de Hueso](/units/Dragón de Hueso/) | [Sandro](/heroes/Sandro/) |
-  | 3 | [Gorgona](/units/Gorgona/) | - |
-  | 4 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Muerto Viviente](/es/units/Walking Dead/) | [Lord Haart](/es/heroes/Lord Haart/) |
+  | 2 | [Dragón de Hueso](/es/units/Bone Dragon/) | [Sandro](/es/heroes/Sandro/) |
+  | 3 | [Gorgona](/es/units/Gorgon/) | - |
+  | 4 | [Libélula Menor](/es/units/Serpent Fly/) | - |

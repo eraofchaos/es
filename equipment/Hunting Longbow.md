@@ -2,7 +2,7 @@
 title: "Arco Largo de Caza"
 permalink: /equipment/Hunting Longbow/
 excerpt: "Era of Chaos Arco Largo de Caza. Arco Largo de Caza"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Hunting Longbow.md"
 toc: false

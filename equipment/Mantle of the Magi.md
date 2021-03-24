@@ -2,7 +2,7 @@
 title: "Manto del Mago"
 permalink: /equipment/Mantle of the Magi/
 excerpt: "Era of Chaos Manto del Mago. Manto del Mago"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Mantle of the Magi.md"
 toc: false

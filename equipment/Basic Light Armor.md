@@ -2,7 +2,7 @@
 title: "Armadura ligera básica"
 permalink: /equipment/Basic Light Armor/
 excerpt: "Era of Chaos Armadura ligera básica. Armadura ligera básica"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Basic Light Armor.md"
 toc: false

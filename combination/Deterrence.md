@@ -2,7 +2,7 @@
 title: "Información de combinación for Desaliento"
 permalink: /combination/Deterrence/
 excerpt: "Información de combinación - Desaliento. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Desaliento.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Berserker](/units/Berserker/) | [Cassanbel](/heroes/Cassanbel/) |
-  | 2 | [Serpiente Regnan](/units/Serpiente Regnan/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 3 | [Revyaratan](/units/Revyaratan/) | - |
+  | 1 | [Berserker](/es/units/Berserker/) | [Cassanbel](/es/heroes/Cassanbel/) |
+  | 2 | [Serpiente Regnan](/es/units/Regnan Serpent/) | [Peter Lee](/es/heroes/Peter Lee/) |
+  | 3 | [Revyaratan](/es/units/Revyaratan/) | - |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos desalentados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Vidente Regnan](/units/Vidente Regnan/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 2 | [Serpiente Regnan](/units/Serpiente Regnan/) | - |
-  | 3 | [Gorgona](/units/Gorgona/) | - |
-  | 4 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Vidente Regnan](/es/units/Regnan Seer/) | [Peter Lee](/es/heroes/Peter Lee/) |
+  | 2 | [Serpiente Regnan](/es/units/Regnan Serpent/) | - |
+  | 3 | [Gorgona](/es/units/Gorgon/) | - |
+  | 4 | [Libélula Menor](/es/units/Serpent Fly/) | - |

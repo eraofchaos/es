@@ -2,7 +2,7 @@
 title: "Información de combinación for Estática"
 permalink: /combination/Static/
 excerpt: "Información de combinación - Estática. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Estática.md"
 toc: false
@@ -16,14 +16,14 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Archimaga](/units/Archimaga/) | [Solmyr](/heroes/Solmyr/) |
-  | 2 | [Elemental de Tormenta](/units/Elemental de Tormenta/) | [Ciele](/heroes/Ciele/) |
+  | 1 | [Archimaga](/es/units/Arch Mage/) | [Solmyr](/es/heroes/Solmyr/) |
+  | 2 | [Elemental de Tormenta](/es/units/Storm Elemental/) | [Ciele](/es/heroes/Ciele/) |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos con estática
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Elemental de Tormenta](/units/Elemental de Tormenta/) | - |
-  | 2 | [Gorgona](/units/Gorgona/) | - |
-  | 3 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Elemental de Tormenta](/es/units/Storm Elemental/) | - |
+  | 2 | [Gorgona](/es/units/Gorgon/) | - |
+  | 3 | [Libélula Menor](/es/units/Serpent Fly/) | - |

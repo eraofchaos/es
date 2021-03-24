@@ -2,7 +2,7 @@
 title: "Información de combinación for Silencio"
 permalink: /combination/Silence/
 excerpt: "Información de combinación - Silencio. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Silencio.md"
 toc: false
@@ -16,17 +16,17 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Hada](/units/Hada/) | [Astral](/heroes/Astral/) |
-  | 2 | [Mantícora](/units/Mantícora/) | [Monere](/heroes/Monere/) |
-  | 3 | [Diablo](/units/Diablo/) | [Ciele](/heroes/Ciele/) |
-  | 4 | [Dragón de Hueso](/units/Dragón de Hueso/) | - |
-  | 5 | [Aparición](/units/Aparición/) | - |
-  | 6 | [Campeón Oscuro](/units/Campeón Oscuro/) | - |
+  | 1 | [Hada](/es/units/Sprite/) | [Astral](/es/heroes/Astral/) |
+  | 2 | [Mantícora](/es/units/Manticore/) | [Monere](/es/heroes/Monere/) |
+  | 3 | [Diablo](/es/units/Devil/) | [Ciele](/es/heroes/Ciele/) |
+  | 4 | [Dragón de Hueso](/es/units/Bone Dragon/) | - |
+  | 5 | [Aparición](/es/units/Wight/) | - |
+  | 6 | [Campeón Oscuro](/es/units/Dark Champion/) | - |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos silenciados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgona](/units/Gorgona/) | - |
-  | 2 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Gorgona](/es/units/Gorgon/) | - |
+  | 2 | [Libélula Menor](/es/units/Serpent Fly/) | - |

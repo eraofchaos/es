@@ -2,7 +2,7 @@
 title: "Cristal de Hielo Profundo"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Cristal de Hielo Profundo. Cristal de Hielo Profundo"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Deep Ice Crystal.md"
 toc: false

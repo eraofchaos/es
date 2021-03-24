@@ -2,7 +2,7 @@
 title: "Capa ligera"
 permalink: /equipment/Light Cape/
 excerpt: "Era of Chaos Capa ligera. Capa ligera"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Light Cape.md"
 toc: false

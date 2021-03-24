@@ -2,7 +2,7 @@
 title: "Escudo del Centinela"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Escudo del Centinela. Escudo del Centinela"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Sentinel's Shield.md"
 toc: false

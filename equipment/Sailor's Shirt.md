@@ -2,7 +2,7 @@
 title: "Camisa de Marinero"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Camisa de Marinero. Camisa de Marinero"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Sailor's Shirt.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Herradura de Ceniza"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Herradura de Ceniza. Herradura de Ceniza"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Ash Horseshoe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Información de combinación for Escudo"
 permalink: /combination/Shield/
 excerpt: "Información de combinación - Escudo. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Escudo.md"
 toc: false
@@ -16,19 +16,19 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Elfa del Bosque](/units/Elfa del Bosque/) | [Gem](/heroes/Gem/) |
-  | 2 | [Pegaso](/units/Pegaso/) | [Ryland](/heroes/Ryland/) |
-  | 3 | [Guardia Dendroide](/units/Guardia Dendroide/) | [Mephala](/heroes/Mephala/) |
-  | 4 | [Unicornio](/units/Unicornio/) | [Gelu](/heroes/Gelu/) |
-  | 5 | [Druida](/units/Druida/) | [Erdamon](/heroes/Erdamon/) |
-  | 6 | [Tortuga Dragón](/units/Tortuga Dragón/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Elfa del Bosque](/es/units/Wood Elf/) | [Gem](/es/heroes/Gem/) |
+  | 2 | [Pegaso](/es/units/Pegasus/) | [Ryland](/es/heroes/Ryland/) |
+  | 3 | [Guardia Dendroide](/es/units/Dendroid Guard/) | [Mephala](/es/heroes/Mephala/) |
+  | 4 | [Unicornio](/es/units/Unicorn/) | [Gelu](/es/heroes/Gelu/) |
+  | 5 | [Druida](/es/units/Druid/) | [Erdamon](/es/heroes/Erdamon/) |
+  | 6 | [Tortuga Dragón](/es/units/Dragon Turtle/) | [Wystan](/es/heroes/Wystan/) |
 
 
 #### Las unidades y los Héroes reciben una ventaja adicional al tener escudo
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | - | [Gem](/heroes/Gem/) |
-  | 2 | - | [Ryland](/heroes/Ryland/) |
-  | 3 | - | [Mephala](/heroes/Mephala/) |
-  | 4 | - | [Jenova](/heroes/Jenova/) |
+  | 1 | - | [Gem](/es/heroes/Gem/) |
+  | 2 | - | [Ryland](/es/heroes/Ryland/) |
+  | 3 | - | [Mephala](/es/heroes/Mephala/) |
+  | 4 | - | [Jenova](/es/heroes/Jenova/) |

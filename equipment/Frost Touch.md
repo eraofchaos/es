@@ -2,7 +2,7 @@
 title: "Toque gélido"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Toque gélido. Toque gélido"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Frost Touch.md"
 toc: false

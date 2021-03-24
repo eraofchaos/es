@@ -2,7 +2,7 @@
 title: "Exclusivo - Llama eterna"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Llama eterna. Llama eterna. Era of Chaos Exclusivo Llama eterna. Pájaro Ígneo Exclusivo."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Firebird Llama eterna.md"
 toc: false

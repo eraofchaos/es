@@ -2,7 +2,7 @@
 title: "Tentáculos del Abismo"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Tentáculos del Abismo. Tentáculos del Abismo"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Tentacles from the Abyss.md"
 toc: false

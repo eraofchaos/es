@@ -2,7 +2,7 @@
 title: "Información de combinación for Moral alta"
 permalink: /combination/High Morale/
 excerpt: "Información de combinación - Moral alta. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Moral alta.md"
 toc: false
@@ -16,21 +16,21 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Monje](/units/Monje/) | [Roland](/heroes/Roland/) |
-  | 2 | [Paladín](/units/Paladín/) | [Mullich](/heroes/Mullich/) |
-  | 3 | [Adjudicadora](/units/Adjudicadora/) | [Catherine](/heroes/Catherine/) |
-  | 4 | - | [Korbac](/heroes/Korbac/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
-  | 6 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Monje](/es/units/Monk/) | [Roland](/es/heroes/Roland/) |
+  | 2 | [Paladín](/es/units/Paladin/) | [Mullich](/es/heroes/Mullich/) |
+  | 3 | [Adjudicadora](/es/units/Judicator/) | [Catherine](/es/heroes/Catherine/) |
+  | 4 | - | [Korbac](/es/heroes/Korbac/) |
+  | 5 | - | [Kendal](/es/heroes/Kendal/) |
+  | 6 | - | [Peter Lee](/es/heroes/Peter Lee/) |
 
 
 #### Las unidades y los Héroes reciben una ventaja adicional al tener moral alta
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Piquero](/units/Piquero/) | [Roland](/heroes/Roland/) |
-  | 2 | [Ballestero](/units/Ballestero/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Grifo](/units/Grifo/) | - |
-  | 4 | [Espadachín](/units/Espadachín/) | - |
-  | 5 | [Catafracto](/units/Catafracto/) | - |
-  | 6 | [Paladín](/units/Paladín/) | - |
+  | 1 | [Piquero](/es/units/Pikeman/) | [Roland](/es/heroes/Roland/) |
+  | 2 | [Ballestero](/es/units/Marksman/) | [Catherine](/es/heroes/Catherine/) |
+  | 3 | [Grifo](/es/units/Griffin/) | - |
+  | 4 | [Espadachín](/es/units/Swordsman/) | - |
+  | 5 | [Catafracto](/es/units/Cavalier /) | - |
+  | 6 | [Paladín](/es/units/Paladin/) | - |

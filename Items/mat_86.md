@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas de Alma"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Gemas de Alma"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: es
 ref: "mat_86.md"
 toc: false

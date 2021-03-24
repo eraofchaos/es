@@ -2,7 +2,7 @@
 title: "Información de combinación for Ralentizar"
 permalink: /combination/Slow/
 excerpt: "Información de combinación - Ralentizar. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Ralentizar.md"
 toc: false
@@ -16,24 +16,24 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Guardia Dendroide](/units/Guardia Dendroide/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Centauro](/units/Centauro/) | [Catherine](/heroes/Catherine/) |
-  | 3 | [Muerto Viviente](/units/Muerto Viviente/) | [Dracon](/heroes/Dracon/) |
-  | 4 | [Elemental de Hielo](/units/Elemental de Hielo/) | [Gem](/heroes/Gem/) |
-  | 5 | [Elemental del Mar](/units/Elemental del Mar/) | [Monere](/heroes/Monere/) |
-  | 6 | [Arquera Regnan](/units/Arquera Regnan/) | [Korbac](/heroes/Korbac/) |
-  | 7 | - | [Ciele](/heroes/Ciele/) |
-  | 8 | - | [Cassanbel](/heroes/Cassanbel/) |
-  | 9 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Guardia Dendroide](/es/units/Dendroid Guard/) | [Adelaide](/es/heroes/Adelaide/) |
+  | 2 | [Centauro](/es/units/Centaur/) | [Catherine](/es/heroes/Catherine/) |
+  | 3 | [Muerto Viviente](/es/units/Walking Dead/) | [Dracon](/es/heroes/Dracon/) |
+  | 4 | [Elemental de Hielo](/es/units/Ice Elemental/) | [Gem](/es/heroes/Gem/) |
+  | 5 | [Elemental del Mar](/es/units/Sea Elemental/) | [Monere](/es/heroes/Monere/) |
+  | 6 | [Arquera Regnan](/es/units/Regnan Archer/) | [Korbac](/es/heroes/Korbac/) |
+  | 7 | - | [Ciele](/es/heroes/Ciele/) |
+  | 8 | - | [Cassanbel](/es/heroes/Cassanbel/) |
+  | 9 | - | [Peter Lee](/es/heroes/Peter Lee/) |
 
 
 #### Las unidades y los Héroes infligen golpe doble contra enemigos ralentizados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Ballestero](/units/Ballestero/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Espadachín](/units/Espadachín/) | [Gelu](/heroes/Gelu/) |
-  | 3 | [Elfa del Bosque](/units/Elfa del Bosque/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 4 | [Jinete Lupino](/units/Jinete Lupino/) | - |
-  | 5 | [Gorgona](/units/Gorgona/) | - |
-  | 6 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Ballestero](/es/units/Marksman/) | [Adelaide](/es/heroes/Adelaide/) |
+  | 2 | [Espadachín](/es/units/Swordsman/) | [Gelu](/es/heroes/Gelu/) |
+  | 3 | [Elfa del Bosque](/es/units/Wood Elf/) | [Peter Lee](/es/heroes/Peter Lee/) |
+  | 4 | [Jinete Lupino](/es/units/Wolf Rider/) | - |
+  | 5 | [Gorgona](/es/units/Gorgon/) | - |
+  | 6 | [Libélula Menor](/es/units/Serpent Fly/) | - |

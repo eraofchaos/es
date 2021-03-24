@@ -2,7 +2,7 @@
 title: "Información de combinación for Plaga"
 permalink: /combination/Plague/
 excerpt: "Información de combinación - Plaga. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Plaga.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Libélula Menor](/units/Libélula Menor/) | - |
-  | 2 | [Hombre Lagarto](/units/Hombre Lagarto/) | - |
-  | 3 | [Guiverno](/units/Guiverno/) | - |
-  | 4 | [Hierbavispa](/units/Hierbavispa/) | - |
+  | 1 | [Libélula Menor](/es/units/Serpent Fly/) | - |
+  | 2 | [Hombre Lagarto](/es/units/Lizardman/) | - |
+  | 3 | [Guiverno](/es/units/Wyvern/) | - |
+  | 4 | [Hierbavispa](/es/units/Waspwort/) | - |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos plagados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgona](/units/Gorgona/) | - |
-  | 2 | [Libélula Menor](/units/Libélula Menor/) | - |
-  | 3 | [Guiverno](/units/Guiverno/) | - |
+  | 1 | [Gorgona](/es/units/Gorgon/) | - |
+  | 2 | [Libélula Menor](/es/units/Serpent Fly/) | - |
+  | 3 | [Guiverno](/es/units/Wyvern/) | - |

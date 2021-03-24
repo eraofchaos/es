@@ -2,7 +2,7 @@
 title: "Cola Encantada"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Cola Encantada. Cola Encantada"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Enchanted Tail.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Información de combinación for Ceguera"
 permalink: /combination/Blind/
 excerpt: "Información de combinación - Ceguera. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Ceguera.md"
 toc: false
@@ -16,12 +16,12 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Unicornio](/units/Unicornio/) | [Astral](/heroes/Astral/) |
+  | 1 | [Unicornio](/es/units/Unicorn/) | [Astral](/es/heroes/Astral/) |
 
 
 #### Las unidades y los Héroes infligen daño adicional a los enemigos cegados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgona](/units/Gorgona/) | [Jenova](/heroes/Jenova/) |
-  | 2 | [Libélula Menor](/units/Libélula Menor/) | [Astral](/heroes/Astral/) |
+  | 1 | [Gorgona](/es/units/Gorgon/) | [Jenova](/es/heroes/Jenova/) |
+  | 2 | [Libélula Menor](/es/units/Serpent Fly/) | [Astral](/es/heroes/Astral/) |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas poco comunes"
 permalink: /Items/mat_44/
 excerpt: "Era of Chaos  Gemas poco comunes"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: es
 ref: "mat_44.md"
 toc: false

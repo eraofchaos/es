@@ -3,7 +3,7 @@ title: "Engendro Venenoso"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos demonios nacieron de las llamas y las sombras en los fulgores de las profundidades del infierno. Según las leyendas que cuenta la gente, son pesadillas aterradoras que reducen a cenizas los campos de batalla con las llamas kármicas del pecado."
 unitID: 509
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Engendro Venenoso"
 toc: true

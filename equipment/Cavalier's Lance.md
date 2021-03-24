@@ -2,7 +2,7 @@
 title: "Lanza de Catafracto"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Era of Chaos Lanza de Catafracto. Lanza de Catafracto"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Cavalier's Lance.md"
 toc: false

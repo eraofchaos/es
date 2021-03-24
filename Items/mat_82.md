@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral de Alma"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Mineral de Alma"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: es
 ref: "mat_82.md"
 toc: false

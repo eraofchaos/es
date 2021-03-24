@@ -15,12 +15,12 @@ classes: wide
 
   |  Nr  | Refuerzos de batalla | Open Level | Habilidad especial  | Habilidad de campo de batalla | Habilidad global |
   |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Carga ofensiva](/es/Backup/Carga ofensiva/) |  | Carga ofensiva | Ataque de tormenta | Punta de lanza |
-  | 2  | [Bendición de Luna](/es/Backup/Bendición de Luna/) | 80 | Bendición de Luna | Curar | Poder de energía |
-  | 3  | [Guadaña de la Muerte](/es/Backup/Guadaña de la Muerte/) | 85 | Guadaña de la Muerte | Aniquilar | Erudición |
-  | 4  | [Presión ártica](/es/Backup/Presión ártica/) | 89 | Presión ártica | Energía poderosa | Alimentación |
-  | 5  | [Círculo de orden de hechizos](/es/Backup/Círculo de orden de hechizos/) | 93 | Círculo de orden de hechizos | Campo de fuerza | Incandescencia |
-  | 6  | [Caza en el bosque](/es/Backup/Caza en el bosque/) | 97 | Caza en el bosque | Incentivo | Potenciación |
+  | 1  | [Carga ofensiva](/es/Backup/Charge Offensive/) |  | Carga ofensiva | Ataque de tormenta | Punta de lanza |
+  | 2  | [Bendición de Luna](/es/Backup/Blessing of Luna/) | 80 | Bendición de Luna | Curar | Poder de energía |
+  | 3  | [Guadaña de la Muerte](/es/Backup/Scythe of the Death/) | 85 | Guadaña de la Muerte | Aniquilar | Erudición |
+  | 4  | [Presión ártica](/es/Backup/Arctic Coercion/) | 89 | Presión ártica | Energía poderosa | Alimentación |
+  | 5  | [Círculo de orden de hechizos](/es/Backup/Spell Commandment/) | 93 | Círculo de orden de hechizos | Campo de fuerza | Incandescencia |
+  | 6  | [Caza en el bosque](/es/Backup/Hunt in the Forest/) | 97 | Caza en el bosque | Incentivo | Potenciación |
 
 
 ## Habilidad especial  Level up costs:

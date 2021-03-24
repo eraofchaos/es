@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Monje"
 toc: true

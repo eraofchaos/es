@@ -2,7 +2,7 @@
 title: "Información de combinación for Congelación"
 permalink: /combination/Freeze/
 excerpt: "Información de combinación - Congelación. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Congelación.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Elemental de Hielo](/units/Elemental de Hielo/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Aeronave Mágica](/units/Aeronave Mágica/) | [Cassanbel](/heroes/Cassanbel/) |
+  | 1 | [Elemental de Hielo](/es/units/Ice Elemental/) | [Adelaide](/es/heroes/Adelaide/) |
+  | 2 | [Aeronave Mágica](/es/units/Magic Airship/) | [Cassanbel](/es/heroes/Cassanbel/) |
 
 
 #### Las unidades y los Héroes tienen ventaja contra enemigos congelados
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgona](/units/Gorgona/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Libélula Menor](/units/Libélula Menor/) | - |
+  | 1 | [Gorgona](/es/units/Gorgon/) | [Adelaide](/es/heroes/Adelaide/) |
+  | 2 | [Libélula Menor](/es/units/Serpent Fly/) | - |

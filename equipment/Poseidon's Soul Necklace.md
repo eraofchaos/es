@@ -2,7 +2,7 @@
 title: "Collar del Alma de Poseidón"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Collar del Alma de Poseidón. Collar del Alma de Poseidón"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Poseidon's Soul Necklace.md"
 toc: false

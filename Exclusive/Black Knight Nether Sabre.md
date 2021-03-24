@@ -2,7 +2,7 @@
 title: "Exclusivo - Sable del Inframundo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sable del Inframundo. Sable del Inframundo. Era of Chaos Exclusivo Sable del Inframundo. Caballero Negro Exclusivo."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Black Knight Sable del Inframundo.md"
 toc: false

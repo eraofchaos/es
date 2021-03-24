@@ -2,7 +2,7 @@
 title: "Núcleo de Magma"
 permalink: /equipment/Core of Magma/
 excerpt: "Era of Chaos Núcleo de Magma. Núcleo de Magma"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Core of Magma.md"
 toc: false

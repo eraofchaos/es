@@ -2,7 +2,7 @@
 title: "Información de combinación for Quemadura"
 permalink: /combination/Burning/
 excerpt: "Información de combinación - Quemadura. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: es
 ref: "Quemadura.md"
 toc: false
@@ -16,28 +16,28 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gog](/units/Gog/) | [Xeron](/heroes/Xeron/) |
-  | 2 | [Efrit](/units/Efrit/) | [Dragona Mutare](/heroes/Dragona Mutare/) |
-  | 3 | [Cíclope](/units/Cíclope/) | [Roland](/heroes/Roland/) |
-  | 4 | [Elemental de Fuego](/units/Elemental de Fuego/) | [Kilgor](/heroes/Kilgor/) |
-  | 5 | [Elemental Psíquico](/units/Elemental Psíquico/) | [Shiva](/heroes/Shiva/) |
-  | 6 | [Dragón Negro](/units/Dragón Negro/) | [Yog](/heroes/Yog/) |
-  | 7 | [Dragón Rojo](/units/Dragón Rojo/) | [Luna](/heroes/Luna/) |
-  | 8 | - | [Monere](/heroes/Monere/) |
-  | 9 | - | [Rashka](/heroes/Rashka/) |
-  | 10 | - | [Zydar](/heroes/Zydar/) |
-  | 11 | - | [Mutare](/heroes/Mutare/) |
-  | 12 | - | [Fiur](/heroes/Fiur/) |
-  | 13 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Gog](/es/units/Gog/) | [Xeron](/es/heroes/Xeron/) |
+  | 2 | [Efrit](/es/units/Efreeti/) | [Dragona Mutare](/es/heroes/Dragon Mutare/) |
+  | 3 | [Cíclope](/es/units/Cyclops/) | [Roland](/es/heroes/Roland/) |
+  | 4 | [Elemental de Fuego](/es/units/Fire Elemental/) | [Kilgor](/es/heroes/Kilgor/) |
+  | 5 | [Elemental Psíquico](/es/units/Psychic Elemental/) | [Shiva](/es/heroes/Shiva/) |
+  | 6 | [Dragón Negro](/es/units/Black Dragon/) | [Yog](/es/heroes/Yog/) |
+  | 7 | [Dragón Rojo](/es/units/Red Dragon/) | [Luna](/es/heroes/Luna/) |
+  | 8 | - | [Monere](/es/heroes/Monere/) |
+  | 9 | - | [Rashka](/es/heroes/Rashka/) |
+  | 10 | - | [Zydar](/es/heroes/Zydar/) |
+  | 11 | - | [Mutare](/es/heroes/Mutare/) |
+  | 12 | - | [Fiur](/es/heroes/Fiur/) |
+  | 13 | - | [Ciele](/es/heroes/Ciele/) |
 
 
 #### Las unidades y los Héroes infligen daño adicional a los enemigos con quemadura
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Diablo](/units/Diablo/) | [Luna](/heroes/Luna/) |
-  | 2 | [Pájaro Ígneo](/units/Pájaro Ígneo/) | [Xeron](/heroes/Xeron/) |
-  | 3 | [Dragón Negro](/units/Dragón Negro/) | [Fiur](/heroes/Fiur/) |
-  | 4 | [Gorgona](/units/Gorgona/) | [Dragona Mutare](/heroes/Dragona Mutare/) |
-  | 5 | [Libélula Menor](/units/Libélula Menor/) | - |
-  | 6 | [Hechicera Maligna](/units/Hechicera Maligna/) | - |
+  | 1 | [Diablo](/es/units/Devil/) | [Luna](/es/heroes/Luna/) |
+  | 2 | [Pájaro Ígneo](/es/units/Firebird/) | [Xeron](/es/heroes/Xeron/) |
+  | 3 | [Dragón Negro](/es/units/Black Dragon/) | [Fiur](/es/heroes/Fiur/) |
+  | 4 | [Gorgona](/es/units/Gorgon/) | [Dragona Mutare](/es/heroes/Dragon Mutare/) |
+  | 5 | [Libélula Menor](/es/units/Serpent Fly/) | - |
+  | 6 | [Hechicera Maligna](/es/units/Evil Sorceress/) | - |
