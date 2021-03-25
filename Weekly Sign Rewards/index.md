@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 14  Semana de la Necrópolis
+
+  |  Date  |      Reward    |    Reward Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Apr** | **3x [Esqueleto](/es/Items/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
+  | **6 Apr** | **3x [Muerto Viviente](/es/Items/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
+  | **7 Apr** | **100x <i class="fas fa-gem"/>**  | ¡Tus tropas han encontrado varios tesoros en la tumba antigua destruida! |
+  | **8 Apr** | **2x [Vampiro](/es/Items/unt_211/)**  | ¡Un escuadrón de Vampiros se une a tu ejército y te vuelves más fuerte! |
+  | **9 Apr** | **2x [Aparición](/es/Items/unt_210/)**  | ¡Un escuadrón de Apariciones se une a tu ejército y te vuelves más fuerte! |
+  | **10 Apr** | **5x [Cofre de unidad de Necrópolis](/es/Items/con_1271/)**  | ¡Tus unidades de Necrópolis te han traído varios cofres del tesoro! |
+  | **11 Apr** | **3x [Vidomina](/es/Items/her_372/)**  | ¡A Vidomina le interesan tus guerreros no muertos y está dispuesta a unirse a tu equipo! |
+
 
 #### 2021 Week 13  Semana de la Mazmorra
 

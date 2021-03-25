@@ -2,7 +2,7 @@
 title: "Hacha de Guerra de Gorgona"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Hacha de Guerra de Gorgona. Hacha de Guerra de Gorgona"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Gorgon Battle Axe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hacha de Guerra de Obsidiana"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Hacha de Guerra de Obsidiana. Hacha de Guerra de Obsidiana"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Obsidian Battle Axe.md"
 toc: false

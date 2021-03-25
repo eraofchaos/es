@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Alas de Grifo"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Alas de Grifo. Alas de Grifo. Era of Chaos Emblema Sagrado Alas de Grifo. Era of Chaos Orden Alas de Grifo"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Griffin Wings.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Alas de Grifo](/es/Emblem/Griffin Wings/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, DEF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 18% cuando luchan contra objetivos con menos del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +30, DEF +1,5%</span> | 
   | [Alas de Grifo](/es/Emblem/Griffin Wings/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, DEF +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 9% cuando luchan contra objetivos con menos del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +16, DEF +0,7%</span> | 

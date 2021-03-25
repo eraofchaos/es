@@ -2,7 +2,7 @@
 title: "Báculo Largo de Poder Místico"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Báculo Largo de Poder Místico. Báculo Largo de Poder Místico"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Long Staff of Mystic Power.md"
 toc: false

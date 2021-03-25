@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Hidra"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Facción:** [Fortaleza](/es/units/Faction Fortress/)
 
- **Race:** Unicornio
+ **Race:** Bestia Divina
 
  **Members:** [x1](/es/units/Unit Member x1/)
 

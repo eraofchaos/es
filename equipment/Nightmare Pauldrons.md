@@ -2,7 +2,7 @@
 title: "Hombreras de Pesadilla"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Hombreras de Pesadilla. Hombreras de Pesadilla"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Nightmare Pauldrons.md"
 toc: false

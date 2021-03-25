@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Bendición de la Reina"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Bendición de la Reina. Bendición de la Reina. Era of Chaos Emblema Sagrado Bendición de la Reina. Era of Chaos Orden Bendición de la Reina"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Queen's Blessing.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Bendición de la Reina](/es/Emblem/Queen's Blessing/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +9, Emblema Sagrado de DEF +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La primera vez que los PV son inferiores al 35%, aumenta la DEF un 60% durante 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +22,5, Emblema Sagrado de DEF +22,5</span> | 
   | [Bendición de la Reina](/es/Emblem/Queen's Blessing/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +4,5, Emblema Sagrado de DEF +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; La primera vez que los PV son inferiores al 35%, aumenta la DEF un 30% durante 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +11,5, Emblema Sagrado de DEF +11,5</span> | 

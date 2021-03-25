@@ -2,7 +2,7 @@
 title: "Artefacto - Elixir de Vida - Botella de energía"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Era of Chaos  Elixir de Vida - Botella de energía. Una botella que hace que su portador se sienta con energía. Uno de los componentes del Elixir de Vida."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Bottle of Energy.md"
 toc: false

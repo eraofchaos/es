@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Libélula Menor"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Libélula
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Bajo la ley natural de la \"supervivencia del más fuerte\", las armas de las Libélulas Menores evolucionan constantemente. Cuanto más afilados son sus aguijones, más letal es su veneno. Son unas depredadoras aterradoras y las señoras de las Tierras Cenagosas.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega una Libélula Menor con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Fortaleza y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Libélula Menor pestilente en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Despliega una Libélula Menor con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Fortaleza y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Forma de la Plaga
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Plaga de la ciénaga&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de unidad contra el objetivo un 50%. Si la unidad objetivo está bajo los efectos de petrificación, disminuye adicionalmente su reducción de daño de unidad un 20%. Dura 6 s.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Forma pestilente
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Plaga de la ciénaga&gt;</span><span style="color: #645252;font-size:18px"> Aumenta el daño de unidad contra el objetivo un 50%. Si la unidad objetivo está bajo los efectos de petrificación, disminuye adicionalmente su daño de unidad un 20%. Dura 6 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Aliento miasmático
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Libélulas en el aire&gt;</span><span style="color: #645252;font-size:18px"> Duplica el aumento de velocidad de ataque de la Libélula Menor.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Poder de la ciénaga
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Libélulas en el aire&gt;</span><span style="color: #645252;font-size:18px"> Duplica el aumento de golpe crítico de la Libélula Menor.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Poder exhausto
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Debilidad&gt;</span><span style="color: #645252;font-size:18px"> Disminuye adicionalmente la reducción de daño de unidad y la tenacidad de las unidades enemigas dentro del alcance un 5% y 80 respectivamente. Dura 10 s. Se acumula hasta 3 veces.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Energía agotada
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Debilidad&gt;</span><span style="color: #645252;font-size:18px"> Disminuye adicionalmente la defensa y la esquiva de las unidades enemigas dentro del alcance un 5% y 80 respectivamente. Dura 10 s. Se acumula hasta 3 veces.</span>
 
 ## Technical info
  **runart:** 0

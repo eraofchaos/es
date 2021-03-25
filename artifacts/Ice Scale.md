@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza - Escama de Hielo"
 permalink: /artifacts/Ice Scale/
 excerpt: "Era of Chaos  Espejo de Venganza - Escama de Hielo. Un objeto utilizado para regular la poderosa magia de escarcha. Uno de los componentes del Espejo de Venganza."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Ice Scale.md"
 toc: false

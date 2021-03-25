@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral legendario"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Mineral legendario"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "mat_54.md"
 toc: false

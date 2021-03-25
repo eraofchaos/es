@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Testigo"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Testigo. Testigo. Era of Chaos Emblema Sagrado Testigo. Era of Chaos Bien Testigo"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Witness.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Testigo](/es/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +20, PV +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 5%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 15% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +55, PV +20%</span> | 
   | [Testigo](/es/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la velocidad de ataque de las unidades desplegadas un 4%.  Cuando las unidades desplegadas maten a una unidad objetivo, la velocidad de ataque aumenta un 10% durante toda la batalla.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 

@@ -2,7 +2,7 @@
 title: "Peto de Hierro Endurecido"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Era of Chaos Peto de Hierro Endurecido. Peto de Hierro Endurecido"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Hardened Iron Chest Armor.md"
 toc: false

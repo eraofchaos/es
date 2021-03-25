@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco de Medusa"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco de Medusa. Arco de Medusa. Era of Chaos Exclusivo Arco de Medusa. Medusa Exclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Medusa Arco de Medusa.md"
 toc: false

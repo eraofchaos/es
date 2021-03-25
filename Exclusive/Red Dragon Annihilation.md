@@ -2,7 +2,7 @@
 title: "Exclusivo - Aniquilación"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Aniquilación. Aniquilación. Era of Chaos Exclusivo Aniquilación. Dragón Rojo Exclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Red Dragon Aniquilación.md"
 toc: false

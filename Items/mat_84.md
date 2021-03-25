@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio de Alma"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercurio de Alma"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "mat_84.md"
 toc: false

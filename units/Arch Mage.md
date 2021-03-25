@@ -3,7 +3,7 @@ title: "Archimaga"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Archimaga"
 toc: true
@@ -111,7 +111,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Los ataques normales de la Maga aumentan el ATQ un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, hasta un máximo de 20 acumulaciones. Las acumulaciones son permanentes si no se cambia de objetivo. Se pierden en cuanto se seleccione un nuevo objetivo.</span><span style="color: black">
 
 ### Habilidad normal 1 : Huracán
- **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Magas invoca un tornado que levanta a 1 unidad de la retaguardia enemiga aleatoria, lo que impide que ataque o use habilidades, pero aumenta la reducción de daño de la unidad un 100%. Un tornado inflige <span style="color: #48b946;font-size:20px">&lt;estática&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo. El tornado y el efecto de estática duran </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. (La retaguardia se refiere a las unidades hostiles que se encuentran al final de cada línea).</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Magas invoca un tornado que levanta a una unidad de la retaguardia enemiga aleatoria, impidiendo que esta ataque o use habilidades. Además, disminuye su reducción de daño de unidad un 20%. El tornado causa <span style="color: #48b946;font-size:20px">estática</span><span style="color: black"><span style="color: #645252;font-size:20px"> a la unidad objetivo. El tornado y el efecto de estática duran </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. (La retaguardia se refiere a la unidad enemiga que se encuentra al final de cada línea).</span><span style="color: black">
 
 ### Habilidad normal 2 : Pérdida de energía
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay unidades de Magas en el campo de batalla, la velocidad de recuperación de hechizos del Héroe se reduce en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un héroe aliado lanza un hechizo de aire, las Magas le restauran 2 de maná.</span><span style="color: black">

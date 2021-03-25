@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre superior"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Azufre superior"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "mat_22.md"
 toc: false

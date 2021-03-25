@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Monje"
 toc: true
@@ -110,36 +110,34 @@ toc: true
 ### Habilidad definitiva: Plegaria
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Monjes restablecen </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PV a la unidad amistosa con el porcentaje de PV más bajo cada 17 s.</span><span style="color: black">
 
-### Habilidad normal 1 : Bendiciones del valiente
- **Descripción:** <span style="color: #645252;font-size:20px">Al principio de la batalla, las unidades de Monjes proporcionan </span><span style="color: black"><span style="color: #48b946;font-size:20px">«Moral alta»</span><span style="color: black"><span style="color: #645252;font-size:20px"> a todas las unidades amistosas a su paso durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s.</span><span style="color: black">
+### Habilidad normal 1 : null
+ **Descripción:** 
 
 ### Habilidad normal 2 : Meditación
- **Descripción:** <span style="color: #645252;font-size:20px">Si hay unidades de Monjes en el campo de batalla, la velocidad de recuperación de hechizos del Héroe aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Si hay unidades de Monjes en el campo de batalla, la velocidad de recuperación de hechizos del Héroe aumenta en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 3 : Recuperación
- **Descripción:** <span style="color: #645252;font-size:20px">Los PV del Monje aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la curación un 50%.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Los PV del Monje aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta la curación un 50%.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Combate de asedio
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la caza de dragones. Cuando se enfrentan a una unidad de 1 hombre, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. </span><span style="color: black">
 
 ### Habilidad especial de la facción II : Resonancia de defensa
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Castillo son expertas en la defensa colectiva. Aumenta la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> por cada unidad que sobreviva.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str5 = "(LEVEL*1.5+2.5)"
-    let str6 = "(LEVEL*0.5+2.5)"
-    let str3 = "LEVEL*0.05+0.25"
-    let str4 = "LEVEL*4+16"
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*4+16"
+    let str4 = "(LEVEL*1.5+2.5)"
     let str1 = "(LEVEL*15+285)*0.01*ATK"
-    let str2 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*0.05+0.25"
     let res="ERR";
     try {
      res = eval(str5); document.getElementById('str5').textContent = res;
-     res = eval(str6); document.getElementById('str6').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;

@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - La senda del Asesino"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos La senda del Asesino. La senda del Asesino. Era of Chaos Emblema Sagrado La senda del Asesino. Era of Chaos Neutral La senda del Asesino"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Path of an Assassin.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [La senda del Asesino](/es/Emblem/Path of an Assassin/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado ATQ +6, PV +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la penetración en 90. Otorga 200 de golpe crítico adicionales al inicio de la batalla durante 30 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +16, PV +7%</span> | 
   | [La senda del Asesino](/es/Emblem/Path of an Assassin/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado ATQ +13, PV +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la penetración en 120. Otorga 300 de golpe crítico adicionales al inicio de la batalla durante 30 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado ATQ +30, PV +15%</span> | 

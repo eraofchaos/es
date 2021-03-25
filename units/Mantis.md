@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad."
 unitID: 209
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Mantis"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Facción:** [Murallas](/es/units/Faction Rampart/)
 
- **Race:** Unicornio
+ **Race:** Bestia Divina
 
  **Members:** [x1](/es/units/Unit Member x1/)
 

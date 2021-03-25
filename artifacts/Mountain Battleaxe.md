@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Hacha de Guerra de Montaña"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Hacha de Guerra de Montaña. Una reliquia que dejó el Rey de los Enanos tras la batalla de Enroth. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Mountain Battleaxe.md"
 toc: false

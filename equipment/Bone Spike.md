@@ -2,7 +2,7 @@
 title: "Pincho Óseo"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Pincho Óseo. Pincho Óseo"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Bone Spike.md"
 toc: false

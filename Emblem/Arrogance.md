@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Arrogancia"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Arrogancia. Arrogancia. Era of Chaos Emblema Sagrado Arrogancia. Era of Chaos Caos Arrogancia"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Arrogance.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Arrogancia](/es/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, DEF +0,1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 3% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +6, DEF +0,2%</span> | 
   | [Arrogancia](/es/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, DEF +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta el daño de las unidades desplegadas un 6% cuando luchan contra objetivos con más del 50% de PV.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +16, DEF +0,7%</span> | 

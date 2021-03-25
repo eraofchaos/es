@@ -2,7 +2,7 @@
 title: "Hombreras de la Naturaleza"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Hombreras de la Naturaleza. Hombreras de la Naturaleza"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Pauldrons of Wild.md"
 toc: false

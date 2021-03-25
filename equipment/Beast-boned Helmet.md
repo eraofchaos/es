@@ -2,7 +2,7 @@
 title: "Yelmo de Huesos de Bestia"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Yelmo de Huesos de Bestia. Yelmo de Huesos de Bestia"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Beast-boned Helmet.md"
 toc: false

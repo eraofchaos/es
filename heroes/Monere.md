@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere nació con la habilidad de controlar a los Elementales Psíquicos y de Magia. Es un general esencial para los Elementales."
 heroID: 60702
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: es
 ref: "Monere"
 toc: true

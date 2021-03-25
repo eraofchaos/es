@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Llave de piedra a los Portales"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Llave de piedra a los Portales. Llave de piedra a los Portales. Era of Chaos Emblema Sagrado Llave de piedra a los Portales. Era of Chaos Neutral Llave de piedra a los Portales"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Stone Key to the Gates.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, DEF +0,1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Al luchar contra objetivos sangrando, el daño de la unidad aumenta un 3%</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +6, DEF +0,2%</span> | 
   | [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +13, DEF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; el daño de unidad aumenta un 3%. Al luchar contra objetivos sangrando, el daño de la unidad aumenta un 9% adicional.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +30, DEF +1,5%</span> | 

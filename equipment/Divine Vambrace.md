@@ -2,7 +2,7 @@
 title: "Avambrazo Divino"
 permalink: /equipment/Divine Vambrace/
 excerpt: "Era of Chaos Avambrazo Divino. Avambrazo Divino"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Divine Vambrace.md"
 toc: false

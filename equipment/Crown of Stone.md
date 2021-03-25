@@ -2,7 +2,7 @@
 title: "Corona de Piedra"
 permalink: /equipment/Crown of Stone/
 excerpt: "Era of Chaos Corona de Piedra. Corona de Piedra"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Crown of Stone.md"
 toc: false

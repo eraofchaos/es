@@ -2,7 +2,7 @@
 title: "Guanteletes de Licántropo"
 permalink: /equipment/Werewolf's Gauntlets/
 excerpt: "Era of Chaos Guanteletes de Licántropo. Guanteletes de Licántropo"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Werewolf's Gauntlets.md"
 toc: false

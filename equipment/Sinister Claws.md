@@ -2,7 +2,7 @@
 title: "Garras Siniestras"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Garras Siniestras. Garras Siniestras"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Sinister Claws.md"
 toc: false

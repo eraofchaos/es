@@ -2,7 +2,7 @@
 title: "Cuerno de Fuego Rojo"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Era of Chaos Cuerno de Fuego Rojo. Cuerno de Fuego Rojo"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Horn of Red Fire.md"
 toc: false

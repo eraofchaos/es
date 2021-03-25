@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Basilisco"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Cola de Basilisco. Cola de Basilisco. Era of Chaos Exclusivo Cola de Basilisco. Basilisco Exclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Basilisk Cola de Basilisco.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aliento de Muerte"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Aliento de Muerte. Aliento de Muerte"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Breath of Death.md"
 toc: false

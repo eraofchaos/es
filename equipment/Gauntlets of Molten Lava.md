@@ -2,7 +2,7 @@
 title: "Guanteletes de Lava Fundida"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Guanteletes de Lava Fundida. Guanteletes de Lava Fundida"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Gauntlets of Molten Lava.md"
 toc: false

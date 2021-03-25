@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Units.md"
 toc: false
@@ -122,7 +122,7 @@ classes: wide
   | 108 | [Piedra de Alma de Hidra del Caos](/es/Items/unt_341/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Hidra del Caos. |
   | 109 | [Piedra de Alma de Hobgoblin](/es/Items/unt_305/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Hobgoblin |
   | 110 | [Piedra de Alma de Incursor Lupino](/es/Items/unt_306/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Incursor Lupino |
-  | 111 | [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Libélula Menor pestilente. |
+  | 111 | [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Libélula. |
   | 112 | [Piedra de Alma de Maga Elfa](/es/Items/unt_343/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Maga Elfa |
   | 113 | [Piedra de Alma de Magog](/es/Items/unt_314/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Magog |
   | 114 | [Piedra de Alma de Minotauro Rey](/es/Items/unt_332/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Minotauro Rey |
@@ -158,7 +158,7 @@ classes: wide
   | 144 | [Sirena](/es/Items/unt_277/){: .btn .btn--era4} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar a una Sirena. Las fichas también se pueden usar para mejorar o aumentar el rango de las Sirenas. |
   | 145 | [Tool_3209](/es/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 146 | [Tool_3509](/es/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 147 | [Tool_3709](/es/Items/unt_252/){: .btn .btn--era6} | Unit Soul |  |
+  | 147 | [Tool_3709](/es/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Cuando hayas reunido 80 fichas de alma, podrás invocar a una Hechicera Maligna. Las fichas también se pueden usar para aumentar el rango de la Hechicera Maligna. |
   | 148 | [Tool_3809](/es/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 149 | [Tool_94601](/es/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 150 | [Tool_94602](/es/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

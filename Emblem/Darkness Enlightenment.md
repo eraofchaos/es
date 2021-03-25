@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Iluminación de oscuridad"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Iluminación de oscuridad. Iluminación de oscuridad. Era of Chaos Emblema Sagrado Iluminación de oscuridad. Era of Chaos Maligno Iluminación de oscuridad"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Darkness Enlightenment.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Iluminación de oscuridad](/es/Emblem/Darkness Enlightenment/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +2, ATQ +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Tiene un 30% de probabilidad de disminuir la reducción de daño de la unidad objetivo un 1% cada vez que la unidad desplegada ataque. El efecto dura 3 s, se acumula hasta 5 veces (el efecto de conjunto del Emblema Sagrado de alta calidad cubrirá lo que ofrece el Emblema Sagrado de baja calidad)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +6, ATQ +2%</span> | 
   | [Iluminación de oscuridad](/es/Emblem/Darkness Enlightenment/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; Emblema Sagrado de ATQ +6, ATQ +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Tiene un 35% de probabilidad de disminuir la reducción de daño de la unidad objetivo un 1% cada vez que ataque la unidad desplegada. El efecto dura 3 s, se acumula hasta 10 veces (el efecto de conjunto del Emblema Sagrado de alta calidad cubrirá lo que ofrece el Emblema Sagrado de baja calidad)</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Emblema Sagrado de ATQ +16, ATQ +7%</span> | 

@@ -2,7 +2,7 @@
 title: "Exclusivo - Durandel"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durandel. Durandel. Era of Chaos Exclusivo Durandel. Ángel Exclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Angel Durandel.md"
 toc: false

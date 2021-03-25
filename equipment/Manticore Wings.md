@@ -2,7 +2,7 @@
 title: "Alas de Mantícora"
 permalink: /equipment/Manticore Wings/
 excerpt: "Era of Chaos Alas de Mantícora. Alas de Mantícora"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: es
 ref: "Manticore Wings.md"
 toc: false

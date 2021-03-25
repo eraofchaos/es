@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Santuario de Kosmos"
 permalink: /Emblem/Sanctuary of Kosmos/
 excerpt: "Era of Chaos Santuario de Kosmos. Santuario de Kosmos. Era of Chaos Emblema Sagrado Santuario de Kosmos. Era of Chaos Orden Santuario de Kosmos"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: es
 ref: "Sanctuary of Kosmos.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nombre            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nombre    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; PV +10%, Emblema Sagrado de DEF +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;aturdidas&gt; o &lt;silenciadas&gt;, aumentan la DEF un 24% durante 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; PV +20%, DEF de Emblema Sagrado +55</span> | 
   | [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; PV +1%, Emblema Sagrado de DEF +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Cuando las unidades desplegadas están &lt;aturdidas&gt; o &lt;silenciadas&gt;, aumentan la DEF un 4% durante 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; PV +2%, DEF de Emblema Sagrado +6</span> | 
