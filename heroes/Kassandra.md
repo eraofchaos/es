@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. Las incomparables habilidades para el combate de Kassandra se deben a la educación espartana que recibió de niña. Cuando los espartanos la dieron por muerta en el monte Taigeto, se convirtió en mercenaria."
 heroID: 62001
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Kassandra"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Ejército Neutral
 
- **Rate:** R
+ **Rate:** SSR-
+
+ **User Rate:** R
 
  **Specialty:** Legión Espartana
 

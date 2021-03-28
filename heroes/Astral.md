@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral llegó a Erathia hace más o menos una década y fue rápidamente aceptado por la Cofradía de Magos de Bracada. Tras obtener un alto rango en la Cofradía, algunos bromean sobre que tuvo que haber usado magia para ascender tan rápido."
 heroID: 61203
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Astral"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Torre
 
  **Rate:** SSR
+
+ **User Rate:** SSR
 
  **Specialty:** Amplificación mágica
 

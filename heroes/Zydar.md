@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar se centró durante buena parte de su vida en mejorar sus hechizos, convirtiéndose en un gran lanzahechizos antes de hacerse con el liderazgo en el campo de batalla. Es más fiable que la mayoría de los demonios."
 heroID: 60901
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Zydar"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Infierno
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Invocación infernal
 

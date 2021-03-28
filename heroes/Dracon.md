@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia."
 heroID: 61202
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Dracon"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Torre
 
- **Rate:** R
+ **Rate:** SR+
+
+ **User Rate:** R
 
  **Specialty:** Encantador
 

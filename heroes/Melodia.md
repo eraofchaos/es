@@ -3,7 +3,7 @@ title: "Melodía"
 permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodía. Melodía. Melodía es una Druida afortunada. Logra victorias milagrosas, incluso cuando tiene todas las de perder. Por ello, todas las tropas desean tenerla como líder."
 heroID: 60201
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Melodia"
 toc: true
@@ -14,7 +14,9 @@ toc: true
 
  **Race:** Murallas
 
- **Rate:** R
+ **Rate:** SSR-
+
+ **User Rate:** R
 
  **Specialty:** Buena fortuna
 

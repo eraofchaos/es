@@ -2,7 +2,7 @@
 title: "Ayudante Fiur"
 permalink: /heroes/Adjutant Fiur/
 excerpt: "Era of Chaos  Ayudante Fiur"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Adjutant Fiur.md"
 toc: false

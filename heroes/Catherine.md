@@ -3,7 +3,7 @@ title: "Catherine"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Catherine. Catherine. Como Reina de Erathia, Catherine se ha visto forzada a luchar en una guerra para conservar el Reino fundado por su padre. Luchará hasta el enfrentamiento final de la Espada del Apocalipsis."
 heroID: 60102
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Catherine"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Castillo
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Cruzado de Hierro
 

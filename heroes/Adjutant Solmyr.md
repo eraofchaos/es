@@ -2,7 +2,7 @@
 title: "Ayudante Solmyr"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "Era of Chaos  Ayudante Solmyr"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Adjutant Solmyr.md"
 toc: false

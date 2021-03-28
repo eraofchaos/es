@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele se encuentra entre los primeros Héroes que se unieron a los Elementales y es una general victoriosa en el campo de batalla. Descubrió su conexión con los Elementales de Magia con sus flechas mágicas."
 heroID: 60705
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: es
 ref: "Ciele"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Conflujo
 
  **Rate:** SSR
+
+ **User Rate:** SSR
 
  **Specialty:** Resonancia elemental
 
