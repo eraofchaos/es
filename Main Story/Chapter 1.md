@@ -1,7 +1,7 @@
 ---
-title: "Historia principal - Capítulo 1"
+title: "Historia principal - Capítulo 1 Isla Siemprealbor"
 permalink: /Main Story/Chapter 1/
-excerpt: "Capítulo 1. Era of Chaos  Historia principal - Capítulo 1."
+excerpt: "Capítulo 1. Era of Chaos  Historia principal - Capítulo 1. Isla Siemprealbor"
 last_modified_at: 2021-03-30
 locale: es
 ref: "Chapter 1.md"

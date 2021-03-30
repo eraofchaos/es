@@ -1,7 +1,7 @@
 ---
-title: "Historia principal - Capítulo 23"
+title: "Historia principal - Capítulo 23 Dragón oxidado"
 permalink: /Main Story/Chapter 23/
-excerpt: "Capítulo 23. Era of Chaos  Historia principal - Capítulo 23."
+excerpt: "Capítulo 23. Era of Chaos  Historia principal - Capítulo 23. Dragón oxidado"
 last_modified_at: 2021-03-30
 locale: es
 ref: "Chapter 23.md"

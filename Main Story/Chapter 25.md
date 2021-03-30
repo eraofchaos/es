@@ -1,7 +1,7 @@
 ---
-title: "Historia principal - Capítulo 25"
+title: "Historia principal - Capítulo 25 Supervivencia del más fuerte"
 permalink: /Main Story/Chapter 25/
-excerpt: "Capítulo 25. Era of Chaos  Historia principal - Capítulo 25."
+excerpt: "Capítulo 25. Era of Chaos  Historia principal - Capítulo 25. Supervivencia del más fuerte"
 last_modified_at: 2021-03-30
 locale: es
 ref: "Chapter 25.md"

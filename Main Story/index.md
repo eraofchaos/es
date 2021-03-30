@@ -19,7 +19,7 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 1](/es/Main Story/Chapter 1/) | TBD | 
+  | [Capítulo 1](/es/Main Story/Chapter 1/) | Isla Siemprealbor | 
 
 
 ## El retorno de la reina: Capítulo 2 - Capítulo 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 2](/es/Main Story/Chapter 2/) | TBD | 
-  | [Capítulo 3](/es/Main Story/Chapter 3/) | TBD | 
-  | [Capítulo 4](/es/Main Story/Chapter 4/) | TBD | 
+  | [Capítulo 2](/es/Main Story/Chapter 2/) | El retorno de la reina | 
+  | [Capítulo 3](/es/Main Story/Chapter 3/) | Ángel guardián | 
+  | [Capítulo 4](/es/Main Story/Chapter 4/) | Acantilados de los Grifos | 
 
 
 ## Unidad infernal: Capítulo 5 - Capítulo 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 5](/es/Main Story/Chapter 5/) | TBD | 
-  | [Capítulo 6](/es/Main Story/Chapter 6/) | TBD | 
-  | [Capítulo 7](/es/Main Story/Chapter 7/) | TBD | 
-  | [Capítulo 8](/es/Main Story/Chapter 8/) | TBD | 
+  | [Capítulo 5](/es/Main Story/Chapter 5/) | Byrds | 
+  | [Capítulo 6](/es/Main Story/Chapter 6/) | Abrirse camino | 
+  | [Capítulo 7](/es/Main Story/Chapter 7/) | Erathia | 
+  | [Capítulo 8](/es/Main Story/Chapter 8/) | Tierras fronterizas | 
 
 
 ## Batalla en la frontera: Capítulo 9 - Capítulo 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 9](/es/Main Story/Chapter 9/) | TBD | 
-  | [Capítulo 10](/es/Main Story/Chapter 10/) | TBD | 
-  | [Capítulo 11](/es/Main Story/Chapter 11/) | TBD | 
-  | [Capítulo 12](/es/Main Story/Chapter 12/) | TBD | 
+  | [Capítulo 9](/es/Main Story/Chapter 9/) | Tierra del caos | 
+  | [Capítulo 10](/es/Main Story/Chapter 10/) | Marjalia | 
+  | [Capítulo 11](/es/Main Story/Chapter 11/) | Tatalia | 
+  | [Capítulo 12](/es/Main Story/Chapter 12/) | Mar de hielo | 
 
 
 ## Refuerzos mágicos: Capítulo 13 - Capítulo 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 13](/es/Main Story/Chapter 13/) | TBD | 
-  | [Capítulo 14](/es/Main Story/Chapter 14/) | TBD | 
-  | [Capítulo 15](/es/Main Story/Chapter 15/) | TBD | 
+  | [Capítulo 13](/es/Main Story/Chapter 13/) | Del día a la noche | 
+  | [Capítulo 14](/es/Main Story/Chapter 14/) | Camino seguro | 
+  | [Capítulo 15](/es/Main Story/Chapter 15/) | Frente unido | 
 
 
 ## Venganza de AvLee: Capítulo 16 - Capítulo 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 16](/es/Main Story/Chapter 16/) | TBD | 
-  | [Capítulo 17](/es/Main Story/Chapter 17/) | TBD | 
-  | [Capítulo 18](/es/Main Story/Chapter 18/) | TBD | 
+  | [Capítulo 16](/es/Main Story/Chapter 16/) | Por el rey y la nación | 
+  | [Capítulo 17](/es/Main Story/Chapter 17/) | Liberación del imperio | 
+  | [Capítulo 18](/es/Main Story/Chapter 18/) | Pactando con el diablo | 
 
 
 ## Poder y magia: Capítulo 19 - Capítulo 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 19](/es/Main Story/Chapter 19/) | TBD | 
-  | [Capítulo 20](/es/Main Story/Chapter 20/) | TBD | 
-  | [Capítulo 21](/es/Main Story/Chapter 21/) | TBD | 
+  | [Capítulo 19](/es/Main Story/Chapter 19/) | Terreno neutral | 
+  | [Capítulo 20](/es/Main Story/Chapter 20/) | Túneles y trogloditas | 
+  | [Capítulo 21](/es/Main Story/Chapter 21/) | El Grial | 
 
 
 ## Matadragones: Capítulo 22 - Capítulo 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 22](/es/Main Story/Chapter 22/) | TBD | 
-  | [Capítulo 23](/es/Main Story/Chapter 23/) | TBD | 
-  | [Capítulo 24](/es/Main Story/Chapter 24/) | TBD | 
+  | [Capítulo 22](/es/Main Story/Chapter 22/) | Dragón de cristal | 
+  | [Capítulo 23](/es/Main Story/Chapter 23/) | Dragón oxidado | 
+  | [Capítulo 24](/es/Main Story/Chapter 24/) | Dragón hada | 
 
 
 ## Sangre de dragón: Capítulo 25 - Capítulo 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [Capítulo 25](/es/Main Story/Chapter 25/) | TBD | 
-  | [Capítulo 26](/es/Main Story/Chapter 26/) | TBD | 
-  | [Capítulo 27](/es/Main Story/Chapter 27/) | TBD | 
+  | [Capítulo 25](/es/Main Story/Chapter 25/) | Supervivencia del más fuerte | 
+  | [Capítulo 26](/es/Main Story/Chapter 26/) | Aumentar la ventaja | 
+  | [Capítulo 27](/es/Main Story/Chapter 27/) | Sangre del padre de los dragones | 
 
 
 ## Camino al amanecer: Capítulo 28 - Capítulo 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [](/es/Main Story/Chapter 28/) | TBD | 
-  | [](/es/Main Story/Chapter 29/) | TBD | 
-  | [](/es/Main Story/Chapter 30/) | TBD | 
+  | [](/es/Main Story/Chapter 28/) | Túneles y trogloditas | 
+  | [](/es/Main Story/Chapter 29/) |  | 
+  | [](/es/Main Story/Chapter 30/) |  | 
 
 

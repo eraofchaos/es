@@ -1,7 +1,7 @@
 ---
-title: "Historia principal - Capítulo 5"
+title: "Historia principal - Capítulo 5 Byrds"
 permalink: /Main Story/Chapter 5/
-excerpt: "Capítulo 5. Era of Chaos  Historia principal - Capítulo 5."
+excerpt: "Capítulo 5. Era of Chaos  Historia principal - Capítulo 5. Byrds"
 last_modified_at: 2021-03-30
 locale: es
 ref: "Chapter 5.md"

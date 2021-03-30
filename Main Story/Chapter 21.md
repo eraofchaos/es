@@ -1,7 +1,7 @@
 ---
-title: "Historia principal - Capítulo 21"
+title: "Historia principal - Capítulo 21 El Grial"
 permalink: /Main Story/Chapter 21/
-excerpt: "Capítulo 21. Era of Chaos  Historia principal - Capítulo 21."
+excerpt: "Capítulo 21. Era of Chaos  Historia principal - Capítulo 21. El Grial"
 last_modified_at: 2021-03-30
 locale: es
 ref: "Chapter 21.md"
