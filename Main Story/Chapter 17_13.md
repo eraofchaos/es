@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-13 Pesadilla en Casa"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Capítulo 17 - 13. Era of Chaos  Historia principal - Capítulo 17_13. 17-13 Pesadilla en Casa"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 17_13.md"
 toc: false

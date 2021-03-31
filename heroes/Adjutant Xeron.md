@@ -2,7 +2,7 @@
 title: "Ayudante Xeron"
 permalink: /heroes/Adjutant Xeron/
 excerpt: "Era of Chaos  Ayudante Xeron"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: es
 ref: "Adjutant Xeron.md"
 toc: false

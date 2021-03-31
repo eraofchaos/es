@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-8 Las Intenciones del Enemigo"
 permalink: /Main Story/Chapter 26_8/
 excerpt: "Capítulo 26 - 8. Era of Chaos  Historia principal - Capítulo 26_8. 26-8 Las Intenciones del Enemigo"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 26_8.md"
 toc: false

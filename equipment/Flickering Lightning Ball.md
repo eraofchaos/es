@@ -2,7 +2,7 @@
 title: "Bola de Relámpago Titilante"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Bola de Relámpago Titilante. Bola de Relámpago Titilante"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Flickering Lightning Ball.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-4 Visión Oscura"
 permalink: /Main Story/Chapter 27_4/
 excerpt: "Capítulo 27 - 4. Era of Chaos  Historia principal - Capítulo 27_4. 27-4 Visión Oscura"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 27_4.md"
 toc: false

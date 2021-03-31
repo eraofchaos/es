@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Minotauro Exclusivo."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Minotaur Escudo Iris.md"
 toc: false

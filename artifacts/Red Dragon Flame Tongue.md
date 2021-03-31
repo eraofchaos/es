@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Lengua Ígnea del Dragón Rojo"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Lengua Ígnea del Dragón Rojo. Una espada forjada a partir de cristales de dragón de fuego. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Red Dragon Flame Tongue.md"
 toc: false

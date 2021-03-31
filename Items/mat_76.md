@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera secreta"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Madera secreta"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_76.md"
 toc: false

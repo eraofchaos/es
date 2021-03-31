@@ -2,7 +2,7 @@
 title: "Era of Chaos  Faction Altar for October 2021"
 permalink: /FactionAltar/Faction Altar October_2021/
 excerpt: "Era of Chaos  Faction Altar for October 2021. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Faction Altar October_2021.md"
 toc: false
@@ -23,7 +23,7 @@ classes: wide
 
   |    Date    |  Race  |  Detalles  |   Drop Souls   | Drop Units |
   |:-----------|:-------|:---------:|:--------------:|:----------:|
-  | 27 Sep - 4 Oct | **Mazmorra** | [Faction Altar Drop Details](/es/FactionAltar/DROP_107/) | [Piedra de Alma de Troglodita Oscuro](/es/Items/unt_328/), [Piedra de Alma de Minotauro Rey](/es/Items/unt_332/), [Piedra de Alma de Rey Dragón Negro](/es/Items/unt_334/) | [Troglodita](/es/Items/unt_244/), [Arpía](/es/Items/unt_245/), [Minotauro](/es/Items/unt_248/), [Dragón Negro](/es/Items/unt_250/), [Dragón Rojo](/es/Items/unt_251/) | 
+  | 27 Sep - 4 Oct | **Cala** | [Faction Altar Drop Details](/es/FactionAltar/DROP_112/) |  - | [Piratas Regnan](/es/Items/unt_273/), [Arquera Regnan](/es/Items/unt_274/), [Elemental del Mar](/es/Items/unt_275/), [Tortuga Dragón](/es/Items/unt_278/), [Domador de Tiburones](/es/Items/unt_281/) | 
   | 4 - 11 Oct | **Necrópolis** | [Faction Altar Drop Details](/es/FactionAltar/DROP_104/) | [Piedra de Alma de Esqueleto Guerrero](/es/Items/unt_297/), [Piedra de Alma de Zombi](/es/Items/unt_298/), [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/), [Piedra de Alma de Dragón Fantasma](/es/Items/unt_303/) | [Esqueleto](/es/Items/unt_208/), [Muerto Viviente](/es/Items/unt_209/), [Aparición](/es/Items/unt_210/), [Vampiro](/es/Items/unt_211/), [Dragón de Hueso](/es/Items/unt_214/) | 
   | 11 - 18 Oct | **Conflujo** | [Faction Altar Drop Details](/es/FactionAltar/DROP_109/) | [Piedra de Alma de Furia del trueno](/es/Items/unt_344/), [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/), [Piedra de Alma de Elemental de Magia](/es/Items/unt_347/), [Piedra de Alma de Fénix](/es/Items/unt_348/) | [Hada](/es/Items/unt_262/), [Elemental de Tormenta](/es/Items/unt_263/), [Elemental de Hielo](/es/Items/unt_264/), [Elemental Psíquico](/es/Items/unt_267/), [Pájaro Ígneo](/es/Items/unt_268/), [Duendecillo](/es/Items/unt_270/) | 
   | 18 - 25 Oct | **Bastión** | [Faction Altar Drop Details](/es/FactionAltar/DROP_103/) | [Piedra de Alma de Hobgoblin](/es/Items/unt_305/), [Piedra de Alma de Incursor Lupino](/es/Items/unt_306/), [Piedra de Alma de Comandante Orco](/es/Items/unt_307/), [Piedra de Alma del Mago Ogro](/es/Items/unt_308/), [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/), [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/), [Piedra de Alma del Antiguo Behemoth](/es/Items/unt_311/) | [Goblin](/es/Items/unt_217/), [Jinete Lupino](/es/Items/unt_218/), [Orco](/es/Items/unt_219/), [Ogro](/es/Items/unt_220/), [Roc](/es/Items/unt_221/), [Cíclope](/es/Items/unt_222/), [Behemoth](/es/Items/unt_223/), [Berserker](/es/Items/unt_224/) | 

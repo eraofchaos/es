@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Unit Member x9"
 toc: false
@@ -21,9 +21,9 @@ classes: wide
   | 7 | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 9 | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Arquero Maestro  |
-  | 10 | [Arpía](/es/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
+  | 10 | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Bruja Arpía  |
   | 11 | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |
-  | 12 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo sagrado  |
+  | 12 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 13 | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |
   | 14 | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitán Centauro  |
   | 15 | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrero Gnoll  |

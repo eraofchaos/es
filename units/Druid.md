@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Druida"
 toc: true

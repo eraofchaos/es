@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-7 Telaraña Mágica"
 permalink: /Main Story/Chapter 19_7/
 excerpt: "Capítulo 19 - 7. Era of Chaos  Historia principal - Capítulo 19_7. 19-7 Telaraña Mágica"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 19_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-3 Facción Neutral"
 permalink: /Main Story/Chapter 12_3/
 excerpt: "Capítulo 12 - 3. Era of Chaos  Historia principal - Capítulo 12_3. 12-3 Facción Neutral"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 12_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-9 El Origen del Orco"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "Capítulo 21 - 9. Era of Chaos  Historia principal - Capítulo 21_9. 21-9 El Origen del Orco"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 21_9.md"
 toc: false

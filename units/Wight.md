@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Aparición"
 toc: true

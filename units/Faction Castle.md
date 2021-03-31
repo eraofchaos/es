@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Faction Castle"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 2 | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Arquero Maestro  |
-  | 3 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo sagrado  |
+  | 3 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 4 | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
   | 5 | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
   | 6 | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Caballeros Campeones  |

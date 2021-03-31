@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-2 Asalto Demoníaco"
 permalink: /Main Story/Chapter 5_2/
 excerpt: "Capítulo 5 - 2. Era of Chaos  Historia principal - Capítulo 5_2. 5-2 Asalto Demoníaco"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 5_2.md"
 toc: false

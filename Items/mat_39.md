@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro de Esencias"
 permalink: /Items/mat_39/
 excerpt: "Era of Chaos  Libro de Esencias"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_39.md"
 toc: false

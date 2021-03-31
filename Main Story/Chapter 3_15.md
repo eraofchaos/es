@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-15 Ciudad del Pecado"
 permalink: /Main Story/Chapter 3_15/
 excerpt: "Capítulo 3 - 15. Era of Chaos  Historia principal - Capítulo 3_15. 3-15 Ciudad del Pecado"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 3_15.md"
 toc: false

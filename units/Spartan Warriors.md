@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Guerreros espartanos"
 toc: true

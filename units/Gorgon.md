@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Gorgona"
 toc: true

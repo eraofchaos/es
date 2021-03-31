@@ -2,7 +2,7 @@
 title: "Alas de Piedra"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Alas de Piedra. Alas de Piedra"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Stone Wings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Tentáculos de las Tentaciones"
 permalink: /equipment/Tentacles of Temptation/
 excerpt: "Era of Chaos Tentáculos de las Tentaciones. Tentáculos de las Tentaciones"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Tentacles of Temptation.md"
 toc: false

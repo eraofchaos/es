@@ -2,7 +2,7 @@
 title: "Historia principal -  "
 permalink: /Main Story/Chapter 30/
 excerpt: ". Era of Chaos  Historia principal - . "
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 30.md"
 toc: false

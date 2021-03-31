@@ -2,7 +2,7 @@
 title: "Información de combinación for Desaliento"
 permalink: /combination/Deterrence/
 excerpt: "Información de combinación - Desaliento. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Desaliento.md"
 toc: false

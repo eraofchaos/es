@@ -2,7 +2,7 @@
 title: "Armadura Ligera de Llamas"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Armadura Ligera de Llamas. Armadura Ligera de Llamas"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Light Armor of Flame.md"
 toc: false

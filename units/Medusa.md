@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Medusa"
 toc: true
@@ -80,7 +80,7 @@ toc: true
 
  **Nombre:** [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Arco de Medusa](/es/Items/con_991/)
 

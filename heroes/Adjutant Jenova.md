@@ -2,7 +2,7 @@
 title: "Ayudante Jenova"
 permalink: /heroes/Adjutant Jenova/
 excerpt: "Era of Chaos  Ayudante Jenova"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: es
 ref: "Adjutant Jenova.md"
 toc: false

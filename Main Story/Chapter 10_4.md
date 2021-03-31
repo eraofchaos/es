@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-4 Hacia la Tumba"
 permalink: /Main Story/Chapter 10_4/
 excerpt: "Capítulo 10 - 4. Era of Chaos  Historia principal - Capítulo 10_4. 10-4 Hacia la Tumba"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 10_4.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Grifo"
 toc: true
@@ -182,7 +182,7 @@ toc: true
 ### Awaking Detalles
  **Is it possible right now?** YES
 
- **Awaking Name:** Grifo sagrado
+ **Awaking Name:** Grifo real
 
  **Awaking Descripción:** Los Grifos entrenados por la familia Edrick ahora hacen las veces de guardianes de Erathia. Surcan los cielos del castillo día y noche. Los invasores lo bastante osados como para aproximarse al castillo, terminan hechos pedazos a causa de las afiladas garras de los Grifos.
 
@@ -191,7 +191,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Grifo sagrado en el Subterráneo: niveles 15-2 y 15-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Grifo real en el Subterráneo: niveles 15-2 y 15-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Despliega un Grifo con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Castillo y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 

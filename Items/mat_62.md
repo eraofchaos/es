@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera mítica"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Madera mítica"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_62.md"
 toc: false

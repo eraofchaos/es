@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Serpiente Regnan"
 toc: true

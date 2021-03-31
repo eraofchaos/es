@@ -2,7 +2,7 @@
 title: "Armadura Infernal"
 permalink: /equipment/Hellish Armor/
 excerpt: "Era of Chaos Armadura Infernal. Armadura Infernal"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Hellish Armor.md"
 toc: false

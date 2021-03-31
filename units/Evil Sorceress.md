@@ -3,7 +3,7 @@ title: "Hechicera Maligna"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios."
 unitID: 709
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Hechicera Maligna"
 toc: true
@@ -35,45 +35,45 @@ toc: true
  **Position :** Refleja los hechizos. Domina las ventajas.
 
 ## Atributos básicos
- **Base HP: 5770.0**
+ **Base HP: 6000.0**
 
- **Base ATK: 633.6**
+ **Base ATK: 550.0**
 
  **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Verde | 316.8 | 12.0 | 4327.5 |
-  | Azul | 633.6 | 24.0 | 8655.0 |
-  | Azul +1 | 950.4 | 36.0 | 12982.5 |
-  | Azul +2 | 1330.56 | 50.4 | 18175.5 |
-  | Violeta | 1710.72 | 64.8 | 23368.5 |
-  | Violeta +1 | 2090.88 | 79.2 | 28561.5 |
-  | Violeta +2 | 2534.4 | 96.0 | 34620.0 |
-  | Violeta +3 | 2977.92 | 112.8 | 40678.5 |
-  | Naranja | 3421.44 | 129.6 | 46737.0 |
-  | Naranja +1 | 3928.32 | 148.8 | 53661.0 |
-  | Naranja +2 | 4435.2 | 168.0 | 60585.0 |
-  | Naranja +3 | 4942.08 | 187.2 | 67509.0 |
-  | Naranja +4 | 5448.96 | 206.4 | 74433.0 |
-  | Naranja +5 | 6209.28 | 235.2 | 84819.0 |
-  | Rojo | 7223.04 | 273.6 | 98667.0 |
+  | Verde | 275.0 | 13.0 | 4500.0 |
+  | Azul | 550.0 | 26.0 | 9000.0 |
+  | Azul +1 | 825.0 | 39.0 | 13500.0 |
+  | Azul +2 | 1155.0 | 54.6 | 18900.0 |
+  | Violeta | 1485.0 | 70.2 | 24300.0 |
+  | Violeta +1 | 1815.0 | 85.8 | 29700.0 |
+  | Violeta +2 | 2200.0 | 104.0 | 36000.0 |
+  | Violeta +3 | 2585.0 | 122.2 | 42300.0 |
+  | Naranja | 2970.0 | 140.4 | 48600.0 |
+  | Naranja +1 | 3410.0 | 161.2 | 55800.0 |
+  | Naranja +2 | 3850.0 | 182.0 | 63000.0 |
+  | Naranja +3 | 4290.0 | 202.8 | 70200.0 |
+  | Naranja +4 | 4730.0 | 223.6 | 77400.0 |
+  | Naranja +5 | 5390.0 | 254.8 | 88200.0 |
+  | Rojo | 6270.0 | 296.4 | 102600.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
-  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
-  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
-  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+  | **3x** <i class="fas fa-star"/> | 77.0 | 0.55 | 6.72 | 840.0 |
+  | **4x** <i class="fas fa-star"/> | 88.0 | 0.58 | 7.48 | 960.0 |
+  | **5x** <i class="fas fa-star"/> | 99.0 | 0.6 | 8.24 | 1080.0 |
+  | **6x** <i class="fas fa-star"/> | 110.0 | 0.63 | 9.0 | 1200.0 |
 
 ## Equipo
 
   | I | Equipo  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/es/equipment/UnknownEquipment_7091/) | **ATQ** | **DEF** | 
-  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/es/equipment/UnknownEquipment_7092/) | **PV** | **DEF** | 
-  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/es/equipment/UnknownEquipment_7093/) | **ATQ** | **DEF** | 
-  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/es/equipment/UnknownEquipment_7094/) | **PV** | **DEF** | 
+  | ![Báculo Rompehechizos](/images/e/e_7091.png) | [Báculo Rompehechizos](/es/equipment/Spell Breaker's Staff/) | **ATQ** | **DEF** | 
+  | ![Alas demoníacas](/images/e/e_7092.png) | [Alas demoníacas](/es/equipment/Demonic Wings/) | **PV** | **DEF** | 
+  | ![Guanteletes craneales](/images/e/e_7093.png) | [Guanteletes craneales](/es/equipment/Cranial Gauntlets/) | **ATQ** | **DEF** | 
+  | ![Hueso duro](/images/e/e_7094.png) | [Hueso duro](/es/equipment/Hard Bone/) | **PV** | **DEF** | 
 
 ## Exclusivo
 
@@ -104,36 +104,38 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Hechicera Maligna se vuelve inmune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">silencio</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando la Hechicera Maligna está en el campo de batalla, aumenta el maná inicial de tus héroes en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Al inicio de la batalla, lanza &lt;Espejo Mágico&gt; sobre sí misma y 1 unidad que no sea grande, lo cual dura todo el combate. Aumenta la reducción de daño de unidad de Hechicera Maligna un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> al luchar contra unidades a distancia/lanzadoras.</span><span style="color: black">
 
 ### Habilidad normal 2 : Báculo Rompehechizos
- **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de unidad de la Hechicera Maligna un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un héroe enemigo lanza un conjuro, la Hechicera Maligna inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ y un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a las unidades enemigas a cierta distancia de la unidad objetivo, e inflige un daño equivalente al 1,5% de sus PV máximos a todas las unidades enemigas. También causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">aturdimiento</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">envenenadas</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 4 s y les inflige un daño adicional equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadas</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de unidad de la Hechicera Maligna un 50% al luchar contra unidades de Torre.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de unidad de la Hechicera Maligna un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la DEF un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando un héroe enemigo lanza un hechizo, la Hechicera Maligna inflige un daño equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del ATQ y un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a las unidades enemigas a cierta distancia de la unidad objetivo, e inflige un daño equivalente al 1,5% de sus PV máximos a todas las unidades enemigas. También causa </span><span style="color: black"><span style="color: #48b946;font-size:20px">aturdimiento</span><span style="color: black"><span style="color: #645252;font-size:20px"> a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">envenenadas</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 4 s y les inflige daño adicional equivalente al </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos a las unidades </span><span style="color: black"><span style="color: #48b946;font-size:20px">quemadas</span><span style="color: black"><span style="color: #645252;font-size:20px">. Aumenta el daño de unidad de la Hechicera Maligna un 50% al luchar contra unidades de Torre.</span><span style="color: black">
 
 ### Habilidad normal 3 : Teletransporte
- **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales de las unidades de carga de Mazmorra tienen un 5% de probabilidad de causar aturdimiento a los objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">envenenados</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 2 s. 4 s después de entrar en el campo de batalla, la Hechicera Maligna aumenta la velocidad de ataque de las unidades de carga amistosas un 15%. Este efecto dura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. La Hechicera Maligna se desplaza entre las sombras y la realidad. La Hechicera Maligna es inmune al daño de unidad, pero no se puede curar mientras está en las sombras. Dura 2 s La recarga es de 5 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los ataques normales de las unidades de carga de Mazmorra tienen un 5% de probabilidad de causar aturdimiento a los objetivos </span><span style="color: black"><span style="color: #48b946;font-size:20px">envenenados</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 2 s. 4 s después de entrar en el campo de batalla, la Hechicera Maligna aumenta la velocidad de ataque de las unidades de carga amistosas en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto dura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. La Hechicera Maligna se desplaza entre las sombras y la realidad. La Hechicera Maligna es inmune al daño de unidad, pero no se puede curar mientras está en las sombras. Dura 2 s La recarga es de 5 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción : Conflicto oscuro
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Mazmorra saben cómo aprovechar el terreno al máximo, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades que no son de Mazmorra.</span><span style="color: black">
 
 ### Habilidad normal 6 : Mazmorra Sangrienta
- **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de Mazmorra, aumenta su daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se lanza Estallido de Alma, se forma el dominio </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Mazmorra Sangrienta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, que se expande conforme la habilidad sube de nivel. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan 3 unidades de Mazmorra, aumenta su daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se lanza Estallido de Alma, se forma el dominio </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Mazmorra Sangrienta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #645252;font-size:20px">, que se expande conforme la habilidad sube de nivel. El dominio dura 15 s. La recarga es de 30 s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*3+11"
-    let str8 = "LEVEL*0.1+0.9"
-    let str5 = "LEVEL*2+20"
-    let str6 = "LEVEL*1+2"
-    let str3 = "LEVEL*0.1+2.6"
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*3+11"
+    let str5 = "LEVEL*4+40"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+2.5"
     let str4 = "LEVEL*1+2"
     let str1 = "LEVEL*10+150"
     let str2 = "LEVEL*0.3+2.5"
-    let str12 = "(LEVEL*1+5)"
-    let str13 = "LEVEL*1+15"
-    let str10 = "LEVEL*1+10"
-    let str11 = "(LEVEL*1+15)"
-    let str9 = "LEVEL*0.1+3.5"
-    let str14 = "LEVEL*1+15"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*1+15)"
+    let str10 = "LEVEL*0.1+3.5"
+    let str11 = "LEVEL*1+10"
+    let str16 = "LEVEL*1+15"
+    let str9 = "LEVEL*0.1+0.9"
+    let str14 = "(LEVEL*1+5)"
+    let str15 = "LEVEL*1+15"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -148,8 +150,10 @@ toc: true
      res = eval(str13); document.getElementById('str13').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
      res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)
       event.preventDefault();

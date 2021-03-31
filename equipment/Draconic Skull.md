@@ -2,7 +2,7 @@
 title: "Cráneo Draconiano"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Cráneo Draconiano. Cráneo Draconiano"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Draconic Skull.md"
 toc: false

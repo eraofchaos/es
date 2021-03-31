@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Gnoll"
 toc: true

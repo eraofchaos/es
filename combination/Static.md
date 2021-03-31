@@ -2,7 +2,7 @@
 title: "Información de combinación for Estática"
 permalink: /combination/Static/
 excerpt: "Información de combinación - Estática. Units and Heroes Formation."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Estática.md"
 toc: false

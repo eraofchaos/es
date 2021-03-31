@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Espada del Juicio"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Alianza Angelical - Espada del Juicio. Una espada que los dioses regalaron a los humanos. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Sword of Judgement.md"
 toc: false

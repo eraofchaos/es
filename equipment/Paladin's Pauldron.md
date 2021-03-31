@@ -2,7 +2,7 @@
 title: "Hombrera de Paladín"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Hombrera de Paladín. Hombrera de Paladín"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Paladin's Pauldron.md"
 toc: false

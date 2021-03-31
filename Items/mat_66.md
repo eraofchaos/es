@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal mítico"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Cristal mítico"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_66.md"
 toc: false

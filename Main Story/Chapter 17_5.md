@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-5 Orden Maligna"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Capítulo 17 - 5. Era of Chaos  Historia principal - Capítulo 17_5. 17-5 Orden Maligna"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 17_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Mazo de Guerrero"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Mazo de Guerrero. Un mazo de guerra que ocultaron en la Cresta del Gigante. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Warrior Hammer.md"
 toc: false

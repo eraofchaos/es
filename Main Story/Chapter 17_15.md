@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-15 Invasión Maligna"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Capítulo 17 - 15. Era of Chaos  Historia principal - Capítulo 17_15. 17-15 Invasión Maligna"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 17_15.md"
 toc: false

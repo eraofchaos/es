@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre de Alma"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Azufre de Alma"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_85.md"
 toc: false

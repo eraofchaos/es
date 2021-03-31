@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-8 Ataque Sorpresa"
 permalink: /Main Story/Chapter 7_8/
 excerpt: "Capítulo 7 - 8. Era of Chaos  Historia principal - Capítulo 7_8. 7-8 Ataque Sorpresa"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 7_8.md"
 toc: false

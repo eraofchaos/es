@@ -2,7 +2,7 @@
 title: "Cola de Monstruo Marino"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Era of Chaos Cola de Monstruo Marino. Cola de Monstruo Marino"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Sea Monster Tail.md"
 toc: false

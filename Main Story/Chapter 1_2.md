@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-2 Castillo en Ruinas"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Capítulo 1 - 2. Era of Chaos  Historia principal - Capítulo 1_2. 1-2 Castillo en Ruinas"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 1_2.md"
 toc: false

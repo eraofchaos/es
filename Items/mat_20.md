@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera superior"
 permalink: /Items/mat_20/
 excerpt: "Era of Chaos  Madera superior"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_20.md"
 toc: false

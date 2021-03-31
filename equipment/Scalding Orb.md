@@ -2,7 +2,7 @@
 title: "Orbe Hirviente"
 permalink: /equipment/Scalding Orb/
 excerpt: "Era of Chaos Orbe Hirviente. Orbe Hirviente"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Scalding Orb.md"
 toc: false

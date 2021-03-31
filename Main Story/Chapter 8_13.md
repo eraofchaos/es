@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-13 Conmoción Fuerte"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Capítulo 8 - 13. Era of Chaos  Historia principal - Capítulo 8_13. 8-13 Conmoción Fuerte"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 8_13.md"
 toc: false

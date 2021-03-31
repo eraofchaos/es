@@ -2,7 +2,7 @@
 title: "Pezuñas de Cristal"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Pezuñas de Cristal. Pezuñas de Cristal"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Crystal Hooves.md"
 toc: false

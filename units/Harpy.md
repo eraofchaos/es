@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Arpía"
 toc: true
@@ -172,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Bruja Arpía
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Llega la medianoche y las Arpías bailan al son de la canción del Fauno. La luz de la luna se refleja en sus filos, cuyo gélido brillo persigue la oscilación de su vuelo en un espectáculo hermoso pero letal.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #876741;font-size:18px">Despliega una Arpía con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Mazmorra y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #876741;font-size:18px">Durante la Aventura de Gremio en el Subterráneo, ocupa la ciudad </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> vez.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Arpía en el Subterráneo: niveles 16-2 y 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Despliega una Arpía con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de carga y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Hoja afilada de Arpía
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Garra afilada de Arpía&gt;</span><span style="color: #645252;font-size:18px"> &lt;Garra afilada de Arpía&gt; se activa 1 vez cuando los ataques de la Arpía son esquivados. La recarga es de 5 s.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Hoja envenenada de Arpía
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Garra afilada de Arpía&gt;</span><span style="color: #645252;font-size:18px"> Las habilidades infligen daño adicional equivalente al 200% de su propio ATQ a la unidad objetivo y la envenenan durante 5 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Defensa de rompehechizos
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Grito de rompehechizos&gt;</span><span style="color: #645252;font-size:18px"> Cuando un héroe enemigo lanza un hechizo, también reduce la velocidad de ataque de las unidades enemigas de la vanguardia un 4%. Se acumula hasta 5 veces. Dura 8 s.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Invasión de rompehechizos
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Grito de rompehechizos&gt;</span><span style="color: #645252;font-size:18px"> Cuando un héroe enemigo lanza un hechizo, también aumenta la velocidad de ataque de las unidades amistosas de la vanguardia un 4%. Se acumula hasta 5 veces. Dura 8 s.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Puntería aérea
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apuntar en el aire&gt;</span><span style="color: #645252;font-size:18px"> El daño de unidad propio aumenta un 20% al atacar a unidades bajo los efectos de sangrado.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Masacre aérea
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apuntar en el aire&gt;</span><span style="color: #645252;font-size:18px"> La reducción de daño de unidad propia aumenta un 20% al atacar a unidades envenenadas.</span>
 
 ## Technical info
  **runart:** 1

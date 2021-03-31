@@ -2,7 +2,7 @@
 title: "Artefacto - Ojo de halcón - Anillo de Ojo de Águila"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Ojo de halcón - Anillo de Ojo de Águila. Un anillo secreto con ojos. Uno de los componentes del Ojo de halcón."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Ring of Eagle Vision.md"
 toc: false

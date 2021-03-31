@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro de Armas"
 permalink: /Items/mat_32/
 excerpt: "Era of Chaos  Libro de Armas"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_32.md"
 toc: false

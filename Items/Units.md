@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Units.md"
 toc: false
@@ -114,7 +114,7 @@ classes: wide
   | 100 | [Piedra de Alma de Genio Maestra](/es/Items/unt_324/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Genio Maestra |
   | 101 | [Piedra de Alma de Gran Elfa](/es/Items/unt_291/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Gran Elfa |
   | 102 | [Piedra de Alma de Gran Gorgona](/es/Items/unt_339/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Gran Gorgona |
-  | 103 | [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Grifo sagrado. |
+  | 103 | [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Grifo real. |
   | 104 | [Piedra de Alma de Guardia del Infierno](/es/Items/unt_315/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Guardia del Infierno. |
   | 105 | [Piedra de Alma de Guerrero Gnoll](/es/Items/unt_336/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Guerrero Gnoll. |
   | 106 | [Piedra de Alma de Guiverno Monarca](/es/Items/unt_340/){: .btn .btn--era5} | Awakening Soul | Piedra de Alma para la mejora de nivel de Despertar de Guiverno Monarca de la Plaga |

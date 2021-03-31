@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Unit Member x4"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | [Genio](/es/units/Genie/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio Maestra  |
   | 14 | [Sirena](/es/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
-  | 16 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 202.0 | 1144 |  Reina Medusa  |
+  | 16 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reina Medusa  |
   | 17 | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
   | 18 | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 19 | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

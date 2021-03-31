@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-13 Insignia del Coraje"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Capítulo 11 - 13. Era of Chaos  Historia principal - Capítulo 11_13. 11-13 Insignia del Coraje"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 11_13.md"
 toc: false

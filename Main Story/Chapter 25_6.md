@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-6 El Más Anciano de los Señores"
 permalink: /Main Story/Chapter 25_6/
 excerpt: "Capítulo 25 - 6. Era of Chaos  Historia principal - Capítulo 25_6. 25-6 El Más Anciano de los Señores"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: es
 ref: "Chapter 25_6.md"
 toc: false

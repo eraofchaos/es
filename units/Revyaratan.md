@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Revyaratan"
 toc: true

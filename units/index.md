@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "index.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 2 | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 3 | [Aparición](/es/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Espectro  |
   | 4 | [Archimaga](/es/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimaga  |
-  | 5 | [Arpía](/es/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
+  | 5 | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Bruja Arpía  |
   | 6 | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 7 | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 8 | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Arquero Maestro  |
@@ -67,7 +67,7 @@ classes: wide
   | 45 | [Gog](/es/units/Gog/) | Lanzador | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 46 | [Gorgona](/es/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
   | 47 | [Gremlin](/es/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 48 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo sagrado  |
+  | 48 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 49 | [Guardia Dendroide](/es/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldado Dendroide  |
   | 50 | [Guerreros espartanos](/es/units/Spartan Warriors/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
   | 51 | [Guiverno](/es/units/Wyvern/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Guiverno Monarca  |
@@ -75,7 +75,7 @@ classes: wide
   | 53 | [Gólem Dragón](/es/units/Dragon Golem/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 54 | [Gólem de Hierro](/es/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gólem de Oro  |
   | 55 | [Hada](/es/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 56 | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
+  | 56 | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 57 | [Hidra](/es/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Hidra del Caos  |
   | 58 | [Hierbavispa](/es/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
   | 59 | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
@@ -84,7 +84,7 @@ classes: wide
   | 62 | [Liche](/es/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Archiliche  |
   | 63 | [Mantis](/es/units/Mantis/) | Ofensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 64 | [Mantícora](/es/units/Manticore/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Escorpícora  |
-  | 65 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 202.0 | 1144 |  Reina Medusa  |
+  | 65 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reina Medusa  |
   | 66 | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 67 | [Momia](/es/units/Mummy/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Rey Momia  |
   | 68 | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |

@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país."
 heroID: 60302
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: es
 ref: "Mephala"
 toc: true

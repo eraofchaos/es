@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre inferior"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Azufre inferior"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_3.md"
 toc: false

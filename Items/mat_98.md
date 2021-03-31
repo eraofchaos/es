@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio radiante"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Mercurio radiante"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_98.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Formación de batalla Cala"
 permalink: /Battle Formation/Battle Formation Faction Cove internal
 excerpt: "Formación de batalla Cala"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "BattleFormationFactionCove"
 toc: false

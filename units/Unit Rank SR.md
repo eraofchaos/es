@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Unit Rank SR"
 toc: false
@@ -27,13 +27,13 @@ classes: wide
   | 13 | [Archimaga](/es/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimaga  |
   | 14 | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 15 | [Pesadilla](/es/units/Nightmare/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Rey de la Pesadilla  |
-  | 16 | [Arpía](/es/units/Harpy/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
+  | 16 | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Bruja Arpía  |
   | 17 | [Genio](/es/units/Genie/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio Maestra  |
   | 18 | [Sirena](/es/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 19 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo sagrado  |
+  | 19 | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 20 | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |
   | 21 | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
-  | 22 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 202.0 | 1144 |  Reina Medusa  |
+  | 22 | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reina Medusa  |
   | 23 | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
   | 24 | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 25 | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |

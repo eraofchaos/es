@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral excepcional"
 permalink: /Items/mat_33/
 excerpt: "Era of Chaos  Mineral excepcional"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_33.md"
 toc: false

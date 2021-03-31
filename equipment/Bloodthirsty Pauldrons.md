@@ -2,7 +2,7 @@
 title: "Hombreras de Sed de Sangre"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Hombreras de Sed de Sangre. Hombreras de Sed de Sangre"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 15  Semana de Conflujo
+
+  |  Date  |      Reward    |    Reward Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Apr** | **5x [Hada](/es/Items/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
+  | **13 Apr** | **3x [Elemental de Hielo](/es/Items/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
+  | **14 Apr** | **100x <i class="fas fa-gem"/>**  | ¡Las criaturas del Plano del Conflujo te han traído un pequeño cúmulo de diamantes! |
+  | **15 Apr** | **3x [Elemental de Piedra](/es/Items/unt_266/)**  | ¡Un escuadrón de Elementales de Piedra se une a tu ejército y te vuelves más fuerte! |
+  | **16 Apr** | **3x [Elemental de Tormenta](/es/Items/unt_263/)**  | ¡Un escuadrón de Elementales de Tormenta se une a tu ejército y te vuelves más fuerte! |
+  | **17 Apr** | **5x [Cofre de unidad de Conflujo](/es/Items/con_1275/)**  | ¡Tus tropas te han traído cofres llenos de poder elemental! |
+  | **18 Apr** | **5x [Luna](/es/Items/her_378/)**  | ¡El poder de los elementos concentrado en tu territorio ha ocasionado la visita de una Maga Elemental! |
+
 
 #### 2021 Week 14  Semana de la Necrópolis
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank Commander -  Units"
 permalink: /units/Unit Rank Commander/
 excerpt: "Era of Chaos Unit Rank Commander. Unit Rank Commander. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "Unit Rank Commander"
 toc: false
@@ -20,5 +20,5 @@ classes: wide
   | 6 | [Engendro Venenoso](/es/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
   | 7 | [Gólem Dragón](/es/units/Dragon Golem/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 8 | [Adjudicadora](/es/units/Judicator/) | Lanzador | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 9 | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
+  | 9 | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 10 | [Mantis](/es/units/Mantis/) | Ofensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |

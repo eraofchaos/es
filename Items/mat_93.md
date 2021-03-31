@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas estelares"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Gemas estelares"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: es
 ref: "mat_93.md"
 toc: false
