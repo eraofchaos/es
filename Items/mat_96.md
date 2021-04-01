@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral radiante"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Mineral radiante"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_96.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-7 
+*    Aventura de Gremio 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-7](/es/Main Story/Chapter 27_7/) 
 
 ## This item contains:
 

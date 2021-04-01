@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificado de leyenda"
 permalink: /Items/mat_67/
 excerpt: "Era of Chaos  Certificado de leyenda"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventura de Gremio 
 *    Capítulo - Por el rey y la nación 
 *    Capítulo - Liberación del imperio 
 *    Capítulo - Pactando con el diablo 

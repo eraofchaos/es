@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de Alma"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Cristal de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_87.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-6 
-*    Capítulo 24 (Dragón hada) -> 24-12 
-*    Capítulo 24 (Dragón hada) -> 24-15 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-6](/es/Main Story/Chapter 24_6/) 
+*    [Capítulo 24: Dragón hada -> 24-12](/es/Main Story/Chapter 24_12/) 
+*    [Capítulo 24: Dragón hada -> 24-15](/es/Main Story/Chapter 24_15/) 
 
 ## This item contains:
 

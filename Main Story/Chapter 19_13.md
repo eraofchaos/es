@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-13 Rey de los Magos"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Capítulo 19 - 13. Era of Chaos  Historia principal - Capítulo 19_13. 19-13 Rey de los Magos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 19_13.md"
 toc: false

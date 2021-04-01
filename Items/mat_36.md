@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre excepcional"
 permalink: /Items/mat_36/
 excerpt: "Era of Chaos  Azufre excepcional"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_36.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 10 (Marjalia) -> 10-10 
-*    Capítulo 10 (Marjalia) -> 10-14 
-*    Capítulo 11 (Tatalia) -> 11-4 
+*    Aventura de Gremio 
+*    [Capítulo 10: Marjalia -> 10-10](/es/Main Story/Chapter 10_10/) 
+*    [Capítulo 10: Marjalia -> 10-14](/es/Main Story/Chapter 10_14/) 
+*    [Capítulo 11: Tatalia -> 11-4](/es/Main Story/Chapter 11_4/) 
 
 ## This item contains:
 

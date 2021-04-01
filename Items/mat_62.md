@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera mítica"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Madera mítica"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_62.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 18 (Pactando con el diablo) -> 18-2 
-*    Capítulo 18 (Pactando con el diablo) -> 18-5 
-*    Capítulo 18 (Pactando con el diablo) -> 18-8 
+*    Aventura de Gremio 
+*    [Capítulo 18: Pactando con el diablo -> 18-2](/es/Main Story/Chapter 18_2/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-5](/es/Main Story/Chapter 18_5/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-8](/es/Main Story/Chapter 18_8/) 
 
 ## This item contains:
 

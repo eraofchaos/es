@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas valiosas"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Gemas valiosas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_30.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 9 (Tierra del caos) -> 9-1 
-*    Capítulo 9 (Tierra del caos) -> 9-5 
-*    Capítulo 9 (Tierra del caos) -> 9-11 
+*    Aventura de Gremio 
+*    [Capítulo 9: Tierra del caos -> 9-1](/es/Main Story/Chapter 9_1/) 
+*    [Capítulo 9: Tierra del caos -> 9-5](/es/Main Story/Chapter 9_5/) 
+*    [Capítulo 9: Tierra del caos -> 9-11](/es/Main Story/Chapter 9_11/) 
 
 ## This item contains:
 

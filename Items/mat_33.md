@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral excepcional"
 permalink: /Items/mat_33/
 excerpt: "Era of Chaos  Mineral excepcional"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_33.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 10 (Marjalia) -> 10-1 
-*    Capítulo 10 (Marjalia) -> 10-4 
-*    Capítulo 10 (Marjalia) -> 10-7 
+*    Aventura de Gremio 
+*    [Capítulo 10: Marjalia -> 10-1](/es/Main Story/Chapter 10_1/) 
+*    [Capítulo 10: Marjalia -> 10-4](/es/Main Story/Chapter 10_4/) 
+*    [Capítulo 10: Marjalia -> 10-7](/es/Main Story/Chapter 10_7/) 
 
 ## This item contains:
 

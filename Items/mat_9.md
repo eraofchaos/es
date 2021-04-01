@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre común"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Azufre común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_9.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 2 (El retorno de la reina) -> 2-5 
-*    Capítulo 2 (El retorno de la reina) -> 2-9 
-*    Capítulo 3 (Ángel guardián) -> 3-4 
+*    Aventura de Gremio 
+*    [Capítulo 2: El retorno de la reina -> 2-5](/es/Main Story/Chapter 2_5/) 
+*    [Capítulo 2: El retorno de la reina -> 2-9](/es/Main Story/Chapter 2_9/) 
+*    [Capítulo 3: Ángel guardián -> 3-4](/es/Main Story/Chapter 3_4/) 
 
 ## This item contains:
 

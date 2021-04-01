@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera buena"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Madera buena"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-2 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-5 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-8 
+*    Aventura de Gremio 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-2](/es/Main Story/Chapter 4_2/) 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-5](/es/Main Story/Chapter 4_5/) 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-8](/es/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

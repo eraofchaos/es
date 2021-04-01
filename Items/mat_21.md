@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio superior"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Mercurio superior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 6 (Abrirse camino) -> 6-3 
-*    Capítulo 6 (Abrirse camino) -> 6-6 
-*    Capítulo 6 (Abrirse camino) -> 6-9 
+*    Aventura de Gremio 
+*    [Capítulo 6: Abrirse camino -> 6-3](/es/Main Story/Chapter 6_3/) 
+*    [Capítulo 6: Abrirse camino -> 6-6](/es/Main Story/Chapter 6_6/) 
+*    [Capítulo 6: Abrirse camino -> 6-9](/es/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

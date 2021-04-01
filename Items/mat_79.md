@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas secretas"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Gemas secretas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-1 
-*    Capítulo 22 (Dragón de cristal) -> 22-5 
-*    Capítulo 22 (Dragón de cristal) -> 22-11 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-1](/es/Main Story/Chapter 22_1/) 
+*    [Capítulo 22: Dragón de cristal -> 22-5](/es/Main Story/Chapter 22_5/) 
+*    [Capítulo 22: Dragón de cristal -> 22-11](/es/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

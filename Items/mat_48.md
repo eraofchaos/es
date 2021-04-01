@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera épica"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Madera épica"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_48.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 14 (Camino seguro) -> 14-2 
-*    Capítulo 14 (Camino seguro) -> 14-5 
-*    Capítulo 14 (Camino seguro) -> 14-8 
+*    Aventura de Gremio 
+*    [Capítulo 14: Camino seguro -> 14-2](/es/Main Story/Chapter 14_2/) 
+*    [Capítulo 14: Camino seguro -> 14-5](/es/Main Story/Chapter 14_5/) 
+*    [Capítulo 14: Camino seguro -> 14-8](/es/Main Story/Chapter 14_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas de Alma"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Gemas de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-1 
-*    Capítulo 24 (Dragón hada) -> 24-5 
-*    Capítulo 24 (Dragón hada) -> 24-11 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-1](/es/Main Story/Chapter 24_1/) 
+*    [Capítulo 24: Dragón hada -> 24-5](/es/Main Story/Chapter 24_5/) 
+*    [Capítulo 24: Dragón hada -> 24-11](/es/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera inferior"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Madera inferior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_1.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-2 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-3 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-5 
+*    Aventura de Gremio 
+*    [Capítulo 1: Isla Siemprealbor -> 1-2](/es/Main Story/Chapter 1_2/) 
+*    [Capítulo 1: Isla Siemprealbor -> 1-3](/es/Main Story/Chapter 1_3/) 
+*    [Capítulo 1: Isla Siemprealbor -> 1-5](/es/Main Story/Chapter 1_5/) 
 
 ## This item contains:
 

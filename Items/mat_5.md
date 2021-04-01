@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal inferior"
 permalink: /Items/mat_5/
 excerpt: "Era of Chaos  Cristal inferior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_5.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-4 
-*    Capítulo 2 (El retorno de la reina) -> 2-1 
-*    Capítulo 3 (Ángel guardián) -> 3-1 
+*    Aventura de Gremio 
+*    [Capítulo 1: Isla Siemprealbor -> 1-4](/es/Main Story/Chapter 1_4/) 
+*    [Capítulo 2: El retorno de la reina -> 2-1](/es/Main Story/Chapter 2_1/) 
+*    [Capítulo 3: Ángel guardián -> 3-1](/es/Main Story/Chapter 3_1/) 
 
 ## This item contains:
 

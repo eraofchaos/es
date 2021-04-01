@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral poco común"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Mineral poco común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 12 (Mar de hielo) -> 12-1 
-*    Capítulo 12 (Mar de hielo) -> 12-4 
-*    Capítulo 12 (Mar de hielo) -> 12-7 
+*    Aventura de Gremio 
+*    [Capítulo 12: Mar de hielo -> 12-1](/es/Main Story/Chapter 12_1/) 
+*    [Capítulo 12: Mar de hielo -> 12-4](/es/Main Story/Chapter 12_4/) 
+*    [Capítulo 12: Mar de hielo -> 12-7](/es/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

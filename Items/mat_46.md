@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro de Esencias"
 permalink: /Items/mat_46/
 excerpt: "Era of Chaos  Libro de Esencias"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_46.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventura de Gremio 
 *    Capítulo - Corazón de Grifo 
 *    Capítulo - Temporada de cosecha 
 *    Capítulo - Castigo corpóreo 

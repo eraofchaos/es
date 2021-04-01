@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio excepcional"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Mercurio excepcional"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 10 (Marjalia) -> 10-3 
-*    Capítulo 10 (Marjalia) -> 10-6 
-*    Capítulo 10 (Marjalia) -> 10-9 
+*    Aventura de Gremio 
+*    [Capítulo 10: Marjalia -> 10-3](/es/Main Story/Chapter 10_3/) 
+*    [Capítulo 10: Marjalia -> 10-6](/es/Main Story/Chapter 10_6/) 
+*    [Capítulo 10: Marjalia -> 10-9](/es/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio mítico"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mercurio mítico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 18 (Pactando con el diablo) -> 18-3 
-*    Capítulo 18 (Pactando con el diablo) -> 18-6 
-*    Capítulo 18 (Pactando con el diablo) -> 18-9 
+*    Aventura de Gremio 
+*    [Capítulo 18: Pactando con el diablo -> 18-3](/es/Main Story/Chapter 18_3/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-6](/es/Main Story/Chapter 18_6/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-9](/es/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

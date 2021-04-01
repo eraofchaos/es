@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral superior"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Mineral superior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 6 (Abrirse camino) -> 6-1 
-*    Capítulo 6 (Abrirse camino) -> 6-4 
-*    Capítulo 6 (Abrirse camino) -> 6-7 
+*    Aventura de Gremio 
+*    [Capítulo 6: Abrirse camino -> 6-1](/es/Main Story/Chapter 6_1/) 
+*    [Capítulo 6: Abrirse camino -> 6-4](/es/Main Story/Chapter 6_4/) 
+*    [Capítulo 6: Abrirse camino -> 6-7](/es/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "index.md"
 toc: true

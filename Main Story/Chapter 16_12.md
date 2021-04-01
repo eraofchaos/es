@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-12 Cambiante"
 permalink: /Main Story/Chapter 16_12/
 excerpt: "Capítulo 16 - 12. Era of Chaos  Historia principal - Capítulo 16_12. 16-12 Cambiante"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 16_12.md"
 toc: false

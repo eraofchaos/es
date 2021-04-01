@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro de Armas"
 permalink: /Items/mat_18/
 excerpt: "Era of Chaos  Libro de Armas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_18.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventura de Gremio 
 *    Capítulo - Ángel guardián 
 *    Capítulo - Acantilados de los Grifos 
 *    Capítulo - Un plan diabólico 

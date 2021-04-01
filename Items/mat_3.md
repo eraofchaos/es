@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre inferior"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Azufre inferior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_3.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-2 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-5 
-*    Capítulo 2 (El retorno de la reina) -> 2-4 
+*    Aventura de Gremio 
+*    [Capítulo 1: Isla Siemprealbor -> 1-2](/es/Main Story/Chapter 1_2/) 
+*    [Capítulo 1: Isla Siemprealbor -> 1-5](/es/Main Story/Chapter 1_5/) 
+*    [Capítulo 2: El retorno de la reina -> 2-4](/es/Main Story/Chapter 2_4/) 
 
 ## This item contains:
 

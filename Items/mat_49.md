@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio épico"
 permalink: /Items/mat_49/
 excerpt: "Era of Chaos  Mercurio épico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 14 (Camino seguro) -> 14-3 
-*    Capítulo 14 (Camino seguro) -> 14-6 
-*    Capítulo 14 (Camino seguro) -> 14-9 
+*    Aventura de Gremio 
+*    [Capítulo 14: Camino seguro -> 14-3](/es/Main Story/Chapter 14_3/) 
+*    [Capítulo 14: Camino seguro -> 14-6](/es/Main Story/Chapter 14_6/) 
+*    [Capítulo 14: Camino seguro -> 14-9](/es/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

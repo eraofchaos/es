@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-5 Laberinto Lúgubre"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Capítulo 26 - 5. Era of Chaos  Historia principal - Capítulo 26_5. 26-5 Laberinto Lúgubre"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 26_5.md"
 toc: false

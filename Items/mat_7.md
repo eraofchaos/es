@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera común"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Madera común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_7.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 2 (El retorno de la reina) -> 2-3 
-*    Capítulo 2 (El retorno de la reina) -> 2-7 
-*    Capítulo 3 (Ángel guardián) -> 3-2 
+*    Aventura de Gremio 
+*    [Capítulo 2: El retorno de la reina -> 2-3](/es/Main Story/Chapter 2_3/) 
+*    [Capítulo 2: El retorno de la reina -> 2-7](/es/Main Story/Chapter 2_7/) 
+*    [Capítulo 3: Ángel guardián -> 3-2](/es/Main Story/Chapter 3_2/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio poco común"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Mercurio poco común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_42.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 12 (Mar de hielo) -> 12-3 
-*    Capítulo 12 (Mar de hielo) -> 12-6 
-*    Capítulo 12 (Mar de hielo) -> 12-9 
+*    Aventura de Gremio 
+*    [Capítulo 12: Mar de hielo -> 12-3](/es/Main Story/Chapter 12_3/) 
+*    [Capítulo 12: Mar de hielo -> 12-6](/es/Main Story/Chapter 12_6/) 
+*    [Capítulo 12: Mar de hielo -> 12-9](/es/Main Story/Chapter 12_9/) 
 
 ## This item contains:
 

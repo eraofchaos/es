@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre poco común"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Azufre poco común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 12 (Mar de hielo) -> 12-10 
-*    Capítulo 12 (Mar de hielo) -> 12-14 
-*    Capítulo 13 (Del día a la noche) -> 13-4 
+*    Aventura de Gremio 
+*    [Capítulo 12: Mar de hielo -> 12-10](/es/Main Story/Chapter 12_10/) 
+*    [Capítulo 12: Mar de hielo -> 12-14](/es/Main Story/Chapter 12_14/) 
+*    [Capítulo 13: Del día a la noche -> 13-4](/es/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

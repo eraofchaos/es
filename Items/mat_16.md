@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas buenas"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Gemas buenas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_16.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 5 (Byrds) -> 5-1 
-*    Capítulo 5 (Byrds) -> 5-5 
-*    Capítulo 5 (Byrds) -> 5-11 
+*    Aventura de Gremio 
+*    [Capítulo 5: Byrds -> 5-1](/es/Main Story/Chapter 5_1/) 
+*    [Capítulo 5: Byrds -> 5-5](/es/Main Story/Chapter 5_5/) 
+*    [Capítulo 5: Byrds -> 5-11](/es/Main Story/Chapter 5_11/) 
 
 ## This item contains:
 

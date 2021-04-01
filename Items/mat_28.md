@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio valioso"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Mercurio valioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_28.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 8 (Tierras fronterizas) -> 8-3 
-*    Capítulo 8 (Tierras fronterizas) -> 8-6 
-*    Capítulo 8 (Tierras fronterizas) -> 8-9 
+*    Aventura de Gremio 
+*    [Capítulo 8: Tierras fronterizas -> 8-3](/es/Main Story/Chapter 8_3/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-6](/es/Main Story/Chapter 8_6/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-9](/es/Main Story/Chapter 8_9/) 
 
 ## This item contains:
 

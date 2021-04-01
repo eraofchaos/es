@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas épicas"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Gemas épicas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 15 (Frente unido) -> 15-1 
-*    Capítulo 15 (Frente unido) -> 15-5 
-*    Capítulo 15 (Frente unido) -> 15-11 
+*    Aventura de Gremio 
+*    [Capítulo 15: Frente unido -> 15-1](/es/Main Story/Chapter 15_1/) 
+*    [Capítulo 15: Frente unido -> 15-5](/es/Main Story/Chapter 15_5/) 
+*    [Capítulo 15: Frente unido -> 15-11](/es/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

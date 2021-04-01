@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio bueno"
 permalink: /Items/mat_14/
 excerpt: "Era of Chaos  Mercurio bueno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_14.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-3 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-6 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-9 
+*    Aventura de Gremio 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-3](/es/Main Story/Chapter 4_3/) 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-6](/es/Main Story/Chapter 4_6/) 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-9](/es/Main Story/Chapter 4_9/) 
 
 ## This item contains:
 

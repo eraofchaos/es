@@ -2,7 +2,7 @@
 title: "Artefacto - Elixir de Vida"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Era of Chaos  Elixir de Vida. Elixir de Vida Una reliquia sagrada rebosante de vida. Capaz de aumentar los PV de todo un ejército."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Elixir of Life.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera valiosa"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Madera valiosa"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 8 (Tierras fronterizas) -> 8-2 
-*    Capítulo 8 (Tierras fronterizas) -> 8-5 
-*    Capítulo 8 (Tierras fronterizas) -> 8-8 
+*    Aventura de Gremio 
+*    [Capítulo 8: Tierras fronterizas -> 8-2](/es/Main Story/Chapter 8_2/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-5](/es/Main Story/Chapter 8_5/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-8](/es/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

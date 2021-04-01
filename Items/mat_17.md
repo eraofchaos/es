@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal bueno"
 permalink: /Items/mat_17/
 excerpt: "Era of Chaos  Cristal bueno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_17.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 5 (Byrds) -> 5-6 
-*    Capítulo 5 (Byrds) -> 5-12 
-*    Capítulo 5 (Byrds) -> 5-15 
+*    Aventura de Gremio 
+*    [Capítulo 5: Byrds -> 5-6](/es/Main Story/Chapter 5_6/) 
+*    [Capítulo 5: Byrds -> 5-12](/es/Main Story/Chapter 5_12/) 
+*    [Capítulo 5: Byrds -> 5-15](/es/Main Story/Chapter 5_15/) 
 
 ## This item contains:
 

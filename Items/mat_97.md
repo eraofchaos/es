@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera radiante"
 permalink: /Items/mat_97/
 excerpt: "Era of Chaos  Madera radiante"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_97.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-2 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-8 
+*    Aventura de Gremio 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-2](/es/Main Story/Chapter 27_2/) 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-8](/es/Main Story/Chapter 27_8/) 
 
 ## This item contains:
 

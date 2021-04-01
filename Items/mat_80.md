@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal secreto"
 permalink: /Items/mat_80/
 excerpt: "Era of Chaos  Cristal secreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_80.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-6 
-*    Capítulo 22 (Dragón de cristal) -> 22-12 
-*    Capítulo 22 (Dragón de cristal) -> 22-15 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-6](/es/Main Story/Chapter 22_6/) 
+*    [Capítulo 22: Dragón de cristal -> 22-12](/es/Main Story/Chapter 22_12/) 
+*    [Capítulo 22: Dragón de cristal -> 22-15](/es/Main Story/Chapter 22_15/) 
 
 ## This item contains:
 

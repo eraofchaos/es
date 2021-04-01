@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas comunes"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Gemas comunes"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_10.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 3 (Ángel guardián) -> 3-1 
-*    Capítulo 3 (Ángel guardián) -> 3-5 
-*    Capítulo 3 (Ángel guardián) -> 3-11 
+*    Aventura de Gremio 
+*    [Capítulo 3: Ángel guardián -> 3-1](/es/Main Story/Chapter 3_1/) 
+*    [Capítulo 3: Ángel guardián -> 3-5](/es/Main Story/Chapter 3_5/) 
+*    [Capítulo 3: Ángel guardián -> 3-11](/es/Main Story/Chapter 3_11/) 
 
 ## This item contains:
 

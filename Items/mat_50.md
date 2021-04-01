@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre épico"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Azufre épico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 14 (Camino seguro) -> 14-10 
-*    Capítulo 14 (Camino seguro) -> 14-14 
-*    Capítulo 15 (Frente unido) -> 15-4 
+*    Aventura de Gremio 
+*    [Capítulo 14: Camino seguro -> 14-10](/es/Main Story/Chapter 14_10/) 
+*    [Capítulo 14: Camino seguro -> 14-14](/es/Main Story/Chapter 14_14/) 
+*    [Capítulo 15: Frente unido -> 15-4](/es/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

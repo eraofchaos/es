@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal común"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Cristal común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 3 (Ángel guardián) -> 3-6 
-*    Capítulo 3 (Ángel guardián) -> 3-12 
-*    Capítulo 3 (Ángel guardián) -> 3-15 
+*    Aventura de Gremio 
+*    [Capítulo 3: Ángel guardián -> 3-6](/es/Main Story/Chapter 3_6/) 
+*    [Capítulo 3: Ángel guardián -> 3-12](/es/Main Story/Chapter 3_12/) 
+*    [Capítulo 3: Ángel guardián -> 3-15](/es/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

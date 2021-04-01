@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán - Casco del Trueno"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Trueno del Titán - Casco del Trueno. Un casco utilizado por el Dios del trueno. Uno de los componentes del Trueno del Titán."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Thunder Helmet.md"
 toc: false

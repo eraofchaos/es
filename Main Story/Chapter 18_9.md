@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-9 El Anillo Élfico"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "Capítulo 18 - 9. Era of Chaos  Historia principal - Capítulo 18_9. 18-9 El Anillo Élfico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 18_9.md"
 toc: false

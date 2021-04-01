@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Escudo del León del Valor"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Era of Chaos  Alianza Angelical - Escudo del León del Valor. Un emblema del poder militar de las unidades de Grifos. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Lion's Shield of Courage.md"
 toc: false

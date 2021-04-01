@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-15 La Última Batalla"
 permalink: /Main Story/Chapter 15_15/
 excerpt: "Capítulo 15 - 15. Era of Chaos  Historia principal - Capítulo 15_15. 15-15 La Última Batalla"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 15_15.md"
 toc: false

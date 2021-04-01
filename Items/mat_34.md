@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera excepcional"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Madera excepcional"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 10 (Marjalia) -> 10-2 
-*    Capítulo 10 (Marjalia) -> 10-5 
-*    Capítulo 10 (Marjalia) -> 10-8 
+*    Aventura de Gremio 
+*    [Capítulo 10: Marjalia -> 10-2](/es/Main Story/Chapter 10_2/) 
+*    [Capítulo 10: Marjalia -> 10-5](/es/Main Story/Chapter 10_5/) 
+*    [Capítulo 10: Marjalia -> 10-8](/es/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal mítico"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Cristal mítico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 19 (Terreno neutral) -> 19-6 
-*    Capítulo 19 (Terreno neutral) -> 19-12 
-*    Capítulo 19 (Terreno neutral) -> 19-15 
+*    Aventura de Gremio 
+*    [Capítulo 19: Terreno neutral -> 19-6](/es/Main Story/Chapter 19_6/) 
+*    [Capítulo 19: Terreno neutral -> 19-12](/es/Main Story/Chapter 19_12/) 
+*    [Capítulo 19: Terreno neutral -> 19-15](/es/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre valioso"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Azufre valioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 8 (Tierras fronterizas) -> 8-10 
-*    Capítulo 8 (Tierras fronterizas) -> 8-14 
-*    Capítulo 9 (Tierra del caos) -> 9-4 
+*    Aventura de Gremio 
+*    [Capítulo 8: Tierras fronterizas -> 8-10](/es/Main Story/Chapter 8_10/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-14](/es/Main Story/Chapter 8_14/) 
+*    [Capítulo 9: Tierra del caos -> 9-4](/es/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

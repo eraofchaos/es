@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral eterno"
 permalink: /Items/mat_68/
 excerpt: "Era of Chaos  Mineral eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_68.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-1 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-4 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-7 
+*    Aventura de Gremio 
+*    [Capítulo 20: Túneles y trogloditas -> 20-1](/es/Main Story/Chapter 20_1/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-4](/es/Main Story/Chapter 20_4/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-7](/es/Main Story/Chapter 20_7/) 
 
 ## This item contains:
 

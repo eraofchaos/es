@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre secreto"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Azufre secreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_78.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-4 
-*    Capítulo 22 (Dragón de cristal) -> 22-10 
-*    Capítulo 22 (Dragón de cristal) -> 22-13 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-4](/es/Main Story/Chapter 22_4/) 
+*    [Capítulo 22: Dragón de cristal -> 22-10](/es/Main Story/Chapter 22_10/) 
+*    [Capítulo 22: Dragón de cristal -> 22-13](/es/Main Story/Chapter 22_13/) 
 
 ## This item contains:
 

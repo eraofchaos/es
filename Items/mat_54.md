@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral legendario"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Mineral legendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_54.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 16 (Por el rey y la nación) -> 16-1 
-*    Capítulo 16 (Por el rey y la nación) -> 16-4 
-*    Capítulo 16 (Por el rey y la nación) -> 16-7 
+*    Aventura de Gremio 
+*    [Capítulo 16: Por el rey y la nación -> 16-1](/es/Main Story/Chapter 16_1/) 
+*    [Capítulo 16: Por el rey y la nación -> 16-4](/es/Main Story/Chapter 16_4/) 
+*    [Capítulo 16: Por el rey y la nación -> 16-7](/es/Main Story/Chapter 16_7/) 
 
 ## This item contains:
 

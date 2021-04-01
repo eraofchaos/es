@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera de Alma"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Madera de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-2 
-*    Capítulo 24 (Dragón hada) -> 24-8 
-*    Capítulo 25 (Supervivencia del más fuerte) -> 25-2 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-2](/es/Main Story/Chapter 24_2/) 
+*    [Capítulo 24: Dragón hada -> 24-8](/es/Main Story/Chapter 24_8/) 
+*    [Capítulo 25: Supervivencia del más fuerte -> 25-2](/es/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

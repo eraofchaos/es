@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio de Alma"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercurio de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-3 
-*    Capítulo 24 (Dragón hada) -> 24-9 
-*    Capítulo 25 (Supervivencia del más fuerte) -> 25-3 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-3](/es/Main Story/Chapter 24_3/) 
+*    [Capítulo 24: Dragón hada -> 24-9](/es/Main Story/Chapter 24_9/) 
+*    [Capítulo 25: Supervivencia del más fuerte -> 25-3](/es/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

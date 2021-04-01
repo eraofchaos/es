@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio estelar"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Mercurio estelar"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-3 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-9 
+*    Aventura de Gremio 
+*    [Capítulo 26: Aumentar la ventaja -> 26-3](/es/Main Story/Chapter 26_3/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-9](/es/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-3 Creación Mágica"
 permalink: /Main Story/Chapter 20_3/
 excerpt: "Capítulo 20 - 3. Era of Chaos  Historia principal - Capítulo 20_3. 20-3 Creación Mágica"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 20_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral valioso"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Mineral valioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_26.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 8 (Tierras fronterizas) -> 8-1 
-*    Capítulo 8 (Tierras fronterizas) -> 8-4 
-*    Capítulo 8 (Tierras fronterizas) -> 8-7 
+*    Aventura de Gremio 
+*    [Capítulo 8: Tierras fronterizas -> 8-1](/es/Main Story/Chapter 8_1/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-4](/es/Main Story/Chapter 8_4/) 
+*    [Capítulo 8: Tierras fronterizas -> 8-7](/es/Main Story/Chapter 8_7/) 
 
 ## This item contains:
 

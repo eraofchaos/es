@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-7 Actitud Victoriosa"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Capítulo 9 - 7. Era of Chaos  Historia principal - Capítulo 9_7. 9-7 Actitud Victoriosa"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 9_7.md"
 toc: false

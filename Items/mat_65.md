@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas míticas"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Gemas míticas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 19 (Terreno neutral) -> 19-1 
-*    Capítulo 19 (Terreno neutral) -> 19-5 
-*    Capítulo 19 (Terreno neutral) -> 19-11 
+*    Aventura de Gremio 
+*    [Capítulo 19: Terreno neutral -> 19-1](/es/Main Story/Chapter 19_1/) 
+*    [Capítulo 19: Terreno neutral -> 19-5](/es/Main Story/Chapter 19_5/) 
+*    [Capítulo 19: Terreno neutral -> 19-11](/es/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 

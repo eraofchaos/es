@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre radiante"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Azufre radiante"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-4 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-10 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-13 
+*    Aventura de Gremio 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-4](/es/Main Story/Chapter 27_4/) 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-10](/es/Main Story/Chapter 27_10/) 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-13](/es/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal poco común"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Cristal poco común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 13 (Del día a la noche) -> 13-6 
-*    Capítulo 13 (Del día a la noche) -> 13-12 
-*    Capítulo 13 (Del día a la noche) -> 13-15 
+*    Aventura de Gremio 
+*    [Capítulo 13: Del día a la noche -> 13-6](/es/Main Story/Chapter 13_6/) 
+*    [Capítulo 13: Del día a la noche -> 13-12](/es/Main Story/Chapter 13_12/) 
+*    [Capítulo 13: Del día a la noche -> 13-15](/es/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

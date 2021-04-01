@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral secreto"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Mineral secreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_75.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-7 
-*    Capítulo 23 (Dragón oxidado) -> 23-7 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-7](/es/Main Story/Chapter 22_7/) 
+*    [Capítulo 23: Dragón oxidado -> 23-7](/es/Main Story/Chapter 23_7/) 
 
 ## This item contains:
 

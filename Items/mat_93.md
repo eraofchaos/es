@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas estelares"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Gemas estelares"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-1 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-5 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-11 
+*    Aventura de Gremio 
+*    [Capítulo 26: Aumentar la ventaja -> 26-1](/es/Main Story/Chapter 26_1/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-5](/es/Main Story/Chapter 26_5/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-11](/es/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-13 El Desánimo del Elfo"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "Capítulo 24 - 13. Era of Chaos  Historia principal - Capítulo 24_13. 24-13 El Desánimo del Elfo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 24_13.md"
 toc: false

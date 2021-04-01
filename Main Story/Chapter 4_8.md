@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-8 Torre de Picoférreo"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Capítulo 4 - 8. Era of Chaos  Historia principal - Capítulo 4_8. 4-8 Torre de Picoférreo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 4_8.md"
 toc: false

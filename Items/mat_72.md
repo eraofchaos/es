@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas eternas"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Gemas eternas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 21 (El Grial) -> 21-1 
-*    Capítulo 21 (El Grial) -> 21-5 
-*    Capítulo 21 (El Grial) -> 21-11 
+*    Aventura de Gremio 
+*    [Capítulo 21: El Grial -> 21-1](/es/Main Story/Chapter 21_1/) 
+*    [Capítulo 21: El Grial -> 21-5](/es/Main Story/Chapter 21_5/) 
+*    [Capítulo 21: El Grial -> 21-11](/es/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 

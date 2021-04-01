@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre bueno"
 permalink: /Items/mat_15/
 excerpt: "Era of Chaos  Azufre bueno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_15.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-10 
-*    Capítulo 4 (Acantilados de los Grifos) -> 4-14 
-*    Capítulo 5 (Byrds) -> 5-4 
+*    Aventura de Gremio 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-10](/es/Main Story/Chapter 4_10/) 
+*    [Capítulo 4: Acantilados de los Grifos -> 4-14](/es/Main Story/Chapter 4_14/) 
+*    [Capítulo 5: Byrds -> 5-4](/es/Main Story/Chapter 5_4/) 
 
 ## This item contains:
 

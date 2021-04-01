@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre mítico"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Azufre mítico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_64.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 18 (Pactando con el diablo) -> 18-10 
-*    Capítulo 18 (Pactando con el diablo) -> 18-14 
+*    Aventura de Gremio 
+*    [Capítulo 18: Pactando con el diablo -> 18-10](/es/Main Story/Chapter 18_10/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-14](/es/Main Story/Chapter 18_14/) 
 
 ## This item contains:
 

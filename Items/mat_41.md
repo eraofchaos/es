@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera poco común"
 permalink: /Items/mat_41/
 excerpt: "Era of Chaos  Madera poco común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_41.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 12 (Mar de hielo) -> 12-2 
-*    Capítulo 12 (Mar de hielo) -> 12-5 
-*    Capítulo 12 (Mar de hielo) -> 12-8 
+*    Aventura de Gremio 
+*    [Capítulo 12: Mar de hielo -> 12-2](/es/Main Story/Chapter 12_2/) 
+*    [Capítulo 12: Mar de hielo -> 12-5](/es/Main Story/Chapter 12_5/) 
+*    [Capítulo 12: Mar de hielo -> 12-8](/es/Main Story/Chapter 12_8/) 
 
 ## This item contains:
 

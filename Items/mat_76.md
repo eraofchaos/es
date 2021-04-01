@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera secreta"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Madera secreta"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_76.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-2 
-*    Capítulo 22 (Dragón de cristal) -> 22-8 
-*    Capítulo 23 (Dragón oxidado) -> 23-2 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-2](/es/Main Story/Chapter 22_2/) 
+*    [Capítulo 22: Dragón de cristal -> 22-8](/es/Main Story/Chapter 22_8/) 
+*    [Capítulo 23: Dragón oxidado -> 23-2](/es/Main Story/Chapter 23_2/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral mítico"
 permalink: /Items/mat_61/
 excerpt: "Era of Chaos  Mineral mítico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_61.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 18 (Pactando con el diablo) -> 18-1 
-*    Capítulo 18 (Pactando con el diablo) -> 18-4 
-*    Capítulo 18 (Pactando con el diablo) -> 18-7 
+*    Aventura de Gremio 
+*    [Capítulo 18: Pactando con el diablo -> 18-1](/es/Main Story/Chapter 18_1/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-4](/es/Main Story/Chapter 18_4/) 
+*    [Capítulo 18: Pactando con el diablo -> 18-7](/es/Main Story/Chapter 18_7/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera legendaria"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Madera legendaria"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 16 (Por el rey y la nación) -> 16-2 
-*    Capítulo 16 (Por el rey y la nación) -> 16-5 
-*    Capítulo 16 (Por el rey y la nación) -> 16-8 
+*    Aventura de Gremio 
+*    [Capítulo 16: Por el rey y la nación -> 16-2](/es/Main Story/Chapter 16_2/) 
+*    [Capítulo 16: Por el rey y la nación -> 16-5](/es/Main Story/Chapter 16_5/) 
+*    [Capítulo 16: Por el rey y la nación -> 16-8](/es/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

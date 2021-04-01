@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre de Alma"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Azufre de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_85.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-4 
-*    Capítulo 24 (Dragón hada) -> 24-10 
-*    Capítulo 24 (Dragón hada) -> 24-13 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-4](/es/Main Story/Chapter 24_4/) 
+*    [Capítulo 24: Dragón hada -> 24-10](/es/Main Story/Chapter 24_10/) 
+*    [Capítulo 24: Dragón hada -> 24-13](/es/Main Story/Chapter 24_13/) 
 
 ## This item contains:
 

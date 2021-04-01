@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-11 Poder Mágico"
 permalink: /Main Story/Chapter 19_11/
 excerpt: "Capítulo 19 - 11. Era of Chaos  Historia principal - Capítulo 19_11. 19-11 Poder Mágico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 19_11.md"
 toc: false

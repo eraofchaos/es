@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas superiores"
 permalink: /Items/mat_23/
 excerpt: "Era of Chaos  Gemas superiores"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_23.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 7 (Erathia) -> 7-1 
-*    Capítulo 7 (Erathia) -> 7-5 
-*    Capítulo 7 (Erathia) -> 7-11 
+*    Aventura de Gremio 
+*    [Capítulo 7: Erathia -> 7-1](/es/Main Story/Chapter 7_1/) 
+*    [Capítulo 7: Erathia -> 7-5](/es/Main Story/Chapter 7_5/) 
+*    [Capítulo 7: Erathia -> 7-11](/es/Main Story/Chapter 7_11/) 
 
 ## This item contains:
 

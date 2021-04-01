@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal eterno"
 permalink: /Items/mat_73/
 excerpt: "Era of Chaos  Cristal eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_73.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 21 (El Grial) -> 21-6 
-*    Capítulo 21 (El Grial) -> 21-12 
-*    Capítulo 21 (El Grial) -> 21-15 
+*    Aventura de Gremio 
+*    [Capítulo 21: El Grial -> 21-6](/es/Main Story/Chapter 21_6/) 
+*    [Capítulo 21: El Grial -> 21-12](/es/Main Story/Chapter 21_12/) 
+*    [Capítulo 21: El Grial -> 21-15](/es/Main Story/Chapter 21_15/) 
 
 ## This item contains:
 

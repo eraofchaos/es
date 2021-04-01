@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal excepcional"
 permalink: /Items/mat_38/
 excerpt: "Era of Chaos  Cristal excepcional"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_38.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 11 (Tatalia) -> 11-6 
-*    Capítulo 11 (Tatalia) -> 11-12 
-*    Capítulo 11 (Tatalia) -> 11-15 
+*    Aventura de Gremio 
+*    [Capítulo 11: Tatalia -> 11-6](/es/Main Story/Chapter 11_6/) 
+*    [Capítulo 11: Tatalia -> 11-12](/es/Main Story/Chapter 11_12/) 
+*    [Capítulo 11: Tatalia -> 11-15](/es/Main Story/Chapter 11_15/) 
 
 ## This item contains:
 

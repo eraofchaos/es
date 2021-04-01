@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-6 Compromiso Subterráneo"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Capítulo 11 - 6. Era of Chaos  Historia principal - Capítulo 11_6. 11-6 Compromiso Subterráneo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 11_6.md"
 toc: false

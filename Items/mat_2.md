@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio inferior"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Mercurio inferior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_2.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-1 
-*    Capítulo 1 (Isla Siemprealbor) -> 1-3 
-*    Capítulo 2 (El retorno de la reina) -> 2-3 
+*    Aventura de Gremio 
+*    [Capítulo 1: Isla Siemprealbor -> 1-1](/es/Main Story/Chapter 1_1/) 
+*    [Capítulo 1: Isla Siemprealbor -> 1-3](/es/Main Story/Chapter 1_3/) 
+*    [Capítulo 2: El retorno de la reina -> 2-3](/es/Main Story/Chapter 2_3/) 
 
 ## This item contains:
 

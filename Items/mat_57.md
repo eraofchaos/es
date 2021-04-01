@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre legendario"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Azufre legendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 16 (Por el rey y la nación) -> 16-10 
-*    Capítulo 16 (Por el rey y la nación) -> 16-14 
-*    Capítulo 17 (Liberación del imperio) -> 17-4 
+*    Aventura de Gremio 
+*    [Capítulo 16: Por el rey y la nación -> 16-10](/es/Main Story/Chapter 16_10/) 
+*    [Capítulo 16: Por el rey y la nación -> 16-14](/es/Main Story/Chapter 16_14/) 
+*    [Capítulo 17: Liberación del imperio -> 17-4](/es/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

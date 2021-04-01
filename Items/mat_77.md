@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio secreto"
 permalink: /Items/mat_77/
 excerpt: "Era of Chaos  Mercurio secreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_77.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 22 (Dragón de cristal) -> 22-3 
-*    Capítulo 22 (Dragón de cristal) -> 22-9 
-*    Capítulo 23 (Dragón oxidado) -> 23-3 
+*    Aventura de Gremio 
+*    [Capítulo 22: Dragón de cristal -> 22-3](/es/Main Story/Chapter 22_3/) 
+*    [Capítulo 22: Dragón de cristal -> 22-9](/es/Main Story/Chapter 22_9/) 
+*    [Capítulo 23: Dragón oxidado -> 23-3](/es/Main Story/Chapter 23_3/) 
 
 ## This item contains:
 

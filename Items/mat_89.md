@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral estelar"
 permalink: /Items/mat_89/
 excerpt: "Era of Chaos  Mineral estelar"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_89.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-7 
+*    Aventura de Gremio 
+*    [Capítulo 26: Aumentar la ventaja -> 26-7](/es/Main Story/Chapter 26_7/) 
 
 ## This item contains:
 

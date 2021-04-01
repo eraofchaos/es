@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral épico"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Mineral épico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 14 (Camino seguro) -> 14-1 
-*    Capítulo 14 (Camino seguro) -> 14-4 
-*    Capítulo 14 (Camino seguro) -> 14-7 
+*    Aventura de Gremio 
+*    [Capítulo 14: Camino seguro -> 14-1](/es/Main Story/Chapter 14_1/) 
+*    [Capítulo 14: Camino seguro -> 14-4](/es/Main Story/Chapter 14_4/) 
+*    [Capítulo 14: Camino seguro -> 14-7](/es/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

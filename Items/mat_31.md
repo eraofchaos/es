@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal valioso"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Cristal valioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 9 (Tierra del caos) -> 9-6 
-*    Capítulo 9 (Tierra del caos) -> 9-12 
-*    Capítulo 9 (Tierra del caos) -> 9-15 
+*    Aventura de Gremio 
+*    [Capítulo 9: Tierra del caos -> 9-6](/es/Main Story/Chapter 9_6/) 
+*    [Capítulo 9: Tierra del caos -> 9-12](/es/Main Story/Chapter 9_12/) 
+*    [Capítulo 9: Tierra del caos -> 9-15](/es/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

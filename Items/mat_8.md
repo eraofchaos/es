@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio común"
 permalink: /Items/mat_8/
 excerpt: "Era of Chaos  Mercurio común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_8.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 2 (El retorno de la reina) -> 2-4 
-*    Capítulo 2 (El retorno de la reina) -> 2-8 
-*    Capítulo 3 (Ángel guardián) -> 3-3 
+*    Aventura de Gremio 
+*    [Capítulo 2: El retorno de la reina -> 2-4](/es/Main Story/Chapter 2_4/) 
+*    [Capítulo 2: El retorno de la reina -> 2-8](/es/Main Story/Chapter 2_8/) 
+*    [Capítulo 3: Ángel guardián -> 3-3](/es/Main Story/Chapter 3_3/) 
 
 ## This item contains:
 

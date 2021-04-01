@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral común"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Mineral común"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 2 (El retorno de la reina) -> 2-2 
-*    Capítulo 2 (El retorno de la reina) -> 2-6 
-*    Capítulo 2 (El retorno de la reina) -> 2-10 
+*    Aventura de Gremio 
+*    [Capítulo 2: El retorno de la reina -> 2-2](/es/Main Story/Chapter 2_2/) 
+*    [Capítulo 2: El retorno de la reina -> 2-6](/es/Main Story/Chapter 2_6/) 
+*    [Capítulo 2: El retorno de la reina -> 2-10](/es/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

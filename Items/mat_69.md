@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera eterna"
 permalink: /Items/mat_69/
 excerpt: "Era of Chaos  Madera eterna"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_69.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-2 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-5 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-8 
+*    Aventura de Gremio 
+*    [Capítulo 20: Túneles y trogloditas -> 20-2](/es/Main Story/Chapter 20_2/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-5](/es/Main Story/Chapter 20_5/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-8](/es/Main Story/Chapter 20_8/) 
 
 ## This item contains:
 

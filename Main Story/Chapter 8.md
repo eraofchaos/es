@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 Tierras fronterizas"
 permalink: /Main Story/Chapter 8/
 excerpt: "Capítulo 8. Era of Chaos  Historia principal - Capítulo 8. Tierras fronterizas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 8.md"
 toc: false

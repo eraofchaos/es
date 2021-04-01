@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio eterno"
 permalink: /Items/mat_70/
 excerpt: "Era of Chaos  Mercurio eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_70.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-3 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-6 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-9 
+*    Aventura de Gremio 
+*    [Capítulo 20: Túneles y trogloditas -> 20-3](/es/Main Story/Chapter 20_3/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-6](/es/Main Story/Chapter 20_6/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-9](/es/Main Story/Chapter 20_9/) 
 
 ## This item contains:
 

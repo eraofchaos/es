@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre superior"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Azufre superior"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 6 (Abrirse camino) -> 6-10 
-*    Capítulo 6 (Abrirse camino) -> 6-14 
-*    Capítulo 7 (Erathia) -> 7-4 
+*    Aventura de Gremio 
+*    [Capítulo 6: Abrirse camino -> 6-10](/es/Main Story/Chapter 6_10/) 
+*    [Capítulo 6: Abrirse camino -> 6-14](/es/Main Story/Chapter 6_14/) 
+*    [Capítulo 7: Erathia -> 7-4](/es/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

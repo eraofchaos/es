@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral de Alma"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Mineral de Alma"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 24 (Dragón hada) -> 24-7 
-*    Capítulo 25 (Supervivencia del más fuerte) -> 25-7 
+*    Aventura de Gremio 
+*    [Capítulo 24: Dragón hada -> 24-7](/es/Main Story/Chapter 24_7/) 
+*    [Capítulo 25: Supervivencia del más fuerte -> 25-7](/es/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

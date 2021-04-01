@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal estelar"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Cristal estelar"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_94.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-6 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-12 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-15 
+*    Aventura de Gremio 
+*    [Capítulo 26: Aumentar la ventaja -> 26-6](/es/Main Story/Chapter 26_6/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-12](/es/Main Story/Chapter 26_12/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-15](/es/Main Story/Chapter 26_15/) 
 
 ## This item contains:
 

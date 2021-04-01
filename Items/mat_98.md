@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio radiante"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Mercurio radiante"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-3 
-*    Capítulo 27 (Sangre del padre de los dragones) -> 27-9 
+*    Aventura de Gremio 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-3](/es/Main Story/Chapter 27_3/) 
+*    [Capítulo 27: Sangre del padre de los dragones -> 27-9](/es/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

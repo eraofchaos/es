@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-11 Terraniebla"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Capítulo 11 - 11. Era of Chaos  Historia principal - Capítulo 11_11. 11-11 Terraniebla"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 11_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre eterno"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Azufre eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_71.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-10 
-*    Capítulo 20 (Túneles y trogloditas) -> 20-14 
-*    Capítulo 21 (El Grial) -> 21-4 
+*    Aventura de Gremio 
+*    [Capítulo 20: Túneles y trogloditas -> 20-10](/es/Main Story/Chapter 20_10/) 
+*    [Capítulo 20: Túneles y trogloditas -> 20-14](/es/Main Story/Chapter 20_14/) 
+*    [Capítulo 21: El Grial -> 21-4](/es/Main Story/Chapter 21_4/) 
 
 ## This item contains:
 

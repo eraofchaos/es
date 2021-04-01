@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-1 Alma Ancestral"
 permalink: /Main Story/Chapter 16_1/
 excerpt: "Capítulo 16 - 1. Era of Chaos  Historia principal - Capítulo 16_1. 16-1 Alma Ancestral"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 16_1.md"
 toc: false

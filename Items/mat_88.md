@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificado de leyenda"
 permalink: /Items/mat_88/
 excerpt: "Era of Chaos  Certificado de leyenda"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_88.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Aventura de Gremio 
 *    Capítulo - El camino a casa 
 *    Capítulo - Independencia 
 *    Capítulo - Marea elemental 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre estelar"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Azufre estelar"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "mat_92.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-4 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-10 
-*    Capítulo 26 (Aumentar la ventaja) -> 26-13 
+*    Aventura de Gremio 
+*    [Capítulo 26: Aumentar la ventaja -> 26-4](/es/Main Story/Chapter 26_4/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-10](/es/Main Story/Chapter 26_10/) 
+*    [Capítulo 26: Aumentar la ventaja -> 26-13](/es/Main Story/Chapter 26_13/) 
 
 ## This item contains:
 

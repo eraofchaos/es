@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-2 Armas a Sueldo"
 permalink: /Main Story/Chapter 9_2/
 excerpt: "Capítulo 9 - 2. Era of Chaos  Historia principal - Capítulo 9_2. 9-2 Armas a Sueldo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 9_2.md"
 toc: false

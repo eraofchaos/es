@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-2 Magia del Deseo"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Capítulo 20 - 2. Era of Chaos  Historia principal - Capítulo 20_2. 20-2 Magia del Deseo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Chapter 20_2.md"
 toc: false
