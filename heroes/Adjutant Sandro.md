@@ -2,7 +2,7 @@
 title: "Ayudante Sandro"
 permalink: /heroes/Adjutant Sandro/
 excerpt: "Era of Chaos  Ayudante Sandro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Adjutant Sandro.md"
 toc: false

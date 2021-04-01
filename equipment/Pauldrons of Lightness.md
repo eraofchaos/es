@@ -2,7 +2,7 @@
 title: "Hombreras de la Ligereza"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Era of Chaos Hombreras de la Ligereza. Hombreras de la Ligereza"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Pauldrons of Lightness.md"
 toc: false

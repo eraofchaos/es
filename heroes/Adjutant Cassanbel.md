@@ -2,7 +2,7 @@
 title: "Ayudante Cassanbel"
 permalink: /heroes/Adjutant Cassanbel/
 excerpt: "Era of Chaos  Ayudante Cassanbel"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Adjutant Cassanbel.md"
 toc: false

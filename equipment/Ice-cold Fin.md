@@ -2,7 +2,7 @@
 title: "Aleta Helada"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Aleta Helada. Aleta Helada"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Ice-cold Fin.md"
 toc: false

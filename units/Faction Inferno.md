@@ -2,13 +2,13 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Faction Inferno"
 toc: false
 classes: wide
 ---
-  [Battle Formation](/Battle Formation/Battle Formation Faction Inferno)
+  [Formación de batalla](/es/Battle Formation/Battle Formation Faction Inferno)
 
  [Conflujo](/es/units/Faction Conflux/){: .btn .btn--primary} [Infierno](/es/units/Faction Inferno/){: .btn .btn--success} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--warning} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--danger} [Murallas](/es/units/Faction Rampart/){: .btn .btn--info} [Castillo](/es/units/Faction Castle/){: .btn .btn--primary} [Torre](/es/units/Faction Tower/){: .btn .btn--success} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--warning} [Cala](/es/units/Faction Cove/){: .btn .btn--danger} [Ejército Neutral](/es/units/Faction Neutral Army/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
 

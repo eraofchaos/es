@@ -2,7 +2,7 @@
 title: "Rama de Vitalidad"
 permalink: /equipment/Branch of Vitality/
 excerpt: "Era of Chaos Rama de Vitalidad. Rama de Vitalidad"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Branch of Vitality.md"
 toc: false

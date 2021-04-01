@@ -2,7 +2,7 @@
 title: "Garras de Roca Afilada"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Garras de Roca Afilada. Garras de Roca Afilada"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Sharp Rock Claws.md"
 toc: false

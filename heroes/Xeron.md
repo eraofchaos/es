@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Cuando Lucifer Kreegan mató a Xenofex y se hizo con el poder, Xeron fue el primero en jurar alianza al usurpador, lo que le granjeó el favor del nuevo Rey."
 heroID: 60801
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Xeron"
 toc: true

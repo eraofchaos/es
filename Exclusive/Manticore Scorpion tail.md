@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Escorpión"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Cola de Escorpión. Cola de Escorpión. Era of Chaos Exclusivo Cola de Escorpión. Mantícora Exclusivo."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Manticore Cola de Escorpión.md"
 toc: false

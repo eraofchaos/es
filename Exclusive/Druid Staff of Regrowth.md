@@ -2,7 +2,7 @@
 title: "Exclusivo - Báculo de Resurgimiento"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Báculo de Resurgimiento. Báculo de Resurgimiento. Era of Chaos Exclusivo Báculo de Resurgimiento. Druida Exclusivo."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Druid Báculo de Resurgimiento.md"
 toc: false

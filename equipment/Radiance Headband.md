@@ -2,7 +2,7 @@
 title: "Cintillo de Radiancia"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Cintillo de Radiancia. Cintillo de Radiancia"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Radiance Headband.md"
 toc: false

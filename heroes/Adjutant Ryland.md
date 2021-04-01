@@ -2,7 +2,7 @@
 title: "Ayudante Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Ayudante Ryland"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Adjutant Ryland.md"
 toc: false

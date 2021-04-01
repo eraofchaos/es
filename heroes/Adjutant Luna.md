@@ -2,7 +2,7 @@
 title: "Ayudante Luna"
 permalink: /heroes/Adjutant Luna/
 excerpt: "Era of Chaos  Ayudante Luna"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Adjutant Luna.md"
 toc: false

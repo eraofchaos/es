@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Muro de la Sabiduría"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Muro de la Sabiduría. Muro de la Sabiduría. Era of Chaos Emblema Sagrado Muro de la Sabiduría. Era of Chaos Bien Muro de la Sabiduría"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Wall of Knowledge.md"
 toc: false

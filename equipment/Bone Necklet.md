@@ -2,7 +2,7 @@
 title: "Collar Óseo"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Collar Óseo. Collar Óseo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Bone Necklet.md"
 toc: false

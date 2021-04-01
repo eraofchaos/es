@@ -2,7 +2,7 @@
 title: "Formación de batalla Conflujo"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Formación de batalla Conflujo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "BattleFormationFactionConflux"
 toc: false

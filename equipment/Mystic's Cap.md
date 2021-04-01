@@ -2,7 +2,7 @@
 title: "Bonete de Místico"
 permalink: /equipment/Mystic's Cap/
 excerpt: "Era of Chaos Bonete de Místico. Bonete de Místico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Mystic's Cap.md"
 toc: false

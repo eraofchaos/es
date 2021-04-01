@@ -2,7 +2,7 @@
 title: "Ala de Cuello de Púas"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Ala de Cuello de Púas. Ala de Cuello de Púas"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Spiked Neck Umbrella.md"
 toc: false

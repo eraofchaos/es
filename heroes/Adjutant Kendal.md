@@ -2,7 +2,7 @@
 title: "Ayudante Kendal"
 permalink: /heroes/Adjutant Kendal/
 excerpt: "Era of Chaos  Ayudante Kendal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Adjutant Kendal.md"
 toc: false

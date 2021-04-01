@@ -2,7 +2,7 @@
 title: "Cinturón de Sed de Sangre"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Era of Chaos Cinturón de Sed de Sangre. Cinturón de Sed de Sangre"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Bloodthirsty Belt.md"
 toc: false

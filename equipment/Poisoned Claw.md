@@ -2,7 +2,7 @@
 title: "Garra Envenenada"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Garra Envenenada. Garra Envenenada"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: es
 ref: "Poisoned Claw.md"
 toc: false
