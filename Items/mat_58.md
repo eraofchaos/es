@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemas legendarias"
+title: "Item - Materials - Gemas legendarias +3"
 permalink: /Items/mat_58/
-excerpt: "Era of Chaos  Gemas legendarias"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemas legendarias +3"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_58.md"
 toc: false

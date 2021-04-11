@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 Acantilados de los Grifos"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capítulo 4. Era of Chaos  Historia principal - Capítulo 4. Acantilados de los Grifos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 4.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [4-13 Gremio de Mercenarios](/es/Main Story/Chapter 4_13/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mercurio bueno](/es/Items/mat_14/){: .btn .btn--era3}, [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
   | [4-14 Refugio](/es/Main Story/Chapter 4_14/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre bueno](/es/Items/mat_15/){: .btn .btn--era3}, [Mineral común](/es/Items/mat_6/){: .btn .btn--era2}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
   | [4-15 Nido del Viento](/es/Main Story/Chapter 4_15/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mineral bueno](/es/Items/mat_12/){: .btn .btn--era3}, [Madera común](/es/Items/mat_7/){: .btn .btn--era2}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** EXP de unidad
+
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** EXP de unidad
+
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **350x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** EXP de unidad
+

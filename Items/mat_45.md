@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Cristal poco común"
+title: "Item - Materials - Cristal poco común +1"
 permalink: /Items/mat_45/
-excerpt: "Era of Chaos  Cristal poco común"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Cristal poco común +1"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_45.md"
 toc: false

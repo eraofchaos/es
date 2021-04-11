@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-9 Alquimia"
 permalink: /Main Story/Chapter 19_9/
 excerpt: "Capítulo 19 - 9. Era of Chaos  Historia principal - Capítulo 19_9. 19-9 Alquimia"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 19_9.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Nadie sabe si la magia dio lugar a la alquimia o si fue al revés, pero lo que está claro es que están fuertemente entrelazadas. Sin duda, la alquimia es la mejor forma de producir materiales mágicos.
 
- **Related to:** [Capítulo 19](/es/Main Story/Chapter 19/)
+ **Related to:** [Historia principal Capítulo 19](/es/Main Story/Chapter 19/)
 
 ## Recompensa obtenida
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mercurio mítico](/es/Items/mat_63/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Azufre legendario](/es/Items/mat_57/){: .btn .btn--era4}, **40% 1x** [Azufre legendario](/es/Items/mat_57/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Azufre legendario +3](/es/Items/mat_57/){: .btn .btn--era4}, **40% 1x** [Azufre legendario +3](/es/Items/mat_57/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Espadachín](/es/units/Swordsman/) (Score: 107399, Level:73)  | [Gigante](/es/units/Giant/) (Score: 107399, Level:73)  | - | - |
+  | [Gólem de Hierro](/es/units/Iron Golem/) (Score: 107399, Level:73)  | [Elemental de Hielo](/es/units/Ice Elemental/) (Score: 107399, Level:73)  | - | - |
+  | [Elemental de Piedra](/es/units/Stone Elemental/) (Score: 107399, Level:73)  | [Genio](/es/units/Genie/) (Score: 107399, Level:73)  | - | - |
+  | [Espadachín](/es/units/Swordsman/) (Score: 107399, Level:73)  | - | - | - |
+
 

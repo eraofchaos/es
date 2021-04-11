@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mineral secreto"
+title: "Item - Materials - Mineral secreto +2"
 permalink: /Items/mat_75/
-excerpt: "Era of Chaos  Mineral secreto"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mineral secreto +2"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_75.md"
 toc: false

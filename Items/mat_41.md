@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Madera poco común"
+title: "Item - Materials - Madera poco común +1"
 permalink: /Items/mat_41/
-excerpt: "Era of Chaos  Madera poco común"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Madera poco común +1"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_41.md"
 toc: false

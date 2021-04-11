@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mineral valioso"
+title: "Item - Materials - Mineral valioso +2"
 permalink: /Items/mat_26/
-excerpt: "Era of Chaos  Mineral valioso"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mineral valioso +2"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_26.md"
 toc: false

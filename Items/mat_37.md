@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas excepcionales"
 permalink: /Items/mat_37/
 excerpt: "Era of Chaos  Gemas excepcionales"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_37.md"
 toc: false

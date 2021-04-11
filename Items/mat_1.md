@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera inferior"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Madera inferior"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_1.md"
 toc: false

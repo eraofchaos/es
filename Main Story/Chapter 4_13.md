@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-13 Gremio de Mercenarios"
 permalink: /Main Story/Chapter 4_13/
 excerpt: "Capítulo 4 - 13. Era of Chaos  Historia principal - Capítulo 4_13. 4-13 Gremio de Mercenarios"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 4_13.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Tu lugarteniente te aconseja no quedarte aquí. Este lugar desprende un aura de muerte, y tus tropas lo notan.
 
- **Related to:** [Capítulo 4](/es/Main Story/Chapter 4/)
+ **Related to:** [Historia principal Capítulo 4](/es/Main Story/Chapter 4/)
 
 ## Recompensa obtenida
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Sabueso Infernal](/es/units/Hell Hound/) (Score: 3977, Level:15)  | - | - | - |
+  | [Diablillo](/es/units/Imp/) (Score: 3977, Level:15)  | [Aparición](/es/units/Wight/) (Score: 3977, Level:15)  | [Aparición](/es/units/Wight/) (Score: 3977, Level:15)  | - |
+  | - | - | - | - |
+  | [Sabueso Infernal](/es/units/Hell Hound/) (Score: 3977, Level:15)  | - | - | - |
+
 

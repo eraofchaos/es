@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-8 Torre de Picoférreo"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Capítulo 4 - 8. Era of Chaos  Historia principal - Capítulo 4_8. 4-8 Torre de Picoférreo"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 4_8.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** El Grifo es la enseña de la Familia Corazón de Grifo. Ganarse el apoyo de los Grifos supondría un gran avance en la causa de la Reina Catherine.
 
- **Related to:** [Capítulo 4](/es/Main Story/Chapter 4/)
+ **Related to:** [Historia principal Capítulo 4](/es/Main Story/Chapter 4/)
 
 ## Recompensa obtenida
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Mercurio común](/es/Items/mat_8/){: .btn .btn--era2}, **50% 1x** [Mercurio común](/es/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Nómada](/es/units/Nomad/) (Score: 3672, Level:14)  | [Grifo](/es/units/Griffin/) (Score: 3977, Level:14)  | - | - |
+  | [Nómada](/es/units/Nomad/) (Score: 3672, Level:14)  | - | - | - |
+  | - | - | - | - |
+  | [Nómada](/es/units/Nomad/) (Score: 3672, Level:14)  | [Grifo](/es/units/Griffin/) (Score: 3977, Level:14)  | - | - |
+
 

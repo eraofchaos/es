@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Madera superior"
+title: "Item - Materials - Madera superior +1"
 permalink: /Items/mat_20/
-excerpt: "Era of Chaos  Madera superior"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Madera superior +1"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_20.md"
 toc: false

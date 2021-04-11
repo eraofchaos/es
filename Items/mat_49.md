@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercurio épico"
+title: "Item - Materials - Mercurio épico +2"
 permalink: /Items/mat_49/
-excerpt: "Era of Chaos  Mercurio épico"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercurio épico +2"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_49.md"
 toc: false

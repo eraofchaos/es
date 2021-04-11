@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemas estelares"
+title: "Item - Materials - Gemas estelares +4"
 permalink: /Items/mat_93/
-excerpt: "Era of Chaos  Gemas estelares"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemas estelares +4"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_93.md"
 toc: false

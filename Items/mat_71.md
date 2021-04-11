@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Azufre eterno"
+title: "Item - Materials - Azufre eterno +1"
 permalink: /Items/mat_71/
-excerpt: "Era of Chaos  Azufre eterno"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Azufre eterno +1"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_71.md"
 toc: false

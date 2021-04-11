@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-13 Insignia del Coraje"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Capítulo 11 - 13. Era of Chaos  Historia principal - Capítulo 11_13. 11-13 Insignia del Coraje"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 11_13.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Como ha puesto tanta atención en nosotros, ha dejado su ciudad natal indefensa. Y, ahora, otra fuerza invasora le ha echado el ojo. ¡Qué coincidencia!
 
- **Related to:** [Capítulo 11](/es/Main Story/Chapter 11/)
+ **Related to:** [Historia principal Capítulo 11](/es/Main Story/Chapter 11/)
 
 ## Recompensa obtenida
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Azufre excepcional](/es/Items/mat_36/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Mineral valioso](/es/Items/mat_26/){: .btn .btn--era3}, **40% 1x** [Mineral valioso](/es/Items/mat_26/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Mineral valioso +2](/es/Items/mat_26/){: .btn .btn--era3}, **40% 1x** [Mineral valioso +2](/es/Items/mat_26/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Espadachín](/es/units/Swordsman/) (Score: 33946, Level:44)  | - | - |
+  | - | [Espadachín](/es/units/Swordsman/) (Score: 33946, Level:44)  | [Pegaso](/es/units/Pegasus/) (Score: 40961, Level:44)  | - |
+  | - | [Espadachín](/es/units/Swordsman/) (Score: 33946, Level:44)  | - | - |
+  | - | [Unicornio](/es/units/Unicorn/) (Score: 34099, Level:44)  | [Monje](/es/units/Monk/) (Score: 34480, Level:44)  | [Monje](/es/units/Monk/) (Score: 34480, Level:44)  |
+
 

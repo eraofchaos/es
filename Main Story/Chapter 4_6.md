@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-6 Torre de Vigía"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Capítulo 4 - 6. Era of Chaos  Historia principal - Capítulo 4_6. 4-6 Torre de Vigía"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 4_6.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Este guardia se encarga de defender este territorio de los atacantes de Eeofol. Tendrás que demostrarle tu fuerza si quieres que los Grifos se alíen contigo.
 
- **Related to:** [Capítulo 4](/es/Main Story/Chapter 4/)
+ **Related to:** [Historia principal Capítulo 4](/es/Main Story/Chapter 4/)
 
 ## Recompensa obtenida
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Lobo Terrible](/es/units/Dire Wolf/) (Score: 3672, Level:13)  | [Lobo Terrible](/es/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - |
+  | [Nómada](/es/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Nómada](/es/units/Nomad/) (Score: 3672, Level:13)  | - | - | - |
+  | [Lobo Terrible](/es/units/Dire Wolf/) (Score: 3672, Level:13)  | - | - | - |
+
 

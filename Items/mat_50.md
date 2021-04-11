@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Azufre épico"
+title: "Item - Materials - Azufre épico +2"
 permalink: /Items/mat_50/
-excerpt: "Era of Chaos  Azufre épico"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Azufre épico +2"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_50.md"
 toc: false

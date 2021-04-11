@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-8 La Torre Mágica"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Capítulo 19 - 8. Era of Chaos  Historia principal - Capítulo 19_8. 19-8 La Torre Mágica"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 19_8.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Todo mago común sueña con tener una Torre Mágica en su posesión. Por desgracia, los costes de edificación de las Torres Mágicas y su mantenimiento son altos. Por tanto, pocos logran cumplir su sueño.
 
- **Related to:** [Capítulo 19](/es/Main Story/Chapter 19/)
+ **Related to:** [Historia principal Capítulo 19](/es/Main Story/Chapter 19/)
 
 ## Recompensa obtenida
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Madera mítica](/es/Items/mat_62/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mercurio legendario](/es/Items/mat_56/){: .btn .btn--era4}, **40% 1x** [Mercurio legendario](/es/Items/mat_56/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Mercurio legendario +3](/es/Items/mat_56/){: .btn .btn--era4}, **40% 1x** [Mercurio legendario +3](/es/Items/mat_56/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Hada](/es/units/Sprite/) (Score: 106740, Level:73)  | [Archimaga](/es/units/Arch Mage/) (Score: 106740, Level:73)  | [Elemental de Hielo](/es/units/Ice Elemental/) (Score: 106740, Level:73)  | [Elemental de Hielo](/es/units/Ice Elemental/) (Score: 106740, Level:73)  |
+  | - | - | [Elemental de Hielo](/es/units/Ice Elemental/) (Score: 106740, Level:73)  | - |
+  | [Gigante](/es/units/Giant/) (Score: 106740, Level:73)  | - | [Elemental de Hielo](/es/units/Ice Elemental/) (Score: 106740, Level:73)  | - |
+  | [Gólem de Hierro](/es/units/Iron Golem/) (Score: 106740, Level:73)  | - | - | - |
+
 

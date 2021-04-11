@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-11 Terraniebla"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Capítulo 11 - 11. Era of Chaos  Historia principal - Capítulo 11_11. 11-11 Terraniebla"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 11_11.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Hemos recibido una misiva de nuestro amigo. Nos invita a rendirnos. Nos pide que nos unamos a Crag Hack para así conquistar esta ciénaga.
 
- **Related to:** [Capítulo 11](/es/Main Story/Chapter 11/)
+ **Related to:** [Historia principal Capítulo 11](/es/Main Story/Chapter 11/)
 
 ## Recompensa obtenida
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Gemas excepcionales](/es/Items/mat_37/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Cristal valioso](/es/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal valioso](/es/Items/mat_31/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Cristal valioso +2](/es/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal valioso +2](/es/Items/mat_31/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Catafracto](/es/units/Cavalier/) (Score: 33413, Level:43)  | - | [Elfa del Bosque](/es/units/Wood Elf/) (Score: 33565, Level:43)  | [Elfa del Bosque](/es/units/Wood Elf/) (Score: 33565, Level:43)  |
+  | [Guardia Dendroide](/es/units/Dendroid Guard/) (Score: 33336, Level:43)  | - | [Monje](/es/units/Monk/) (Score: 33489, Level:43)  | - |
+  | [Guardia Dendroide](/es/units/Dendroid Guard/) (Score: 33336, Level:43)  | - | [Pegaso](/es/units/Pegasus/) (Score: 39818, Level:43)  | - |
+  | [Catafracto](/es/units/Cavalier/) (Score: 33413, Level:43)  | - | - | - |
+
 

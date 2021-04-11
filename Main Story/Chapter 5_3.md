@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-3 Ejército de la Alianza"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Capítulo 5 - 3. Era of Chaos  Historia principal - Capítulo 5_3. 5-3 Ejército de la Alianza"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 5_3.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Los demonios inferiores carecen de derechos. Solo existen por una razón: servir a los demonios superiores, que los condenan a luchar en batallas hasta morir.
 
- **Related to:** [Capítulo 5](/es/Main Story/Chapter 5/)
+ **Related to:** [Historia principal Capítulo 5](/es/Main Story/Chapter 5/)
 
 ## Recompensa obtenida
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Espadachín](/es/units/Swordsman/) (Score: 3611, Level:16)  | - | - | - |
+  | [Grifo](/es/units/Griffin/) (Score: 3611, Level:16)  | [Monje](/es/units/Monk/) (Score: 5624, Level:16)  | - | - |
+  | [Grifo](/es/units/Griffin/) (Score: 3611, Level:16)  | - | - | - |
+  | [Espadachín](/es/units/Swordsman/) (Score: 3611, Level:16)  | - | - | - |
+
 

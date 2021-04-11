@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-4 Árbol de la Sabiduría"
 permalink: /Main Story/Chapter 1_4/
 excerpt: "Capítulo 1 - 4. Era of Chaos  Historia principal - Capítulo 1_4. 1-4 Árbol de la Sabiduría"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 1_4.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** El Árbol de la Sabiduría no quiere enseñarte sus secretos ancestrales. Por lo visto, ya han venido otros a antes que tú a visitarlo.
 
- **Related to:** [Capítulo 1](/es/Main Story/Chapter 1/)
+ **Related to:** [Historia principal Capítulo 1](/es/Main Story/Chapter 1/)
 
 ## Recompensa obtenida
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **80% 1x** [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1}
 
  **Drop 2:** **80% 1x** [Cristal inferior](/es/Items/mat_5/){: .btn .btn--era1}, **20% 2x** [Cristal inferior](/es/Items/mat_5/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Monje](/es/units/Monk/) (Score: 1232, Level:3)  | [Monje](/es/units/Monk/) (Score: 1232, Level:3)  |
+  | - | [Guardia Dendroide](/es/units/Dendroid Guard/) (Score: 1964, Level:4)  | - | - |
+  | - | - | [Monje](/es/units/Monk/) (Score: 1232, Level:3)  | - |
+  | - | - | - | - |
+
 

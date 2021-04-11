@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-14 Armadura de Dragón"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Capítulo 5 - 14. Era of Chaos  Historia principal - Capítulo 5_14. 5-14 Armadura de Dragón"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 5_14.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Por suerte, la Reina Dragón Dorada todavía no había aparecido. Su ausencia alienta el coraje de los demonios. Solos, los elfos no asustan a los demonios.
 
- **Related to:** [Capítulo 5](/es/Main Story/Chapter 5/)
+ **Related to:** [Historia principal Capítulo 5](/es/Main Story/Chapter 5/)
 
 ## Recompensa obtenida
 
@@ -26,4 +26,19 @@ classes: wide
  **Drop 2:** **50% 0x** [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}, **50% 1x** [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}
 
  **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Enano](/es/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Enano](/es/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+  | - | [Enano](/es/units/Dwarf/) (Score: 4038, Level:18)  | [Cíclope](/es/units/Cyclops/) (Score: 6539, Level:18)  | - |
+  | - | [Enano](/es/units/Dwarf/) (Score: 4038, Level:18)  | - | - |
+
 

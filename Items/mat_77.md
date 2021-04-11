@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercurio secreto"
+title: "Item - Materials - Mercurio secreto +2"
 permalink: /Items/mat_77/
-excerpt: "Era of Chaos  Mercurio secreto"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercurio secreto +2"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_77.md"
 toc: false

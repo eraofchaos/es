@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Madera eterna"
+title: "Item - Materials - Madera eterna +1"
 permalink: /Items/mat_69/
-excerpt: "Era of Chaos  Madera eterna"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Madera eterna +1"
+last_modified_at: 2021-04-11
 locale: es
 ref: "mat_69.md"
 toc: false

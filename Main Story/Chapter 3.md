@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 Ángel guardián"
 permalink: /Main Story/Chapter 3/
 excerpt: "Capítulo 3. Era of Chaos  Historia principal - Capítulo 3. Ángel guardián"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 3.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [3-13 Establos y Bosques](/es/Main Story/Chapter 3_13/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, [Mineral inferior](/es/Items/mat_1/){: .btn .btn--era1} |
   | [3-14 El Laboratorio del Alquimista](/es/Main Story/Chapter 3_14/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas comunes](/es/Items/mat_10/){: .btn .btn--era2}, [Cristal inferior](/es/Items/mat_5/){: .btn .btn--era1} |
   | [3-15 Ciudad del Pecado](/es/Main Story/Chapter 3_15/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}, [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1} |
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **5000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** EXP de unidad
+
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** EXP de unidad
+
+
+
+## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
+
+ Reward 1: _TEAM_201
+
+ Reward 2: **5 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** EXP de unidad
+

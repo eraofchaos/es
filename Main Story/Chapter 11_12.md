@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-12 Mariquita de Buen Agüero"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Capítulo 11 - 12. Era of Chaos  Historia principal - Capítulo 11_12. 11-12 Mariquita de Buen Agüero"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Chapter 11_12.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Pero, en cuanto Crag Hack conquiste esta ciénaga, pondrá el ojo en Erathia. Y eso no podemos permitirlo.
 
- **Related to:** [Capítulo 11](/es/Main Story/Chapter 11/)
+ **Related to:** [Historia principal Capítulo 11](/es/Main Story/Chapter 11/)
 
 ## Recompensa obtenida
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Cristal excepcional](/es/Items/mat_38/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Gemas valiosas](/es/Items/mat_30/){: .btn .btn--era3}, **40% 1x** [Gemas valiosas](/es/Items/mat_30/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Gemas valiosas +2](/es/Items/mat_30/){: .btn .btn--era3}, **40% 1x** [Gemas valiosas +2](/es/Items/mat_30/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | [Espadachín](/es/units/Swordsman/) (Score: 33641, Level:43)  | [Monje](/es/units/Monk/) (Score: 33870, Level:44)  | [Monje](/es/units/Monk/) (Score: 33870, Level:44)  |
+  | - | [Espadachín](/es/units/Swordsman/) (Score: 33641, Level:43)  | [Monje](/es/units/Monk/) (Score: 40275, Level:44)  | [Dragón Verde](/es/units/Green Dragon/) (Score: 33794, Level:44)  |
+  | - | [Piquero](/es/units/Pikeman/) (Score: 33641, Level:44)  | - | - |
+  | - | [Grifo](/es/units/Griffin/) (Score: 33641, Level:44)  | - | - |
+
 

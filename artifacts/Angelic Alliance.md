@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Alianza Angelical. Alianza Angelical Una reliquia sagrada forjada por el poder de un Ángel a partir de objetos valiosos. Capaz de aumentar el poder de tus aliados."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: es
 ref: "Angelic Alliance.md"
 toc: false
