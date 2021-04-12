@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-7 Ciudad Celestial"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "Capítulo 3 - 7. Era of Chaos  Historia principal - Capítulo 3_7. 3-7 Ciudad Celestial"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 3_7.md"
 toc: false

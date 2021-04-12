@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-11 Orden de los Magos"
 permalink: /Main Story/Chapter 20_11/
 excerpt: "Capítulo 20 - 11. Era of Chaos  Historia principal - Capítulo 20_11. 20-11 Orden de los Magos"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 20_11.md"
 toc: false

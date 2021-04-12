@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 Dragón hada"
 permalink: /Main Story/Chapter 24/
 excerpt: "Capítulo 24. Era of Chaos  Historia principal - Capítulo 24. Dragón hada"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 24.md"
 toc: false

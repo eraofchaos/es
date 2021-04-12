@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-7 Sueños Insólitos"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Capítulo 24 - 7. Era of Chaos  Historia principal - Capítulo 24_7. 24-7 Sueños Insólitos"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 24_7.md"
 toc: false

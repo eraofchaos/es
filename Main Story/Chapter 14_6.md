@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-6 Encuentro Bestial"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Capítulo 14 - 6. Era of Chaos  Historia principal - Capítulo 14_6. 14-6 Encuentro Bestial"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 14_6.md"
 toc: false

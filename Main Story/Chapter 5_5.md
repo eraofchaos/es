@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-5 Traición Descarada"
 permalink: /Main Story/Chapter 5_5/
 excerpt: "Capítulo 5 - 5. Era of Chaos  Historia principal - Capítulo 5_5. 5-5 Traición Descarada"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 5_5.md"
 toc: false

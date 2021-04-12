@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-3 El Metal Corroído"
 permalink: /Main Story/Chapter 23_3/
 excerpt: "Capítulo 23 - 3. Era of Chaos  Historia principal - Capítulo 23_3. 23-3 El Metal Corroído"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 23_3.md"
 toc: false

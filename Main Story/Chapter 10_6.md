@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-6 En Busca de Esquirlas"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Capítulo 10 - 6. Era of Chaos  Historia principal - Capítulo 10_6. 10-6 En Busca de Esquirlas"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 10_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-13 La Persecución"
 permalink: /Main Story/Chapter 13_13/
 excerpt: "Capítulo 13 - 13. Era of Chaos  Historia principal - Capítulo 13_13. 13-13 La Persecución"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 13_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-1 Renacimiento a Plena Luz"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Capítulo 2 - 1. Era of Chaos  Subterráneo - Capítulo 2_1. 2-1 Renacimiento a Plena Luz"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 2_1.md"
 toc: false

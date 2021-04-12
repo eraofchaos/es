@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-5 Aliento de dragón"
 permalink: /Main Story/Chapter 22_5/
 excerpt: "Capítulo 22 - 5. Era of Chaos  Historia principal - Capítulo 22_5. 22-5 Aliento de dragón"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 22_5.md"
 toc: false

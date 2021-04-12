@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 El Grial"
 permalink: /Main Story/Chapter 21/
 excerpt: "Capítulo 21. Era of Chaos  Historia principal - Capítulo 21. El Grial"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 21.md"
 toc: false

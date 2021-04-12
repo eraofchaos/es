@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-1 Tiro de Gracia"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Capítulo 23 - 1. Era of Chaos  Subterráneo - Capítulo 23_1. 23-1 Tiro de Gracia"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 23_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-5 Combatiendo a los No Muertos"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Capítulo 11 - 5. Era of Chaos  Subterráneo - Capítulo 11_5. 11-5 Combatiendo a los No Muertos"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 11_5.md"
 toc: false

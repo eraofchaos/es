@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 - 18-4 La Vacilación del Dragón"
 permalink: /Underground/Chapter 18_4/
 excerpt: "Capítulo 18 - 4. Era of Chaos  Subterráneo - Capítulo 18_4. 18-4 La Vacilación del Dragón"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 18_4.md"
 toc: false

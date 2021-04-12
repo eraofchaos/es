@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-11 Máscara Pétrea"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Capítulo 16 - 11. Era of Chaos  Historia principal - Capítulo 16_11. 16-11 Máscara Pétrea"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 16_11.md"
 toc: false

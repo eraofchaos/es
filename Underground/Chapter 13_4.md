@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 - 13-4 El Poder de los No Muertos"
 permalink: /Underground/Chapter 13_4/
 excerpt: "Capítulo 13 - 4. Era of Chaos  Subterráneo - Capítulo 13_4. 13-4 El Poder de los No Muertos"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 13_4.md"
 toc: false

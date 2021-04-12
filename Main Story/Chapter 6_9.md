@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-9 Asedio"
 permalink: /Main Story/Chapter 6_9/
 excerpt: "Capítulo 6 - 9. Era of Chaos  Historia principal - Capítulo 6_9. 6-9 Asedio"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 6_9.md"
 toc: false

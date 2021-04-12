@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-7 Altar de la Perdición"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Capítulo 15 - 7. Era of Chaos  Historia principal - Capítulo 15_7. 15-7 Altar de la Perdición"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 15_7.md"
 toc: false

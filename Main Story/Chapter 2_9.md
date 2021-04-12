@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-9 El Profeta del Grial"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Capítulo 2 - 9. Era of Chaos  Historia principal - Capítulo 2_9. 2-9 El Profeta del Grial"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 2_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-2 La Torre Azul"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Capítulo 12 - 2. Era of Chaos  Historia principal - Capítulo 12_2. 12-2 La Torre Azul"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 12_2.md"
 toc: false

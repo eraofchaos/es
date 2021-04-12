@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-7 Sustento Oscuro"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Capítulo 27 - 7. Era of Chaos  Historia principal - Capítulo 27_7. 27-7 Sustento Oscuro"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 27_7.md"
 toc: false

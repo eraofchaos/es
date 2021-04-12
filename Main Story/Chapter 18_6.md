@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-6 Piedra Monstruosa"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Capítulo 18 - 6. Era of Chaos  Historia principal - Capítulo 18_6. 18-6 Piedra Monstruosa"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: es
 ref: "Chapter 18_6.md"
 toc: false
