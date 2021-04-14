@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-9 Cabaña de caza"
 permalink: /Main Story/Chapter 29_9/
-excerpt: " - 9. Era of Chaos  Historia principal - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 9. Era of Chaos  Historia principal - Capítulo 29_9. 29-9 Cabaña de caza"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-9 Cabaña de caza
 
- **Descripción:** 
+ **Descripción:** Una choza en la que descansan los cazadores. Suele haber animales silvestres en los alrededores. La gente solo vive aquí durante la temporada de cosecha.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

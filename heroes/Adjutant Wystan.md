@@ -2,7 +2,7 @@
 title: "Ayudante Wystan"
 permalink: /heroes/Adjutant Wystan/
 excerpt: "Era of Chaos  Ayudante Wystan"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Wystan.md"
 toc: false

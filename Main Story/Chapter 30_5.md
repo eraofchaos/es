@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-5 Descanso y Chimenea"
 permalink: /Main Story/Chapter 30_5/
-excerpt: " - 5. Era of Chaos  Historia principal - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 5. Era of Chaos  Historia principal - Capítulo 30_5. 30-5 Descanso y Chimenea"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-5 Descanso y Chimenea
 
- **Descripción:** 
+ **Descripción:** Una ciudad fantasma élfica sin vigilancia alguna. Hay una taberna grande en la ciudad con una señal en la puerta que reza «Descanso y Chimenea».
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Rashka](/es/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

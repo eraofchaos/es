@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-2 Templo Maldito"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Capítulo 3 - 2. Era of Chaos  Historia principal - Capítulo 3_2. 3-2 Templo Maldito"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 3_2.md"
 toc: false

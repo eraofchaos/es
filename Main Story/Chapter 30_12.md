@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-12 Lanzamiento de Bolas de fuego"
 permalink: /Main Story/Chapter 30_12/
-excerpt: " - 12. Era of Chaos  Historia principal - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 12. Era of Chaos  Historia principal - Capítulo 30_12. 30-12 Lanzamiento de Bolas de fuego"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-12 Lanzamiento de Bolas de fuego
 
- **Descripción:** 
+ **Descripción:** Los Gogs dominan el fuego de forma innata. Usan a los presos para practicar el lanzamiento de Bolas de fuego.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

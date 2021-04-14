@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Espejo de Venganza. Espejo de Venganza Una maga débil utilizó hechizos prohibidos para crear este artefacto maligno con el objetivo de vengarse. Este artefacto puede potenciar el poder de combate de tus tropas."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "Mirror of Revenge.md"
 toc: false
@@ -52,5 +52,5 @@ classes: wide
   | **8** | Aumenta la reducción de daño de unidad de todas las unidades amistosas un 1,5%. | 
   | **11** | Aumenta la absorción de vida de todas las unidades amistosas un 1%. | 
   | **14** | Aumenta la reducción de daño de unidad de todas las unidades amistosas un 2,5%. | 
-  | **17** | Aumenta el valor de escudo de todas las unidades amistosas en 50. | 
+  | **17** | Aumenta el valor de bloqueo de todas las unidades amistosas en 50. | 
   | **20** | Aumenta la perforación de DEF de todas las unidades amistosas en 100. | 

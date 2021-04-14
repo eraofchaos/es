@@ -3,7 +3,7 @@ title: "Hechicera Maligna"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Antaño fue una santa doncella del Templo de Baa. De su piel brotan runas que le proporcionan poderes temibles, similares a los de los demonios."
 unitID: 709
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Hechicera Maligna"
 toc: true
@@ -32,7 +32,7 @@ toc: true
 
  **Short description:** Refleja los hechizos. Domina las ventajas.
 
- **Position :** Refleja los hechizos. Domina las ventajas.
+ **Position :** Refleja el daño de hechizo. Lanza descargas contra las almas de los enemigos para aturdirlas. El dominio aumenta la esquiva.
 
 ## Atributos básicos
  **Base HP: 6000.0**

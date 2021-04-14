@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-12 Acantilado del Dragón Verde"
 permalink: /Main Story/Chapter 29_12/
-excerpt: " - 12. Era of Chaos  Historia principal - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 12. Era of Chaos  Historia principal - Capítulo 29_12. 29-12 Acantilado del Dragón Verde"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-12 Acantilado del Dragón Verde
 
- **Descripción:** 
+ **Descripción:** Un nido de Dragón Verde situado en lo alto de un acantilado elevadísimo. Este lleva mucho tiempo abandonado, y ahora solo queda una pila de huesos.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

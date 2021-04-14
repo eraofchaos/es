@@ -2,7 +2,7 @@
 title: "Ayudante Mullich"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "Era of Chaos  Ayudante Mullich"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Mullich.md"
 toc: false
@@ -23,9 +23,9 @@ classes: wide
 
   | Nivel de Ayudante | Extra effect | Poder de Ayudante  |
   |:---|:-------|:------------|
-  | **10** | Aumenta el ATQ de un Héroe amistoso en 20 (todos los Héroes). | **+1500** |
+  | **10** | Aumenta el ATQ de los héroes amistosos en 20 (todos los héroes). | **+1500** |
   | **20** | <Entre las líneas enemigas> Aumenta la reducción de daño de unidad un 10% adicional. | - |
-  | **30** | Aumenta la DEF de un Héroe amistoso en 40 (todos los Héroes). | **+1500** |
+  | **30** | Aumenta la DEF de los héroes amistosos en 40 (todos los héroes). | **+1500** |
   | **40** | <Entre las líneas enemigas> Concede inmunidad adicional contra ralentización y aturdimiento. | - |
 
 

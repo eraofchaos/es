@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-2 Matar al Explorador"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Capítulo 14 - 2. Era of Chaos  Historia principal - Capítulo 14_2. 14-2 Matar al Explorador"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 14_2.md"
 toc: false

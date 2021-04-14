@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-12 Guerra Total"
 permalink: /Main Story/Chapter 5_12/
 excerpt: "Capítulo 5 - 12. Era of Chaos  Historia principal - Capítulo 5_12. 5-12 Guerra Total"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 5_12.md"
 toc: false

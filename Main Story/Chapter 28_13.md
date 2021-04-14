@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-13 Taller"
 permalink: /Main Story/Chapter 28_13/
-excerpt: " - 13. Era of Chaos  Historia principal - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 13. Era of Chaos  Historia principal - Capítulo 28_13. 28-13 Taller"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-13 Taller
 
- **Descripción:** 
+ **Descripción:** Los Enanos son artesanos reconocidos. Los Magos de la Torre Mágica solían acudir a ellos para encargarles marionetas de Gólems de Hierro. Todavía quedan algunos Gólems de Hierro vigilando el territorio.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

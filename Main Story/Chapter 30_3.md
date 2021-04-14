@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-3 Manantial de Pegaso"
 permalink: /Main Story/Chapter 30_3/
-excerpt: " - 3. Era of Chaos  Historia principal - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 3. Era of Chaos  Historia principal - Capítulo 30_3. 30-3 Manantial de Pegaso"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-3 Manantial de Pegaso
 
- **Descripción:** 
+ **Descripción:** Todo el mundo sabe que Pegaso, el caballo alado, es un símbolo sagrado, pero aquí no se ven Caballeras Élficas esperando heroicamente en el campo de batalla.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-4 Altar de sangre"
 permalink: /Main Story/Chapter 29_4/
-excerpt: " - 4. Era of Chaos  Historia principal - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 4. Era of Chaos  Historia principal - Capítulo 29_4. 29-4 Altar de sangre"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-4 Altar de sangre
 
- **Descripción:** 
+ **Descripción:** Has destruido un Altar de sangre. Aquí suelen acudir los miembros de una secta a lanzar hechizos malignos.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

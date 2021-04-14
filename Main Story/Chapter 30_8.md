@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-8 Altar de fuego"
 permalink: /Main Story/Chapter 30_8/
-excerpt: " - 8. Era of Chaos  Historia principal - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 8. Era of Chaos  Historia principal - Capítulo 30_8. 30-8 Altar de fuego"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-8 Altar de fuego
 
- **Descripción:** 
+ **Descripción:** Una de las formas en las que el Plano del Conflujo está vinculado con el mundo es a través de la atracción mutua de los mismos tipos de elementos. Por este motivo, los Altares de fuego suelen estar junto a zonas con llamas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

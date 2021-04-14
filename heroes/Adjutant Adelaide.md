@@ -2,7 +2,7 @@
 title: "Ayudante Adelaide"
 permalink: /heroes/Adjutant Adelaide/
 excerpt: "Era of Chaos  Ayudante Adelaide"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Adelaide.md"
 toc: false
@@ -23,9 +23,9 @@ classes: wide
 
   | Nivel de Ayudante | Extra effect | Poder de Ayudante  |
   |:---|:-------|:------------|
-  | **10** | Aumenta la Inteligencia de un Héroe amistoso en 20 (todos los Héroes). | **+1500** |
+  | **10** | Aumenta la Inteligencia de los héroes amistosos en 20 (todos los héroes). | **+1500** |
   | **20** | <Magia de agua amplificada> Reduce la resistencia a la magia de agua de las unidades enemigas en un 15% adicional. | - |
-  | **30** | Aumenta la Sabiduría de un Héroe amistoso en 40 (todos los Héroes). | **+1500** |
+  | **30** | Aumenta la Sabiduría de los héroes amistosos en 40 (todos los héroes). | **+1500** |
   | **40** | <Magia de agua amplificada> Las unidades amistosas infligen un 30% de daño adicional a los enemigos congelados. | - |
 
 

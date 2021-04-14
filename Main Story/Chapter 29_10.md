@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-10 La Ciudad Fortuna"
 permalink: /Main Story/Chapter 29_10/
-excerpt: " - 10. Era of Chaos  Historia principal - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 10. Era of Chaos  Historia principal - Capítulo 29_10. 29-10 La Ciudad Fortuna"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-10 La Ciudad Fortuna
 
- **Descripción:** 
+ **Descripción:** Esta Ciudad de las Murallas, conocida como «Fortuna», ha tenido la suerte de sobrevivir a la guerra intacta.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/es/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

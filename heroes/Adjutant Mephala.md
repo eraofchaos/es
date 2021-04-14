@@ -2,7 +2,7 @@
 title: "Ayudante Mephala"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Era of Chaos  Ayudante Mephala"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Mephala.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Habilidad de Ayudante:**  Formación Defensiva 
 
- **Descripción:** Aumenta el valor de escudo de las unidades defensivas amistosas en <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Descripción:** Aumenta el valor de bloqueo de las unidades defensivas amistosas en <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-11 Tumba del guerrero"
 permalink: /Main Story/Chapter 29_11/
-excerpt: " - 11. Era of Chaos  Historia principal - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 11. Era of Chaos  Historia principal - Capítulo 29_11. 29-11 Tumba del guerrero"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-11 Tumba del guerrero
 
- **Descripción:** 
+ **Descripción:** Aquí hay un guerrero famoso enterrado. Tus hombres entraron en la zona a regañadientes. No solo no consiguieron volver con nada provechoso, sino que, además, vieron reducida su moral.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

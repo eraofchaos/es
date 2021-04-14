@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-2 El poder del bosque"
 permalink: /Main Story/Chapter 28_2/
-excerpt: " - 2. Era of Chaos  Historia principal - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 2. Era of Chaos  Historia principal - Capítulo 28_2. 28-2 El poder del bosque"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-2 El poder del bosque
 
- **Descripción:** 
+ **Descripción:** Cualquier facción que luche en el bosque ha de tener cuidado con las poderosas unidades de Murallas debido a lo rápido que se mueven entre los árboles, algo que asusta hasta a los demonios.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

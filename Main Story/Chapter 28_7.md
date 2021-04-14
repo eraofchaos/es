@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-7 Adoración a los Dioses"
 permalink: /Main Story/Chapter 28_7/
-excerpt: " - 7. Era of Chaos  Historia principal - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 7. Era of Chaos  Historia principal - Capítulo 28_7. 28-7 Adoración a los Dioses"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-7 Adoración a los Dioses
 
- **Descripción:** 
+ **Descripción:** Se ha descubierto un altar de gran nivel, pero parece haber perdido su poder. Solo queda darse la vuelta con arrepentimiento.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

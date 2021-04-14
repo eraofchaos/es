@@ -2,7 +2,7 @@
 title: "Artefacto - Hacha de la Ferocidad - Corona de los Magos Supremos"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Hacha de la Ferocidad - Corona de los Magos Supremos. Una corona de obsequio por salvar a un hechicero loco. Uno de los componentes del Hacha de la Ferocidad."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "Crown of the Supreme Magi.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Brazaletes de Púas"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Brazaletes de Púas. Brazaletes de Púas"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Spiked Bracers.md"
 toc: false
@@ -40,16 +40,16 @@ classes: wide
   | Verde | **+23.758** | **+0.4375** | 1x [Gemas inferiores](/es/Items/mat_4/) | 1 |
   | Azul | **+27.152** | **+0.5** | 3x [Gemas comunes](/es/Items/mat_10/) | 1 |
   | Azul +1 | **+30.546** | **+0.5625** | 1x [Libro de Armas](/es/Items/mat_18/), 5x [Gemas buenas](/es/Items/mat_16/) | 1 |
-  | Azul +2 | **+33.94** | **+0.625** | 2x [Libro de Armas](/es/Items/mat_25/), 8x [Gemas superiores](/es/Items/mat_23/) | 1 |
-  | Violeta | **+37.334** | **+0.6875** | 3x [Libro de Armas](/es/Items/mat_32/), 10x [Gemas valiosas](/es/Items/mat_30/), 3x [Azufre superior](/es/Items/mat_22/) | 34 |
-  | Violeta +1 | **+40.728** | **+0.75** | 5x [Libro de Esencias](/es/Items/mat_39/), 15x [Gemas excepcionales](/es/Items/mat_37/), 5x [Azufre valioso](/es/Items/mat_29/) | 42 |
-  | Violeta +2 | **+44.122** | **+0.8125** | 8x [Libro de Esencias](/es/Items/mat_46/), 10x [Gemas poco comunes](/es/Items/mat_44/), 10x [Azufre poco común](/es/Items/mat_43/), 5x [Madera excepcional](/es/Items/mat_34/) | 45 |
-  | Violeta +3 | **+47.516** | **+0.875** | 10x [Libro de Esencias](/es/Items/mat_53/), 15x [Gemas épicas](/es/Items/mat_51/), 15x [Azufre épico](/es/Items/mat_50/), 8x [Madera poco común](/es/Items/mat_41/) | 54 |
-  | Naranja | **+50.91** | **+0.9375** | 12x [Libro de Esencias](/es/Items/mat_60/), 18x [Gemas legendarias](/es/Items/mat_58/), 18x [Azufre legendario](/es/Items/mat_57/), 10x [Madera épica](/es/Items/mat_48/) | 63 |
-  | Naranja +1 | **+54.304** | **+1.0** | 15x [Certificado de leyenda](/es/Items/mat_67/), 25x [Gemas míticas](/es/Items/mat_65/), 25x [Azufre mítico](/es/Items/mat_64/), 12x [Madera legendaria](/es/Items/mat_55/) | 69 |
-  | Naranja +2 | **+57.698** | **+1.0625** | 18x [Certificado de leyenda](/es/Items/mat_74/), 30x [Gemas eternas](/es/Items/mat_72/), 30x [Azufre eterno](/es/Items/mat_71/), 15x [Madera mítica](/es/Items/mat_62/) | 77 |
-  | Naranja +3 | **+61.092** | **+1.125** | 21x [Certificado de leyenda](/es/Items/mat_81/), 35x [Gemas secretas](/es/Items/mat_79/), 35x [Azufre secreto](/es/Items/mat_78/), 18x [Madera eterna](/es/Items/mat_69/) | 84 |
-  | Naranja +4 | **+64.486** | **+1.1875** | 24x [Certificado de leyenda](/es/Items/mat_88/), 40x [Gemas de Alma](/es/Items/mat_86/), 40x [Azufre de Alma](/es/Items/mat_85/), 25x [Madera secreta](/es/Items/mat_76/) | 93 |
-  | Naranja +5 | **+69.577** | **+1.28125** | 50x [Certificado de leyenda](/es/Items/mat_95/), 80x [Gemas estelares](/es/Items/mat_93/), 80x [Azufre estelar](/es/Items/mat_92/), 50x [Madera de Alma](/es/Items/mat_83/) | 101 |
-  | Rojo | **+78.062** | **+1.4375** | 100x [Certificado legendario](/es/Items/mat_102/), 150x [Gemas radiantes](/es/Items/mat_100/), 150x [Azufre radiante](/es/Items/mat_99/), 100x [Madera estelar](/es/Items/mat_90/) | 106 |
+  | Azul +2 | **+33.94** | **+0.625** | 2x [Libro de Armas +1](/es/Items/mat_25/), 8x [Gemas superiores +1](/es/Items/mat_23/) | 1 |
+  | Violeta | **+37.334** | **+0.6875** | 3x [Libro de Armas +2](/es/Items/mat_32/), 10x [Gemas valiosas +2](/es/Items/mat_30/), 3x [Azufre superior +1](/es/Items/mat_22/) | 34 |
+  | Violeta +1 | **+40.728** | **+0.75** | 5x [Libro de Esencias](/es/Items/mat_39/), 15x [Gemas excepcionales](/es/Items/mat_37/), 5x [Azufre valioso +2](/es/Items/mat_29/) | 42 |
+  | Violeta +2 | **+44.122** | **+0.8125** | 8x [Libro de Esencias +1](/es/Items/mat_46/), 10x [Gemas poco comunes +1](/es/Items/mat_44/), 10x [Azufre poco común +1](/es/Items/mat_43/), 5x [Madera excepcional](/es/Items/mat_34/) | 45 |
+  | Violeta +3 | **+47.516** | **+0.875** | 10x [Libro de Esencias +2](/es/Items/mat_53/), 15x [Gemas épicas +2](/es/Items/mat_51/), 15x [Azufre épico +2](/es/Items/mat_50/), 8x [Madera poco común +1](/es/Items/mat_41/) | 54 |
+  | Naranja | **+50.91** | **+0.9375** | 12x [Libro de Esencias +3](/es/Items/mat_60/), 18x [Gemas legendarias +3](/es/Items/mat_58/), 18x [Azufre legendario +3](/es/Items/mat_57/), 10x [Madera épica +2](/es/Items/mat_48/) | 63 |
+  | Naranja +1 | **+54.304** | **+1.0** | 15x [Certificado de leyenda](/es/Items/mat_67/), 25x [Gemas míticas](/es/Items/mat_65/), 25x [Azufre mítico](/es/Items/mat_64/), 12x [Madera legendaria +3](/es/Items/mat_55/) | 69 |
+  | Naranja +2 | **+57.698** | **+1.0625** | 18x [Certificado de leyenda +1](/es/Items/mat_74/), 30x [Gemas eternas +1](/es/Items/mat_72/), 30x [Azufre eterno +1](/es/Items/mat_71/), 15x [Madera mítica](/es/Items/mat_62/) | 77 |
+  | Naranja +3 | **+61.092** | **+1.125** | 21x [Certificado de leyenda +2](/es/Items/mat_81/), 35x [Gemas secretas +2](/es/Items/mat_79/), 35x [Azufre secreto +2](/es/Items/mat_78/), 18x [Madera eterna +1](/es/Items/mat_69/) | 84 |
+  | Naranja +4 | **+64.486** | **+1.1875** | 24x [Certificado de leyenda +3](/es/Items/mat_88/), 40x [Gemas de Alma +3](/es/Items/mat_86/), 40x [Azufre de Alma +3](/es/Items/mat_85/), 25x [Madera secreta +2](/es/Items/mat_76/) | 93 |
+  | Naranja +5 | **+69.577** | **+1.28125** | 50x [Certificado de leyenda +4](/es/Items/mat_95/), 80x [Gemas estelares +4](/es/Items/mat_93/), 80x [Azufre estelar +4](/es/Items/mat_92/), 50x [Madera de Alma +3](/es/Items/mat_83/) | 101 |
+  | Rojo | **+78.062** | **+1.4375** | 100x [Certificado legendario +5](/es/Items/mat_102/), 150x [Gemas radiantes +5](/es/Items/mat_100/), 150x [Azufre radiante +5](/es/Items/mat_99/), 100x [Madera estelar +4](/es/Items/mat_90/) | 106 |
 

@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem es la bruja más poderosa de Enroth. En ambas guerras, luchó por Roland Puño de Hierro. Cuando Roland fue coronado Rey, Gem se trasladó a Erathia y estableció allí su nuevo hogar."
 heroID: 60304
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Gem"
 toc: true
@@ -54,7 +54,7 @@ toc: true
 
  **Habilidad de Ayudante:**  Asilo de la naturaleza 
 
- **Descripción:** Cuando las unidades de Murallas amistosas reciben un <span style="color: #48b946;font-size:20px">escudo</span><span style="color: black">, el valor de escudo aumenta en <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Descripción:** Cuando las unidades de Murallas amistosas reciben un <span style="color: #48b946;font-size:20px">escudo</span><span style="color: black">, el valor de bloqueo aumenta en <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Información de combinación
 

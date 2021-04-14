@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-14 Refugio Sagrado"
 permalink: /Main Story/Chapter 28_14/
-excerpt: " - 14. Era of Chaos  Historia principal - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 14. Era of Chaos  Historia principal - Capítulo 28_14. 28-14 Refugio Sagrado"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-14 Refugio Sagrado
 
- **Descripción:** 
+ **Descripción:** El Refugio Sagrado siempre ha brindado y seguirá brindando protección a los héroes, manteniéndolos a salvo de los enemigos que los persiguen.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

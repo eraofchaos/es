@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Milagro"
+title: "Exclusivo - Milagro (Regnan Archer)"
 permalink: /Exclusive/Regnan Archer Miracle/
 excerpt: "Era of Chaos Milagro. Milagro. Era of Chaos Exclusivo Milagro. Arquera Regnan Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Regnan Archer Milagro.md"
 toc: false

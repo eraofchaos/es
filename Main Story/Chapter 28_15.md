@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-15 Ciudad Atardecer"
 permalink: /Main Story/Chapter 28_15/
-excerpt: " - 15. Era of Chaos  Historia principal - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 15. Era of Chaos  Historia principal - Capítulo 28_15. 28-15 Ciudad Atardecer"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-15 Ciudad Atardecer
 
- **Descripción:** 
+ **Descripción:** Los tonos grises recuerdan a un dragón anciano: poderoso, pero afrontando su declive.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/es/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

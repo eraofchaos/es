@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-13 Campo de entrenamiento de mercenarios"
 permalink: /Main Story/Chapter 29_13/
-excerpt: " - 13. Era of Chaos  Historia principal - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 13. Era of Chaos  Historia principal - Capítulo 29_13. 29-13 Campo de entrenamiento de mercenarios"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-13 Campo de entrenamiento de mercenarios
 
- **Descripción:** 
+ **Descripción:** Has llegado a un campo de entrenamiento de mercenarios, pero el instructor ha desaparecido. Como es lógico, debido a esta circunstancia, no podrás aprender habilidades de lucha nuevas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

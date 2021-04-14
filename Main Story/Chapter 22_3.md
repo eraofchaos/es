@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-3 Avance Valiente"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Capítulo 22 - 3. Era of Chaos  Historia principal - Capítulo 22_3. 22-3 Avance Valiente"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 22_3.md"
 toc: false

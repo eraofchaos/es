@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-8 Masa de rocas elevadas"
 permalink: /Main Story/Chapter 28_8/
-excerpt: " - 8. Era of Chaos  Historia principal - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 8. Era of Chaos  Historia principal - Capítulo 28_8. 28-8 Masa de rocas elevadas"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-8 Masa de rocas elevadas
 
- **Descripción:** 
+ **Descripción:** Una enorme montaña de piedras. Con la intención de evitar la guerra, los habilidosos Enanos derrumbaron la cueva y se guarecieron de la inminente batalla.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Escudo Iris"
+title: "Exclusivo - Escudo Iris (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Espadachín Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Swordsman Escudo Iris.md"
 toc: false

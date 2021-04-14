@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-7 Minas de azufre"
 permalink: /Main Story/Chapter 30_7/
-excerpt: " - 7. Era of Chaos  Historia principal - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 7. Era of Chaos  Historia principal - Capítulo 30_7. 30-7 Minas de azufre"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-7 Minas de azufre
 
- **Descripción:** 
+ **Descripción:** El azufre es muy abundante en las zonas cerca del magma, pero este lugar está protegido por tropas del Infierno.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

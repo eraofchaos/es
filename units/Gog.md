@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Gog"
 toc: true
@@ -164,6 +164,7 @@ toc: true
 * **R**  (R)
 
 ### Bonificación de Héroe
+* [Dracon](/es/heroes/Dracon/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento

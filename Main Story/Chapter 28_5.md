@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-5 Misert"
 permalink: /Main Story/Chapter 28_5/
-excerpt: " - 5. Era of Chaos  Historia principal - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 5. Era of Chaos  Historia principal - Capítulo 28_5. 28-5 Misert"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-5 Misert
 
- **Descripción:** 
+ **Descripción:** Este castillo humano situado a las afueras del bosque ha sido ocupado por los Señores de las Mazmorras, y hace las veces de centro de mando de primera línea.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/es/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

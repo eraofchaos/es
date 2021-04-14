@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-14 Templo de alto rango"
 permalink: /Main Story/Chapter 29_14/
-excerpt: " - 14. Era of Chaos  Historia principal - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 14. Era of Chaos  Historia principal - Capítulo 29_14. 29-14 Templo de alto rango"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-14 Templo de alto rango
 
- **Descripción:** 
+ **Descripción:** Lo que un día fue una iglesia, quedó sumida en el aura de un bosque maligno, y los cuerpos que se enterraron en los alrededores, ahora salen de las tumbas por su propio pie.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

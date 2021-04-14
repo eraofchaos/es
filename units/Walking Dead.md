@@ -3,7 +3,7 @@ title: "Muerto Viviente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Muerto Viviente"
 toc: true

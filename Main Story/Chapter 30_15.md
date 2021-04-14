@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-15 Kleesive"
 permalink: /Main Story/Chapter 30_15/
-excerpt: " - 15. Era of Chaos  Historia principal - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 15. Era of Chaos  Historia principal - Capítulo 30_15. 30-15 Kleesive"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-15 Kleesive
 
- **Descripción:** 
+ **Descripción:** Kleesive es una ciudad infernal cargada de azufre y muerte. Kleesive también hace las veces de centro de mando cuando hay invasiones en el Infierno.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Rashka](/es/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

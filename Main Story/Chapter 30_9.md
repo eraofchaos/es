@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-9 Refinería de mercurio"
 permalink: /Main Story/Chapter 30_9/
-excerpt: " - 9. Era of Chaos  Historia principal - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 9. Era of Chaos  Historia principal - Capítulo 30_9. 30-9 Refinería de mercurio"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-9 Refinería de mercurio
 
- **Descripción:** 
+ **Descripción:** El mercurio es uno de los ingredientes esenciales de la alquimia. Por este motivo, son muchos los alquimistas que cuentan con su propia refinería de mercurio, incluidos algunos hechiceros malignos que investigan la alquimia.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-7 El Bosque Sagrado"
 permalink: /Main Story/Chapter 29_7/
-excerpt: " - 7. Era of Chaos  Historia principal - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 7. Era of Chaos  Historia principal - Capítulo 29_7. 29-7 El Bosque Sagrado"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-7 El Bosque Sagrado
 
- **Descripción:** 
+ **Descripción:** Una invasión maligna acabó con el nido de Unicornios sagrado. Esto provocó que los Unicornios, que prácticamente perdieron el juicio, atacaran a los caminantes en busca de venganza.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

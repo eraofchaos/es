@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-2 Cabaña destartalada"
 permalink: /Main Story/Chapter 30_2/
-excerpt: " - 2. Era of Chaos  Historia principal - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 2. Era of Chaos  Historia principal - Capítulo 30_2. 30-2 Cabaña destartalada"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-2 Cabaña destartalada
 
- **Descripción:** 
+ **Descripción:** Un grupo de demonios está saqueando el hogar de los Elfos afortunados. Esta otrora acogedora cabaña ha quedado reducida a ruinas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

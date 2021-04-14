@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-1 Dientes Ocultos"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Capítulo 7 - 1. Era of Chaos  Historia principal - Capítulo 7_1. 7-1 Dientes Ocultos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 7_1.md"
 toc: false

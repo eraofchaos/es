@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-8 La Foresta Marchita"
 permalink: /Main Story/Chapter 29_8/
-excerpt: " - 8. Era of Chaos  Historia principal - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 8. Era of Chaos  Historia principal - Capítulo 29_8. 29-8 La Foresta Marchita"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-8 La Foresta Marchita
 
- **Descripción:** 
+ **Descripción:** Algunos árboles sacan las raíces de la tierra y echan a andar, atacando a quienes se cruzan con sus enormes ramas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

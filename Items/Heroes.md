@@ -2,7 +2,7 @@
 title: "Item - Heroes"
 permalink: /Items/Heroes/
 excerpt: "Heroes in Era of Chaos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Heroes.md"
 toc: false
@@ -84,79 +84,80 @@ classes: wide
   | 70 | [Halo de espinas](/es/Items/her_501/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Halo de espinas |
   | 71 | [Hijo de la tierra](/es/Items/her_504/){: .btn .btn--era4} | Skill |  |
   | 72 | [Hipnosis](/es/Items/her_440/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Hipnosis |
-  | 73 | [Héroe Sandro humano](/es/Items/her_373/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sandro humano y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 74 | [Impedimento](/es/Items/her_453/){: .btn .btn--era3} | Skill | Ficha usada para sintetizar el libro de hechizos: Impedimento. |
-  | 75 | [Implosión](/es/Items/her_457/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Implosión |
-  | 76 | [Jeddite](/es/Items/her_391/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Jeddite y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 77 | [Jenova](/es/Items/her_365/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Jenova y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 78 | [Kassandra](/es/Items/her_399/){: .btn .btn--era5} | Hero Soul | Recoge 30 fichas de alma para invocar a Kassandra y que se una a tu grupo. Las fichas también son necesarias para aumentar su rango. |
-  | 79 | [Kendal](/es/Items/her_363/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Kendal y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 80 | [Kilgor](/es/Items/her_374/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Kilgor y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 81 | [Korbac](/es/Items/her_394/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Korbac y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 82 | [Llama infernal](/es/Items/her_406/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Llama infernal |
-  | 83 | [Llamada de lo salvaje](/es/Items/her_462/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Llamada de lo salvaje |
-  | 84 | [Lluvia de meteoros](/es/Items/her_455/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Lluvia de meteoros |
-  | 85 | [Lord Haart](/es/Items/her_370/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Lord Haart y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 86 | [Luna](/es/Items/her_378/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Luna y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 87 | [Maestro de armaduras](/es/Items/her_502/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de armaduras |
-  | 88 | [Maestro de armas](/es/Items/her_503/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de armas |
-  | 89 | [Maestro de hechizos](/es/Items/her_489/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de hechizos |
-  | 90 | [Magia recuperada](/es/Items/her_482/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Magia recuperada |
-  | 91 | [Maldición](/es/Items/her_410/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Maldición |
-  | 92 | [Maldición refrigeradora](/es/Items/her_494/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maldición refrigeradora |
-  | 93 | [Mar profundo silencioso](/es/Items/her_484/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Mar profundo silencioso |
-  | 94 | [Matagigantes](/es/Items/her_402/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Matagigantes |
-  | 95 | [Melodía](/es/Items/her_364/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Melodía y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 96 | [Memoria de hechizo](/es/Items/her_491/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Memoria de hechizo |
-  | 97 | [Mephala](/es/Items/her_367/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mephala y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 98 | [Monere](/es/Items/her_379/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Monere y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 99 | [Mullich](/es/Items/her_360/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mullich y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 100 | [Muro de fuego](/es/Items/her_407/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de fuego |
-  | 101 | [Muro de hielo](/es/Items/her_419/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de hielo |
-  | 102 | [Muro de piedra](/es/Items/her_463/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de piedra |
-  | 103 | [Muro de viento](/es/Items/her_436/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de viento |
-  | 104 | [Mutare](/es/Items/her_389/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mutare y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 105 | [Nigromancia](/es/Items/her_460/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Nigromancia |
-  | 106 | [Onda de muerte](/es/Items/her_456/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Onda de muerte |
-  | 107 | [Orden de asesinato](/es/Items/her_469/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Orden de asesinato |
-  | 108 | [Oscuridad total](/es/Items/her_409/){: .btn .btn--era4} | Skill | Ficha usada para sintetizar el libro de hechizos: Oscuridad total. |
-  | 109 | [Pesar](/es/Items/her_458/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Pesar |
-  | 110 | [Peter Lee](/es/Items/her_397/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Peter Lee y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 111 | [Petrificación](/es/Items/her_471/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Petrificación |
-  | 112 | [Piel pétrea](/es/Items/her_452/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Piel pétrea |
-  | 113 | [Plegaria](/es/Items/her_432/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Plegaria |
-  | 114 | [Precisión](/es/Items/her_439/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Precisión |
-  | 115 | [Protección divina](/es/Items/her_418/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Protección divina |
-  | 116 | [Puerta de fuego](/es/Items/her_412/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Puerta de fuego |
-  | 117 | [Rashka](/es/Items/her_384/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Rashka y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 118 | [Rayo en cadena](/es/Items/her_442/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Rayo en cadena |
-  | 119 | [Rayo perturbador](/es/Items/her_447/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Rayo perturbador |
-  | 120 | [Relámpago](/es/Items/her_443/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Relámpago |
-  | 121 | [Resonancia del bosque](/es/Items/her_465/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Resonancia del bosque |
-  | 122 | [Retorno de energía](/es/Items/her_433/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Retorno de energía |
-  | 123 | [Revivir](/es/Items/her_459/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Revivir |
-  | 124 | [Roland](/es/Items/her_362/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Roland y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 125 | [Ryland](/es/Items/her_368/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Ryland y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 126 | [Sandro](/es/Items/her_371/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sandro y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 127 | [Sephinroth](/es/Items/her_392/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sephinroth y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 128 | [Shiva](/es/Items/her_376/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Shiva y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 129 | [Solmyr](/es/Items/her_386/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Solmyr y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 130 | [Supresión de maná](/es/Items/her_480/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Supresión de maná |
-  | 131 | [Tazar](/es/Items/her_393/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Tazar y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 132 | [Teletransporte](/es/Items/her_426/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Teletransporte |
-  | 133 | [Tierra cristalizada](/es/Items/her_474/){: .btn .btn--era5} | Skill |  |
-  | 134 | [Tierra en llamas](/es/Items/her_416/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tierra en llamas |
-  | 135 | [Tormenta](/es/Items/her_445/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tormenta |
-  | 136 | [Trampa de lava](/es/Items/her_475/){: .btn .btn--era5} | Skill |  |
-  | 137 | [Trampa mortal salvaje](/es/Items/her_500/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Trampa mortal salvaje |
-  | 138 | [Tranquilidad](/es/Items/her_487/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tranquilidad |
-  | 139 | [Táctica rápida](/es/Items/her_450/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Táctica rápida |
-  | 140 | [Unión vital](/es/Items/her_429/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Unión vital |
-  | 141 | [Ventisca](/es/Items/her_423/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Ventisca |
-  | 142 | [Vidomina](/es/Items/her_372/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Vidomina y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 143 | [Viento del Rey](/es/Items/her_434/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Viento del Rey |
-  | 144 | [Voluntad asesina](/es/Items/her_414/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Voluntad asesina |
-  | 145 | [Wystan](/es/Items/her_395/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Wystan y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 146 | [Xeron](/es/Items/her_383/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Xeron y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 147 | [Yog](/es/Items/her_377/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Yog y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
-  | 148 | [Zydar](/es/Items/her_385/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Zydar y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 73 | [Héroe Nymus](/es/Items/her_2131/){: .btn .btn--era5} | Hero Soul | Recoge 30 fichas para invocar a Nymus y que se una a tu grupo. Las fichas también son necesarias para aumentar su rango. |
+  | 74 | [Héroe Sandro humano](/es/Items/her_373/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sandro humano y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 75 | [Impedimento](/es/Items/her_453/){: .btn .btn--era3} | Skill | Ficha usada para sintetizar el libro de hechizos: Impedimento. |
+  | 76 | [Implosión](/es/Items/her_457/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Implosión |
+  | 77 | [Jeddite](/es/Items/her_391/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Jeddite y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 78 | [Jenova](/es/Items/her_365/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Jenova y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 79 | [Kassandra](/es/Items/her_399/){: .btn .btn--era5} | Hero Soul | Recoge 30 fichas de alma para invocar a Kassandra y que se una a tu grupo. Las fichas también son necesarias para aumentar su rango. |
+  | 80 | [Kendal](/es/Items/her_363/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Kendal y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 81 | [Kilgor](/es/Items/her_374/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Kilgor y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 82 | [Korbac](/es/Items/her_394/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Korbac y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 83 | [Llama infernal](/es/Items/her_406/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Llama infernal |
+  | 84 | [Llamada de lo salvaje](/es/Items/her_462/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Llamada de lo salvaje |
+  | 85 | [Lluvia de meteoros](/es/Items/her_455/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Lluvia de meteoros |
+  | 86 | [Lord Haart](/es/Items/her_370/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Lord Haart y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 87 | [Luna](/es/Items/her_378/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Luna y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 88 | [Maestro de armaduras](/es/Items/her_502/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de armaduras |
+  | 89 | [Maestro de armas](/es/Items/her_503/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de armas |
+  | 90 | [Maestro de hechizos](/es/Items/her_489/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maestro de hechizos |
+  | 91 | [Magia recuperada](/es/Items/her_482/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Magia recuperada |
+  | 92 | [Maldición](/es/Items/her_410/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Maldición |
+  | 93 | [Maldición refrigeradora](/es/Items/her_494/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Maldición refrigeradora |
+  | 94 | [Mar profundo silencioso](/es/Items/her_484/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Mar profundo silencioso |
+  | 95 | [Matagigantes](/es/Items/her_402/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Matagigantes |
+  | 96 | [Melodía](/es/Items/her_364/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Melodía y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 97 | [Memoria de hechizo](/es/Items/her_491/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Memoria de hechizo |
+  | 98 | [Mephala](/es/Items/her_367/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mephala y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 99 | [Monere](/es/Items/her_379/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Monere y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 100 | [Mullich](/es/Items/her_360/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mullich y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 101 | [Muro de fuego](/es/Items/her_407/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de fuego |
+  | 102 | [Muro de hielo](/es/Items/her_419/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de hielo |
+  | 103 | [Muro de piedra](/es/Items/her_463/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de piedra |
+  | 104 | [Muro de viento](/es/Items/her_436/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Muro de viento |
+  | 105 | [Mutare](/es/Items/her_389/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Mutare y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 106 | [Nigromancia](/es/Items/her_460/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Nigromancia |
+  | 107 | [Onda de muerte](/es/Items/her_456/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Onda de muerte |
+  | 108 | [Orden de asesinato](/es/Items/her_469/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Orden de asesinato |
+  | 109 | [Oscuridad total](/es/Items/her_409/){: .btn .btn--era4} | Skill | Ficha usada para sintetizar el libro de hechizos: Oscuridad total. |
+  | 110 | [Pesar](/es/Items/her_458/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Pesar |
+  | 111 | [Peter Lee](/es/Items/her_397/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Peter Lee y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 112 | [Petrificación](/es/Items/her_471/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Petrificación |
+  | 113 | [Piel pétrea](/es/Items/her_452/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Piel pétrea |
+  | 114 | [Plegaria](/es/Items/her_432/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Plegaria |
+  | 115 | [Precisión](/es/Items/her_439/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Precisión |
+  | 116 | [Protección divina](/es/Items/her_418/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Protección divina |
+  | 117 | [Puerta de fuego](/es/Items/her_412/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Puerta de fuego |
+  | 118 | [Rashka](/es/Items/her_384/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Rashka y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 119 | [Rayo en cadena](/es/Items/her_442/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Rayo en cadena |
+  | 120 | [Rayo perturbador](/es/Items/her_447/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Rayo perturbador |
+  | 121 | [Relámpago](/es/Items/her_443/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Relámpago |
+  | 122 | [Resonancia del bosque](/es/Items/her_465/){: .btn .btn--era3} | Skill | Ficha usada para elaborar el libro de hechizos: Resonancia del bosque |
+  | 123 | [Retorno de energía](/es/Items/her_433/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Retorno de energía |
+  | 124 | [Revivir](/es/Items/her_459/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Revivir |
+  | 125 | [Roland](/es/Items/her_362/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Roland y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 126 | [Ryland](/es/Items/her_368/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Ryland y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 127 | [Sandro](/es/Items/her_371/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sandro y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 128 | [Sephinroth](/es/Items/her_392/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Sephinroth y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 129 | [Shiva](/es/Items/her_376/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Shiva y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 130 | [Solmyr](/es/Items/her_386/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Solmyr y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 131 | [Supresión de maná](/es/Items/her_480/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Supresión de maná |
+  | 132 | [Tazar](/es/Items/her_393/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Tazar y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 133 | [Teletransporte](/es/Items/her_426/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Teletransporte |
+  | 134 | [Tierra cristalizada](/es/Items/her_474/){: .btn .btn--era5} | Skill |  |
+  | 135 | [Tierra en llamas](/es/Items/her_416/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tierra en llamas |
+  | 136 | [Tormenta](/es/Items/her_445/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tormenta |
+  | 137 | [Trampa de lava](/es/Items/her_475/){: .btn .btn--era5} | Skill |  |
+  | 138 | [Trampa mortal salvaje](/es/Items/her_500/){: .btn .btn--era4} | Skill | Ficha usada para elaborar el libro de hechizos: Trampa mortal salvaje |
+  | 139 | [Tranquilidad](/es/Items/her_487/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Tranquilidad |
+  | 140 | [Táctica rápida](/es/Items/her_450/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Táctica rápida |
+  | 141 | [Unión vital](/es/Items/her_429/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Unión vital |
+  | 142 | [Ventisca](/es/Items/her_423/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Ventisca |
+  | 143 | [Vidomina](/es/Items/her_372/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Vidomina y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 144 | [Viento del Rey](/es/Items/her_434/){: .btn .btn--era5} | Skill | Ficha usada para elaborar el libro de hechizos: Viento del Rey |
+  | 145 | [Voluntad asesina](/es/Items/her_414/){: .btn .btn--era6} | Skill | Ficha usada para elaborar el libro de hechizos: Voluntad asesina |
+  | 146 | [Wystan](/es/Items/her_395/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Wystan y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 147 | [Xeron](/es/Items/her_383/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Xeron y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 148 | [Yog](/es/Items/her_377/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Yog y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |
+  | 149 | [Zydar](/es/Items/her_385/){: .btn .btn--era5} | Hero Soul | Recoge 30 esquirlas de alma para invocar a Zydar y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango. |

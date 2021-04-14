@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-6 Cabaña élfica"
 permalink: /Main Story/Chapter 29_6/
-excerpt: " - 6. Era of Chaos  Historia principal - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 6. Era of Chaos  Historia principal - Capítulo 29_6. 29-6 Cabaña élfica"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-6 Cabaña élfica
 
- **Descripción:** 
+ **Descripción:** Los Elfos son buenos arqueros por naturaleza. Prefieren vivir en cabañas, y los Elfos que las habitan se muestran muy hostiles ante visitantes inesperados.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 - 12-2 Rey de los No Muertos"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Capítulo 12 - 2. Era of Chaos  Subterráneo - Capítulo 12_2. 12-2 Rey de los No Muertos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 12_2.md"
 toc: false

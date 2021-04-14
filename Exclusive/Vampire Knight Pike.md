@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Pica de Caballero"
+title: "Exclusivo - Pica de Caballero (Vampire)"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Vampiro Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Vampire Pica de Caballero.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-14 Cuartel general del Infierno"
 permalink: /Main Story/Chapter 30_14/
-excerpt: " - 14. Era of Chaos  Historia principal - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 14. Era of Chaos  Historia principal - Capítulo 30_14. 30-14 Cuartel general del Infierno"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-14 Cuartel general del Infierno
 
- **Descripción:** 
+ **Descripción:** Los Efrits, que habitan en el Mundo Subterráneo, suelen hacer las veces de consejeros militares para las tropas del Infierno y los ayudan a idear estrategias de batalla.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Espada"
+title: "Exclusivo - Espada (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gárgola de Piedra Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Stone Gargoyle Espada.md"
 toc: false

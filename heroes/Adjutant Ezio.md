@@ -2,7 +2,7 @@
 title: "Ayudante Ezio"
 permalink: /heroes/Adjutant Ezio/
 excerpt: "Era of Chaos  Ayudante Ezio"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Ezio.md"
 toc: false

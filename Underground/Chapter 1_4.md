@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-4 Carrera contra la Muerte"
 permalink: /Underground/Chapter 1_4/
 excerpt: "Capítulo 1 - 4. Era of Chaos  Subterráneo - Capítulo 1_4. 1-4 Carrera contra la Muerte"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 1_4.md"
 toc: false

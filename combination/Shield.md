@@ -2,7 +2,7 @@
 title: "Información de combinación for Escudo"
 permalink: /combination/Shield/
 excerpt: "Información de combinación - Escudo. Units and Heroes Formation."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Escudo.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Gólem de Hierro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Gólem de Hierro"
 toc: true

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-4 Árbol de la Sabiduría"
 permalink: /Main Story/Chapter 30_4/
-excerpt: " - 4. Era of Chaos  Historia principal - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 4. Era of Chaos  Historia principal - Capítulo 30_4. 30-4 Árbol de la Sabiduría"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-4 Árbol de la Sabiduría
 
- **Descripción:** 
+ **Descripción:** Con tan solo unas pocas gemas, se puede obtener muchísimo conocimiento en el Árbol de la Sabiduría. Los Demonios no son una excepción.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-4 Escaparse por los Pelos"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Capítulo 8 - 4. Era of Chaos  Historia principal - Capítulo 8_4. 8-4 Escaparse por los Pelos"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 8_4.md"
 toc: false

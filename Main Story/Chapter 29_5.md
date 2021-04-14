@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-5 Villatrébol"
 permalink: /Main Story/Chapter 29_5/
-excerpt: " - 5. Era of Chaos  Historia principal - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 5. Era of Chaos  Historia principal - Capítulo 29_5. 29-5 Villatrébol"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-5 Villatrébol
 
- **Descripción:** 
+ **Descripción:** Esta lastimera ciudad fronteriza fue antaño una aldea de Elfas del Bosque. Hoy en día, un ejército de demonios se guarnece allí.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/es/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjudicadora"
 toc: true
@@ -196,7 +196,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Ejecución intrépida
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Refugio restablecerá un 10% de los PV durante las 3 primera invocaciones</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Refuerzos de los valientes&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Por cada Supervisor del Refugio en el campo de batalla, el Supervisor del Refugio aumenta la DEF del Paladín Supremo un 15%. El Paladín Supremo restablecerá un 10% de los PV durante las 3 primeras invocaciones</span>
 
 ### 2nd Skill (or 1st): Gloria de Refugio
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Reinforcements of the Valiant&gt;</span><span style="color: #645252;font-size:18px">Comitiva de Refugio asciende a Supervisor del Refugio. Para las 3 primeras invocaciones, el daño de tus unidades y la reducción de daño aumentarán un 10% durante 30 s. El Paladín Supremo invoca un Supervisor del Refugio al entrar en el campo de batalla por primera vez</span>

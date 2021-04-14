@@ -2,11 +2,37 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 17  Semana de la Cala
+
+  |  Date  |      Reward    |    Reward Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Apr** | **3x [Elemental del Mar](/es/Items/unt_275/)**  | ¡Un escuadrón de Elementales del Mar se une a tu ejército y te vuelves más fuerte! |
+  | **27 Apr** | **3x [Piratas Regnan](/es/Items/unt_273/)**  | ¡Un escuadrón de Piratas Regnan se une a tu ejército y te vuelves más fuerte! |
+  | **28 Apr** | **100x <i class="fas fa-gem"/>**  | ¡Las criaturas del puerto pirata te han traído un pequeño cúmulo de diamantes! |
+  | **29 Apr** | **3x [Cofre de facción de la Cala](/es/Items/con_1278/)**  | ¡Tus tropas del Puerto te han traído varios cofres del tesoro valiosos! |
+  | **30 Apr** | **3x [Runas de Lista de Cala](/es/Items/con_868/)**  | ¡Tus tropas del Puerto te han traído varias runas del tesoro valiosas! |
+  | **1 May** | **1x [Tortuga Dragón](/es/Items/unt_278/)**  | ¡Un escuadrón de Tortugas Dragón se une a tu ejército y te vuelves más fuerte! |
+  | **2 May** | **1x [Fichas de Héroe universal](/es/Items/her_358/)**  | ¡Las criaturas de la Cala pirata te otorgan una ficha de Héroe universal! |
+
+
+#### 2021 Week 16  Semana del Bastión
+
+  |  Date  |      Reward    |    Reward Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Apr** | **5x [Goblin](/es/Items/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
+  | **20 Apr** | **5x [Jinete Lupino](/es/Items/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
+  | **21 Apr** | **100x <i class="fas fa-gem"/>**  | ¡Los orcos bajo tu mando han saqueado un montón de diamantes para ti! |
+  | **22 Apr** | **5x [Orco](/es/Items/unt_219/)**  | ¡Un escuadrón de Orcos se une a tu ejército y te vuelves más fuerte! |
+  | **23 Apr** | **3x [Ogro](/es/Items/unt_220/)**  | ¡Un escuadrón de Ogros se une a tu ejército y te vuelves más fuerte! |
+  | **24 Apr** | **3x [Cíclope](/es/Items/unt_222/)**  | ¡Un escuadrón de Cíclopes se une a tu ejército y te vuelves más fuerte! |
+  | **25 Apr** | **5x [Crag Hack](/es/Items/her_375/)**  | ¡Tu continua expedición ha llevado al Héroe Crag Hack a unirse a tu ejército! |
+
 
 #### 2021 Week 15  Semana de Conflujo
 

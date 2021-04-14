@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-14 El Significado del Dragón"
 permalink: /Main Story/Chapter 25_14/
 excerpt: "Capítulo 25 - 14. Era of Chaos  Historia principal - Capítulo 25_14. 25-14 El Significado del Dragón"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 25_14.md"
 toc: false

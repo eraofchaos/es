@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Canto Arcano"
+title: "Exclusivo - Canto Arcano (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Elemental del Mar Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Sea Elemental Canto Arcano.md"
 toc: false

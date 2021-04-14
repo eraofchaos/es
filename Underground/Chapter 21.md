@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 21 El Grial"
 permalink: /Underground/Chapter 21/
 excerpt: "Capítulo 21 El Grial. Era of Chaos  Subterráneo - Capítulo 21. El Grial"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 21.md"
 toc: false

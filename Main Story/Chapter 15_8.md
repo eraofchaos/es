@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-8 Preludio a la Guerra"
 permalink: /Main Story/Chapter 15_8/
 excerpt: "Capítulo 15 - 8. Era of Chaos  Historia principal - Capítulo 15_8. 15-8 Preludio a la Guerra"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 15_8.md"
 toc: false

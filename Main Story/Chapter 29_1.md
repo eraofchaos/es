@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-1 Mansión encantada"
 permalink: /Main Story/Chapter 29_1/
-excerpt: " - 1. Era of Chaos  Historia principal - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 1. Era of Chaos  Historia principal - Capítulo 29_1. 29-1 Mansión encantada"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-1 Mansión encantada
 
- **Descripción:** 
+ **Descripción:** Una remota casa encantada que deja ver el resplandor rojizo de las lámparas a través de las ventanas. Es la mansión de un infame chupasangre local.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

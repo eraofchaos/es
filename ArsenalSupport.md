@@ -2,7 +2,7 @@
 title: "Apoyo"
 permalink: /ArsenalSupport.html
 excerpt: "Era of Chaos  Apoyo. <span style="color: #8a5c1d;font-size:18px">Como hay poco espacio para combatir en el campo de batalla, la Escuela de guerra ha investigado un tipo de magia de apoyo para mejorar las capacidades de combate de las unidades. Esta magia permite transferir habilidades de una unidad de apoyo a una unidad de combate, mejorando así las capacidades de combate de esa unidad.</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "ArsenalSupport.md"
 toc: false

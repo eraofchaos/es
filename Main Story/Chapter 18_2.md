@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-2 Insólita Hechicería"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Capítulo 18 - 2. Era of Chaos  Historia principal - Capítulo 18_2. 18-2 Insólita Hechicería"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 18_2.md"
 toc: false

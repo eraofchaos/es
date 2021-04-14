@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-6 Tabla de piedra y árbol muerto"
 permalink: /Main Story/Chapter 30_6/
-excerpt: " - 6. Era of Chaos  Historia principal - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 6. Era of Chaos  Historia principal - Capítulo 30_6. 30-6 Tabla de piedra y árbol muerto"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-6 Tabla de piedra y árbol muerto
 
- **Descripción:** 
+ **Descripción:** Una larga sequía ha provocado que la flora de los alrededores se marchite. Esta tabla de piedra cubierta de plantas resecas tiene un aspecto muy raro.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

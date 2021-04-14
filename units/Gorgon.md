@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Gorgona"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la reducción de daño de la unidad de la Gorgona un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Este efecto aumenta un 5% más por cada penalización en el objetivo. Se acumula 5 veces.</span><span style="color: black">
 
 ### Habilidad normal 3 : Maldición salvaje
- **Descripción:** <span style="color: #645252;font-size:20px">Reduce el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% de las unidades hostiles alrededor de la Gorgona.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Reduce el golpe crítico en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">% de los objetivos a cierta distancia de la Gorgona.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Golpe de la plaga
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Fortaleza son expertas en la propagación de la plaga, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;plaga&gt;</span><span style="color: black">

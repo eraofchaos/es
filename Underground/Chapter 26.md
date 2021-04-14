@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 Sonido del destino"
 permalink: /Underground/Chapter 26/
 excerpt: "Capítulo 26 Sonido del destino. Era of Chaos  Subterráneo - Capítulo 26. Sonido del destino"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 26.md"
 toc: false

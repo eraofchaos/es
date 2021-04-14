@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-4 De Cero"
 permalink: /Main Story/Chapter 15_4/
 excerpt: "Capítulo 15 - 4. Era of Chaos  Historia principal - Capítulo 15_4. 15-4 De Cero"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 15_4.md"
 toc: false

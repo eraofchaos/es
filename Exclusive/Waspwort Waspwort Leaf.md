@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Hoja de Hierbavispa"
+title: "Exclusivo - Hoja de Hierbavispa (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Hoja de Hierbavispa. Hoja de Hierbavispa. Era of Chaos Exclusivo Hoja de Hierbavispa. Hierbavispa Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Waspwort Hoja de Hierbavispa.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | ? | <Hoja Venenosa> Cuando muere alguna criatura amistosa, la Hierbavispa controla las Hojas de Hierbavispa para que apliquen veneno a las unidades enemigas, lo que les causa parálisis durante 5 s. Al mismo tiempo, purifica y elimina 1 acumulación de ventaja. |
   | **4x** <i class="fas fa-star"/> | ? | Aumenta su propio daño de unidad un 6% por cada unidad de Fortaleza en el campo de batalla. |
   | **5x** <i class="fas fa-star"/> | ? | La primera vez que los PV de la Hierbavispa caen por debajo del 33%, aumenta la reducción de daño de unidad un 40% durante 7 s. No se puede disipar. También causa aturdimiento a las unidades enemigas a corta distancia a su alrededor durante 5 s. |
-  | **6x** <i class="fas fa-star"/> | ? | <Corrosión Venenosa> Cuando la Hierbavispa conecta un golpe crítico, tiene un 20% de probabilidad de infligir un 40% de daño adicional y disminuir su reducción de daño de unidad un 7% y el valor de escudo en 70 durante 8 s. Se acumula hasta 3 veces. |
+  | **6x** <i class="fas fa-star"/> | ? | <Corrosión venenosa> Cuando la Hierbavispa conecta un golpe crítico, tiene un 20% de probabilidad de infligir un 40% de daño adicional y disminuir su reducción de daño de unidad un 7% y el valor de bloqueo en 70 durante 8 s. Se acumula hasta 3 veces. |
 
 
 ## Subir de nivel

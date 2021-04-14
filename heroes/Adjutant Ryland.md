@@ -2,7 +2,7 @@
 title: "Ayudante Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Ayudante Ryland"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Ryland.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | Nivel de Ayudante | Extra effect | Poder de Ayudante  |
   |:---|:-------|:------------|
   | **10** | Aumenta la DEF de un Héroe amistoso en 20 (todos los Héroes). | **+1500** |
-  | **20** | <Murallas amplificadas> Aumenta el valor de escudo en 100 puntos adicionales. | - |
+  | **20** | <Murallas amplificadas> Aumenta el valor de bloqueo en 100 puntos adicionales. | - |
   | **30** | Aumenta el ATQ de un Héroe amistoso en 40 (todos los Héroes). | **+1500** |
   | **40** | <Murallas amplificadas> Aumenta la curación recibida un 10% adicional. El efecto se duplica en los Guardias Dendroides. | - |
 

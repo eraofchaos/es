@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre secreto +2"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Azufre secreto +2"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "mat_78.md"
 toc: false

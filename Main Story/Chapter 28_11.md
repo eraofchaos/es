@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-11 Fosa común"
 permalink: /Main Story/Chapter 28_11/
-excerpt: " - 11. Era of Chaos  Historia principal - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 11. Era of Chaos  Historia principal - Capítulo 28_11. 28-11 Fosa común"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-11 Fosa común
 
- **Descripción:** 
+ **Descripción:** Estás junto a una fosa común cuyos cadáveres han recibido un hechizo maligno. Si los vivos pasan cerca, los Esqueletos saldrán de sus lugares de descanso.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

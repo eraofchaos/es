@@ -2,7 +2,7 @@
 title: "Backup - Carga ofensiva"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Carga ofensiva"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "Charge Offensive.md"
 toc: false

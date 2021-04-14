@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 - 17-3 Un Mundo Ideal"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Capítulo 17 - 3. Era of Chaos  Subterráneo - Capítulo 17_3. 17-3 Un Mundo Ideal"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 17_3.md"
 toc: false

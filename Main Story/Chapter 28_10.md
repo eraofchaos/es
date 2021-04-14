@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-10 Cuernos de la victoria"
 permalink: /Main Story/Chapter 28_10/
-excerpt: " - 10. Era of Chaos  Historia principal - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 10. Era of Chaos  Historia principal - Capítulo 28_10. 28-10 Cuernos de la victoria"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-10 Cuernos de la victoria
 
- **Descripción:** 
+ **Descripción:** Cuando el ejército real erathiano expulsó a los últimos enemigos de la región oriental del continente, la noticia de su victoria fue también difundida por los Elfos de AvLee.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/es/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

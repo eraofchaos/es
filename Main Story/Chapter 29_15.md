@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-15 Sima Rocanegra"
 permalink: /Main Story/Chapter 29_15/
-excerpt: " - 15. Era of Chaos  Historia principal - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 15. Era of Chaos  Historia principal - Capítulo 29_15. 29-15 Sima Rocanegra"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-15 Sima Rocanegra
 
- **Descripción:** 
+ **Descripción:** Una enorme fisura que divide la tierra en dos. El Castillo de la Sima Rocanegra se erige orgulloso en su interior, y está repleto de tropas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/es/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

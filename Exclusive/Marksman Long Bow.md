@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Arco largo"
+title: "Exclusivo - Arco largo (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Ballestero Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Marksman Arco largo.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-12 Templo abandonado"
 permalink: /Main Story/Chapter 28_12/
-excerpt: " - 12. Era of Chaos  Historia principal - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 12. Era of Chaos  Historia principal - Capítulo 28_12. 28-12 Templo abandonado"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-12 Templo abandonado
 
- **Descripción:** 
+ **Descripción:** Una iglesia abandonada. Un nigromante se asentó en la zona y lanzó su terrible magia sobre el lugar, convirtiéndolo en un templo para reclutar Esqueletos.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

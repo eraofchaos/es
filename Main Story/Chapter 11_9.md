@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-9 Entrada Subterránea"
 permalink: /Main Story/Chapter 11_9/
 excerpt: "Capítulo 11 - 9. Era of Chaos  Historia principal - Capítulo 11_9. 11-9 Entrada Subterránea"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 11_9.md"
 toc: false

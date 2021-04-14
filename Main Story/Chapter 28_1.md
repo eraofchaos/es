@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-1 Hacia las profundidades"
 permalink: /Main Story/Chapter 28_1/
-excerpt: " - 1. Era of Chaos  Historia principal - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 1. Era of Chaos  Historia principal - Capítulo 28_1. 28-1 Hacia las profundidades"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-1 Hacia las profundidades
 
- **Descripción:** 
+ **Descripción:** Los Señores de las Mazmorras han construido una enorme red subterránea que permite que los enemigos huyan y se reabastezcan de suministros. Va a ser complicado expulsarlos.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

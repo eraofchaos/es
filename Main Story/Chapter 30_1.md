@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-1 Manantial mágico"
 permalink: /Main Story/Chapter 30_1/
-excerpt: " - 1. Era of Chaos  Historia principal - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 1. Era of Chaos  Historia principal - Capítulo 30_1. 30-1 Manantial mágico"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-1 Manantial mágico
 
- **Descripción:** 
+ **Descripción:** Las tropas se ven superadas por la sed ante la visión del manantial, pero, ahora, unos Sabuesos del Infierno vigilan la zona.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

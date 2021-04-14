@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 29 - 29-2 Tumba del Liche"
 permalink: /Main Story/Chapter 29_2/
-excerpt: " - 2. Era of Chaos  Historia principal - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 29 - 2. Era of Chaos  Historia principal - Capítulo 29_2. 29-2 Tumba del Liche"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 29_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 29-2 Tumba del Liche
 
- **Descripción:** 
+ **Descripción:** Cuando un nigromante se convierte en Liche, suele construir su propia tumba para ocultar el receptáculo que alberga su alma.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 29/)
+ **Related to:** [Historia principal Capítulo 29](/es/Main Story/Chapter 29/)
 
 ## Recompensa obtenida
 

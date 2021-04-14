@@ -3,7 +3,7 @@ title: "Diablillo"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Diablillo"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Bonificación de Héroe
 * [Mephala](/es/heroes/Mephala/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/es/heroes/Xeron/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/es/heroes/Nymus/)  ->   Especialidad:<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

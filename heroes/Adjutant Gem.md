@@ -2,7 +2,7 @@
 title: "Ayudante Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Ayudante Gem"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Gem.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Habilidad de Ayudante:**  Asilo de la naturaleza 
 
- **Descripción:** Cuando las unidades de Murallas amistosas reciben un <span style="color: #48b946;font-size:20px">escudo</span><span style="color: black">, el valor de escudo aumenta en <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Descripción:** Cuando las unidades de Murallas amistosas reciben un <span style="color: #48b946;font-size:20px">escudo</span><span style="color: black">, el valor de bloqueo aumenta en <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

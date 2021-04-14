@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Mareas Sombrías"
+title: "Exclusivo - Mareas Sombrías (Revyaratan)"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Mareas Sombrías. Mareas Sombrías. Era of Chaos Exclusivo Mareas Sombrías. Revyaratan Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Revyaratan Mareas Sombrías.md"
 toc: false

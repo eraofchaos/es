@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 9 - 9-3 Erupción"
 permalink: /Underground/Chapter 9_3/
 excerpt: "Capítulo 9 - 3. Era of Chaos  Subterráneo - Capítulo 9_3. 9-3 Erupción"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 9_3.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 30 - 30-13 Tierra chamuscada por la lava"
 permalink: /Main Story/Chapter 30_13/
-excerpt: " - 13. Era of Chaos  Historia principal - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30 - 13. Era of Chaos  Historia principal - Capítulo 30_13. 30-13 Tierra chamuscada por la lava"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 30-13 Tierra chamuscada por la lava
 
- **Descripción:** 
+ **Descripción:** La tierra quemada a causa de la lava genera un hedor sulfúrico muy intenso. El azufre emite una llama verdosa y un hedor punzante cuando se quema.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 30/)
+ **Related to:** [Historia principal Capítulo 30](/es/Main Story/Chapter 30/)
 
 ## Recompensa obtenida
 

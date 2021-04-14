@@ -2,7 +2,7 @@
 title: "Historia principal"
 permalink: /Main Story/
 excerpt: "Historia principal. Era of Chaos  Historia principal."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "index.md"
 toc: false
@@ -172,8 +172,8 @@ classes: wide
 
   | Nombre |  Descripción | 
   |:------------|:------------| 
-  | [](/es/Main Story/Chapter 28/) | Túneles y trogloditas | 
-  | [](/es/Main Story/Chapter 29/) |  | 
-  | [](/es/Main Story/Chapter 30/) |  | 
+  | [Capítulo 28](/es/Main Story/Chapter 28/) | Túneles y trogloditas | 
+  | [Capítulo 29](/es/Main Story/Chapter 29/) | Pacto con el Demonio | 
+  | [Capítulo 30](/es/Main Story/Chapter 30/) | La Salvación del Rey | 
 
 

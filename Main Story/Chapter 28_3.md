@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-3 Descenso o vuelo"
 permalink: /Main Story/Chapter 28_3/
-excerpt: " - 3. Era of Chaos  Historia principal - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 3. Era of Chaos  Historia principal - Capítulo 28_3. 28-3 Descenso o vuelo"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-3 Descenso o vuelo
 
- **Descripción:** 
+ **Descripción:** Pese a que las Mantícoras provienen del Subterráneo, cuentan con alas enormes. Su peculiar anatomía les permite efectuar ataques en picado muy rápido.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-4 La Devorahombres"
 permalink: /Main Story/Chapter 28_4/
-excerpt: " - 4. Era of Chaos  Historia principal - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 4. Era of Chaos  Historia principal - Capítulo 28_4. 28-4 La Devorahombres"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-4 La Devorahombres
 
- **Descripción:** 
+ **Descripción:** «Mantícora» significa originalmente «devorahombres». Este terrible monstruo es un híbrido de murciélago, león y escorpión.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

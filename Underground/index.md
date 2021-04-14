@@ -2,7 +2,7 @@
 title: "Subterráneo"
 permalink: /Underground/
 excerpt: "Subterráneo. Era of Chaos  Subterráneo."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: es
 ref: "index.md"
 toc: false
@@ -38,3 +38,6 @@ classes: wide
   | **25** | [Subterráneo Capítulo 25 - Tierra del sueño](/es/Underground/Capítulo 25/) | **96** | El camino para llegar a Welnin está repleto de obstáculos. Si vamos a lograr nuestro sueño de la independencia, tenemos que evitar a Erathia y alcanzar Welnin para establecer un campamento base. | 
   | **26** | [Subterráneo Capítulo 26 - Sonido del destino](/es/Underground/Capítulo 26/) | **100** | El artefacto ha llegado a Welnin. Sin embargo, los ejércitos de Erathia y AvLee también han llegado. La guerra podría estallar en cualquier momento. | 
   | **27** | [Subterráneo Capítulo 27 - El camino del peregrino](/es/Underground/Capítulo 27/) | **104** | - | 
+  | **28** | [Subterráneo Capítulo 28 - Túneles y trogloditas](/es/Underground/Capítulo 28/) | **106** | - | 
+  | **29** | [Subterráneo Capítulo 29 - Pacto con el Demonio](/es/Underground/Capítulo 29/) | **108** | - | 
+  | **30** | [Subterráneo Capítulo 30 - La Salvación del Rey](/es/Underground/Capítulo 30/) | **110** | - | 

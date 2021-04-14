@@ -2,7 +2,7 @@
 title: "Artefacto - Armadura de los Condenados - Armadura Ósea"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Armadura de los Condenados - Armadura Ósea. Un escudo compuesto de huesos duros. Uno de los componentes de la Armadura de los Condenados."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: es
 ref: "Bone Armour.md"
 toc: false

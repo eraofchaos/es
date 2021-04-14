@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  - "
+title: "Historia principal - Capítulo 28 - 28-6 Mina de Oro abandonada"
 permalink: /Main Story/Chapter 28_6/
-excerpt: " - 6. Era of Chaos  Historia principal - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 28 - 6. Era of Chaos  Historia principal - Capítulo 28_6. 28-6 Mina de Oro abandonada"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 28_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Detalles
 
- **Nombre:** 
+ **Nombre:** 28-6 Mina de Oro abandonada
 
- **Descripción:** 
+ **Descripción:** El oro es un recurso importante en tiempos de guerra, pero esta Mina de Oro parece abandonada. Solo quedan algunas herramientas desperdigadas.
 
- **Related to:** [Historia principal ](/es/Main Story/Chapter 28/)
+ **Related to:** [Historia principal Capítulo 28](/es/Main Story/Chapter 28/)
 
 ## Recompensa obtenida
 

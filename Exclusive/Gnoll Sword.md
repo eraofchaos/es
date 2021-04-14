@@ -1,8 +1,8 @@
 ---
-title: "Exclusivo - Espada"
+title: "Exclusivo - Espada (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gnoll Exclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: es
 ref: "Gnoll Espada.md"
 toc: false

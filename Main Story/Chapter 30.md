@@ -1,8 +1,8 @@
 ---
-title: "Historia principal -  "
+title: "Historia principal - Capítulo 30 La Salvación del Rey"
 permalink: /Main Story/Chapter 30/
-excerpt: ". Era of Chaos  Historia principal - . "
-last_modified_at: 2021-04-12
+excerpt: "Capítulo 30. Era of Chaos  Historia principal - Capítulo 30. La Salvación del Rey"
+last_modified_at: 2021-04-14
 locale: es
 ref: "Chapter 30.md"
 toc: false
@@ -11,24 +11,24 @@ classes: wide
 
   | Nombre |  Recompensa por completar por primera vez: | Recompensa obtenida |
   |:------------|:------------|:------------| 
-  | [](/es/Main Story/Chapter 30_1/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_2/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Madera radiante +5](/es/Items/mat_97/){: .btn .btn--era5}, [Mercurio estelar +4](/es/Items/mat_91/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_3/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mercurio radiante +5](/es/Items/mat_98/){: .btn .btn--era5}, [Azufre estelar +4](/es/Items/mat_92/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_4/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_5/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_6/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_7/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mineral radiante +5](/es/Items/mat_96/){: .btn .btn--era5}, [Madera estelar +4](/es/Items/mat_90/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_8/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Madera radiante +5](/es/Items/mat_97/){: .btn .btn--era5}, [Mercurio estelar +4](/es/Items/mat_91/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_9/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mercurio radiante +5](/es/Items/mat_98/){: .btn .btn--era5}, [Azufre estelar +4](/es/Items/mat_92/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_10/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_11/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_12/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_13/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_14/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
-  | [](/es/Main Story/Chapter 30_15/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-1 Manantial mágico](/es/Main Story/Chapter 30_1/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-2 Cabaña destartalada](/es/Main Story/Chapter 30_2/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Madera radiante +5](/es/Items/mat_97/){: .btn .btn--era5}, [Mercurio estelar +4](/es/Items/mat_91/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-3 Manantial de Pegaso](/es/Main Story/Chapter 30_3/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mercurio radiante +5](/es/Items/mat_98/){: .btn .btn--era5}, [Azufre estelar +4](/es/Items/mat_92/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-4 Árbol de la Sabiduría](/es/Main Story/Chapter 30_4/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-5 Descanso y Chimenea](/es/Main Story/Chapter 30_5/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-6 Tabla de piedra y árbol muerto](/es/Main Story/Chapter 30_6/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-7 Minas de azufre](/es/Main Story/Chapter 30_7/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mineral radiante +5](/es/Items/mat_96/){: .btn .btn--era5}, [Madera estelar +4](/es/Items/mat_90/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-8 Altar de fuego](/es/Main Story/Chapter 30_8/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Madera radiante +5](/es/Items/mat_97/){: .btn .btn--era5}, [Mercurio estelar +4](/es/Items/mat_91/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-9 Refinería de mercurio](/es/Main Story/Chapter 30_9/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Mercurio radiante +5](/es/Items/mat_98/){: .btn .btn--era5}, [Azufre estelar +4](/es/Items/mat_92/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-10 Ciudad Sulfúrica](/es/Main Story/Chapter 30_10/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-11 Tienda de patas largas](/es/Main Story/Chapter 30_11/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-12 Lanzamiento de Bolas de fuego](/es/Main Story/Chapter 30_12/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-13 Tierra chamuscada por la lava](/es/Main Story/Chapter 30_13/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Azufre radiante +5](/es/Items/mat_99/){: .btn .btn--era5}, [Mineral estelar +4](/es/Items/mat_89/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-14 Cuartel general del Infierno](/es/Main Story/Chapter 30_14/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Gemas radiantes +5](/es/Items/mat_100/){: .btn .btn--era5}, [Cristal estelar +4](/es/Items/mat_94/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
+  | [30-15 Kleesive](/es/Main Story/Chapter 30_15/) | [Llave de plata](/es/Items/con_693/){: .btn .btn--era3} | [Cristal radiante +5](/es/Items/mat_101/){: .btn .btn--era5}, [Gemas estelares +4](/es/Items/mat_93/){: .btn .btn--era5}, [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3} |
 
 
-## Completado 
+## Completado Capítulo 30
 
  **Reward:** [Kendal](/es/heroes/Kendal/)
 
