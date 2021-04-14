@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Ayudante Melodía"
 last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Melodia.md"
+QR: adhero_60201
 toc: false
 classes: wide
 ---

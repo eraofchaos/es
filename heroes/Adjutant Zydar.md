@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Ayudante Zydar"
 last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Zydar.md"
+QR: adhero_60901
 toc: false
 classes: wide
 ---

@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Ayudante Mutare"
 last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Mutare.md"
+QR: adhero_61301
 toc: false
 classes: wide
 ---

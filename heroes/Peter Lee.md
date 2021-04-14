@@ -3,6 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos Peter Lee. Peter Lee. Peter Lee es un pirata legendario, pero parece que prefiere los tesoros y la aventura al saqueo y los incendios. Se rumorea que ha llegado hasta el fin del mundo con su flota."
 heroID: 61801
+QR: hero_61801
 last_modified_at: 2021-04-14
 locale: es
 ref: "Peter Lee"

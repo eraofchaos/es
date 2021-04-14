@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Ayudante Ciele"
 last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutant Ciele.md"
+QR: adhero_60705
 toc: false
 classes: wide
 ---

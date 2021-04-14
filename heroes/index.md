@@ -5,6 +5,7 @@ excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2021-04-14
 locale: es
 ref: "index.md"
+QR: heroes
 toc: false
 classes: wide
 ---
@@ -36,7 +37,7 @@ classes: wide
   | 24 | [Monere](/es/heroes/Monere/) | Conflujo | Caminante de Planos | **SR** |  Elemental Psíquico | R |
   | 25 | [Mullich](/es/heroes/Mullich/) | Castillo | Caballero | **R** |  Asalto de carga | R+ |
   | 26 | [Mutare](/es/heroes/Mutare/) | Mazmorra | Adalid | **R** |  Torrente de Mazmorra | R |
-  | 27 | [Nymus](/es/heroes/Nymus/) | Infierno | Demoníaco | **SR** |  Fantasmas Infernales | R |
+  | 27 | [Nymus](/es/heroes/Nymus/) | Infierno | Demoníaco | **SR** |  Fantasmas Infernales | R+ |
   | 28 | [Peter Lee](/es/heroes/Peter Lee/) | Cala | Pirata | **SR+** |  Zarpar | R+ |
   | 29 | [Rashka](/es/heroes/Rashka/) | Infierno | Demoníaco | **SR** |  Señor del Fuego | R |
   | 30 | [Roland](/es/heroes/Roland/) | Castillo | Caballero | **SSR** |  Moral elevada | SR+ |

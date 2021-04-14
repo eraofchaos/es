@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: es
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Sube de nivel a un Héroe a 4 estrellas para desbloquear.
