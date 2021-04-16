@@ -3,11 +3,13 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Behemoth"
 toc: true
 ---
+  ![Behemoth](/images/u/ti_bimeng.jpg)
+
 ## General information
  **Descripción:** Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Antiguo Behemoth](/images/u/tia_bimeng.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

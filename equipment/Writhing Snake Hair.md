@@ -2,7 +2,7 @@
 title: "Cabellera de Serpientes"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Era of Chaos Cabellera de Serpientes. Cabellera de Serpientes"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Writhing Snake Hair.md"
 toc: false

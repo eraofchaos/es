@@ -3,11 +3,13 @@ title: "Efrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Efrit"
 toc: true
 ---
+  ![Efrit](/images/u/ti_liehuojingling.jpg)
+
 ## General information
  **Descripción:** Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Sultán Efrit](/images/u/tia_liehuojingling.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

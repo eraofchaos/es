@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 Tierra del caos"
 permalink: /Main Story/Chapter 9/
 excerpt: "Capítulo 9. Era of Chaos  Historia principal - Capítulo 9. Tierra del caos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 9.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** EXP de unidad
+ Reward 4:  **2000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** EXP de unidad
+ Reward 4:  **3000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_504
+ Reward 1:  **1x** [Demonio](/es/units/Demon/)
 
  Reward 2: **15 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP de unidad
+ Reward 4:  **5000x** [EXP de unidad](/es/Items/con_902/)
 

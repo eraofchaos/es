@@ -3,11 +3,13 @@ title: "Elemental de Hielo"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental de Hielo"
 toc: true
 ---
+  ![Elemental de Hielo](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Descripción:** Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Espíritu de las Nieves Silencioso](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

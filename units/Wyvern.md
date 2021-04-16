@@ -3,11 +3,13 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Guiverno"
 toc: true
 ---
+  ![Guiverno](/images/u/ti_feilong.jpg)
+
 ## General information
  **Descripción:** Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guiverno Monarca](/images/u/tia_feilong.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

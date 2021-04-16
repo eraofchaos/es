@@ -2,7 +2,7 @@
 title: "Garra Asesina"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Garra Asesina. Garra Asesina"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Claw Killer.md"
 toc: false

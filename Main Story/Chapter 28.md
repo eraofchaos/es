@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 Túneles y trogloditas"
 permalink: /Main Story/Chapter 28/
 excerpt: "Capítulo 28. Era of Chaos  Historia principal - Capítulo 28. Túneles y trogloditas"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 28.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** EXP de unidad
+ Reward 4:  **50000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **90000x** EXP de unidad
+ Reward 4:  **90000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** EXP de unidad
+ Reward 4:  **10000x** [EXP de unidad](/es/Items/con_902/)
 

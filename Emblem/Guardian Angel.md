@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Ángel Guardián"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Ángel Guardián. Ángel Guardián. Era of Chaos Emblema Sagrado Ángel Guardián. Era of Chaos Bien Ángel Guardián"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Guardian Angel.md"
 toc: false
+QR: rune_203
 classes: wide
 ---
+
+  ![Ángel Guardián](/images/r/rune_icon_203.png)
 
  **Nombre:** Ángel Guardián
 

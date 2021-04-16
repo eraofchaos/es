@@ -3,11 +3,13 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Gremlin"
 toc: true
 ---
+  ![Gremlin](/images/u/ti_xiaoyaojing.jpg)
+
 ## General information
  **Descripción:** Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Orco"
 toc: true
 ---
+  ![Orco](/images/u/ti_shourentoufushou.jpg)
+
 ## General information
  **Descripción:** Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Comandante Orco](/images/u/tia_banshouren.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

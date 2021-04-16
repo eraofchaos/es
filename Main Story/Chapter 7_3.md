@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-3 Conflicto Fronterizo"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "Capítulo 7 - 3. Era of Chaos  Historia principal - Capítulo 7_3. 7-3 Conflicto Fronterizo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 7_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-8 Todos los Caminos"
 permalink: /Main Story/Chapter 21_8/
 excerpt: "Capítulo 21 - 8. Era of Chaos  Historia principal - Capítulo 21_8. 21-8 Todos los Caminos"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 21_8.md"
 toc: false

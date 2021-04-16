@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 21 - 21-5 El Sino de la Destrucción"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Capítulo 21 - 5. Era of Chaos  Subterráneo - Capítulo 21_5. 21-5 El Sino de la Destrucción"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 21_5.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Caballero Negro"
 toc: true
 ---
+  ![Caballero Negro](/images/u/ti_siwangqishi.jpg)
+
 ## General information
  **Descripción:** Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Caballero del Terror](/images/u/tia_siwangqishi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

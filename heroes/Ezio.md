@@ -4,11 +4,13 @@ permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz."
 heroID: 61901
 QR: hero_61901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ezio"
 toc: true
 ---
+  ![Ezio](/images/h/h_Ezio.jpg)
+
  **Descripción:** A pesar de estar en un mundo totalmente distinto, Ezio continúa siendo fiel a sus convicciones. Trabaja en la oscuridad para servir a la luz.
 ## Detalles
  **Profession:** 

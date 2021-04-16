@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemas valiosas +2"
 permalink: /Items/mat_30/
 excerpt: "Era of Chaos  Gemas valiosas +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "mat_30.md"
 toc: false

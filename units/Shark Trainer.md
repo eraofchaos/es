@@ -3,13 +3,15 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Domador de Tiburones"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Domador de Tiburones](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Descripción:** La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Jinete de tiburones](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

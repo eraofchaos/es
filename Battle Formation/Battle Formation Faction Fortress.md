@@ -2,7 +2,7 @@
 title: "Formación de batalla Fortaleza"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Formación de batalla Fortaleza"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "BattleFormationFactionFortress"
 toc: false

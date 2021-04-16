@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Secreto interminable"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Secreto interminable. Secreto interminable. Era of Chaos Emblema Sagrado Secreto interminable. Era of Chaos Orden Secreto interminable"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Everlasting Secret.md"
 toc: false
+QR: rune_104
 classes: wide
 ---
+
+  ![Secreto interminable](/images/r/rune_icon_104.png)
 
  **Nombre:** Secreto interminable
 

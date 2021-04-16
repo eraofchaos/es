@@ -2,7 +2,7 @@
 title: "Guanteletes de Cuero"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Guanteletes de Cuero. Guanteletes de Cuero"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Leather Gauntlets.md"
 toc: false

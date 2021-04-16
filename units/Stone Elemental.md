@@ -3,11 +3,13 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental de Piedra"
 toc: true
 ---
+  ![Elemental de Piedra](/images/u/ti_shiyuansu.jpg)
+
 ## General information
  **Descripción:** El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando.
 
@@ -178,6 +180,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

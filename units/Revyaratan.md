@@ -3,11 +3,13 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Revyaratan"
 toc: true
 ---
+  ![Revyaratan](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Descripción:** Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Monstruo Marino Ancestral](/images/u/tia_haiguai.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

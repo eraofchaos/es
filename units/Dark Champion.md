@@ -3,13 +3,15 @@ title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Campeón Oscuro"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Campeón Oscuro](/images/u/ti_sishen.jpg)
 
 ## General information
  **Descripción:** Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma.
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_gulong.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

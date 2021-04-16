@@ -2,7 +2,7 @@
 title: "Mangual del Relámpago"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Era of Chaos Mangual del Relámpago. Mangual del Relámpago"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Lightning's Flail.md"
 toc: false

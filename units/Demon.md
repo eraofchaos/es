@@ -3,11 +3,13 @@ title: "Demonio"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne."
 unitID: 504
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Demonio"
 toc: true
 ---
+  ![Demonio](/images/u/ti_changjiaoemo.jpg)
+
 ## General information
  **Descripción:** Los Demonios Astados son conocidos por los afilados cuernos de su frente. Los cuernos son su arma más poderosa, ya que son capaces de atravesar armaduras y clavarse en la carne.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guardia del Infierno](/images/u/tia_changjiaoemo.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

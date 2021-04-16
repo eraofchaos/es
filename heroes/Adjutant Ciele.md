@@ -2,13 +2,15 @@
 title: "Ayudante Ciele"
 permalink: /heroes/Adjutant Ciele/
 excerpt: "Era of Chaos  Ayudante Ciele"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Ciele.md"
 QR: adhero_60705
 toc: false
 classes: wide
 ---
+  ![Ciele](/images/h/h_Ciele.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

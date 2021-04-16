@@ -3,11 +3,13 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental de Fuego"
 toc: true
 ---
+  ![Elemental de Fuego](/images/u/ti_liehuoyuansu.jpg)
+
 ## General information
  **Descripción:** Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elemental de Energía](/images/u/tia_liehuoyuansu.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

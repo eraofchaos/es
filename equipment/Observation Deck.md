@@ -2,7 +2,7 @@
 title: "Puesto de observación"
 permalink: /equipment/Observation Deck/
 excerpt: "Era of Chaos Puesto de observación. Puesto de observación"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Observation Deck.md"
 toc: false

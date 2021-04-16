@@ -2,13 +2,15 @@
 title: "Ayudante Wystan"
 permalink: /heroes/Adjutant Wystan/
 excerpt: "Era of Chaos  Ayudante Wystan"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Wystan.md"
 QR: adhero_61504
 toc: false
 classes: wide
 ---
+  ![Wystan](/images/h/h_Wystan.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Calamidad del Rey"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Calamidad del Rey. Calamidad del Rey. Era of Chaos Emblema Sagrado Calamidad del Rey. Era of Chaos Maligno Calamidad del Rey"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "King's Calamity.md"
 toc: false
+QR: rune_502
 classes: wide
 ---
+
+  ![Calamidad del Rey](/images/r/rune_icon_502.png)
 
  **Nombre:** Calamidad del Rey
 

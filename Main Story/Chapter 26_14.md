@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-14 Aislamiento Reproductivo"
 permalink: /Main Story/Chapter 26_14/
 excerpt: "Capítulo 26 - 14. Era of Chaos  Historia principal - Capítulo 26_14. 26-14 Aislamiento Reproductivo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 26_14.md"
 toc: false

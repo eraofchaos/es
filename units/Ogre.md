@@ -3,11 +3,13 @@ title: "Ogro"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ogro"
 toc: true
 ---
+  ![Ogro](/images/u/ti_shirenmo.jpg)
+
 ## General information
  **Descripción:** Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Mago Ogro](/images/u/tia_shirenmo.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

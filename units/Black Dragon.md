@@ -3,11 +3,13 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Dragón Negro"
 toc: true
 ---
+  ![Dragón Negro](/images/u/ti_heilong.jpg)
+
 ## General information
  **Descripción:** Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Rey Dragón Negro](/images/u/tia_heilong.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

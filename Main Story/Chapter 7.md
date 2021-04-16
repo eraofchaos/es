@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 Erathia"
 permalink: /Main Story/Chapter 7/
 excerpt: "Capítulo 7. Era of Chaos  Historia principal - Capítulo 7. Erathia"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 7.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** EXP de unidad
+ Reward 4:  **1500x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** EXP de unidad
+ Reward 4:  **2000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_204
+ Reward 1:  **1x** [Pegaso](/es/units/Pegasus/)
 
  Reward 2: **10 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **25000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2500x** EXP de unidad
+ Reward 4:  **2500x** [EXP de unidad](/es/Items/con_902/)
 

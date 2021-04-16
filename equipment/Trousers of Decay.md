@@ -2,7 +2,7 @@
 title: "Pantalones de Descomposición"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Era of Chaos Pantalones de Descomposición. Pantalones de Descomposición"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Trousers of Decay.md"
 toc: false

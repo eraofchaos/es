@@ -2,13 +2,15 @@
 title: "Ayudante Kassandra"
 permalink: /heroes/Adjutant Kassandra/
 excerpt: "Era of Chaos  Ayudante Kassandra"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Kassandra.md"
 QR: adhero_62001
 toc: false
 classes: wide
 ---
+  ![Kassandra](/images/h/h_kashandela.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

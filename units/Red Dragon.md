@@ -3,11 +3,13 @@ title: "Dragón Rojo"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Dragón Rojo"
 toc: true
 ---
+  ![Dragón Rojo](/images/u/ti_chilong.jpg)
+
 ## General information
  **Descripción:** Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_heilong.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

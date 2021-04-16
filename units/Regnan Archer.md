@@ -3,11 +3,13 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Arquera Regnan"
 toc: true
 ---
+  ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg)
+
 ## General information
  **Descripción:** Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_baozang.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

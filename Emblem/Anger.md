@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Enfado"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Enfado. Enfado. Era of Chaos Emblema Sagrado Enfado. Era of Chaos Caos Enfado"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Anger.md"
 toc: false
+QR: rune_403
 classes: wide
 ---
+
+  ![Enfado](/images/r/rune_icon_403.png)
 
  **Nombre:** Enfado
 

@@ -2,7 +2,7 @@
 title: "Espina Lúgubre"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Espina Lúgubre. Espina Lúgubre"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Bleak Barb.md"
 toc: false

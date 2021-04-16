@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-6 El Rey de Oros"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Capítulo 16 - 6. Era of Chaos  Historia principal - Capítulo 16_6. 16-6 El Rey de Oros"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 16_6.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ángel"
 toc: true
 ---
+  ![Ángel](/images/u/ti_datianshi.jpg)
+
 ## General information
  **Descripción:** Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arcángel](/images/u/tia_datianshi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

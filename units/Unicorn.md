@@ -3,11 +3,13 @@ title: "Unicornio"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario."
 unitID: 206
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Unicornio"
 toc: true
 ---
+  ![Unicornio](/images/u/ti_dujiaoshou.jpg)
+
 ## General information
  **Descripción:** La existencia del Unicornio ha sido tema de acalorados debates, en los que muchos no creen que sea más que un hermoso mito. Pero en batalla, su belleza y su ferocidad van parejas, lo que le convierte en un rival legendario.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Unicornio de Guerra](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

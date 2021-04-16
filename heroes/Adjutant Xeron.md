@@ -2,13 +2,15 @@
 title: "Ayudante Xeron"
 permalink: /heroes/Adjutant Xeron/
 excerpt: "Era of Chaos  Ayudante Xeron"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Xeron.md"
 QR: adhero_60801
 toc: false
 classes: wide
 ---
+  ![Xeron](/images/h/h_Xeron.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

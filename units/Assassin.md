@@ -3,11 +3,13 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Asesino"
 toc: true
 ---
+  ![Asesino](/images/u/ti_cishazhe.jpg)
+
 ## General information
  **Descripción:** Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido.
 
@@ -169,6 +171,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

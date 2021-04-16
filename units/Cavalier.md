@@ -3,11 +3,13 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Catafracto"
 toc: true
 ---
+  ![Catafracto](/images/u/ti_qishi.jpg)
+
 ## General information
  **Descripción:** Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Caballeros Campeones](/images/u/tia_qishi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

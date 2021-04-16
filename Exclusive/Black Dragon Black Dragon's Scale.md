@@ -2,7 +2,7 @@
 title: "Exclusivo - Escama de Dragón Negro (Black Dragon)"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Escama de Dragón Negro. Escama de Dragón Negro. Era of Chaos Exclusivo Escama de Dragón Negro. Dragón Negro Exclusivo."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Black Dragon Escama de Dragón Negro.md"
 toc: false

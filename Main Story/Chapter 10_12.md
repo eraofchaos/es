@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-12 Guerra Civil en el Bastión"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Capítulo 10 - 12. Era of Chaos  Historia principal - Capítulo 10_12. 10-12 Guerra Civil en el Bastión"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 10_12.md"
 toc: false

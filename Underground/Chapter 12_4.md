@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 - 12-4 Ángeles y Luz Sagrada"
 permalink: /Underground/Chapter 12_4/
 excerpt: "Capítulo 12 - 4. Era of Chaos  Subterráneo - Capítulo 12_4. 12-4 Ángeles y Luz Sagrada"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 12_4.md"
 toc: false

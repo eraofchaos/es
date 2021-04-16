@@ -3,11 +3,13 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Momia"
 toc: true
 ---
+  ![Momia](/images/u/ti_munaiyi.jpg)
+
 ## General information
  **Descripción:** Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Rey Momia](/images/u/tia_munaiyi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

@@ -3,13 +3,15 @@ title: "Tigre Blanco"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa."
 unitID: 809
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Tigre Blanco"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Tigre Blanco](/images/u/ti_baihu.jpg)
 
 ## General information
  **Descripción:** El Tigre Blanco emplea su violento Espíritu de Tigre Blanco para golpear los puntos débiles de la línea defensiva enemiga y activa sus poderes de plaga para darle la vuelta a cualquier situación adversa.
@@ -187,6 +189,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Autónimo olvidado"
 permalink: /Emblem/Forgotten Autonym/
 excerpt: "Era of Chaos Autónimo olvidado. Autónimo olvidado. Era of Chaos Emblema Sagrado Autónimo olvidado. Era of Chaos Maligno Autónimo olvidado"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Forgotten Autonym.md"
 toc: false
+QR: rune_501
 classes: wide
 ---
+
+  ![Autónimo olvidado](/images/r/rune_icon_501.png)
 
  **Nombre:** Autónimo olvidado
 

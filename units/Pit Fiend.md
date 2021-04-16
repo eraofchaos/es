@@ -3,11 +3,13 @@ title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Demonio del Abismo"
 toc: true
 ---
+  ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg)
+
 ## General information
  **Descripción:** Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Señor del Abismo](/images/u/tia_diyulingzhu.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

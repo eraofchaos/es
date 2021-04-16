@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Unicorn)"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Unicornio Exclusivo."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Unicorn Pica de Caballero.md"
 toc: false

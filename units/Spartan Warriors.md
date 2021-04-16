@@ -3,11 +3,13 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Guerreros espartanos"
 toc: true
 ---
+  ![Guerreros espartanos](/images/u/ti_sibada.jpg)
+
 ## General information
  **Descripción:** ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!
 
@@ -167,6 +169,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

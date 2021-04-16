@@ -2,13 +2,15 @@
 title: "Ayudante Gelu"
 permalink: /heroes/Adjutant Gelu/
 excerpt: "Era of Chaos  Ayudante Gelu"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Gelu.md"
 QR: adhero_60301
 toc: false
 classes: wide
 ---
+  ![Gelu](/images/h/h_Gelu.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

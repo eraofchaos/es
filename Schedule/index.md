@@ -2,7 +2,7 @@
 title: "Calendario"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Calendario. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "index.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 6   | 14 Apr | 18 Apr | Piedra de Alma por tiempo limitado | Consigue la unidad de Piedra de Almas SSR más popular a través del evento de reclutamiento por tiempo limitado. | [Piedra de Alma de Duendecillo Maestro](/es/Items/unt_349/),  | 
   | 7   | 14 Apr | 18 Apr | Reclutamiento por tiempo limitado | Consigue las unidades SSR más populares a través del evento de reclutamiento por tiempo limitado. | [Duendecillo](/es/Items/unt_270/),  | 
   | 8   | 14 Apr | 18 Apr | Recompensa de inicio de sesión | ¡Puedes ganar emocionantes recompensas al iniciar sesión cada día durante el evento! | [Duendecillo](/es/Items/unt_270/), [Runas de Lista de Conflujo](/es/Items/con_791/), [Poción de EXP enorme](/es/Items/con_703/),  | 
-  | 9   | 14 Apr | 18 Apr | Recompensa de reclutamiento | ¡Puedes ganar recompensas adicionales al conseguir y reclutar las unidades designadas durante el evento! | [Demonio de Hielo](/es/Items/unt_269/), AVATARFRAME1091,  | 
+  | 9   | 14 Apr | 18 Apr | Recompensa de reclutamiento | ¡Puedes ganar recompensas adicionales al conseguir y reclutar las unidades designadas durante el evento! | [Demonio de Hielo](/es/Items/unt_269/),  AVATAR_FRAME_1091,  | 
   | 10   | 15 Apr | 19 Apr | Maestro de la exploración | ¡Explora el mapa de gremio para obtener emocionantes recompensas! | [Ficha de Canto Arcano](/es/Items/con_915/), [Cofre de material poco común](/es/Items/con_757/), [Cofre de material básico](/es/Items/con_756/),  | 
   | 11   | 16 Apr | 18 Apr | Celebración marítima | Acorta el tiempo de misión de viaje un 25% |  | 
   | 12   | 18 Apr | 21 Apr | Canjeo de dientes óseos | ¡Hay unidades de Bastión de élite y canjeos de objetos exclusivos durante un tiempo limitado! ¡Que no se te escapen! | [Alma de unidad SSR](/es/Items/con_535/), [Plata astro](/es/Items/con_969/), [Llave dorada](/es/Items/con_783/),  | 
@@ -36,7 +36,7 @@ classes: wide
   | 21   | 21 Apr | 25 Apr | Desafío de élite | Ponte a prueba en los niveles de élite durante el evento para ganar emocionantes premios. | [Ficha de Pica de Caballero](/es/Items/con_916/), [Cristal violeta](/es/Items/con_720/), [Poción de EXP enorme](/es/Items/con_703/),  | 
   | 22   | 21 Apr | 25 Apr | Intercambio de emblemas | ¡Intercambia tickets por Emblemas Sagrados poco comunes durante este evento! | [La senda del Asesino](/es/Emblem/Path of an Assassin/), [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/), [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/), [Iluminación de oscuridad](/es/Emblem/Darkness Enlightenment/), [Enfado](/es/Emblem/Anger/),  | 
   | 23   | 21 Apr | 25 Apr | Robasuertes | Aquí hay Emblemas Sagrados populares. ¡Ven a probar suerte! |  | 
-  | 24   | 22 Apr | 26 Apr | Grupo del gremio | ¡Gana emocionantes recompensas al participar en actividades del gremio durante el evento! | Moneda de Gremio, Acero de dragón, [Vial de atadura de energía mediano](/es/Items/con_725/),  | 
+  | 24   | 22 Apr | 26 Apr | Grupo del gremio | ¡Gana emocionantes recompensas al participar en actividades del gremio durante el evento! | [Moneda de Gremio](/es/Items/con_896/), [Acero de dragón](/es/Items/con_880/), [Vial de atadura de energía mediano](/es/Items/con_725/),  | 
   | 25   | 23 Apr | 25 Apr | Celebración elemental | Desafío del Plano del Conflujo disponible +1 |  | 
   | 26   | 25 Apr | 28 Apr | Canjeo de brújulas | Canjeo por tiempo limitado de objetos exclusivos de Cala. ¡No te pierdas estas geniales recompensas! | [Cofre de componente de Sombrero del Encantador](/es/Items/con_1359/), [Plata astro](/es/Items/con_969/), [Alma de unidad SSR](/es/Items/con_535/),  | 
   | 27   | 25 Apr | 28 Apr | Diario de navegación | Esta es la Semana de la Cala. ¡Completa una misión especial y obtendrás una recompensa exclusiva de unidad de Cala! (La misión se restablece cada día). | [Brújula de oro](/es/Items/con_815/), [Cofre de facción de la Cala](/es/Items/con_1278/), [Llave dorada](/es/Items/con_783/),  | 
@@ -49,7 +49,7 @@ classes: wide
   | 34   | 28 Apr | 2 May | Intercambio de emblemas | ¡Intercambia tickets por Emblemas Sagrados poco comunes durante este evento! | [La senda del Asesino](/es/Emblem/Path of an Assassin/), [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/), [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/), [Iluminación de oscuridad](/es/Emblem/Darkness Enlightenment/), [Enfado](/es/Emblem/Anger/),  | 
   | 35   | 28 Apr | 2 May | Pacto por tiempo limitado | ¡Las superpopulares unidades de Comandante están disponibles por tiempo limitado y están esperando a que las invoques! | [Vidente Regnan](/es/Items/unt_279/),  | 
   | 36   | 28 Apr | 2 May | Recompensa de inicio de sesión | ¡Puedes ganar emocionantes recompensas al iniciar sesión cada día durante el evento! | [Cofre de facción de la Cala](/es/Items/con_1278/), [Runas de Lista de Cala](/es/Items/con_868/), [Poción de EXP enorme](/es/Items/con_703/),  | 
-  | 37   | 28 Apr | 2 May | Recompensa de reclutamiento | ¡Puedes ganar recompensas adicionales al conseguir y reclutar las unidades designadas durante el evento! | [Vidente Regnan](/es/Items/unt_279/), AVATARFRAME1082,  | 
+  | 37   | 28 Apr | 2 May | Recompensa de reclutamiento | ¡Puedes ganar recompensas adicionales al conseguir y reclutar las unidades designadas durante el evento! | [Vidente Regnan](/es/Items/unt_279/),  AVATAR_FRAME_1082,  | 
   | 38   | 28 Apr | 30 Apr | Fiebre del oro | Doble de oro de la Tesorería Enana. |  | 
   | 39   | 29 Apr | 3 May | Maestro de la exploración | ¡Explora el mapa de gremio para obtener emocionantes recompensas! | [Ficha de Arco Largo](/es/Items/con_914/), [Cofre de material poco común](/es/Items/con_757/), [Cofre de material básico](/es/Items/con_756/),  | 
   | 40   | 29 Sep 2020 | 1 Jul 2029 | Regalos de inicio de sesión | Inicia sesión para llevarte regalos. ¡Recuerda venir a diario para reclamarlos! |  | 

@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Báculo de Ogro"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Era of Chaos  Espada de Escarcha - Báculo de Ogro. Un báculo venerado por los Ogros. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ogre's Staff.md"
 toc: false

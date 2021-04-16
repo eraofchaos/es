@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - El juicio de los padres"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos El juicio de los padres. El juicio de los padres. Era of Chaos Emblema Sagrado El juicio de los padres. Era of Chaos Neutral El juicio de los padres"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "The Judgment of Fathers.md"
 toc: false
+QR: rune_301
 classes: wide
 ---
+
+  ![El juicio de los padres](/images/r/rune_icon_301.png)
 
  **Nombre:** El juicio de los padres
 

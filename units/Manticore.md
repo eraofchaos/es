@@ -3,11 +3,13 @@ title: "Mantícora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Mantícora"
 toc: true
 ---
+  ![Mantícora](/images/u/ti_shixie.jpg)
+
 ## General information
  **Descripción:** Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer.
 
@@ -168,6 +170,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Escorpícora](/images/u/tia_shixie.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

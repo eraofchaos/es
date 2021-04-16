@@ -2,13 +2,15 @@
 title: "Ayudante Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Ayudante Gem"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Gem.md"
 QR: adhero_60304
 toc: false
 classes: wide
 ---
+  ![Gem](/images/h/h_Gem.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

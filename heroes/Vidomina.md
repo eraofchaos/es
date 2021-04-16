@@ -4,11 +4,13 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Vidomina"
 toc: true
 ---
+  ![Vidomina](/images/h/h_Vidomina.jpg)
+
  **Descripción:** Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal.
 ## Detalles
  **Profession:** Nigromante

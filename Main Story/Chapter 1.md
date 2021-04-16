@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 Isla Siemprealbor"
 permalink: /Main Story/Chapter 1/
 excerpt: "Capítulo 1. Era of Chaos  Historia principal - Capítulo 1. Isla Siemprealbor"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 1.md"
 toc: false
@@ -26,5 +26,5 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** EXP de unidad
+ Reward 4:  **1000x** [EXP de unidad](/es/Items/con_902/)
 

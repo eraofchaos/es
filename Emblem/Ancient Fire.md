@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Fuego antiguo"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Fuego antiguo. Fuego antiguo. Era of Chaos Emblema Sagrado Fuego antiguo. Era of Chaos Orden Fuego antiguo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ancient Fire.md"
 toc: false
+QR: rune_101
 classes: wide
 ---
+
+  ![Fuego antiguo](/images/r/rune_icon_101.png)
 
  **Nombre:** Fuego antiguo
 

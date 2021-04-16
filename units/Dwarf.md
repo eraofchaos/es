@@ -3,11 +3,13 @@ title: "Enano"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Enano"
 toc: true
 ---
+  ![Enano](/images/u/ti_airen.jpg)
+
 ## General information
  **Descripción:** Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga.
 
@@ -183,6 +185,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

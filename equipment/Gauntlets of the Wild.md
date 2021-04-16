@@ -2,7 +2,7 @@
 title: "Guanteletes de la Naturaleza"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Guanteletes de la Naturaleza. Guanteletes de la Naturaleza"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Gauntlets of the Wild.md"
 toc: false

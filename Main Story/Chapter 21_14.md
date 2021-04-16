@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-14 Una Costumbre Ancestral"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Capítulo 21 - 14. Era of Chaos  Historia principal - Capítulo 21_14. 21-14 Una Costumbre Ancestral"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 21_14.md"
 toc: false

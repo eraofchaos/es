@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Lujuria"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Lujuria. Lujuria. Era of Chaos Emblema Sagrado Lujuria. Era of Chaos Caos Lujuria"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Lust.md"
 toc: false
+QR: rune_405
 classes: wide
 ---
+
+  ![Lujuria](/images/r/rune_icon_405.png)
 
  **Nombre:** Lujuria
 

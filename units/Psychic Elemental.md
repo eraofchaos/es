@@ -3,11 +3,13 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental Psíquico"
 toc: true
 ---
+  ![Elemental Psíquico](/images/u/ti_jingshenyuansu.jpg)
+
 ## General information
  **Descripción:** Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elemental de Magia](/images/u/tia_jingshenyuansu.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

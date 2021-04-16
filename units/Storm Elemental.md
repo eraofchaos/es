@@ -3,11 +3,13 @@ title: "Elemental de Tormenta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo."
 unitID: 902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental de Tormenta"
 toc: true
 ---
+  ![Elemental de Tormenta](/images/u/ti_leiyuansu2.jpg)
+
 ## General information
  **Descripción:** Un ente de energía nacido de las batallas de los Elementales de Aire. Su ataque eléctrico es capaz de calcinar a cualquier enemigo que ose atacarlo.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Tormenta de rayos](/images/u/tia_leiyuansu.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

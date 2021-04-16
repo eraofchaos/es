@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-10 Creciendo en Compañía"
 permalink: /Main Story/Chapter 21_10/
 excerpt: "Capítulo 21 - 10. Era of Chaos  Historia principal - Capítulo 21_10. 21-10 Creciendo en Compañía"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 21_10.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Esqueleto"
 toc: true
 ---
+  ![Esqueleto](/images/u/ti_kulouzhanshi.jpg)
+
 ## General information
  **Descripción:** Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Esqueleto Guerrero](/images/u/tia_kulouzhanshi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

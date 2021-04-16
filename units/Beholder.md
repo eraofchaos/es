@@ -3,11 +3,13 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Observador"
 toc: true
 ---
+  ![Observador](/images/u/ti_xieyan.jpg)
+
 ## General information
  **Descripción:** Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos.
 
@@ -169,6 +171,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Ojo maléfico](/images/u/tia_xieyan.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

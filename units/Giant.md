@@ -3,11 +3,13 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Gigante"
 toc: true
 ---
+  ![Gigante](/images/u/ti_taitan.jpg)
+
 ## General information
  **Descripción:** Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Titán](/images/u/tia_taitan.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

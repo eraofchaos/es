@@ -3,11 +3,13 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Aeronave Mágica"
 toc: true
 ---
+  ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg)
+
 ## General information
  **Descripción:** La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio.
 
@@ -176,6 +178,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

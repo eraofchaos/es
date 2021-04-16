@@ -3,11 +3,13 @@ title: "Tortuga Dragón"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Tortuga Dragón"
 toc: true
 ---
+  ![Tortuga Dragón](/images/u/ti_longgui.jpg)
+
 ## General information
  **Descripción:** Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Tortuga Dragón Primigenia](/images/u/tia_longgui.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

@@ -3,11 +3,13 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Pegaso"
 toc: true
 ---
+  ![Pegaso](/images/u/ti_feima.jpg)
+
 ## General information
  **Descripción:** Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Pegaso Plateada](/images/u/tia_yinyifeima.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

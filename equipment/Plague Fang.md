@@ -2,7 +2,7 @@
 title: "Colmillo de Plaga"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Colmillo de Plaga. Colmillo de Plaga"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Plague Fang.md"
 toc: false

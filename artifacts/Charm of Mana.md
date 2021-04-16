@@ -2,7 +2,7 @@
 title: "Artefacto - Pozo del Hechicero - Amuleto de Maná"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Pozo del Hechicero - Amuleto de Maná. Un amuleto que mejora la magia. Uno de los componentes del Pozo del Hechicero."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Charm of Mana.md"
 toc: false

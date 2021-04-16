@@ -4,11 +4,13 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus es una Fantasma con muchísima experiencia en combate. Por ello, el Archidiablo ha decidido nombrarla instructora de los Demonios del Abismo. Cuando regrese al campo de batalla, sembrará el terror en el corazón de sus enemigos."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Nymus"
 toc: true
 ---
+  ![Nymus](/images/h/h_Nymus.jpg)
+
  **Descripción:** Nymus es una Fantasma con muchísima experiencia en combate. Por ello, el Archidiablo ha decidido nombrarla instructora de los Demonios del Abismo. Cuando regrese al campo de batalla, sembrará el terror en el corazón de sus enemigos.
 ## Detalles
  **Profession:** Demoníaco

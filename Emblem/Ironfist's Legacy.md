@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Legado de Puño de Hierro"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Legado de Puño de Hierro. Legado de Puño de Hierro. Era of Chaos Emblema Sagrado Legado de Puño de Hierro. Era of Chaos Orden Legado de Puño de Hierro"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ironfist's Legacy.md"
 toc: false
+QR: rune_103
 classes: wide
 ---
+
+  ![Legado de Puño de Hierro](/images/r/rune_icon_103.png)
 
  **Nombre:** Legado de Puño de Hierro
 

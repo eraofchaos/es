@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Engranaje del tiempo"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Engranaje del tiempo. Engranaje del tiempo. Era of Chaos Emblema Sagrado Engranaje del tiempo. Era of Chaos Bien Engranaje del tiempo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Gear of Time.md"
 toc: false
+QR: rune_205
 classes: wide
 ---
+
+  ![Engranaje del tiempo](/images/r/rune_icon_205.png)
 
  **Nombre:** Engranaje del tiempo
 

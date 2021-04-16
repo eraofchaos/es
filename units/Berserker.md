@@ -3,11 +3,13 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Berserker"
 toc: true
 ---
+  ![Berserker](/images/u/ti_kuangzhanshi.jpg)
+
 ## General information
  **Descripción:** Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas.
 
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Aullador de Muerte](/images/u/tia_kuangzhanshi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

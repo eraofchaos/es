@@ -2,7 +2,7 @@
 title: "Hueso duro"
 permalink: /equipment/Hard Bone/
 excerpt: "Era of Chaos Hueso duro. Hueso duro"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Hard Bone.md"
 toc: false

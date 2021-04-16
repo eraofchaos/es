@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 Dragón de cristal"
 permalink: /Main Story/Chapter 22/
 excerpt: "Capítulo 22. Era of Chaos  Historia principal - Capítulo 22. Dragón de cristal"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 22.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP de unidad
+ Reward 4:  **5000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** EXP de unidad
+ Reward 4:  **8000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_903
+ Reward 1:  **1x** [Elemental de Hielo](/es/units/Ice Elemental/)
 
  Reward 2: **25 x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** EXP de unidad
+ Reward 4:  **10000x** [EXP de unidad](/es/Items/con_902/)
 

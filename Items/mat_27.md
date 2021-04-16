@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera valiosa +2"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Madera valiosa +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "mat_27.md"
 toc: false

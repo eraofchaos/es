@@ -3,11 +3,13 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Naga"
 toc: true
 ---
+  ![Naga](/images/u/ti_shenv.jpg)
+
 ## General information
  **Descripción:** El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Naga Reina](/images/u/ti_najia.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

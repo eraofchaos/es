@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-3 Galería de la Quiescencia"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "Capítulo 27 - 3. Era of Chaos  Historia principal - Capítulo 27_3. 27-3 Galería de la Quiescencia"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 27_3.md"
 toc: false

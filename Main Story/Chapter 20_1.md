@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-1 Inmortalidad"
 permalink: /Main Story/Chapter 20_1/
 excerpt: "Capítulo 20 - 1. Era of Chaos  Historia principal - Capítulo 20_1. 20-1 Inmortalidad"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 20_1.md"
 toc: false

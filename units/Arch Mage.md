@@ -3,11 +3,13 @@ title: "Archimaga"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Archimaga"
 toc: true
 ---
+  ![Archimaga](/images/u/ti_dafashi.jpg)
+
 ## General information
  **Descripción:** El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archimaga](/images/u/tia_dafashi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

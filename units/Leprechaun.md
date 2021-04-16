@@ -3,11 +3,13 @@ title: "Duendecillo"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!"
 unitID: 909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Duendecillo"
 toc: true
 ---
+  ![Duendecillo](/images/u/ti_conglinyaojing.jpg)
+
 ## General information
  **Descripción:** ¡Con la ayuda de Amuletos Mágicos que proporcionan un escudo misterioso, los Duendecillos que responden a las invocaciones utilizan el Monolito del Árbol del Mundo para acudir al cruento y letal campo de batalla, donde se convierten en el escudo más fuerte de la de la naturaleza!
 
@@ -193,6 +195,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Duendecillo maestro](/images/u/tia_conglinyaojing.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

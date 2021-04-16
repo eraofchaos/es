@@ -3,13 +3,15 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Vidente Regnan"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Vidente Regnan](/images/u/ti_haihou.jpg)
 
 ## General information
  **Descripción:** La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir.
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elemental de la Marea](/images/u/tia_shenv.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

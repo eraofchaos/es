@@ -3,11 +3,13 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjudicadora"
 toc: true
 ---
+  ![Adjudicadora](/images/u/ti_shenpanguan.jpg)
+
 ## General information
  **Descripción:** Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_shengqishi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

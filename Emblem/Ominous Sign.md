@@ -2,12 +2,15 @@
 title: "Emblema Sagrado - Señal ominosa"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Señal ominosa. Señal ominosa. Era of Chaos Emblema Sagrado Señal ominosa. Era of Chaos Maligno Señal ominosa"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Ominous Sign.md"
 toc: false
+QR: rune_504
 classes: wide
 ---
+
+  ![Señal ominosa](/images/r/rune_icon_504.png)
 
  **Nombre:** Señal ominosa
 

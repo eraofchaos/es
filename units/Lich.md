@@ -3,11 +3,13 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Liche"
 toc: true
 ---
+  ![Liche](/images/u/ti_wuyao.jpg)
+
 ## General information
  **Descripción:** El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Archiliche](/images/u/tia_wuyao.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

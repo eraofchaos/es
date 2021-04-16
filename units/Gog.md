@@ -3,11 +3,13 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Gog"
 toc: true
 ---
+  ![Gog](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Descripción:** Las Gogs parecen pasivas, pero pueden ser muy agresivas en combate.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magog](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

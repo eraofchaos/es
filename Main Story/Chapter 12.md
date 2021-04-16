@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 Mar de hielo"
 permalink: /Main Story/Chapter 12/
 excerpt: "Capítulo 12. Era of Chaos  Historia principal - Capítulo 12. Mar de hielo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 12.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** EXP de unidad
+ Reward 4:  **3000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** EXP de unidad
+ Reward 4:  **5000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** EXP de unidad
+ Reward 4:  **8000x** [EXP de unidad](/es/Items/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-9 Canción de la Hechicera"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Capítulo 26 - 9. Era of Chaos  Historia principal - Capítulo 26_9. 26-9 Canción de la Hechicera"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 26_9.md"
 toc: false

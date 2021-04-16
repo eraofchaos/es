@@ -2,7 +2,7 @@
 title: "Bucal Mortífero"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Era of Chaos Bucal Mortífero. Bucal Mortífero"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Fatal Jaw Weapon.md"
 toc: false

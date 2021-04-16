@@ -3,11 +3,13 @@ title: "Hada"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Hada"
 toc: true
 ---
+  ![Hada](/images/u/ti_mofaxianling.jpg)
+
 ## General information
  **Descripción:** Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste.
 
@@ -172,6 +174,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

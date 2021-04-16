@@ -3,11 +3,13 @@ title: "Pesadilla"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Pesadilla"
 toc: true
 ---
+  ![Pesadilla](/images/u/ti_mengyanshou.jpg)
+
 ## General information
  **Descripción:** La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Rey de la Pesadilla](/images/u/tia_mengyanshou.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

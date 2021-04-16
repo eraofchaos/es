@@ -3,11 +3,13 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Arpía"
 toc: true
 ---
+  ![Arpía](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Descripción:** Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Bruja Arpía](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

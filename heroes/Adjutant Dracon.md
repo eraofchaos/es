@@ -2,13 +2,15 @@
 title: "Ayudante Dracon"
 permalink: /heroes/Adjutant Dracon/
 excerpt: "Era of Chaos  Ayudante Dracon"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Dracon.md"
 QR: adhero_61202
 toc: false
 classes: wide
 ---
+  ![Dracon](/images/h/h_Dracon.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

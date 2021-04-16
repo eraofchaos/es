@@ -3,11 +3,13 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido."
 unitID: 205
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Guardia Dendroide"
 toc: true
 ---
+  ![Guardia Dendroide](/images/u/ti_shuyao.jpg)
+
 ## General information
  **Descripción:** Los Guardias Dendroides encarnan la voluntad del bosque. Compensan su torpeza con una resistencia extrema. Usan los zarcillos del bosque para estrangular al enemigo desprevenido.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Soldado Dendroide](/images/u/tia_shuyao.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

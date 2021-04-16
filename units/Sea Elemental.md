@@ -3,11 +3,13 @@ title: "Elemental del Mar"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo."
 unitID: 9903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Elemental del Mar"
 toc: true
 ---
+  ![Elemental del Mar](/images/u/ti_haiyuansu.jpg)
+
 ## General information
  **Descripción:** Este espíritu de las profundidades, nacido en aguas infinitas, domina el poder del océano y puede usarlo para destruir al enemigo.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elemental de la Marea](/images/u/tia_shenv.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

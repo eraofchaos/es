@@ -3,11 +3,13 @@ title: "Hombre Lagarto"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Hombre Lagarto"
 toc: true
 ---
+  ![Hombre Lagarto](/images/u/ti_xiyiren.jpg)
+
 ## General information
  **Descripción:** Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa.
 
@@ -177,6 +179,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

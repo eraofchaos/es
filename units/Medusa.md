@@ -3,11 +3,13 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Medusa"
 toc: true
 ---
+  ![Medusa](/images/u/ti_meidusha.jpg)
+
 ## General information
  **Descripción:** Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Reina Medusa](/images/u/tia_meidusha.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

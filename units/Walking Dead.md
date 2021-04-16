@@ -3,11 +3,13 @@ title: "Muerto Viviente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Muerto Viviente"
 toc: true
 ---
+  ![Muerto Viviente](/images/u/ti_jiangshi.jpg)
+
 ## General information
  **Descripción:** Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Zombi](/images/u/tia_jiangshi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

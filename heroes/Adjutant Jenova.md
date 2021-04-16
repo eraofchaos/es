@@ -2,13 +2,15 @@
 title: "Ayudante Jenova"
 permalink: /heroes/Adjutant Jenova/
 excerpt: "Era of Chaos  Ayudante Jenova"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Adjutant Jenova.md"
 QR: adhero_60202
 toc: false
 classes: wide
 ---
+  ![Jenova](/images/h/h_Ylthin.jpg)
+
  [List of ALL Ayudantes](/es/heroes/Adjutants/) 
 
 ## Detalles

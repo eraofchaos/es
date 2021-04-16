@@ -3,11 +3,13 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Espadachín"
 toc: true
 ---
+  ![Espadachín](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Descripción:** Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Cruzado](/images/u/tia_shizijun.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** YES
 

@@ -4,11 +4,13 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Aunque todavía joven e inexperto para un Elemental, Fiur posee una habilidad sin igual. Se cree que se acabará convirtiendo en uno de los Héroes Elementales más poderosos."
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Fiur"
 toc: true
 ---
+  ![Fiur](/images/h/h_Fiur.jpg)
+
  **Descripción:** Aunque todavía joven e inexperto para un Elemental, Fiur posee una habilidad sin igual. Se cree que se acabará convirtiendo en uno de los Héroes Elementales más poderosos.
 ## Detalles
  **Profession:** Caminante de Planos

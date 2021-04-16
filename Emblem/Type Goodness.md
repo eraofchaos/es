@@ -2,19 +2,20 @@
 title: "Emblema Sagrado - Bien"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Bien. Era of Chaos Bien"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "typeBien.md"
 toc: false
+QR: runeTypeGoodness
 classes: wide
 ---
 
   [Orden](/es/Emblem/Type Order/){: .btn .btn--warning}   [Bien](/es/Emblem/Type Goodness/){: .btn .btn--success}   [Neutral](/es/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/es/Emblem/Type Chaos/){: .btn .btn--danger}   [Maligno](/es/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Nombre            |    Type    |   Recommended   |
-  |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
-  | 2 | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
-  | 3 | [Engranaje del tiempo](/es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
-  | 4 | [Ángel Guardián](/es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
-  | 5 | [Testigo](/es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 
+  |  Nr  | Icon |             Nombre            |    Type    |   Recommended   |
+  |:-----|:--:|:----------------------------|:-----------|:---------------:|
+  | 1 | ![Profeta Verde](/images/r/rune_icon_204.png) | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
+  | 2 | ![Muro de la Sabiduría](/images/r/rune_icon_202.png) | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
+  | 3 | ![Engranaje del tiempo](/images/r/rune_icon_205.png) | [Engranaje del tiempo](/es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
+  | 4 | ![Ángel Guardián](/images/r/rune_icon_203.png) | [Ángel Guardián](/es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
+  | 5 | ![Testigo](/images/r/rune_icon_201.png) | [Testigo](/es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 

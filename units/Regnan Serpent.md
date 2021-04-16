@@ -3,11 +3,13 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Serpiente Regnan"
 toc: true
 ---
+  ![Serpiente Regnan](/images/u/ti_yurenyongshi.jpg)
+
 ## General information
  **Descripción:** El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar.
 
@@ -189,6 +191,9 @@ toc: true
 
 
 ## Awaking
+
+  ![](/images/u/tia_yurenyongshi.jpg)
+
 ### Awaking Detalles
  **Is it possible right now?** NO
 

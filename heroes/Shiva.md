@@ -4,11 +4,13 @@ permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva proviene de una familia que entrenaba y domesticaba Rocs. No quería hacerse cargo del negocio familiar, sino unirse al ejército de Krewlod y convertirse en una excelente mercenaria."
 heroID: 60603
 QR: hero_60603
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Shiva"
 toc: true
 ---
+  ![Shiva](/images/h/h_Shiwa.jpg)
+
  **Descripción:** Shiva proviene de una familia que entrenaba y domesticaba Rocs. No quería hacerse cargo del negocio familiar, sino unirse al ejército de Krewlod y convertirse en una excelente mercenaria.
 ## Detalles
  **Profession:** Bárbaro

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-11 Torre de Platala"
 permalink: /Main Story/Chapter 4_11/
 excerpt: "Capítulo 4 - 11. Era of Chaos  Historia principal - Capítulo 4_11. 4-11 Torre de Platala"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 4_11.md"
 toc: false

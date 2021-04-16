@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 Aumentar la ventaja"
 permalink: /Main Story/Chapter 26/
 excerpt: "Capítulo 26. Era of Chaos  Historia principal - Capítulo 26. Aumentar la ventaja"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 26.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** EXP de unidad
+ Reward 4:  **50000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** EXP de unidad
+ Reward 4:  **80000x** [EXP de unidad](/es/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** EXP de unidad
+ Reward 4:  **100000x** [EXP de unidad](/es/Items/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-8 Antes del Amanecer"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "Capítulo 13 - 8. Era of Chaos  Historia principal - Capítulo 13_8. 13-8 Antes del Amanecer"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: es
 ref: "Chapter 13_8.md"
 toc: false
