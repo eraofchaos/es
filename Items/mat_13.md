@@ -2,7 +2,7 @@
 title: "Item - Materials - Madera buena"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Madera buena"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "mat_13.md"
 toc: false

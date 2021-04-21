@@ -2,7 +2,7 @@
 title: "Faction Altar for Fortaleza"
 permalink: /FactionAltar/DROP_108/
 excerpt: "Era of Chaos  Faction Altar for Fortaleza. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "DROP_108.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/) |
-  | 4 | **12%** | **5x** |  **50%** [Hombre Lagarto](/es/Items/unt_254/),  **50%** [Libélula Menor](/es/Items/unt_255/),  |
-  | 5 | **12%** | **3x** |  **50%** [Hombre Lagarto](/es/Items/unt_254/),  **50%** [Libélula Menor](/es/Items/unt_255/),  |
-  | 6 | **12%** | **5x** |  **100%** [Gnoll](/es/Items/unt_253/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/) |
+  | 4 | **12%** | **5x** |  **33%** [Hombre Lagarto](/es/Items/unt_254/),  **33%** [Libélula Menor](/es/Items/unt_255/),  **33%** [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/),  |
+  | 5 | **12%** | **3x** |  **33%** [Hombre Lagarto](/es/Items/unt_254/),  **33%** [Libélula Menor](/es/Items/unt_255/),  **33%** [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/),  |
+  | 6 | **12%** | **5x** |  **37%** [Gnoll](/es/Items/unt_253/),  **62%** [Piedra de Alma de Guerrero Gnoll](/es/Items/unt_336/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/) |
-  | 2 | **11%** | **5x** |  **50%** [Hombre Lagarto](/es/Items/unt_254/),  **50%** [Libélula Menor](/es/Items/unt_255/),  |
-  | 3 | **11%** | **3x** |  **50%** [Hombre Lagarto](/es/Items/unt_254/),  **50%** [Libélula Menor](/es/Items/unt_255/),  |
-  | 4 | **11%** | **5x** |  **100%** [Gnoll](/es/Items/unt_253/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/) |
+  | 2 | **11%** | **5x** |  **33%** [Hombre Lagarto](/es/Items/unt_254/),  **33%** [Libélula Menor](/es/Items/unt_255/),  **33%** [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/),  |
+  | 3 | **11%** | **3x** |  **33%** [Hombre Lagarto](/es/Items/unt_254/),  **33%** [Libélula Menor](/es/Items/unt_255/),  **33%** [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/),  |
+  | 4 | **11%** | **5x** |  **37%** [Gnoll](/es/Items/unt_253/),  **62%** [Piedra de Alma de Guerrero Gnoll](/es/Items/unt_336/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Fortaleza](/es/Items/con_2111/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Fortaleza](/es/Items/con_2142/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Hidra del Caos](/es/Items/unt_341/) | [Gnoll](/es/Items/unt_253/), [Hombre Lagarto](/es/Items/unt_254/), [Libélula Menor](/es/Items/unt_255/), [Gorgona](/es/Items/unt_257/), [Hidra](/es/Items/unt_259/) |
+  | [Piedra de Alma de Guerrero Gnoll](/es/Items/unt_336/), [Piedra de Alma de Libélula Menor pestilente](/es/Items/unt_337/), [Piedra de Alma de Gran Gorgona](/es/Items/unt_339/), [Piedra de Alma de Hidra del Caos](/es/Items/unt_341/) | [Gnoll](/es/Items/unt_253/), [Hombre Lagarto](/es/Items/unt_254/), [Libélula Menor](/es/Items/unt_255/), [Gorgona](/es/Items/unt_257/), [Hidra](/es/Items/unt_259/) |
 
 
 

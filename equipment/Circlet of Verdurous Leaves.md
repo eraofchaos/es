@@ -2,7 +2,7 @@
 title: "Diadema de Hojas Exuberantes"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Diadema de Hojas Exuberantes. Diadema de Hojas Exuberantes"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

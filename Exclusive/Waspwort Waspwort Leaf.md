@@ -2,7 +2,7 @@
 title: "Exclusivo - Hoja de Hierbavispa (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Hoja de Hierbavispa. Hoja de Hierbavispa. Era of Chaos Exclusivo Hoja de Hierbavispa. Hierbavispa Exclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Waspwort Hoja de Hierbavispa.md"
 toc: false

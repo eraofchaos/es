@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-10 Pilar del Observador"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Capítulo 26 - 10. Era of Chaos  Historia principal - Capítulo 26_10. 26-10 Pilar del Observador"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 26_10.md"
 toc: false

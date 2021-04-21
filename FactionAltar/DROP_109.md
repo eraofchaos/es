@@ -2,7 +2,7 @@
 title: "Faction Altar for Conflujo"
 permalink: /FactionAltar/DROP_109/
 excerpt: "Era of Chaos  Faction Altar for Conflujo. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "DROP_109.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Elemental](/es/Items/con_2106/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Elemental](/es/Items/con_2141/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2106/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2106/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2106/) |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2141/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2141/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2141/) |
   | 4 | **12%** | **5x** |  **31%** [Elemental de Tormenta](/es/Items/unt_263/),  **31%** [Elemental de Hielo](/es/Items/unt_264/),  **9%** [Pájaro Ígneo](/es/Items/unt_268/),  **9%** [Piedra de Alma de Fénix](/es/Items/unt_348/),  **9%** [Piedra de Alma de Furia del trueno](/es/Items/unt_344/),  **9%** [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/),  |
   | 5 | **12%** | **3x** |  **31%** [Elemental de Tormenta](/es/Items/unt_263/),  **31%** [Elemental de Hielo](/es/Items/unt_264/),  **9%** [Pájaro Ígneo](/es/Items/unt_268/),  **9%** [Piedra de Alma de Fénix](/es/Items/unt_348/),  **9%** [Piedra de Alma de Furia del trueno](/es/Items/unt_344/),  **9%** [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/),  |
   | 6 | **12%** | **5x** |  **100%** [Hada](/es/Items/unt_262/),  |
@@ -37,7 +37,7 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2106/) |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Elemental](/es/Items/con_2141/) |
   | 2 | **11%** | **5x** |  **31%** [Elemental de Tormenta](/es/Items/unt_263/),  **31%** [Elemental de Hielo](/es/Items/unt_264/),  **9%** [Pájaro Ígneo](/es/Items/unt_268/),  **9%** [Piedra de Alma de Fénix](/es/Items/unt_348/),  **9%** [Piedra de Alma de Furia del trueno](/es/Items/unt_344/),  **9%** [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/),  |
   | 3 | **11%** | **3x** |  **31%** [Elemental de Tormenta](/es/Items/unt_263/),  **31%** [Elemental de Hielo](/es/Items/unt_264/),  **9%** [Pájaro Ígneo](/es/Items/unt_268/),  **9%** [Piedra de Alma de Fénix](/es/Items/unt_348/),  **9%** [Piedra de Alma de Furia del trueno](/es/Items/unt_344/),  **9%** [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/),  |
   | 4 | **11%** | **5x** |  **100%** [Hada](/es/Items/unt_262/),  |
@@ -45,11 +45,11 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Elemental](/es/Items/con_2106/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Elemental](/es/Items/con_2141/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Furia del trueno](/es/Items/unt_344/), [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/), [Piedra de Alma de Elemental de Magia](/es/Items/unt_347/), [Piedra de Alma de Fénix](/es/Items/unt_348/) | [Hada](/es/Items/unt_262/), [Elemental de Tormenta](/es/Items/unt_263/), [Elemental de Hielo](/es/Items/unt_264/), [Elemental Psíquico](/es/Items/unt_267/), [Pájaro Ígneo](/es/Items/unt_268/), [Duendecillo](/es/Items/unt_270/) |
+  | [Piedra de Alma de Furia del trueno](/es/Items/unt_344/), [Piedra de Alma de Espíritu de las Nieves Silencioso](/es/Items/unt_345/), [Piedra de Alma de Elemental de Magia](/es/Items/unt_347/), [Piedra de Alma de Fénix](/es/Items/unt_348/), [Piedra de Alma de Duendecillo Maestro](/es/Items/unt_349/) | [Hada](/es/Items/unt_262/), [Elemental de Tormenta](/es/Items/unt_263/), [Elemental de Hielo](/es/Items/unt_264/), [Elemental Psíquico](/es/Items/unt_267/), [Pájaro Ígneo](/es/Items/unt_268/), [Duendecillo](/es/Items/unt_270/) |
 
 
 

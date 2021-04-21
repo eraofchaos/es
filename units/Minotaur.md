@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Minotauro"
 toc: true

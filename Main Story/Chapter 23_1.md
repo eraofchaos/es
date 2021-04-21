@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-1 La Ocupación del Castillo"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Capítulo 23 - 1. Era of Chaos  Historia principal - Capítulo 23_1. 23-1 La Ocupación del Castillo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 23_1.md"
 toc: false

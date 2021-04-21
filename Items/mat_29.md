@@ -2,7 +2,7 @@
 title: "Item - Materials - Azufre valioso +2"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Azufre valioso +2"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "mat_29.md"
 toc: false

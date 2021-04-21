@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "index.md"
 toc: false
@@ -91,7 +91,7 @@ classes: wide
   | 69 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
   | 70 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/es/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Reina  |
   | 71 | ![Observador](/images/u/ti_xieyan.jpg) | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |
-  | 72 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Mago Ogro  |
+  | 72 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Mago Ogro  |
   | 73 | ![Orco](/images/u/ti_shourentoufushou.jpg) | [Orco](/es/units/Orc/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Comandante Orco  |
   | 74 | ![Paladín](/images/u/ti_shengqishi.jpg) | [Paladín](/es/units/Paladin/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladín Supremo  |
   | 75 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/es/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Plateada  |

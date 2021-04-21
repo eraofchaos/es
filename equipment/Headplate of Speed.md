@@ -2,7 +2,7 @@
 title: "Yelmo de Placas de Velocidad"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Era of Chaos Yelmo de Placas de Velocidad. Yelmo de Placas de Velocidad"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Headplate of Speed.md"
 toc: false

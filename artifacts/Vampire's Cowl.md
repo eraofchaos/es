@@ -2,7 +2,7 @@
 title: "Artefacto - Capa del Rey No Muerto - Capucha del Vampiro"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Era of Chaos  Capa del Rey No Muerto - Capucha del Vampiro. Un manto valioso de un Vampiro. Uno de los componentes de la Capa del Rey No Muerto."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Vampire's Cowl.md"
 toc: false

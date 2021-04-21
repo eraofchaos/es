@@ -2,7 +2,7 @@
 title: "Hombreras de cuero"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Hombreras de cuero. Hombreras de cuero"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Leather Pauldrons.md"
 toc: false

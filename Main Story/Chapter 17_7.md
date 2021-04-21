@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-7 Ojos que Ven la Verdad"
 permalink: /Main Story/Chapter 17_7/
 excerpt: "Capítulo 17 - 7. Era of Chaos  Historia principal - Capítulo 17_7. 17-7 Ojos que Ven la Verdad"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 17_7.md"
 toc: false

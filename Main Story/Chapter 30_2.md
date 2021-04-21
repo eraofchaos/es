@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-2 Cabaña destartalada"
 permalink: /Main Story/Chapter 30_2/
 excerpt: "Capítulo 30 - 2. Era of Chaos  Historia principal - Capítulo 30_2. 30-2 Cabaña destartalada"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 30_2.md"
 toc: false

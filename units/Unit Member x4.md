@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Unit Member x4"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/es/units/Roc/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Ave de Trueno  |
   | 2 | ![Momia](/images/u/ti_munaiyi.jpg) | [Momia](/es/units/Mummy/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Rey Momia  |
-  | 3 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Mago Ogro  |
+  | 3 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Mago Ogro  |
   | 4 | ![Cíclope](/images/u/ti_duyanjuren.jpg) | [Cíclope](/es/units/Cyclops/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cíclope Rey  |
   | 5 | ![Pájaro Ígneo](/images/u/ti_fenghuang.jpg) | [Pájaro Ígneo](/es/units/Firebird/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fénix  |
   | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |

@@ -2,7 +2,7 @@
 title: "Artefacto - Códice del Archimago - Báculo de la Disrupción"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Era of Chaos  Códice del Archimago - Báculo de la Disrupción. Un báculo con un gran poder sellado en su interior. Uno de los códices del Archimago."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Staff of Disruption.md"
 toc: false

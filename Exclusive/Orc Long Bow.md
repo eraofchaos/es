@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Orc)"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Orco Exclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Orc Arco largo.md"
 toc: false

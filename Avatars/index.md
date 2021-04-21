@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: es
 ref: "index.md"
 toc: false

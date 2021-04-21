@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Unit Class Defense"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Momia](/images/u/ti_munaiyi.jpg) | [Momia](/es/units/Mummy/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Rey Momia  |
   | 2 | ![Diablillo](/images/u/ti_xiaoemo.jpg) | [Diablillo](/es/units/Imp/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
-  | 3 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Mago Ogro  |
+  | 3 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Mago Ogro  |
   | 4 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/es/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Antiguo Behemoth  |
   | 6 | ![Duendecillo](/images/u/ti_conglinyaojing.jpg) | [Duendecillo](/es/units/Leprechaun/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Duendecillo maestro  |

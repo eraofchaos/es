@@ -2,7 +2,7 @@
 title: "Avatar - Nacida de las cenizas"
 permalink: /Avatars/Born from the Ashes/
 excerpt: "Era of Chaos  Nacida de las cenizas"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: es
 ref: "Born from the Ashes.md"
 toc: false

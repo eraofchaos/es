@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 Túneles y trogloditas"
 permalink: /Underground/Chapter 20/
 excerpt: "Capítulo 20 Túneles y trogloditas. Era of Chaos  Subterráneo - Capítulo 20. Túneles y trogloditas"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 20.md"
 toc: false

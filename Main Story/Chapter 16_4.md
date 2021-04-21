@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-4 Abrigo del Gigante"
 permalink: /Main Story/Chapter 16_4/
 excerpt: "Capítulo 16 - 4. Era of Chaos  Historia principal - Capítulo 16_4. 16-4 Abrigo del Gigante"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 16_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Túnica Corta de Hojas Exuberantes"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Túnica Corta de Hojas Exuberantes. Túnica Corta de Hojas Exuberantes"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Centauro"
 toc: true

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-5 Misión Cumplida"
 permalink: /Underground/Chapter 7_5/
 excerpt: "Capítulo 7 - 5. Era of Chaos  Subterráneo - Capítulo 7_5. 7-5 Misión Cumplida"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 7_5.md"
 toc: false

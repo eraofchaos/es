@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura que vive bajo tierra. Aunque su vista no es gran cosa, es capaz de encontrar a su presa gracias a un agudo sentido del olfato."
 unitID: 701
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Troglodita"
 toc: true

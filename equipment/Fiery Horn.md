@@ -2,7 +2,7 @@
 title: "Cuerno Ardiente"
 permalink: /equipment/Fiery Horn/
 excerpt: "Era of Chaos Cuerno Ardiente. Cuerno Ardiente"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Fiery Horn.md"
 toc: false

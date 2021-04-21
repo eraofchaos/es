@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal valioso +2"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Cristal valioso +2"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "mat_31.md"
 toc: false

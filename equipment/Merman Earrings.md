@@ -2,7 +2,7 @@
 title: "Pendientes de Murloc"
 permalink: /equipment/Merman Earrings/
 excerpt: "Era of Chaos Pendientes de Murloc. Pendientes de Murloc"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Merman Earrings.md"
 toc: false

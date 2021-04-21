@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-3 Fosas Comunes"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Capítulo 3 - 3. Era of Chaos  Historia principal - Capítulo 3_3. 3-3 Fosas Comunes"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 3_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusivo -  (Nightmare)"
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Exclusivo . Pesadilla Exclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Nightmare .md"
 toc: false

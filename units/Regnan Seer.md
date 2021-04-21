@@ -3,7 +3,7 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Vidente Regnan"
 toc: true

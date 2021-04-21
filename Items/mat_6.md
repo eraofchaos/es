@@ -2,7 +2,7 @@
 title: "Item - Materials - Mineral común"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Mineral común"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "mat_6.md"
 toc: false

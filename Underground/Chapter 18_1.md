@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 - 18-1 Atolondramiento"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Capítulo 18 - 1. Era of Chaos  Subterráneo - Capítulo 18_1. 18-1 Atolondramiento"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 18_1.md"
 toc: false

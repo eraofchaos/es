@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-9 Minas de Nighon"
 permalink: /Main Story/Chapter 27_9/
 excerpt: "Capítulo 27 - 9. Era of Chaos  Historia principal - Capítulo 27_9. 27-9 Minas de Nighon"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 27_9.md"
 toc: false

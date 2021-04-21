@@ -2,7 +2,7 @@
 title: "Avatar - Soberano del Vacío"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Era of Chaos  Soberano del Vacío"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: es
 ref: "Ruler of Void.md"
 toc: false

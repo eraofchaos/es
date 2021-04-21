@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-6 Mina de Oro abandonada"
 permalink: /Main Story/Chapter 28_6/
 excerpt: "Capítulo 28 - 6. Era of Chaos  Historia principal - Capítulo 28_6. 28-6 Mina de Oro abandonada"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 28_6.md"
 toc: false

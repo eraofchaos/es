@@ -2,7 +2,7 @@
 title: "Exclusivo - Guadaña del Diablo (Devil)"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Guadaña del Diablo. Guadaña del Diablo. Era of Chaos Exclusivo Guadaña del Diablo. Diablo Exclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Devil Guadaña del Diablo.md"
 toc: false

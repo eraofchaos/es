@@ -2,7 +2,7 @@
 title: "Artefacto - Anillo de la Maga"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Era of Chaos  Anillo de la Maga. Anillo de la Maga Un anillo mágico forjado a partir de objetos encantados. Capaz de aumentar el daño de hechizo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Ring of the Mage.md"
 toc: false

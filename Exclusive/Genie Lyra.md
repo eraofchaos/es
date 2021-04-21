@@ -2,7 +2,7 @@
 title: "Exclusivo - Lyra (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lyra. Lyra. Era of Chaos Exclusivo Lyra. Genio Exclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Genie Lyra.md"
 toc: false

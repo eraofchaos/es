@@ -2,7 +2,7 @@
 title: "Alas de Plumas Arcoíris"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Alas de Plumas Arcoíris. Alas de Plumas Arcoíris"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Rainbow Feathered Wings.md"
 toc: false

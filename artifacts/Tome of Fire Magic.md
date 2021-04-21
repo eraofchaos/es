@@ -2,7 +2,7 @@
 title: "Artefacto - Sombrero del Encantador - Tomo de Magia de Fuego"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Era of Chaos  Sombrero del Encantador - Tomo de Magia de Fuego. Este libro de hechizos incluye enseñanzas de magia de fuego avanzada. Luna lo leía antes de irse a dormir. Uno de los componentes del Sombrero del Encantador."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Tome of Fire Magic.md"
 toc: false

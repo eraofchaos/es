@@ -2,7 +2,7 @@
 title: "Diente Afilado de Tortuga Dragón"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Diente Afilado de Tortuga Dragón. Diente Afilado de Tortuga Dragón"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

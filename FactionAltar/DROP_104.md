@@ -2,7 +2,7 @@
 title: "Faction Altar for Necrópolis"
 permalink: /FactionAltar/DROP_104/
 excerpt: "Era of Chaos  Faction Altar for Necrópolis. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "DROP_104.md"
 toc: false
@@ -19,17 +19,17 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/) |
-  | 4 | **12%** | **5x** |  **18%** [Aparición](/es/Items/unt_210/),  **62%** [Vampiro](/es/Items/unt_211/),  **18%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  |
-  | 5 | **12%** | **3x** |  **18%** [Aparición](/es/Items/unt_210/),  **62%** [Vampiro](/es/Items/unt_211/),  **18%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/) |
+  | 4 | **12%** | **5x** |  **15%** [Aparición](/es/Items/unt_210/),  **52%** [Vampiro](/es/Items/unt_211/),  **15%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  **15%** [Piedra de Alma de Espectro](/es/Items/unt_299/),  |
+  | 5 | **12%** | **3x** |  **15%** [Aparición](/es/Items/unt_210/),  **52%** [Vampiro](/es/Items/unt_211/),  **15%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  **15%** [Piedra de Alma de Espectro](/es/Items/unt_299/),  |
   | 6 | **12%** | **5x** |  **25%** [Esqueleto](/es/Items/unt_208/),  **25%** [Muerto Viviente](/es/Items/unt_209/),  **25%** [Piedra de Alma de Esqueleto Guerrero](/es/Items/unt_297/),  **25%** [Piedra de Alma de Zombi](/es/Items/unt_298/),  |
 
 
@@ -37,19 +37,19 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/) |
-  | 2 | **11%** | **5x** |  **18%** [Aparición](/es/Items/unt_210/),  **62%** [Vampiro](/es/Items/unt_211/),  **18%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  |
-  | 3 | **11%** | **3x** |  **18%** [Aparición](/es/Items/unt_210/),  **62%** [Vampiro](/es/Items/unt_211/),  **18%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/) |
+  | 2 | **11%** | **5x** |  **15%** [Aparición](/es/Items/unt_210/),  **52%** [Vampiro](/es/Items/unt_211/),  **15%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  **15%** [Piedra de Alma de Espectro](/es/Items/unt_299/),  |
+  | 3 | **11%** | **3x** |  **15%** [Aparición](/es/Items/unt_210/),  **52%** [Vampiro](/es/Items/unt_211/),  **15%** [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/),  **15%** [Piedra de Alma de Espectro](/es/Items/unt_299/),  |
   | 4 | **11%** | **5x** |  **25%** [Esqueleto](/es/Items/unt_208/),  **25%** [Muerto Viviente](/es/Items/unt_209/),  **25%** [Piedra de Alma de Esqueleto Guerrero](/es/Items/unt_297/),  **25%** [Piedra de Alma de Zombi](/es/Items/unt_298/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Necrópolis](/es/Items/con_2102/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Necrópolis](/es/Items/con_2138/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Esqueleto Guerrero](/es/Items/unt_297/), [Piedra de Alma de Zombi](/es/Items/unt_298/), [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/), [Piedra de Alma de Dragón Fantasma](/es/Items/unt_303/) | [Esqueleto](/es/Items/unt_208/), [Muerto Viviente](/es/Items/unt_209/), [Aparición](/es/Items/unt_210/), [Vampiro](/es/Items/unt_211/), [Dragón de Hueso](/es/Items/unt_214/) |
+  | [Piedra de Alma de Esqueleto Guerrero](/es/Items/unt_297/), [Piedra de Alma de Zombi](/es/Items/unt_298/), [Piedra de Alma de Espectro](/es/Items/unt_299/), [Piedra de Alma de Señor Vampiro](/es/Items/unt_300/), [Piedra de Alma de Dragón Fantasma](/es/Items/unt_303/), [Piedra de Alma de Caballero del Terror](/es/Items/unt_302/) | [Esqueleto](/es/Items/unt_208/), [Muerto Viviente](/es/Items/unt_209/), [Aparición](/es/Items/unt_210/), [Vampiro](/es/Items/unt_211/), [Dragón de Hueso](/es/Items/unt_214/), [Caballero Negro](/es/Items/unt_213/) |
 
 
 

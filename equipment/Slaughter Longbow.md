@@ -2,7 +2,7 @@
 title: "Arco Largo de la Matanza"
 permalink: /equipment/Slaughter Longbow/
 excerpt: "Era of Chaos Arco Largo de la Matanza. Arco Largo de la Matanza"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Slaughter Longbow.md"
 toc: false

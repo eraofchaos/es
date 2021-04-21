@@ -2,7 +2,7 @@
 title: "Núcleo de Trueno"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Núcleo de Trueno. Núcleo de Trueno"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Thunder Core.md"
 toc: false

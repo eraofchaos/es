@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-1 La Semilla de la Vida"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Capítulo 22 - 1. Era of Chaos  Subterráneo - Capítulo 22_1. 22-1 La Semilla de la Vida"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 22_1.md"
 toc: false

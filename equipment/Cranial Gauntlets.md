@@ -2,7 +2,7 @@
 title: "Guanteletes craneales"
 permalink: /equipment/Cranial Gauntlets/
 excerpt: "Era of Chaos Guanteletes craneales. Guanteletes craneales"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Cranial Gauntlets.md"
 toc: false

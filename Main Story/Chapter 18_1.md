@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-1 Soldados Desaparecidos"
 permalink: /Main Story/Chapter 18_1/
 excerpt: "Capítulo 18 - 1. Era of Chaos  Historia principal - Capítulo 18_1. 18-1 Soldados Desaparecidos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 18_1.md"
 toc: false

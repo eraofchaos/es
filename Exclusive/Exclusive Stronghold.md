@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exclusivo Stronghold. Exclusivo Stronghold. List of Exclusivo Stronghold in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Exclusive Stronghold"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 1  | [Goblin](/es/units/Goblin/) | [Espada](/es/Exclusive/Goblin Sword/) | - | Carga | [Ficha de espada](/es/Items/con_912/) | - |
   | 2  | [Jinete Lupino](/es/units/Wolf Rider/) | [Pica de Caballero](/es/Exclusive/Wolf Rider Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
   | 3  | [Orco](/es/units/Orc/) | [Arco largo](/es/Exclusive/Orc Long Bow/) | - | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
-  | 4  | [Ogro](/es/units/Ogre/) | [Escudo Iris](/es/Exclusive/Ogre Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
+  | 4  | [Ogro](/es/units/Ogre/) | [Escudo Iris](/es/Exclusive/Ogre Iris Shield/) | + | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
   | 5  | [Roc](/es/units/Roc/) | [Canto Arcano](/es/Exclusive/Roc Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
   | 6  | [Cíclope](/es/units/Cyclops/) | [Arco largo](/es/Exclusive/Cyclops Long Bow/) | + | Carga | [Ficha de Arco Largo](/es/Items/con_914/) | - |
   | 7  | [Behemoth](/es/units/Behemoth/) | [Espíritu Sanguinario](/es/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Asistencia técnica | [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | [Aspecto Especial de Espíritu Sanguinario](/es/Items/con_650/) |

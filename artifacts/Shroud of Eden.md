@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Sudario del Edén"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Fragmento del Edén - Sudario del Edén. El legendario y sagrado Sudario del Edén. No ha habido forma de verificar su autenticidad."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Shroud of Eden.md"
 toc: false

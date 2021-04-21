@@ -2,7 +2,7 @@
 title: "Artefacto - Capa del Rey No Muerto"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Era of Chaos  Capa del Rey No Muerto. Capa del Rey No Muerto Una reliquia sagrada forjada por un rey no muerto para ocultar su rostro. Capaz de invocar un ejército de Esqueletos."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Cloak of the Undead King.md"
 toc: false

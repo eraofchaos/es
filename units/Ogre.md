@@ -3,7 +3,7 @@ title: "Ogro"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Ogros pueden parecerse un poco a los monos, pero son mucho más peligrosos. Son capaces incluso de lanzar hechizos sanguinarios en batalla."
 unitID: 404
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Ogro"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Nombre:** [Escudo Iris](/es/Exclusive/Ogre Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
 

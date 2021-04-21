@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -179,6 +179,8 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/unknown.png)
 
 ### Awaking Detalles
  **Is it possible right now?** NO

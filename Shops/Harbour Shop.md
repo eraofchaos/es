@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 |  **12x** [Fervor](/es/Items/con_954/)(Un objeto usado para desafiar a jefes en el evento de ataque de Cala.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** [Alas de triunfo: Catherine](/es/Items/con_1032/)(Se usa para obtener el aspecto de Alas de triunfo de Catherine) |  **2500x** [Siclo](/es/Items/con_950/)  | **1** |
   | 3 |  **10x** [Peter Lee](/es/Items/her_397/)(Recoge 30 esquirlas de alma para invocar a Peter Lee y que se una a tu grupo. Las esquirlas de alma también son necesarias para aumentar su rango.) |  **2500x** [Siclo](/es/Items/con_950/)  | **3** |
-  | 4 |  **10x** [Alma de unidad SSR](/es/Items/con_535/)(Consigue 80 para obtener una unidad de aptitud SSR aleatoria (excepto Caballero Negro, Asesino y Guerreros espartanos).) |  **3800x** [Siclo](/es/Items/con_950/)  | **4** |
+  | 4 |  **10x** [Alma de unidad SSR](/es/Items/con_535/)(Consigue 80 para obtener una unidad de aptitud SSR aleatoria (excepto Asesino y Guerreros espartanos).) |  **3800x** [Siclo](/es/Items/con_950/)  | **4** |
   | 5 |  **10x** [Alma de unidad SR](/es/Items/con_534/)(Hazte con 30 para conseguir una unidad de 2 estrellas aleatoria: Grifo, Espadachín, Monje, Catafracto, Enano, Elfa del Bosque, Pegaso, Guardia Dendroide, Unicornio, Orco, Ogro, Roc, Cíclope, Aparición, Vampiro, Sabueso Infernal, Demonio, Demonio del Abismo, Efrit, Gárgola de Piedra, Gólem de Hierro, Maga,Piratas Regnan, Elemental de Tormenta, Elemental de Hielo, Arpía, Minotauro u Hombre Lagarto.) |  **1000x** [Siclo](/es/Items/con_950/)  | **3** |
   | 6 |  **1x** [Cofre de componente de artefacto prémium](/es/Items/con_1740/)(Úsalo para seleccionar 1 de los siguientes: 1 cofre de componente de Rey Dragón, 1 cofre de componente de escarcha o 1 cofre de componente divino.) |  **13500x** [Siclo](/es/Items/con_950/)  | **1** |
   | 7 |  **1x** [Paquete de componente de artefacto prémium](/es/Items/con_1433/)(Úsalo para seleccionar 1 de los siguientes: 1 cofre de componente de Ojo de halcón o 1 cofre de componente de Titán) |  **3800x** [Siclo](/es/Items/con_950/)  | **1** |

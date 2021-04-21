@@ -2,7 +2,7 @@
 title: "Garras de Rayo"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Garras de Rayo. Garras de Rayo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Claws of Lightning.md"
 toc: false

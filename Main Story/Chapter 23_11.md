@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-11 La Flecha Matadragones"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "Capítulo 23 - 11. Era of Chaos  Historia principal - Capítulo 23_11. 23-11 La Flecha Matadragones"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 23_11.md"
 toc: false

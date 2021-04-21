@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-4 Subcorriente"
 permalink: /Main Story/Chapter 9_4/
 excerpt: "Capítulo 9 - 4. Era of Chaos  Historia principal - Capítulo 9_4. 9-4 Subcorriente"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 9_4.md"
 toc: false

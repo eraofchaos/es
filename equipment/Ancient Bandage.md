@@ -2,7 +2,7 @@
 title: "Vendaje Ancestral"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Era of Chaos Vendaje Ancestral. Vendaje Ancestral"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Ancient Bandage.md"
 toc: false

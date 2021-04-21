@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-8 Orígenes del Mundo Subterráneo"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Capítulo 25 - 8. Era of Chaos  Historia principal - Capítulo 25_8. 25-8 Orígenes del Mundo Subterráneo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 25_8.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 18  Semana del Infierno
+
+  |  Date  |      Reward    |    Reward Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **3 May** | **5x [Diablillo](/es/Items/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
+  | **4 May** | **5x [Gog](/es/Items/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
+  | **5 May** | **3x [Sabueso Infernal](/es/Items/unt_228/)**  | ¡Un escuadrón de Sabuesos Infernales se une a tu ejército y te vuelves más fuerte! |
+  | **6 May** | **5x [Cofre de unidad del Infierno](/es/Items/con_1273/)**  | ¡Tus tropas del Infierno te han traído varios cofres del tesoro! |
+  | **7 May** | **3x [Demonio](/es/Items/unt_229/)**  | ¡Un escuadrón de Demonios se une a tu ejército y te vuelves más fuerte! |
+  | **8 May** | **3x [Demonio del Abismo](/es/Items/unt_230/)**  | ¡Un escuadrón de Demonios del Abismo se une a tu ejército y te vuelves más fuerte! |
+  | **9 May** | **5x [Rashka](/es/Items/her_384/)**  | ¡El Héroe Rashka se ha interesado por tu expansión y quiere unirse a tu facción! |
+
 
 #### 2021 Week 17  Semana de la Cala
 

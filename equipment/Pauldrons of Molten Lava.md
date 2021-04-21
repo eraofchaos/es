@@ -2,7 +2,7 @@
 title: "Hombreras de Lava Fundida"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Era of Chaos Hombreras de Lava Fundida. Hombreras de Lava Fundida"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Pauldrons of Molten Lava.md"
 toc: false

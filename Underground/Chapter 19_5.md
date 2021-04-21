@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 - 19-5 La Ley del Mundo"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Capítulo 19 - 5. Era of Chaos  Subterráneo - Capítulo 19_5. 19-5 La Ley del Mundo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 19_5.md"
 toc: false

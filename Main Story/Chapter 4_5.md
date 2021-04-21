@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-5 Plan Desvelado"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "Capítulo 4 - 5. Era of Chaos  Historia principal - Capítulo 4_5. 4-5 Plan Desvelado"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Chapter 4_5.md"
 toc: false

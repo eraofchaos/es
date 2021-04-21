@@ -2,7 +2,7 @@
 title: "Cola de Dragón Vehemente"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Cola de Dragón Vehemente. Cola de Dragón Vehemente"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: es
 ref: "Vehement Dragon Tail.md"
 toc: false
