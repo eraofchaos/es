@@ -2,7 +2,7 @@
 title: "Artefacto - Hacha de la Ferocidad - Garrote del Caos del Ogro"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Era of Chaos  Hacha de la Ferocidad - Garrote del Caos del Ogro. Un bastón arrebatado a un Capitán Ogro en una taberna del camino. Uno de los componentes del Hacha de la Ferocidad."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Ogre's Club of Havoc.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Hacha de la Ferocidad](/es/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Garrote del Caos del Ogro](/es/Items/art_125/)
+ **Related Item**: [Garrote del Caos del Ogro](/ItemsES/art_125/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Faction Altar for Castillo"
 permalink: /FactionAltar/DROP_101/
 excerpt: "Era of Chaos  Faction Altar for Castillo. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "DROP_101.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Castillo](/es/Items/con_2139/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Castillo](/es/Items/con_2139/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Castillo](/es/Items/con_2139/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Castillo](/es/Items/con_2139/) |
-  | 4 | **12%** | **5x** |  **19%** [Grifo](/es/Items/unt_192/),  **5%** [Espadachín](/es/Items/unt_193/),  **19%** [Monje](/es/Items/unt_194/),  **19%** [Catafracto](/es/Items/unt_195/),  **5%** [Piedra de Alma de Cruzado](/es/Items/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/es/Items/unt_287/),  **5%** [Piedra de Alma de Fanático](/es/Items/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/),  |
-  | 5 | **12%** | **3x** |  **19%** [Grifo](/es/Items/unt_192/),  **5%** [Espadachín](/es/Items/unt_193/),  **19%** [Monje](/es/Items/unt_194/),  **19%** [Catafracto](/es/Items/unt_195/),  **5%** [Piedra de Alma de Cruzado](/es/Items/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/es/Items/unt_287/),  **5%** [Piedra de Alma de Fanático](/es/Items/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/),  |
-  | 6 | **12%** | **5x** |  **25%** [Piquero](/es/Items/unt_190/),  **25%** [Ballestero](/es/Items/unt_191/),  **25%** [Piedra de Alma de Alabardero](/es/Items/unt_282/),  **25%** [Piedra de Alma de Arquero Maestro](/es/Items/unt_283/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/) |
+  | 4 | **12%** | **5x** |  **19%** [Grifo](/ItemsES/unt_192/),  **5%** [Espadachín](/ItemsES/unt_193/),  **19%** [Monje](/ItemsES/unt_194/),  **19%** [Catafracto](/ItemsES/unt_195/),  **5%** [Piedra de Alma de Cruzado](/ItemsES/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/ItemsES/unt_287/),  **5%** [Piedra de Alma de Fanático](/ItemsES/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/ItemsES/unt_284/),  |
+  | 5 | **12%** | **3x** |  **19%** [Grifo](/ItemsES/unt_192/),  **5%** [Espadachín](/ItemsES/unt_193/),  **19%** [Monje](/ItemsES/unt_194/),  **19%** [Catafracto](/ItemsES/unt_195/),  **5%** [Piedra de Alma de Cruzado](/ItemsES/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/ItemsES/unt_287/),  **5%** [Piedra de Alma de Fanático](/ItemsES/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/ItemsES/unt_284/),  |
+  | 6 | **12%** | **5x** |  **25%** [Piquero](/ItemsES/unt_190/),  **25%** [Ballestero](/ItemsES/unt_191/),  **25%** [Piedra de Alma de Alabardero](/ItemsES/unt_282/),  **25%** [Piedra de Alma de Arquero Maestro](/ItemsES/unt_283/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Castillo](/es/Items/con_2139/) |
-  | 2 | **11%** | **5x** |  **19%** [Grifo](/es/Items/unt_192/),  **5%** [Espadachín](/es/Items/unt_193/),  **19%** [Monje](/es/Items/unt_194/),  **19%** [Catafracto](/es/Items/unt_195/),  **5%** [Piedra de Alma de Cruzado](/es/Items/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/es/Items/unt_287/),  **5%** [Piedra de Alma de Fanático](/es/Items/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/),  |
-  | 3 | **11%** | **3x** |  **19%** [Grifo](/es/Items/unt_192/),  **5%** [Espadachín](/es/Items/unt_193/),  **19%** [Monje](/es/Items/unt_194/),  **19%** [Catafracto](/es/Items/unt_195/),  **5%** [Piedra de Alma de Cruzado](/es/Items/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/es/Items/unt_287/),  **5%** [Piedra de Alma de Fanático](/es/Items/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/),  |
-  | 4 | **11%** | **5x** |  **25%** [Piquero](/es/Items/unt_190/),  **25%** [Ballestero](/es/Items/unt_191/),  **25%** [Piedra de Alma de Alabardero](/es/Items/unt_282/),  **25%** [Piedra de Alma de Arquero Maestro](/es/Items/unt_283/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/) |
+  | 2 | **11%** | **5x** |  **19%** [Grifo](/ItemsES/unt_192/),  **5%** [Espadachín](/ItemsES/unt_193/),  **19%** [Monje](/ItemsES/unt_194/),  **19%** [Catafracto](/ItemsES/unt_195/),  **5%** [Piedra de Alma de Cruzado](/ItemsES/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/ItemsES/unt_287/),  **5%** [Piedra de Alma de Fanático](/ItemsES/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/ItemsES/unt_284/),  |
+  | 3 | **11%** | **3x** |  **19%** [Grifo](/ItemsES/unt_192/),  **5%** [Espadachín](/ItemsES/unt_193/),  **19%** [Monje](/ItemsES/unt_194/),  **19%** [Catafracto](/ItemsES/unt_195/),  **5%** [Piedra de Alma de Cruzado](/ItemsES/unt_285/),  **19%** [Piedra de Alma de Caballero Campeón](/ItemsES/unt_287/),  **5%** [Piedra de Alma de Fanático](/ItemsES/unt_286/),  **5%** [Piedra de Alma de Grifo sagrado](/ItemsES/unt_284/),  |
+  | 4 | **11%** | **5x** |  **25%** [Piquero](/ItemsES/unt_190/),  **25%** [Ballestero](/ItemsES/unt_191/),  **25%** [Piedra de Alma de Alabardero](/ItemsES/unt_282/),  **25%** [Piedra de Alma de Arquero Maestro](/ItemsES/unt_283/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Castillo](/es/Items/con_2139/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Castillo](/ItemsES/con_2139/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Alabardero](/es/Items/unt_282/), [Piedra de Alma de Arquero Maestro](/es/Items/unt_283/), [Piedra de Alma de Grifo sagrado](/es/Items/unt_284/), [Piedra de Alma de Cruzado](/es/Items/unt_285/), [Piedra de Alma de Fanático](/es/Items/unt_286/), [Piedra de Alma de Caballero Campeón](/es/Items/unt_287/), [Piedra de Alma del Arcángel](/es/Items/unt_288/), [Piedra de Alma de Paladín Supremo](/es/Items/unt_289/) | [Piquero](/es/Items/unt_190/), [Ballestero](/es/Items/unt_191/), [Grifo](/es/Items/unt_192/), [Espadachín](/es/Items/unt_193/), [Monje](/es/Items/unt_194/), [Catafracto](/es/Items/unt_195/), [Ángel](/es/Items/unt_196/), [Paladín](/es/Items/unt_197/) |
+  | [Piedra de Alma de Alabardero](/ItemsES/unt_282/), [Piedra de Alma de Arquero Maestro](/ItemsES/unt_283/), [Piedra de Alma de Grifo sagrado](/ItemsES/unt_284/), [Piedra de Alma de Cruzado](/ItemsES/unt_285/), [Piedra de Alma de Fanático](/ItemsES/unt_286/), [Piedra de Alma de Caballero Campeón](/ItemsES/unt_287/), [Piedra de Alma del Arcángel](/ItemsES/unt_288/), [Piedra de Alma de Paladín Supremo](/ItemsES/unt_289/) | [Piquero](/ItemsES/unt_190/), [Ballestero](/ItemsES/unt_191/), [Grifo](/ItemsES/unt_192/), [Espadachín](/ItemsES/unt_193/), [Monje](/ItemsES/unt_194/), [Catafracto](/ItemsES/unt_195/), [Ángel](/ItemsES/unt_196/), [Paladín](/ItemsES/unt_197/) |
 
 
 

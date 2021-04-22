@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán - Casco del Trueno"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Trueno del Titán - Casco del Trueno. Un casco utilizado por el Dios del trueno. Uno de los componentes del Trueno del Titán."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Thunder Helmet.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Trueno del Titán](/es/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Casco del Trueno](/es/Items/art_158/)
+ **Related Item**: [Casco del Trueno](/ItemsES/art_158/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

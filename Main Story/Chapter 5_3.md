@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-3 Ejército de la Alianza"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Capítulo 5 - 3. Era of Chaos  Historia principal - Capítulo 5_3. 5-3 Ejército de la Alianza"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 5_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercurio bueno](/es/Items/mat_14/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Mercurio bueno](/ItemsES/mat_14/){: .btn .btn--era3}
 
- **Drop 2:** **50% 0x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}, **50% 1x** [Azufre común](/es/Items/mat_9/){: .btn .btn--era2}
+ **Drop 2:** **50% 0x** [Azufre común](/ItemsES/mat_9/){: .btn .btn--era2}, **50% 1x** [Azufre común](/ItemsES/mat_9/){: .btn .btn--era2}
 
- **Drop 3:** **50% 0x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **50% 0x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}, **50% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

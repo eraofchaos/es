@@ -2,7 +2,7 @@
 title: "Artefacto - Arco del Tirador - Flechas de Pluma de Ángel"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Era of Chaos  Arco del Tirador - Flechas de Pluma de Ángel. Una flecha mágica confeccionada por los elfos. Uno de los componentes del Arco del Tirador."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Angel Feather Arrows.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Flechas de Pluma de Ángel](/es/Items/art_104/)
+ **Related Item**: [Flechas de Pluma de Ángel](/ItemsES/art_104/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

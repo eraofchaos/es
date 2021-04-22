@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-13 Alcanzar la Meta"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Capítulo 7 - 13. Era of Chaos  Historia principal - Capítulo 7_13. 7-13 Alcanzar la Meta"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 7_13.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Azufre superior +1](/es/Items/mat_22/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Azufre superior +1](/ItemsES/mat_22/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Mineral bueno](/es/Items/mat_12/){: .btn .btn--era3}, **40% 1x** [Mineral bueno](/es/Items/mat_12/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Mineral bueno](/ItemsES/mat_12/){: .btn .btn--era3}, **40% 1x** [Mineral bueno](/ItemsES/mat_12/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

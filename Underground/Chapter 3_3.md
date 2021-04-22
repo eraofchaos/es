@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 - 3-3 Un Pasado Turbio"
 permalink: /Underground/Chapter 3_3/
 excerpt: "Capítulo 3 - 3. Era of Chaos  Subterráneo - Capítulo 3_3. 3-3 Un Pasado Turbio"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 3_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Vampiro](/es/Items/unt_211/){: .btn .btn--era4}, **50% 1x** [Vampiro](/es/Items/unt_211/){: .btn .btn--era4}
+ **Drop 1:** **50% 0x** [Vampiro](/ItemsES/unt_211/){: .btn .btn--era4}, **50% 1x** [Vampiro](/ItemsES/unt_211/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Gemas comunes](/es/Items/mat_10/){: .btn .btn--era2}, **70% 1x** [Gemas comunes](/es/Items/mat_10/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Gemas comunes](/ItemsES/mat_10/){: .btn .btn--era2}, **70% 1x** [Gemas comunes](/ItemsES/mat_10/){: .btn .btn--era2}
 
 
 ## Fight against Team

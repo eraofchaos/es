@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-3 Carne de Cañón"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Capítulo 22 - 3. Era of Chaos  Subterráneo - Capítulo 22_3. 22-3 Carne de Cañón"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 22_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Demonio](/es/Items/unt_229/){: .btn .btn--era4}, **67% 1x** [Demonio](/es/Items/unt_229/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Demonio](/ItemsES/unt_229/){: .btn .btn--era4}, **67% 1x** [Demonio](/ItemsES/unt_229/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificado de leyenda +3](/es/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificado de leyenda +3](/ItemsES/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificado de leyenda +2](/es/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +2](/es/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificado de leyenda +2](/ItemsES/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +2](/ItemsES/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

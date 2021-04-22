@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Ballesta Ejemplar"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Ballesta Ejemplar. Un artefacto usado por el Héroe Gelu antes de alcanzar la mayoría de edad. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Examplar Crossbow.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Espada del Apocalipsis](/es/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Ballesta Ejemplar](/es/Items/art_171/)
+ **Related Item**: [Ballesta Ejemplar](/ItemsES/art_171/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

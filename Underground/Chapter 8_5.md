@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-5 El Ejército de la Muerte"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Capítulo 8 - 5. Era of Chaos  Subterráneo - Capítulo 8_5. 8-5 El Ejército de la Muerte"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 8_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Ogro](/es/Items/unt_220/){: .btn .btn--era4}, **67% 1x** [Ogro](/es/Items/unt_220/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Ogro](/ItemsES/unt_220/){: .btn .btn--era4}, **67% 1x** [Ogro](/ItemsES/unt_220/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro de Esencias](/es/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro de Esencias](/ItemsES/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro de Armas +2](/es/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +2](/es/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro de Armas +2](/ItemsES/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +2](/ItemsES/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team

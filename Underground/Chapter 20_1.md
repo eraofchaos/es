@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 - 20-1 Aliento Mágico"
 permalink: /Underground/Chapter 20_1/
 excerpt: "Capítulo 20 - 1. Era of Chaos  Subterráneo - Capítulo 20_1. 20-1 Aliento Mágico"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 20_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Hada](/es/Items/unt_262/){: .btn .btn--era3}, **67% 1x** [Hada](/es/Items/unt_262/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Hada](/ItemsES/unt_262/){: .btn .btn--era3}, **67% 1x** [Hada](/ItemsES/unt_262/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificado de leyenda +2](/es/Items/mat_81/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificado de leyenda +2](/ItemsES/mat_81/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificado de leyenda +1](/es/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +1](/es/Items/mat_74/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificado de leyenda +1](/ItemsES/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +1](/ItemsES/mat_74/){: .btn .btn--era5}
 
 
 ## Fight against Team

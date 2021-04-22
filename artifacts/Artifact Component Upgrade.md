@@ -2,14 +2,14 @@
 title: "Artefacto Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Era of Chaos Artifact component upgrade cost. Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Artifact Component Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Piedra de Forja celestial](/es/Items/art_188/)
+  First upgrade ingredient:[Piedra de Forja celestial](/ItemsES/art_188/)
 
   Second upgrade ingredient: Artifact Components pieces 
 

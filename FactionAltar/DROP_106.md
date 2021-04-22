@@ -2,7 +2,7 @@
 title: "Faction Altar for Torre"
 permalink: /FactionAltar/DROP_106/
 excerpt: "Era of Chaos  Faction Altar for Torre. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "DROP_106.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Torre](/es/Items/con_2110/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Torre](/ItemsES/con_2110/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Torre](/es/Items/con_2110/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Torre](/es/Items/con_2110/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Torre](/es/Items/con_2110/) |
-  | 4 | **12%** | **5x** |  **23%** [Gárgola de Piedra](/es/Items/unt_236/),  **23%** [Gólem de Hierro](/es/Items/unt_237/),  **23%** [Maga](/es/Items/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/es/Items/unt_322/),  **6%** [Piedra de Alma de Archimaga](/es/Items/unt_323/),  |
-  | 5 | **12%** | **3x** |  **23%** [Gárgola de Piedra](/es/Items/unt_236/),  **23%** [Gólem de Hierro](/es/Items/unt_237/),  **23%** [Maga](/es/Items/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/es/Items/unt_322/),  **6%** [Piedra de Alma de Archimaga](/es/Items/unt_323/),  |
-  | 6 | **12%** | **5x** |  **100%** [Gremlin](/es/Items/unt_235/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Torre](/ItemsES/con_2110/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Torre](/ItemsES/con_2110/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Torre](/ItemsES/con_2110/) |
+  | 4 | **12%** | **5x** |  **23%** [Gárgola de Piedra](/ItemsES/unt_236/),  **23%** [Gólem de Hierro](/ItemsES/unt_237/),  **23%** [Maga](/ItemsES/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/ItemsES/unt_322/),  **6%** [Piedra de Alma de Archimaga](/ItemsES/unt_323/),  |
+  | 5 | **12%** | **3x** |  **23%** [Gárgola de Piedra](/ItemsES/unt_236/),  **23%** [Gólem de Hierro](/ItemsES/unt_237/),  **23%** [Maga](/ItemsES/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/ItemsES/unt_322/),  **6%** [Piedra de Alma de Archimaga](/ItemsES/unt_323/),  |
+  | 6 | **12%** | **5x** |  **100%** [Gremlin](/ItemsES/unt_235/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Torre](/es/Items/con_2110/) |
-  | 2 | **11%** | **5x** |  **23%** [Gárgola de Piedra](/es/Items/unt_236/),  **23%** [Gólem de Hierro](/es/Items/unt_237/),  **23%** [Maga](/es/Items/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/es/Items/unt_322/),  **6%** [Piedra de Alma de Archimaga](/es/Items/unt_323/),  |
-  | 3 | **11%** | **3x** |  **23%** [Gárgola de Piedra](/es/Items/unt_236/),  **23%** [Gólem de Hierro](/es/Items/unt_237/),  **23%** [Maga](/es/Items/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/es/Items/unt_322/),  **6%** [Piedra de Alma de Archimaga](/es/Items/unt_323/),  |
-  | 4 | **11%** | **5x** |  **100%** [Gremlin](/es/Items/unt_235/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Torre](/ItemsES/con_2110/) |
+  | 2 | **11%** | **5x** |  **23%** [Gárgola de Piedra](/ItemsES/unt_236/),  **23%** [Gólem de Hierro](/ItemsES/unt_237/),  **23%** [Maga](/ItemsES/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/ItemsES/unt_322/),  **6%** [Piedra de Alma de Archimaga](/ItemsES/unt_323/),  |
+  | 3 | **11%** | **3x** |  **23%** [Gárgola de Piedra](/ItemsES/unt_236/),  **23%** [Gólem de Hierro](/ItemsES/unt_237/),  **23%** [Maga](/ItemsES/unt_238/),  **23%** [Piedra de Alma de Gólem de Oro](/ItemsES/unt_322/),  **6%** [Piedra de Alma de Archimaga](/ItemsES/unt_323/),  |
+  | 4 | **11%** | **5x** |  **100%** [Gremlin](/ItemsES/unt_235/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Torre](/es/Items/con_2110/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Torre](/ItemsES/con_2110/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Gólem de Oro](/es/Items/unt_322/), [Piedra de Alma de Archimaga](/es/Items/unt_323/), [Piedra de Alma de Naga Reina](/es/Items/unt_325/), [Piedra de Alma de Titán](/es/Items/unt_326/) | [Gremlin](/es/Items/unt_235/), [Gárgola de Piedra](/es/Items/unt_236/), [Gólem de Hierro](/es/Items/unt_237/), [Maga](/es/Items/unt_238/), [Naga](/es/Items/unt_240/), [Gigante](/es/Items/unt_241/) |
+  | [Piedra de Alma de Gólem de Oro](/ItemsES/unt_322/), [Piedra de Alma de Archimaga](/ItemsES/unt_323/), [Piedra de Alma de Naga Reina](/ItemsES/unt_325/), [Piedra de Alma de Titán](/ItemsES/unt_326/) | [Gremlin](/ItemsES/unt_235/), [Gárgola de Piedra](/ItemsES/unt_236/), [Gólem de Hierro](/ItemsES/unt_237/), [Maga](/ItemsES/unt_238/), [Naga](/ItemsES/unt_240/), [Gigante](/ItemsES/unt_241/) |
 
 
 

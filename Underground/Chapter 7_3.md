@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-3 Fiebre del Oro"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Capítulo 7 - 3. Era of Chaos  Subterráneo - Capítulo 7_3. 7-3 Fiebre del Oro"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 7_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Goblin](/es/Items/unt_217/){: .btn .btn--era3}, **33% 1x** [Goblin](/es/Items/unt_217/){: .btn .btn--era3}
+ **Drop 1:** **67% 0x** [Goblin](/ItemsES/unt_217/){: .btn .btn--era3}, **33% 1x** [Goblin](/ItemsES/unt_217/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro de Armas +2](/es/Items/mat_32/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas +2](/ItemsES/mat_32/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}
 
 
 ## Fight against Team

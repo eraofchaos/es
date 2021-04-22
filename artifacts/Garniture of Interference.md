@@ -2,7 +2,7 @@
 title: "Artefacto - Piedra Rúnica de Antimagia - Gargantilla de Interferencia"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Era of Chaos  Piedra Rúnica de Antimagia - Gargantilla de Interferencia. Un collar con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Garniture of Interference.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Gargantilla de Interferencia](/es/Items/art_118/)
+ **Related Item**: [Gargantilla de Interferencia](/ItemsES/art_118/)
 
  **Quality:** [Blue Artifact Components](/es/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

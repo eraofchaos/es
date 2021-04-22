@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-6 Hogar Roto"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Capítulo 7 - 6. Era of Chaos  Historia principal - Capítulo 7_6. 7-6 Hogar Roto"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 7_6.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal superior +1](/es/Items/mat_24/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Cristal superior +1](/ItemsES/mat_24/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Gemas buenas](/es/Items/mat_16/){: .btn .btn--era3}, **40% 1x** [Gemas buenas](/es/Items/mat_16/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Gemas buenas](/ItemsES/mat_16/){: .btn .btn--era3}, **40% 1x** [Gemas buenas](/ItemsES/mat_16/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

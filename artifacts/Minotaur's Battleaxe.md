@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Hacha de Guerra del Minotauro"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Espada de Escarcha - Hacha de Guerra del Minotauro. Un hacha de guerra legada por los Tauren. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Minotaur's Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Espada de Escarcha](/es/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Hacha de Guerra del Minotauro](/es/Items/art_161/)
+ **Related Item**: [Hacha de Guerra del Minotauro](/ItemsES/art_161/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

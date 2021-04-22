@@ -2,7 +2,7 @@
 title: "Artefacto - Ojo de halcón - Medalla de la Verdad"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Era of Chaos  Ojo de halcón - Medalla de la Verdad. Un amuleto de bruja con ojos. Uno de los componentes del Ojo de halcón."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Medal of Truth.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Medalla de la Verdad](/es/Items/art_134/)
+ **Related Item**: [Medalla de la Verdad](/ItemsES/art_134/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

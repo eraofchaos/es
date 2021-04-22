@@ -2,7 +2,7 @@
 title: "Faction Altar for Murallas"
 permalink: /FactionAltar/DROP_102/
 excerpt: "Era of Chaos  Faction Altar for Murallas. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "DROP_102.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Murallas](/es/Items/con_2101/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Murallas](/es/Items/con_2101/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Murallas](/es/Items/con_2101/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Murallas](/es/Items/con_2101/) |
-  | 4 | **12%** | **5x** |  **4%** [Enano](/es/Items/unt_200/),  **14%** [Elfa del Bosque](/es/Items/unt_201/),  **14%** [Pegaso](/es/Items/unt_202/),  **14%** [Guardia Dendroide](/es/Items/unt_203/),  **14%** [Unicornio](/es/Items/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/es/Items/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/es/Items/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/es/Items/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/es/Items/unt_294/),  |
-  | 5 | **12%** | **3x** |  **4%** [Enano](/es/Items/unt_200/),  **14%** [Elfa del Bosque](/es/Items/unt_201/),  **14%** [Pegaso](/es/Items/unt_202/),  **14%** [Guardia Dendroide](/es/Items/unt_203/),  **14%** [Unicornio](/es/Items/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/es/Items/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/es/Items/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/es/Items/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/es/Items/unt_294/),  |
-  | 6 | **12%** | **5x** |  **76%** [Centauro](/es/Items/unt_199/),  **23%** [Piedra de Alma de Capitán Centauro](/es/Items/unt_290/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/) |
+  | 4 | **12%** | **5x** |  **4%** [Enano](/ItemsES/unt_200/),  **14%** [Elfa del Bosque](/ItemsES/unt_201/),  **14%** [Pegaso](/ItemsES/unt_202/),  **14%** [Guardia Dendroide](/ItemsES/unt_203/),  **14%** [Unicornio](/ItemsES/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/ItemsES/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/ItemsES/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/),  |
+  | 5 | **12%** | **3x** |  **4%** [Enano](/ItemsES/unt_200/),  **14%** [Elfa del Bosque](/ItemsES/unt_201/),  **14%** [Pegaso](/ItemsES/unt_202/),  **14%** [Guardia Dendroide](/ItemsES/unt_203/),  **14%** [Unicornio](/ItemsES/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/ItemsES/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/ItemsES/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/),  |
+  | 6 | **12%** | **5x** |  **76%** [Centauro](/ItemsES/unt_199/),  **23%** [Piedra de Alma de Capitán Centauro](/ItemsES/unt_290/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Murallas](/es/Items/con_2101/) |
-  | 2 | **11%** | **5x** |  **4%** [Enano](/es/Items/unt_200/),  **14%** [Elfa del Bosque](/es/Items/unt_201/),  **14%** [Pegaso](/es/Items/unt_202/),  **14%** [Guardia Dendroide](/es/Items/unt_203/),  **14%** [Unicornio](/es/Items/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/es/Items/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/es/Items/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/es/Items/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/es/Items/unt_294/),  |
-  | 3 | **11%** | **3x** |  **4%** [Enano](/es/Items/unt_200/),  **14%** [Elfa del Bosque](/es/Items/unt_201/),  **14%** [Pegaso](/es/Items/unt_202/),  **14%** [Guardia Dendroide](/es/Items/unt_203/),  **14%** [Unicornio](/es/Items/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/es/Items/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/es/Items/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/es/Items/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/es/Items/unt_294/),  |
-  | 4 | **11%** | **5x** |  **76%** [Centauro](/es/Items/unt_199/),  **23%** [Piedra de Alma de Capitán Centauro](/es/Items/unt_290/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/) |
+  | 2 | **11%** | **5x** |  **4%** [Enano](/ItemsES/unt_200/),  **14%** [Elfa del Bosque](/ItemsES/unt_201/),  **14%** [Pegaso](/ItemsES/unt_202/),  **14%** [Guardia Dendroide](/ItemsES/unt_203/),  **14%** [Unicornio](/ItemsES/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/ItemsES/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/ItemsES/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/),  |
+  | 3 | **11%** | **3x** |  **4%** [Enano](/ItemsES/unt_200/),  **14%** [Elfa del Bosque](/ItemsES/unt_201/),  **14%** [Pegaso](/ItemsES/unt_202/),  **14%** [Guardia Dendroide](/ItemsES/unt_203/),  **14%** [Unicornio](/ItemsES/unt_204/),  **14%** [Piedra de Alma de Gran Elfa](/ItemsES/unt_291/),  **4%** [Piedra de Alma de Pegaso Plateada](/ItemsES/unt_292/),  **14%** [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/),  **4%** [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/),  |
+  | 4 | **11%** | **5x** |  **76%** [Centauro](/ItemsES/unt_199/),  **23%** [Piedra de Alma de Capitán Centauro](/ItemsES/unt_290/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Murallas](/es/Items/con_2101/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Murallas](/ItemsES/con_2101/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Capitán Centauro](/es/Items/unt_290/), [Piedra de Alma de Gran Elfa](/es/Items/unt_291/), [Piedra de Alma de Pegaso Plateada](/es/Items/unt_292/), [Piedra de Alma de Soldado Dendroide](/es/Items/unt_293/), [Piedra de Alma de Unicornio de Guerra](/es/Items/unt_294/), [Piedra de Alma de Dragón Dorado](/es/Items/unt_295/) | [Centauro](/es/Items/unt_199/), [Enano](/es/Items/unt_200/), [Elfa del Bosque](/es/Items/unt_201/), [Pegaso](/es/Items/unt_202/), [Guardia Dendroide](/es/Items/unt_203/), [Unicornio](/es/Items/unt_204/), [Dragón Verde](/es/Items/unt_205/) |
+  | [Piedra de Alma de Capitán Centauro](/ItemsES/unt_290/), [Piedra de Alma de Gran Elfa](/ItemsES/unt_291/), [Piedra de Alma de Pegaso Plateada](/ItemsES/unt_292/), [Piedra de Alma de Soldado Dendroide](/ItemsES/unt_293/), [Piedra de Alma de Unicornio de Guerra](/ItemsES/unt_294/), [Piedra de Alma de Dragón Dorado](/ItemsES/unt_295/) | [Centauro](/ItemsES/unt_199/), [Enano](/ItemsES/unt_200/), [Elfa del Bosque](/ItemsES/unt_201/), [Pegaso](/ItemsES/unt_202/), [Guardia Dendroide](/ItemsES/unt_203/), [Unicornio](/ItemsES/unt_204/), [Dragón Verde](/ItemsES/unt_205/) |
 
 
 

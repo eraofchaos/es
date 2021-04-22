@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Fragmento del Edén - Ankh. Una cruz que concede inmortalidad a su portador. Nadie sabe qué fue de su anterior dueño."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Ankh.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Ankh](/es/Items/art_184/)
+ **Related Item**: [Ankh](/ItemsES/art_184/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

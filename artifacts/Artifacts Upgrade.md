@@ -2,16 +2,16 @@
 title: "Artefacto Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
 excerpt: "Era of Chaos  Artifacts upgrade cost. Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Artifacts Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Piedra de Forja celestial](/es/Items/art_188/)
+  First upgrade ingredient:[Piedra de Forja celestial](/ItemsES/art_188/)
 
-  Second upgrade ingredient:[Cristal de Hechicería](/es/Items/art_189/)
+  Second upgrade ingredient:[Cristal de Hechicería](/ItemsES/art_189/)
 
   |  Level  | [Green Artifacts](/es/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/es/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/es/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/es/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

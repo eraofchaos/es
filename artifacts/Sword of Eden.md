@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Espada del Edén"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Era of Chaos  Fragmento del Edén - Espada del Edén. Una espada de la Primera Civilización. Puede hacer que caiga un rayo sobre el enemigo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Sword of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Espada del Edén](/es/Items/art_185/)
+ **Related Item**: [Espada del Edén](/ItemsES/art_185/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

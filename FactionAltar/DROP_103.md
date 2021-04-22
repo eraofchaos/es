@@ -2,7 +2,7 @@
 title: "Faction Altar for Bastión"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Era of Chaos  Faction Altar for Bastión. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "DROP_103.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Bastión](/es/Items/con_2140/)
+  **Drop by Luck (10x spin): 30x** [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Bastión](/es/Items/con_2140/) |
-  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Bastión](/es/Items/con_2140/) |
-  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Bastión](/es/Items/con_2140/) |
-  | 4 | **12%** | **5x** |  **22%** [Ogro](/es/Items/unt_220/),  **22%** [Orco](/es/Items/unt_219/),  **6%** [Roc](/es/Items/unt_221/),  **22%** [Cíclope](/es/Items/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/es/Items/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/),  |
-  | 5 | **12%** | **3x** |  **22%** [Ogro](/es/Items/unt_220/),  **22%** [Orco](/es/Items/unt_219/),  **6%** [Roc](/es/Items/unt_221/),  **22%** [Cíclope](/es/Items/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/es/Items/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/),  |
-  | 6 | **12%** | **5x** |  **25%** [Goblin](/es/Items/unt_217/),  **25%** [Jinete Lupino](/es/Items/unt_218/),  **25%** [Piedra de Alma de Hobgoblin](/es/Items/unt_305/),  **25%** [Piedra de Alma de Incursor Lupino](/es/Items/unt_306/),  |
+  | 1 | **25%** | **1x** | [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/) |
+  | 2 | **12%** | **2x** | [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/) |
+  | 3 | **12%** | **3x** | [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/) |
+  | 4 | **12%** | **5x** |  **22%** [Ogro](/ItemsES/unt_220/),  **22%** [Orco](/ItemsES/unt_219/),  **6%** [Roc](/ItemsES/unt_221/),  **22%** [Cíclope](/ItemsES/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/ItemsES/unt_310/),  |
+  | 5 | **12%** | **3x** |  **22%** [Ogro](/ItemsES/unt_220/),  **22%** [Orco](/ItemsES/unt_219/),  **6%** [Roc](/ItemsES/unt_221/),  **22%** [Cíclope](/ItemsES/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/ItemsES/unt_310/),  |
+  | 6 | **12%** | **5x** |  **25%** [Goblin](/ItemsES/unt_217/),  **25%** [Jinete Lupino](/ItemsES/unt_218/),  **25%** [Piedra de Alma de Hobgoblin](/ItemsES/unt_305/),  **25%** [Piedra de Alma de Incursor Lupino](/ItemsES/unt_306/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Bastión](/es/Items/con_2140/) |
-  | 2 | **11%** | **5x** |  **22%** [Ogro](/es/Items/unt_220/),  **22%** [Orco](/es/Items/unt_219/),  **6%** [Roc](/es/Items/unt_221/),  **22%** [Cíclope](/es/Items/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/es/Items/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/),  |
-  | 3 | **11%** | **3x** |  **22%** [Ogro](/es/Items/unt_220/),  **22%** [Orco](/es/Items/unt_219/),  **6%** [Roc](/es/Items/unt_221/),  **22%** [Cíclope](/es/Items/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/es/Items/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/),  |
-  | 4 | **11%** | **5x** |  **25%** [Goblin](/es/Items/unt_217/),  **25%** [Jinete Lupino](/es/Items/unt_218/),  **25%** [Piedra de Alma de Hobgoblin](/es/Items/unt_305/),  **25%** [Piedra de Alma de Incursor Lupino](/es/Items/unt_306/),  |
+  | 1 | **55%** | **1x** | [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/) |
+  | 2 | **11%** | **5x** |  **22%** [Ogro](/ItemsES/unt_220/),  **22%** [Orco](/ItemsES/unt_219/),  **6%** [Roc](/ItemsES/unt_221/),  **22%** [Cíclope](/ItemsES/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/ItemsES/unt_310/),  |
+  | 3 | **11%** | **3x** |  **22%** [Ogro](/ItemsES/unt_220/),  **22%** [Orco](/ItemsES/unt_219/),  **6%** [Roc](/ItemsES/unt_221/),  **22%** [Cíclope](/ItemsES/unt_222/),  **6%** [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/),  **6%** [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/),  **13%** [Piedra de Alma de Cíclope Rey](/ItemsES/unt_310/),  |
+  | 4 | **11%** | **5x** |  **25%** [Goblin](/ItemsES/unt_217/),  **25%** [Jinete Lupino](/ItemsES/unt_218/),  **25%** [Piedra de Alma de Hobgoblin](/ItemsES/unt_305/),  **25%** [Piedra de Alma de Incursor Lupino](/ItemsES/unt_306/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Paquete de Edición limitada de Bastión](/es/Items/con_2140/)
+  **Drop by 10x spin: X** [Paquete de Edición limitada de Bastión](/ItemsES/con_2140/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Piedra de Alma de Hobgoblin](/es/Items/unt_305/), [Piedra de Alma de Incursor Lupino](/es/Items/unt_306/), [Piedra de Alma de Comandante Orco](/es/Items/unt_307/), [Piedra de Alma del Mago Ogro](/es/Items/unt_308/), [Piedra de Alma del Ave de Trueno](/es/Items/unt_309/), [Piedra de Alma de Cíclope Rey](/es/Items/unt_310/), [Piedra de Alma del Antiguo Behemoth](/es/Items/unt_311/), [Piedra de Alma de Aullador de Muerte](/es/Items/unt_312/) | [Goblin](/es/Items/unt_217/), [Jinete Lupino](/es/Items/unt_218/), [Orco](/es/Items/unt_219/), [Ogro](/es/Items/unt_220/), [Roc](/es/Items/unt_221/), [Cíclope](/es/Items/unt_222/), [Behemoth](/es/Items/unt_223/), [Berserker](/es/Items/unt_224/) |
+  | [Piedra de Alma de Hobgoblin](/ItemsES/unt_305/), [Piedra de Alma de Incursor Lupino](/ItemsES/unt_306/), [Piedra de Alma de Comandante Orco](/ItemsES/unt_307/), [Piedra de Alma del Mago Ogro](/ItemsES/unt_308/), [Piedra de Alma del Ave de Trueno](/ItemsES/unt_309/), [Piedra de Alma de Cíclope Rey](/ItemsES/unt_310/), [Piedra de Alma del Antiguo Behemoth](/ItemsES/unt_311/), [Piedra de Alma de Aullador de Muerte](/ItemsES/unt_312/) | [Goblin](/ItemsES/unt_217/), [Jinete Lupino](/ItemsES/unt_218/), [Orco](/ItemsES/unt_219/), [Ogro](/ItemsES/unt_220/), [Roc](/ItemsES/unt_221/), [Cíclope](/ItemsES/unt_222/), [Behemoth](/ItemsES/unt_223/), [Berserker](/ItemsES/unt_224/) |
 
 
 

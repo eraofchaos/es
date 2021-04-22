@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 - 5-4 La Guerra de Restauración"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Capítulo 5 - 4. Era of Chaos  Subterráneo - Capítulo 5_4. 5-4 La Guerra de Restauración"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 5_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}
+ **Drop 4:** **30% 0x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}
 
 
 ## Fight against Team

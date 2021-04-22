@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-6 Campamento de los Bandidos"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Capítulo 3 - 6. Era of Chaos  Historia principal - Capítulo 3_6. 3-6 Campamento de los Bandidos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 3_6.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Cristal común](/ItemsES/mat_11/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1}, **60% 1x** [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Gemas inferiores](/es/Items/mat_4/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Gemas inferiores](/ItemsES/mat_4/){: .btn .btn--era1}, **60% 1x** [Gemas inferiores](/ItemsES/mat_4/){: .btn .btn--era1}, **20% 2x** [Gemas inferiores](/ItemsES/mat_4/){: .btn .btn--era1}
 
 
 ## Fight against Team

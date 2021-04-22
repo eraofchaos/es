@@ -2,7 +2,7 @@
 title: "Artefacto - Códice del Archimago - Capa de las Retractaciones"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "Era of Chaos  Códice del Archimago - Capa de las Retractaciones. Úsalo para debilitar los ataques mágicos. Uno de los códices del Archimago."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Recanter's Cloak.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Códice del Archimago](/es/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Capa de las Retractaciones](/es/Items/art_137/)
+ **Related Item**: [Capa de las Retractaciones](/ItemsES/art_137/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

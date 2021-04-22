@@ -2,7 +2,7 @@
 title: "Artefacto - Elixir de Vida - Anillo de la Vida"
 permalink: /artifacts/Ring of Life/
 excerpt: "Era of Chaos  Elixir de Vida - Anillo de la Vida. Un anillo que suministra grandes cantidades de vida a su portador. Uno de los componentes del Elixir de Vida."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Ring of Life.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elixir de Vida](/es/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 1x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Anillo de la Vida](/es/Items/art_107/)
+ **Related Item**: [Anillo de la Vida](/ItemsES/art_107/)
 
  **Quality:** [Green Artifact Components](/es/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

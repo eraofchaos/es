@@ -2,7 +2,7 @@
 title: "Artefacto - Hacha de la Ferocidad - Escudo del Ogro Enloquecido"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Era of Chaos  Hacha de la Ferocidad - Escudo del Ogro Enloquecido. Un regalo por derrotar a un teniente de los Ogros. Uno de los componentes del Hacha de la Ferocidad."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Targ of the Rampaging Ogre.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Hacha de la Ferocidad](/es/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Escudo del Ogro Enloquecido](/es/Items/art_126/)
+ **Related Item**: [Escudo del Ogro Enloquecido](/ItemsES/art_126/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

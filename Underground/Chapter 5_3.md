@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 - 5-3 ¡Larga Vida a la Reina!"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Capítulo 5 - 3. Era of Chaos  Subterráneo - Capítulo 5_3. 5-3 ¡Larga Vida a la Reina!"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 5_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Gog](/es/Items/unt_227/){: .btn .btn--era3}, **50% 1x** [Gog](/es/Items/unt_227/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Gog](/ItemsES/unt_227/){: .btn .btn--era3}, **50% 1x** [Gog](/ItemsES/unt_227/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}
+ **Drop 4:** **30% 0x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}
 
 
 ## Fight against Team

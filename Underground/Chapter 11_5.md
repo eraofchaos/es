@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-5 Combatiendo a los No Muertos"
 permalink: /Underground/Chapter 11_5/
 excerpt: "Capítulo 11 - 5. Era of Chaos  Subterráneo - Capítulo 11_5. 11-5 Combatiendo a los No Muertos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 11_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Elfa del Bosque](/es/Items/unt_201/){: .btn .btn--era4}, **67% 1x** [Elfa del Bosque](/es/Items/unt_201/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Elfa del Bosque](/ItemsES/unt_201/){: .btn .btn--era4}, **67% 1x** [Elfa del Bosque](/ItemsES/unt_201/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro de Esencias +1](/es/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro de Esencias +1](/ItemsES/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro de Esencias](/es/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro de Esencias](/es/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro de Esencias](/ItemsES/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro de Esencias](/ItemsES/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

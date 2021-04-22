@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-11 La Princesa y el Dragón"
 permalink: /Main Story/Chapter 24_11/
 excerpt: "Capítulo 24 - 11. Era of Chaos  Historia principal - Capítulo 24_11. 24-11 La Princesa y el Dragón"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 24_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemas de Alma +3](/es/Items/mat_86/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Gemas de Alma +3](/ItemsES/mat_86/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Cristal secreto +2](/es/Items/mat_80/){: .btn .btn--era5}, **40% 1x** [Cristal secreto +2](/es/Items/mat_80/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Cristal secreto +2](/ItemsES/mat_80/){: .btn .btn--era5}, **40% 1x** [Cristal secreto +2](/ItemsES/mat_80/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

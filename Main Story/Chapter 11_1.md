@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-1 Guerra de la Restauración"
 permalink: /Main Story/Chapter 11_1/
 excerpt: "Capítulo 11 - 1. Era of Chaos  Historia principal - Capítulo 11_1. 11-1 Guerra de la Restauración"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 11_1.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemas excepcionales](/es/Items/mat_37/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Gemas excepcionales](/ItemsES/mat_37/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Cristal valioso +2](/es/Items/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal valioso +2](/es/Items/mat_31/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Cristal valioso +2](/ItemsES/mat_31/){: .btn .btn--era3}, **40% 1x** [Cristal valioso +2](/ItemsES/mat_31/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

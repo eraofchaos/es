@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-1  Inmóvil"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Capítulo 30 - 1. Era of Chaos  Subterráneo - Capítulo 30_1. 30-1  Inmóvil"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 30_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Gárgola de Piedra](/es/Items/unt_236/){: .btn .btn--era4}, **67% 1x** [Gárgola de Piedra](/es/Items/unt_236/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Gárgola de Piedra](/ItemsES/unt_236/){: .btn .btn--era4}, **67% 1x** [Gárgola de Piedra](/ItemsES/unt_236/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

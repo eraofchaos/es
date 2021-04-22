@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-4 Carrera contra la Muerte"
 permalink: /Underground/Chapter 1_4/
 excerpt: "Capítulo 1 - 4. Era of Chaos  Subterráneo - Capítulo 1_4. 1-4 Carrera contra la Muerte"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 1_4.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Madera común](/es/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Madera común](/es/Items/mat_7/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Madera común](/ItemsES/mat_7/){: .btn .btn--era2}, **20% 2x** [Madera común](/ItemsES/mat_7/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Mercurio inferior](/es/Items/mat_2/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Mercurio inferior](/ItemsES/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

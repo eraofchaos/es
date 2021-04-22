@@ -2,7 +2,7 @@
 title: "Refuerzos de batalla"
 permalink: /Backup/
 excerpt: "Era of Chaos  Refuerzos de batalla - Las Magas pueden desgarrar un portal en el espacio del campo de batalla, transportando 3 unidades de refuerzo al campo de batalla mientras generan un fuerte aura de hechizo. Tus enemigos temblarán."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "index.md"
 toc: false
@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Habilidad de campo de batalla | Habilidad global | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Pergamino de energía](/es/Items/con_830/) | **5x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 2 | **2x** [Pergamino de energía](/es/Items/con_830/) | **10x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 3 | **3x** [Pergamino de energía](/es/Items/con_830/) | **15x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 4 | **4x** [Pergamino de energía](/es/Items/con_830/) | **20x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 5 | **5x** [Pergamino de energía](/es/Items/con_830/) | **25x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 6 | **9x** [Pergamino de energía](/es/Items/con_830/) | **45x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 7 | **12x** [Pergamino de energía](/es/Items/con_830/) | **60x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 8 | **20x** [Pergamino de energía](/es/Items/con_830/) | **100x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 9 | **30x** [Pergamino de energía](/es/Items/con_830/) | **150x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 10 | **40x** [Pergamino de energía](/es/Items/con_830/) | **200x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 11 | **50x** [Pergamino de energía](/es/Items/con_830/) | **250x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 12 | **60x** [Pergamino de energía](/es/Items/con_830/) | **300x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 13 | **100x** [Pergamino de energía](/es/Items/con_830/) | **500x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 14 | **160x** [Pergamino de energía](/es/Items/con_830/) | **800x** [Pergamino de energía](/es/Items/con_830/) | 
-  | 15 | **200x** [Pergamino de energía](/es/Items/con_830/) | **1000x** [Pergamino de energía](/es/Items/con_830/) | 
+  | 1 | **1x** [Pergamino de energía](/ItemsES/con_830/) | **5x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 2 | **2x** [Pergamino de energía](/ItemsES/con_830/) | **10x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 3 | **3x** [Pergamino de energía](/ItemsES/con_830/) | **15x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 4 | **4x** [Pergamino de energía](/ItemsES/con_830/) | **20x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 5 | **5x** [Pergamino de energía](/ItemsES/con_830/) | **25x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 6 | **9x** [Pergamino de energía](/ItemsES/con_830/) | **45x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 7 | **12x** [Pergamino de energía](/ItemsES/con_830/) | **60x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 8 | **20x** [Pergamino de energía](/ItemsES/con_830/) | **100x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 9 | **30x** [Pergamino de energía](/ItemsES/con_830/) | **150x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 10 | **40x** [Pergamino de energía](/ItemsES/con_830/) | **200x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 11 | **50x** [Pergamino de energía](/ItemsES/con_830/) | **250x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 12 | **60x** [Pergamino de energía](/ItemsES/con_830/) | **300x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 13 | **100x** [Pergamino de energía](/ItemsES/con_830/) | **500x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 14 | **160x** [Pergamino de energía](/ItemsES/con_830/) | **800x** [Pergamino de energía](/ItemsES/con_830/) | 
+  | 15 | **200x** [Pergamino de energía](/ItemsES/con_830/) | **1000x** [Pergamino de energía](/ItemsES/con_830/) | 
 
 
 ## Normas

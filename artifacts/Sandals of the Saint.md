@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Sandalias del Santo"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Era of Chaos  Alianza Angelical - Sandalias del Santo. Una reliquia sagrada confeccionada para celebrar la unidad de Erathia. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Sandals of the Saint.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alianza Angelical](/es/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Sandalias del Santo](/es/Items/art_154/)
+ **Related Item**: [Sandalias del Santo](/ItemsES/art_154/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

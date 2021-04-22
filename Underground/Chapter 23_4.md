@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-4 El Renacer de la Llama Eterna"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Capítulo 23 - 4. Era of Chaos  Subterráneo - Capítulo 23_4. 23-4 El Renacer de la Llama Eterna"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 23_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Maldición](/es/Items/her_410/){: .btn .btn--era3}, **50% 1x** [Maldición](/es/Items/her_410/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Maldición](/ItemsES/her_410/){: .btn .btn--era3}, **50% 1x** [Maldición](/ItemsES/her_410/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificado de leyenda +3](/es/Items/mat_88/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificado de leyenda +3](/ItemsES/mat_88/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificado de leyenda +2](/es/Items/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +2](/es/Items/mat_81/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificado de leyenda +2](/ItemsES/mat_81/){: .btn .btn--era5}, **50% 1x** [Certificado de leyenda +2](/ItemsES/mat_81/){: .btn .btn--era5}
 
 
 ## Fight against Team

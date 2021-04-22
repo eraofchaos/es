@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-2 Travesía Neblinosa"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Capítulo 2 - 2. Era of Chaos  Subterráneo - Capítulo 2_2. 2-2 Travesía Neblinosa"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 2_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro de Armas](/es/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas](/ItemsES/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Mineral común](/es/Items/mat_6/){: .btn .btn--era2}, **70% 1x** [Mineral común](/es/Items/mat_6/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Mineral común](/ItemsES/mat_6/){: .btn .btn--era2}, **70% 1x** [Mineral común](/ItemsES/mat_6/){: .btn .btn--era2}
 
 
 ## Fight against Team

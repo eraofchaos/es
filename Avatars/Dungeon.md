@@ -2,7 +2,7 @@
 title: "Avatar - Mazmorra"
 permalink: /Avatars/Dungeon/
 excerpt: "Era of Chaos  Mazmorra"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Dungeon.md"
 toc: false

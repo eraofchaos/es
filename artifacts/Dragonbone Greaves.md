@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Espinilleras de Hueso de Dragón"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Espinilleras de Hueso de Dragón. Unas espinilleras hechas a partir de los huesos de las espinillas del Rey Dragón. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Dragonbone Greaves.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Poder del Padre de los Dragones](/es/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Espinilleras de Hueso de Dragón](/es/Items/art_145/)
+ **Related Item**: [Espinilleras de Hueso de Dragón](/ItemsES/art_145/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

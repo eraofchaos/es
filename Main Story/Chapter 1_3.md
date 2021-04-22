@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-3 Fuente de la Juventud"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Capítulo 1 - 3. Era of Chaos  Historia principal - Capítulo 1_3. 1-3 Fuente de la Juventud"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Mercurio inferior](/es/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferior](/es/Items/mat_2/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Mercurio inferior](/ItemsES/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferior](/ItemsES/mat_2/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Madera inferior](/es/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Madera inferior](/es/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Madera inferior](/ItemsES/mat_1/){: .btn .btn--era1}, **20% 2x** [Madera inferior](/ItemsES/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

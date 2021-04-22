@@ -2,7 +2,7 @@
 title: "Artefacto - Anillo de la Maga - Gargantilla de Hechicería"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Era of Chaos  Anillo de la Maga - Gargantilla de Hechicería. Mejora el poder mágico del portador. Uno de los componentes del Anillo de la Maga."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Collar of Conjuring.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Gargantilla de Hechicería](/es/Items/art_115/)
+ **Related Item**: [Gargantilla de Hechicería](/ItemsES/art_115/)
 
  **Quality:** [Blue Artifact Components](/es/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

@@ -2,7 +2,7 @@
 title: "Artefacto - Armadura de los Condenados"
 permalink: /artifacts/Armour of the Damned/
 excerpt: "Era of Chaos  Armadura de los Condenados. Armadura de los Condenados Un objeto forjado a partir de reliquias de no muertos mágicas. Permite al portador debilitar las habilidades del enemigo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Armour of the Damned.md"
 toc: false

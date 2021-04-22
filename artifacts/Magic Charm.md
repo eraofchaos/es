@@ -2,7 +2,7 @@
 title: "Artefacto - Pozo del Hechicero - Amuleto Mágico"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Pozo del Hechicero - Amuleto Mágico. Un amuleto con poder mágico. Uno de los componentes del Pozo del Hechicero."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Magic Charm.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Amuleto Mágico](/es/Items/art_113/)
+ **Related Item**: [Amuleto Mágico](/ItemsES/art_113/)
 
  **Quality:** [Blue Artifact Components](/es/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

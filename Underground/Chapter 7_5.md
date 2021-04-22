@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-5 Misión Cumplida"
 permalink: /Underground/Chapter 7_5/
 excerpt: "Capítulo 7 - 5. Era of Chaos  Subterráneo - Capítulo 7_5. 7-5 Misión Cumplida"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 7_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Centauro](/es/Items/unt_199/){: .btn .btn--era3}, **33% 1x** [Centauro](/es/Items/unt_199/){: .btn .btn--era3}
+ **Drop 1:** **67% 0x** [Centauro](/ItemsES/unt_199/){: .btn .btn--era3}, **33% 1x** [Centauro](/ItemsES/unt_199/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro de Armas +2](/es/Items/mat_32/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro de Armas +2](/ItemsES/mat_32/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +1](/es/Items/mat_25/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro de Armas +1](/ItemsES/mat_25/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefacto - Armadura de los Condenados - Escudo de la Muerte"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Era of Chaos  Armadura de los Condenados - Escudo de la Muerte. Un escudo formado a partir de huesos de no muertos. Uno de los componentes de la Armadura de los Condenados."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Shield of the Yawning Dead.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armadura de los Condenados](/es/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Escudo de la Muerte](/es/Items/art_122/)
+ **Related Item**: [Escudo de la Muerte](/ItemsES/art_122/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

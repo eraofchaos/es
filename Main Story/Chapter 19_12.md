@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-12 Producto Mágico"
 permalink: /Main Story/Chapter 19_12/
 excerpt: "Capítulo 19 - 12. Era of Chaos  Historia principal - Capítulo 19_12. 19-12 Producto Mágico"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 19_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristal mítico](/es/Items/mat_66/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Cristal mítico](/ItemsES/mat_66/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Gemas legendarias +3](/es/Items/mat_58/){: .btn .btn--era4}, **40% 1x** [Gemas legendarias +3](/es/Items/mat_58/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Gemas legendarias +3](/ItemsES/mat_58/){: .btn .btn--era4}, **40% 1x** [Gemas legendarias +3](/ItemsES/mat_58/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

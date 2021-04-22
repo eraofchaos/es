@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-8 Dragón Arcoíris"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "Capítulo 22 - 8. Era of Chaos  Historia principal - Capítulo 22_8. 22-8 Dragón Arcoíris"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 22_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Madera secreta +2](/es/Items/mat_76/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Madera secreta +2](/ItemsES/mat_76/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Mercurio eterno +1](/es/Items/mat_70/){: .btn .btn--era5}, **40% 1x** [Mercurio eterno +1](/es/Items/mat_70/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Mercurio eterno +1](/ItemsES/mat_70/){: .btn .btn--era5}, **40% 1x** [Mercurio eterno +1](/ItemsES/mat_70/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-2 Interminable"
 permalink: /Main Story/Chapter 8_2/
 excerpt: "Capítulo 8 - 2. Era of Chaos  Historia principal - Capítulo 8_2. 8-2 Interminable"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 8_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Madera valiosa +2](/es/Items/mat_27/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Madera valiosa +2](/ItemsES/mat_27/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Mercurio superior +1](/es/Items/mat_21/){: .btn .btn--era3}, **40% 1x** [Mercurio superior +1](/es/Items/mat_21/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Mercurio superior +1](/ItemsES/mat_21/){: .btn .btn--era3}, **40% 1x** [Mercurio superior +1](/ItemsES/mat_21/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

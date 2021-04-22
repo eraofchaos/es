@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-3 Peligro Insospechado"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Capítulo 1 - 3. Era of Chaos  Subterráneo - Capítulo 1_3. 1-3 Peligro Insospechado"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Grifo](/es/Items/unt_192/){: .btn .btn--era4}, **33% 1x** [Grifo](/es/Items/unt_192/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Grifo](/ItemsES/unt_192/){: .btn .btn--era4}, **33% 1x** [Grifo](/ItemsES/unt_192/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}, **20% 2x** [Cristal común](/es/Items/mat_11/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Cristal común](/ItemsES/mat_11/){: .btn .btn--era2}, **20% 2x** [Cristal común](/ItemsES/mat_11/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Madera inferior](/es/Items/mat_1/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Madera inferior](/ItemsES/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

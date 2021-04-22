@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-3 Lago de la Oscuridad"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Capítulo 26 - 3. Era of Chaos  Historia principal - Capítulo 26_3. 26-3 Lago de la Oscuridad"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 26_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercurio estelar +4](/es/Items/mat_91/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Mercurio estelar +4](/ItemsES/mat_91/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Azufre de Alma +3](/es/Items/mat_85/){: .btn .btn--era5}, **40% 1x** [Azufre de Alma +3](/es/Items/mat_85/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Azufre de Alma +3](/ItemsES/mat_85/){: .btn .btn--era5}, **40% 1x** [Azufre de Alma +3](/ItemsES/mat_85/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Medallón de la Santidad"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Alianza Angelical - Medallón de la Santidad. Un collar que perteneció a un Ángel. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Pendant of Holiness.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alianza Angelical](/es/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Medallón de la Santidad](/es/Items/art_155/)
+ **Related Item**: [Medallón de la Santidad](/ItemsES/art_155/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

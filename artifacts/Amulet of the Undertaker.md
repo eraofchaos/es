@@ -2,7 +2,7 @@
 title: "Artefacto - Capa del Rey No Muerto - Amuleto del Enterrador"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "Era of Chaos  Capa del Rey No Muerto - Amuleto del Enterrador. Un amuleto utilizado por un Liche para protegerse. Uno de los componentes de la Capa del Rey No Muerto."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Amulet of the Undertaker.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Capa del Rey No Muerto](/es/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Amuleto del Enterrador](/es/Items/art_129/)
+ **Related Item**: [Amuleto del Enterrador](/ItemsES/art_129/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

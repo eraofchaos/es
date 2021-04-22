@@ -2,7 +2,7 @@
 title: "Avatar - Navidad helada"
 permalink: /Avatars/Ice Christmas/
 excerpt: "Era of Chaos  Navidad helada"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Ice Christmas.md"
 toc: false

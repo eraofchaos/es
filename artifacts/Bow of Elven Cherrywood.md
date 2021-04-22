@@ -2,7 +2,7 @@
 title: "Artefacto - Arco del Tirador - Arco de Madera de Cerezo Élfica"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Era of Chaos  Arco del Tirador - Arco de Madera de Cerezo Élfica. Un arco largo tallado en madera por los elfos. Uno de los componentes del Arco del Tirador."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Bow of Elven Cherrywood.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Arco de Madera de Cerezo Élfica](/es/Items/art_103/)
+ **Related Item**: [Arco de Madera de Cerezo Élfica](/ItemsES/art_103/)
 
  **Quality:** [Violet Artifact Components](/es/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

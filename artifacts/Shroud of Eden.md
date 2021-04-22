@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Sudario del Edén"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Fragmento del Edén - Sudario del Edén. El legendario y sagrado Sudario del Edén. No ha habido forma de verificar su autenticidad."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Shroud of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Sudario del Edén](/es/Items/art_187/)
+ **Related Item**: [Sudario del Edén](/ItemsES/art_187/)
 
  **Quality:** [Orange Artifact Components](/es/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

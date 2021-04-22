@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-4  Glotón con parrilla"
 permalink: /Underground/Chapter 29_4/
 excerpt: "Capítulo 29 - 4. Era of Chaos  Subterráneo - Capítulo 29_4. 29-4  Glotón con parrilla"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 29_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Pesar](/es/Items/her_458/){: .btn .btn--era3}, **50% 1x** [Pesar](/es/Items/her_458/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Pesar](/ItemsES/her_458/){: .btn .btn--era3}, **50% 1x** [Pesar](/ItemsES/her_458/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificado legendario +5](/es/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificado legendario +5](/ItemsES/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

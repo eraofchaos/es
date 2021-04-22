@@ -2,7 +2,7 @@
 title: "Artefacto - Herradura de la Suerte - Cartas de la Profecía"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Herradura de la Suerte - Cartas de la Profecía. Una carta de adivinación con magia fuerte. Uno de los componentes de la Herradura de la Suerte."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Cards of Prophecy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Herradura de la Suerte](/es/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Esencia de Artefacto](/es/Items/con_905/)
+ **Dismantle: 1x** [Esencia de Artefacto](/ItemsES/con_905/)
 
- **Related Item**: [Cartas de la Profecía](/es/Items/art_110/)
+ **Related Item**: [Cartas de la Profecía](/ItemsES/art_110/)
 
  **Quality:** [Green Artifact Components](/es/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

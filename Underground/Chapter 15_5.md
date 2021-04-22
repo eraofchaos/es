@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-5 A las Puertas del Infierno"
 permalink: /Underground/Chapter 15_5/
 excerpt: "Capítulo 15 - 5. Era of Chaos  Subterráneo - Capítulo 15_5. 15-5 A las Puertas del Infierno"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: es
 ref: "Chapter 15_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Recompensa obtenida
 
- **Recompensa por completar por primera vez::** [Llave de plata](/es/Items/con_693/){: .btn .btn--era3}
+ **Recompensa por completar por primera vez::** [Llave de plata](/ItemsES/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Guardia Dendroide](/es/Items/unt_203/){: .btn .btn--era4}, **67% 1x** [Guardia Dendroide](/es/Items/unt_203/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Guardia Dendroide](/ItemsES/unt_203/){: .btn .btn--era4}, **67% 1x** [Guardia Dendroide](/ItemsES/unt_203/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro de Esencias +3](/es/Items/mat_60/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro de Esencias +3](/ItemsES/mat_60/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergaminos de hechizo](/es/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro de Esencias +2](/es/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro de Esencias +2](/es/Items/mat_53/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro de Esencias +2](/ItemsES/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro de Esencias +2](/ItemsES/mat_53/){: .btn .btn--era4}
 
 
 ## Fight against Team
