@@ -33,7 +33,7 @@ Debido a limitaciones técnicas en Github (tenemos alrededor de 4000 páginas en
 Este portal de información contiene información sobre el juego móvil "Era Of Chaos".
 
 Puedes encontrar aquí:
-* <i class="fas fa-gavel"/> [Objetos](/es/Items/)
+* <i class="fas fa-gavel"/> [Objetos](/ItemsES/)
 * <i class="fas fa-chess-king"/>  [Héroe](/es/heroes/)
 * <i class="fas fa-mask"/>  [Ayudante](/es/heroes/Adjutants/)
 * <i class="fab fa-optin-monster"/>  [Unidades](/es/units/)
