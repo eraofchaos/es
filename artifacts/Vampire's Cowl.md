@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un manto valioso de un Vampiro. Uno de los componentes de la Capa del Rey No Muerto.
 
- **Part of Artifact:** [Capa del Rey No Muerto](/es/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Capa del Rey No Muerto](/images/t/icon_artifact_32.png) [Capa del Rey No Muerto](/es/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

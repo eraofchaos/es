@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Bola de Cristal](/es/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Sudario del Edén](/es/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Calavera de Cristal](/es/artifacts/Crystal Skull/){: .btn .btn--era5} | **Fragmento del Edén** | [Espada del Edén](/es/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Ankh](/es/artifacts/Ankh/){: .btn .btn--era5} |   | [El Cetro](/es/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Bola de Cristal](/es/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Sudario del Edén](/es/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Calavera de Cristal](/es/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Fragmento del Edén](/images/t/icon_artifact_49.png) **Fragmento del Edén** |  [Espada del Edén](/es/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Ankh](/es/artifacts/Ankh/){: .btn .btn--era5} |   |  [El Cetro](/es/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Detalles

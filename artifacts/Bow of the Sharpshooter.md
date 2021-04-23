@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | **Arco del Tirador** |  | 
-  |   | [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |  [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   |  [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | ![Arco del Tirador](/images/t/icon_artifact_10.png) **Arco del Tirador** |  | 
+  |   |  [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Detalles

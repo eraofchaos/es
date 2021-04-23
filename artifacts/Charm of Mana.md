@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un amuleto que mejora la magia. Uno de los componentes del Pozo del Hechicero.
 
- **Part of Artifact:** [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Pozo del Hechicero](/images/t/icon_artifact_21.png) [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 

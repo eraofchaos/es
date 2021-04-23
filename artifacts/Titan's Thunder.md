@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Gladius del Titán](/es/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Coraza del Titán](/es/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Trueno del Titán** |  | 
-  | [Escudo del Centinela](/es/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Casco del Trueno](/es/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Gladius del Titán](/es/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Coraza del Titán](/es/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Trueno del Titán](/images/t/icon_artifact_42.png) **Trueno del Titán** |  | 
+  |  [Escudo del Centinela](/es/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Casco del Trueno](/es/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Detalles

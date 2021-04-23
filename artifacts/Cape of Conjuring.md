@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un manto con un poder mágico centelleante. Uno de los componentes del Anillo de la Maga.
 
- **Part of Artifact:** [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Anillo de la Maga](/images/t/icon_artifact_22.png) [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 

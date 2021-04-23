@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Ojo de halcón** |  | 
-  | [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Detalles

@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un regalo por derrotar a un teniente de los Ogros. Uno de los componentes del Hacha de la Ferocidad.
 
- **Part of Artifact:** [Hacha de la Ferocidad](/es/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Hacha de la Ferocidad](/images/t/icon_artifact_31.png) [Hacha de la Ferocidad](/es/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

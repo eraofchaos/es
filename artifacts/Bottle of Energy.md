@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una botella que hace que su portador se sienta con energía. Uno de los componentes del Elixir de Vida.
 
- **Part of Artifact:** [Elixir de Vida](/es/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Elixir de Vida](/images/t/icon_artifact_11.png) [Elixir de Vida](/es/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Esencia de Artefacto](/ItemsES/con_905/)
 

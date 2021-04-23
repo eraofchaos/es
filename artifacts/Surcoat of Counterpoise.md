@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un manto con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia.
 
- **Part of Artifact:** [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Piedra Rúnica de Antimagia](/images/t/icon_artifact_23.png) [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Esencia de Artefacto](/ItemsES/con_905/)
 

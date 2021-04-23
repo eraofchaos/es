@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | **Herradura de la Suerte** |  | 
-  |   | [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |  [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} |   |  [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | ![Herradura de la Suerte](/images/t/icon_artifact_12.png) **Herradura de la Suerte** |  | 
+  |   |  [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Detalles

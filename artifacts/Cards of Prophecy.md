@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una carta de adivinación con magia fuerte. Uno de los componentes de la Herradura de la Suerte.
 
- **Part of Artifact:** [Herradura de la Suerte](/es/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Herradura de la Suerte](/images/t/icon_artifact_12.png) [Herradura de la Suerte](/es/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Esencia de Artefacto](/ItemsES/con_905/)
 

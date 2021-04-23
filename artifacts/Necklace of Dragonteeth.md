@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un collar bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones.
 
- **Part of Artifact:** [Poder del Padre de los Dragones](/es/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Poder del Padre de los Dragones](/images/t/icon_artifact_40.png) [Poder del Padre de los Dragones](/es/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 

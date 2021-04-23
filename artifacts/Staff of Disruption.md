@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un báculo con un gran poder sellado en su interior. Uno de los códices del Archimago.
 
- **Part of Artifact:** [Códice del Archimago](/es/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Códice del Archimago](/images/t/icon_artifact_34.png) [Códice del Archimago](/es/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

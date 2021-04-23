@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Escudo del León del Valor](/es/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Alianza Angelical** | [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Escudo del León del Valor](/es/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alianza Angelical](/images/t/icon_artifact_41.png) **Alianza Angelical** |  [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Detalles

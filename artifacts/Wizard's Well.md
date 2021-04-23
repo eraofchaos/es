@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Amuleto de Maná](/es/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Amuleto Mágico](/es/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Pozo del Hechicero** |  | 
-  |   | [Orbe Místico de Maná](/es/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  |  [Amuleto de Maná](/es/artifacts/Charm of Mana/){: .btn .btn--era3} |   |  [Amuleto Mágico](/es/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Pozo del Hechicero](/images/t/icon_artifact_21.png) **Pozo del Hechicero** |  | 
+  |   |  [Orbe Místico de Maná](/es/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Detalles

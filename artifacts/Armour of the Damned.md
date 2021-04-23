@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | **Armadura de los Condenados** |  | 
-  | [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  |  [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   |  [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | ![Armadura de los Condenados](/images/t/icon_artifact_30.png) **Armadura de los Condenados** |  | 
+  |  [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   |  [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Detalles

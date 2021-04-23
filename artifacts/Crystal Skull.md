@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una calavera de cristal fabricada por una civilización desconocida. Tiene la propiedad de ver a través del corazón de los hombres.
 
- **Part of Artifact:** [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Fragmento del Edén](/images/t/icon_artifact_49.png) [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 

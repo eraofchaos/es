@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una espada que los dioses regalaron a los humanos. Uno de los componentes de la Alianza Angelical.
 
- **Part of Artifact:** [Alianza Angelical](/es/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Alianza Angelical](/images/t/icon_artifact_41.png) [Alianza Angelical](/es/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 

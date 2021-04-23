@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Hacha de la Ferocidad** |  | 
-  | [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  |  [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   |  [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Hacha de la Ferocidad](/images/t/icon_artifact_31.png) **Hacha de la Ferocidad** |  | 
+  |  [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   |  [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Detalles

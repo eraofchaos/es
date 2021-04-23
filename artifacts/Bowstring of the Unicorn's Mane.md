@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una crin que una bestia sagrada regaló a los elfos. Uno de los componentes del Arco del Tirador.
 
- **Part of Artifact:** [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Arco del Tirador](/images/t/icon_artifact_10.png) [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

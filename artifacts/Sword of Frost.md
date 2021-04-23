@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Espada de Escarcha** | [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Espada de Escarcha** |  [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Detalles

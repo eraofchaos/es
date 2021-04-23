@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Una reliquia que dejó el Rey de los Enanos tras la batalla de Enroth. Uno de los componentes de la Espada del Apocalipsis.
 
- **Part of Artifact:** [Espada del Apocalipsis](/es/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) [Espada del Apocalipsis](/es/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 

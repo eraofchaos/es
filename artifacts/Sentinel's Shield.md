@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un escudo bendecido con un poder sagrado. Uno de los componentes del Trueno del Titán.
 
- **Part of Artifact:** [Trueno del Titán](/es/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Trueno del Titán](/images/t/icon_artifact_42.png) [Trueno del Titán](/es/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 

@@ -13,9 +13,9 @@ classes: wide
 
   |  Nr  |    Artifact    | Pieces |  Level | Descripción   |
   |:-----|:---------------|:------:|:------:|:--------------:|
-  | 1   | [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Un objeto mágico forjado para matar demonios. Capaz de aumentar la velocidad de regeneración de puntos de hechizo. |
-  | 2   | [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Un anillo mágico forjado a partir de objetos encantados. Capaz de aumentar el daño de hechizo. |
-  | 3   | [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Una piedra rúnica de antimagia forjada a partir de objetos encantados. Capaz de resistir daño de hechizo. |
+  | 1   | ![Pozo del Hechicero](/images/t/icon_artifact_21.png) [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Un objeto mágico forjado para matar demonios. Capaz de aumentar la velocidad de regeneración de puntos de hechizo. |
+  | 2   | ![Anillo de la Maga](/images/t/icon_artifact_22.png) [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Un anillo mágico forjado a partir de objetos encantados. Capaz de aumentar el daño de hechizo. |
+  | 3   | ![Piedra Rúnica de Antimagia](/images/t/icon_artifact_23.png) [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Una piedra rúnica de antimagia forjada a partir de objetos encantados. Capaz de resistir daño de hechizo. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/es/artifacts/Artifacts Upgrade/)

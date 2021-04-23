@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Este libro de hechizos incluye enseñanzas de magia de tierra avanzada. Cuenta la leyenda que Jeddite lo usó para derrotar a Mutare, convertida en dragón. Uno de los componentes del Sombrero del Encantador.
 
- **Part of Artifact:** [Sombrero del Encantador](/es/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Sombrero del Encantador](/images/t/icon_artifact_46.png) [Sombrero del Encantador](/es/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 

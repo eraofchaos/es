@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Espinilleras de Hueso de Dragón](/es/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Colgante de Dientes de Dragón](/es/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Escudo de Escamas de Dragón](/es/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Poder del Padre de los Dragones** | [Corona de Diente de Dragón](/es/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Lengua Ígnea del Dragón Rojo](/es/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Armadura de Escama de Dragón](/es/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Espinilleras de Hueso de Dragón](/es/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Colgante de Dientes de Dragón](/es/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Escudo de Escamas de Dragón](/es/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Poder del Padre de los Dragones](/images/t/icon_artifact_40.png) **Poder del Padre de los Dragones** |  [Corona de Diente de Dragón](/es/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Lengua Ígnea del Dragón Rojo](/es/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Armadura de Escama de Dragón](/es/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Detalles

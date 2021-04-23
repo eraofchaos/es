@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un báculo de la Primera Civilización. Garantiza al portador tiempo y sabiduría ilimitados.
 
- **Part of Artifact:** [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Fragmento del Edén](/images/t/icon_artifact_49.png) [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Esencia de Artefacto](/ItemsES/con_905/)
 

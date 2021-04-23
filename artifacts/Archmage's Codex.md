@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Medallón de la Negatividad](/es/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Báculo de la Disrupción](/es/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Códice del Archimago** |  | 
-  | [Capa de las Retractaciones](/es/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Anillo de Llamas](/es/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Medallón de la Negatividad](/es/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Báculo de la Disrupción](/es/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Códice del Archimago](/images/t/icon_artifact_34.png) **Códice del Archimago** |  | 
+  |  [Capa de las Retractaciones](/es/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Anillo de Llamas](/es/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Detalles
