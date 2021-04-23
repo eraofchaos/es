@@ -3,7 +3,7 @@ title: "Tortuga Dragón"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nacido en aguas infinitas, tiene un cuerpo descomunal, que manifiesta su supremacía mar adentro."
 unitID: 9906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Tortuga Dragón"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Tortuga Dragón](/es/Items/unt_278/)
+ **Unit Soul:** [Tortuga Dragón](/ItemsES/unt_278/)
 
  **Short description:** Tanque. Regenera PV.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Obediencia](/es/Items/con_1005/)
+ **Item to Subir rango:** [Ficha de Obediencia](/ItemsES/con_1005/)
 
- **Aspecto:** [Aspecto Especial de Obediencia](/es/Items/con_673/)
+ **Aspecto:** [Aspecto Especial de Obediencia](/ItemsES/con_673/)
 
 
 ## Emblemas Sagrados recomendados
@@ -169,7 +169,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

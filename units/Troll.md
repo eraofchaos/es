@@ -3,7 +3,7 @@ title: "Trol"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Troles son criaturas muy inteligentes que emplean pedruscos pesados como armas. Suelen posicionarse en la vanguardia de los combates para luchar contra los enemigos asestando violentos y demoledores golpes."
 unitID: 409
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Trol"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Trol](/es/Items/unt_225/)
+ **Unit Soul:** [Trol](/ItemsES/unt_225/)
 
  **Short description:** Asalto contra un solo objetivo. Daño rápido.
 
@@ -191,7 +191,7 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

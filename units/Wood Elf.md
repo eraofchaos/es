@@ -3,7 +3,7 @@ title: "Elfa del Bosque"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Elfa del Bosque"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Elfa del Bosque](/es/Items/unt_201/)
+ **Unit Soul:** [Elfa del Bosque](/ItemsES/unt_201/)
 
  **Unit description:** Lluvia de flechas: aumenta la velocidad de ataque un 500% durante un breve período de tiempo.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

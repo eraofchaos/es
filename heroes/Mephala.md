@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país."
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Mephala"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país.
 ## Detalles
- **Profession:** Guardabosques
+ **Profession:** ![Guardabosques](/images/h/h_prof_3.png) Guardabosques
 
  **Race:** Murallas
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Defensa absoluta
+ **Especialidad de Héroe:** Defensa absoluta
 
  **Mana base:** 18
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 6 | TBD |
-  |    2    | 18 | 9 | TBD |
-  |    3    | 24 | 12 | TBD |
-  |    4    | 30 | 15 | TBD |
+  | Stars | Defensa del Héroe | Sabiduría del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 6 | **30x** [Mephala](/ItemsES/her_367/) | Todas las unidades amistosas reciben un escudo. La absorción de daño aumenta un 20%. |
+  |    2    | 18 | 9 | **50x** [Mephala](/ItemsES/her_367/) | Reduce el daño de hechizo de Héroe infligido a todas las unidades con escudo un 20%. |
+  |    3    | 24 | 12 | **100x** [Mephala](/ItemsES/her_367/) | Aumenta la vida de todas las unidades defensivas un 20%. |
+  |    4    | 30 | 15 | **150x** [Mephala](/ItemsES/her_367/) | El coste de maná de <Piel pétrea> se reduce un 50%, la recarga se reduce en 5 s y todas las penalizaciones de esta unidad se disipan. |
 
-## Spells
-### 1 Spell: Flecha de aire
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha de aire
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
 
-### 2 Spell: Piel pétrea
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de aire a las unidades enemigas y reduce la precisión del objetivo un 30%.
+
+### 2 Hechizo: Piel pétrea
  **Descripción:** Concede un <span style="color: #e07c44;font-size:20px">escudo</span><span style="color: black"> a las unidades amistosas a cierta distancia que absorbe <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> de daño durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
-### 3 Spell: Escudo de tierra
+ **Descripción 2:** Al siguiente nivel, absorbe <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> de daño adicional.
+
+ **Descripción 3:** Los aliados tienen escudo.
+
+ **Descripción 4:** Otorga a la unidad amistosa un escudo que absorbe el daño.
+
+### 3 Hechizo: Escudo de tierra
  **Descripción:** Aumenta la reducción de daño de unidad en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>% para las unidades amistosas en una zona grande y les concede inmunidad al daño de hechizo de tierra durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
-### 4 Spell: Escudo sagrado
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Los aliados reciben daño reducido y se les otorga protección para el daño de tierra.
+
+ **Descripción 4:** Aumenta la protección de las unidades amistosas y concede inmunidad a hechizos de tierra.
+
+### 4 Hechizo: Escudo sagrado
  **Descripción:** Invoca 1 escudo protector gigante que hace que las unidades amistosas sean inmunes a todo el daño durante <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$olast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Los aliados te confieren invencibilidad.
+
+ **Descripción 4:** Todas las unidades amistosas son inmunes al daño.
 
 
 ## Ayudante

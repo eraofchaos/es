@@ -4,7 +4,7 @@ permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora."
 heroID: 60802
 QR: hero_60802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Rashka"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Rashka usa la intimidación para guiar a sus tropas hacia la gloria. Sus tácticas han resultado muy eficaces hasta ahora.
 ## Detalles
- **Profession:** Demoníaco
+ **Profession:** ![Demoníaco](/images/h/h_prof_9.png) Demoníaco
 
  **Race:** Infierno
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Señor del Fuego
+ **Especialidad de Héroe:** Señor del Fuego
 
  **Specialty Desc:** Bajo el liderazgo de Rashka, el Efrit mejora a Señor del Fuego. Sus habilidades de combate y ataque mejoran considerablemente.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 10 | TBD |
-  |    2    | 12 | 15 | TBD |
-  |    3    | 16 | 20 | TBD |
-  |    4    | 20 | 25 | TBD |
+  | Stars | Ataque del Héroe | Inteligencia del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 10 | **30x** [Rashka](/ItemsES/her_384/) | Los Efrit mejorarán a Señores del Fuego. El daño que inflige Tormenta de fuego aumenta un 30% y aumenta a 2 las áreas lanzadas. |
+  |    2    | 12 | 15 | **50x** [Rashka](/ItemsES/her_384/) | Aumenta un 30% el Ataque del Efrit y del Señor del Fuego. |
+  |    3    | 16 | 20 | **100x** [Rashka](/ItemsES/her_384/) | El daño reflejado por el escudo de fuego del Señor del Fuego se duplica, y su duración aumenta 5 segundos. |
+  |    4    | 20 | 25 | **150x** [Rashka](/ItemsES/her_384/) | Cuando haya Señores del Fuego en el campo, la resistencia al fuego de todas las unidades amistosas aumenta un 50%, y la resistencia al fuego de todas las unidades enemigas se reduce 50%. |
 
-## Spells
-### 1 Spell: Flecha de fuego
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha de fuego
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en un área determinada y las <span style="color: #e07c44;font-size:20px">quema</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
-### 2 Spell: Maldición
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de fuego a las unidades enemigas.
+
+### 2 Hechizo: Maldición
  **Descripción:** Disminuye el ATQ de las unidades del objetivo enemigo en una zona grande un <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
-### 3 Spell: Ansia de sangre
+ **Descripción 2:** Al siguiente nivel, el Ataque se reduce un <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}% adicional</span><span style="color: black">.
+
+ **Descripción 3:** El Ataque del enemigo se reduce.
+
+ **Descripción 4:** Reduce el Ataque de las unidades enemigas.
+
+### 3 Hechizo: Ansia de sangre
  **Descripción:** Aumenta el ATQ en {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% y la absorción de vida en {($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>% para las unidades amistosas en una zona grande durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s
 
-### 4 Spell: Llama infernal
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Los aliados ganan Ataque y absorción de vida aumentados.
+
+ **Descripción 4:** Aumenta el Ataque y la absorción de vida de la unidad amistosa.
+
+### 4 Hechizo: Llama infernal
  **Descripción:** Invoca una Fisura de Infierno que inflige <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas alrededor de la fisura cada 0,5 s durante {$olast11/1000} s. El daño se reduce a la mitad para las unidades del Infierno
+
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$ovalueadd12} cada 0,5 segundos</span><span style="color: black">
+
+ **Descripción 3:** Tu enemigo sufre daño prolongado.
+
+ **Descripción 4:** Invoca una fisura en el área objetivo. Las unidades enemigas alrededor de la fisura reciben daño de fuego.
 
 
 ## Ayudante

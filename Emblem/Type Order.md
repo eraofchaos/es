@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Orden"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Orden. Era of Chaos Orden"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "typeOrden.md"
 toc: false

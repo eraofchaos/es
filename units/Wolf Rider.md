@@ -3,7 +3,7 @@ title: "Jinete Lupino"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Jinete Lupino"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Jinete Lupino](/es/Items/unt_218/)
+ **Unit Soul:** [Jinete Lupino](/ItemsES/unt_218/)
 
  **Unit description:** Bestia compañera: invoca lobos a la batalla al morir.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

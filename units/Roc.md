@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Roc aparece a menudo en noches tormentosas. Suelen volar entre rayos y relámpagos. Muchos los consideran los mensajeros de los dioses."
 unitID: 405
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Roc"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Roc](/es/Items/unt_221/)
+ **Unit Soul:** [Roc](/ItemsES/unt_221/)
 
  **Unit description:** Trueno: inflige un daño catastrófico a las tropas enemigas a su paso.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

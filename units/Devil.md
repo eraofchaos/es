@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Diablo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Diablo](/es/Items/unt_232/)
+ **Unit Soul:** [Diablo](/ItemsES/unt_232/)
 
  **Unit description:** Segador doloroso: inflige un daño catastrófico al enemigo y lo aturde.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Guadaña del Diablo](/es/Items/con_984/)
+ **Item to Subir rango:** [Ficha de Guadaña del Diablo](/ItemsES/con_984/)
 
- **Aspecto:** [Aspecto Especial de Guadaña del Diablo](/es/Items/con_652/)
+ **Aspecto:** [Aspecto Especial de Guadaña del Diablo](/ItemsES/con_652/)
 
 
 ## Emblemas Sagrados recomendados
@@ -177,7 +177,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-2 Puerta de Invocación"
 permalink: /Main Story/Chapter 26_2/
 excerpt: "Capítulo 26 - 2. Era of Chaos  Historia principal - Capítulo 26_2. 26-2 Puerta de Invocación"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 26_2.md"
 toc: false

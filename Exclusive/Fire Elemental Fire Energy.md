@@ -2,7 +2,7 @@
 title: "Exclusivo - Energía de fuego (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energía de fuego. Energía de fuego. Era of Chaos Exclusivo Energía de fuego. Elemental de Fuego Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Fire Elemental Energía de fuego.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Elemental de Fuego](/es/units/Fire Elemental/) 
 
- **Item to Subir rango:** [Ficha de Energía de fuego](/es/Items/con_998/)
+ **Item to Subir rango:** [Ficha de Energía de fuego](/ItemsES/con_998/)
 
- **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_666/)
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/ItemsES/con_666/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Energía de fuego](/es/Items/con_998/) | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta la penetración del Elemental de Fuego en 150. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta el ATQ un 20% y el daño de la unidad un 12% del Elemental de Fuego. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Energía de fuego](/es/Items/con_998/) | Al principio de la batalla, el Elemental de Fuego gana un escudo igual al 100% de sus PV máximos. Este escudo también aumenta la reducción de daño de unidad del Elemental de Fuego un 30% e inflige daño equivalente al 10% de su ATQ por segundo a las unidades enemigas alrededor a corta distancia. Este efecto no se puede disipar |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Energía de fuego](/es/Items/con_998/) | Aumenta el daño crítico un 20% y la DEF un 15% del Elemental de Fuego. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Energía de fuego](/es/Items/con_998/) | El Elemental de Fuego es inmune al daño infligido con hechizos de fuego. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Energía de fuego](/es/Items/con_998/) | <Resonancia elemental> Si hay un Elemental de Fuego en el campo de batalla, aumenta la velocidad de ataque de todas las unidades de Conflujo un 30% y les otorga un 10% de absorción de vida. Cuando se lanza Trío, aumenta adicionalmente el daño de unidad y la reducción de daño de unidad de las unidades de Conflujo un 10%. El efecto dura toda la batalla. Se acumula hasta 5 veces. |
+  |  Despertar  | **100x** [Ficha de Energía de fuego](/ItemsES/con_998/) | <Fire Trio> El Elemental de Fuego controla bolas de fuego para infligir daño en área a la unidad objetivo con un ataque de tres pasos cada 20 s. El alcance del ataque cambia de pequeño, a más pequeño y, después, a grande (en ese orden) e infligen 90%, 120% y 150% del ATQ respectivamente. El efecto de quemadura en el objetivo dura 5 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Energía de fuego](/ItemsES/con_998/) | Aumenta la penetración del Elemental de Fuego en 150. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Energía de fuego](/ItemsES/con_998/) | Aumenta el ATQ un 20% y el daño de la unidad un 12% del Elemental de Fuego. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Energía de fuego](/ItemsES/con_998/) | Al principio de la batalla, el Elemental de Fuego gana un escudo igual al 100% de sus PV máximos. Este escudo también aumenta la reducción de daño de unidad del Elemental de Fuego un 30% e inflige daño equivalente al 10% de su ATQ por segundo a las unidades enemigas alrededor a corta distancia. Este efecto no se puede disipar |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Energía de fuego](/ItemsES/con_998/) | Aumenta el daño crítico un 20% y la DEF un 15% del Elemental de Fuego. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Energía de fuego](/ItemsES/con_998/) | El Elemental de Fuego es inmune al daño infligido con hechizos de fuego. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Energía de fuego](/ItemsES/con_998/) | <Resonancia elemental> Si hay un Elemental de Fuego en el campo de batalla, aumenta la velocidad de ataque de todas las unidades de Conflujo un 30% y les otorga un 10% de absorción de vida. Cuando se lanza Trío, aumenta adicionalmente el daño de unidad y la reducción de daño de unidad de las unidades de Conflujo un 10%. El efecto dura toda la batalla. Se acumula hasta 5 veces. |
 
 
 ## Subir de nivel

@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Sabueso Infernal](/es/Items/unt_228/)
+ **Unit Soul:** [Sabueso Infernal](/ItemsES/unt_228/)
 
  **Unit description:** Destrozo: cada impacto es un golpe crítico durante un breve período.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Golpe crítico de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

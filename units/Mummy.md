@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Momia"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Momia](/es/Items/unt_215/)
+ **Unit Soul:** [Momia](/ItemsES/unt_215/)
 
  **Unit description:** Maldición de putrefacción: Reduce la curación de los enemigos mucho
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Gasa](/es/Items/con_981/)
+ **Item to Subir rango:** [Ficha de Gasa](/ItemsES/con_981/)
 
- **Aspecto:** [Aspecto Especial de Gasa](/es/Items/con_649/)
+ **Aspecto:** [Aspecto Especial de Gasa](/ItemsES/con_649/)
 
 
 ## Emblemas Sagrados recomendados
@@ -175,7 +175,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Gog)"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Gog Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gog Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Gog](/es/units/Gog/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Chispa Chamuscadora> La Gog inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y le inflige sangrado durante 7 s. Si la unidad objetivo ya está sangrando, la DEF se reduce un 15% durante 7 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la velocidad de ataque de la Gog un 15%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la absorción de vida de la Gog un 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Canícula> Cuando un héroe amistoso lanza hechizos de tipo fuego, la Gog inflige daño equivalente al 50% de su propio ATQ por segundo a las unidades en una zona grande delante y causa quemaduras durante 5 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta su propia DEF un 4% por cada unidad del Infierno que haya en el campo de batalla. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de unidad de la Gog un 15%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Sinfonía Infernal> Al comienzo de la batalla, la Gog aumenta el daño de golpe crítico y el ATQ de todas las unidades lanzadoras amistosas un 20% y reduce el daño de golpe crítico y el ATQ de todas las unidades lanzadoras enemigas un 20% durante 60 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Chispa Chamuscadora> La Gog inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y le inflige sangrado durante 7 s. Si la unidad objetivo ya está sangrando, la DEF se reduce un 15% durante 7 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta la velocidad de ataque de la Gog un 15%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta la absorción de vida de la Gog un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Canícula> Cuando un héroe amistoso lanza hechizos de tipo fuego, la Gog inflige daño equivalente al 50% de su propio ATQ por segundo a las unidades en una zona grande delante y causa quemaduras durante 5 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta su propia DEF un 4% por cada unidad del Infierno que haya en el campo de batalla. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de unidad de la Gog un 15%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Sinfonía Infernal> Al comienzo de la batalla, la Gog aumenta el daño de golpe crítico y el ATQ de todas las unidades lanzadoras amistosas un 20% y reduce el daño de golpe crítico y el ATQ de todas las unidades lanzadoras enemigas un 20% durante 60 s. |
 
 
 ## Subir de nivel

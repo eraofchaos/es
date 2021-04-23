@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Orc)"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Orco Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Orc Arco largo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Orco](/es/units/Orc/) 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | <Hacha de Guerra Voladora> El Orco lanza un hacha de guerra gigante a la unidad objetivo, lo que inflige daño equivalente al 300% de su propio ATQ e ignora 1000 de DEF de la unidad objetivo. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el ATQ del Orco un 20% y su golpe crítico en 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | Cada vez que los PV del Orco caen por debajo del 10%, su reducción de daño de unidad y resistencia mágica aumentan un 4%. El efecto permanece incluso después de que los PV se hayan restaurado. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | El Orco está centrado en la batalla actual. Cada ataque aumenta la velocidad de ataque de las unidades un 5% y el golpe crítico en 15. Se acumula hasta 10 veces. Cuando el Orco cambia de objetivo, las acumulaciones vuelven a 0. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta la tenacidad del Orco en 400. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el daño de unidad un 4% cada vez que se despliega una unidad de Bastión. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | Hay un 5% de probabilidad de activar <Hacha de Guerra Voladora> con cada ataque normal. La recarga interna es de 3 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Hacha de Guerra Voladora> El Orco lanza un hacha de guerra gigante a la unidad objetivo, lo que inflige daño equivalente al 300% de su propio ATQ e ignora 1000 de DEF de la unidad objetivo. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el ATQ del Orco un 20% y su golpe crítico en 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/ItemsES/con_914/) | Cada vez que los PV del Orco caen por debajo del 10%, su reducción de daño de unidad y resistencia mágica aumentan un 4%. El efecto permanece incluso después de que los PV se hayan restaurado. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/ItemsES/con_914/) | El Orco está centrado en la batalla actual. Cada ataque aumenta la velocidad de ataque de las unidades un 5% y el golpe crítico en 15. Se acumula hasta 10 veces. Cuando el Orco cambia de objetivo, las acumulaciones vuelven a 0. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta la tenacidad del Orco en 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el daño de unidad un 4% cada vez que se despliega una unidad de Bastión. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/ItemsES/con_914/) | Hay un 5% de probabilidad de activar <Hacha de Guerra Voladora> con cada ataque normal. La recarga interna es de 3 s. |
 
 
 ## Subir de nivel

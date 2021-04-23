@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Arquera Regnan](/es/Items/unt_274/)
+ **Unit Soul:** [Arquera Regnan](/ItemsES/unt_274/)
 
  **Short description:** Golpe crítico y penetración.
 
@@ -179,7 +179,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

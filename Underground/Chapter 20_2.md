@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 - 20-2 Guardián de los Elementos"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Capítulo 20 - 2. Era of Chaos  Subterráneo - Capítulo 20_2. 20-2 Guardián de los Elementos"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 20_2.md"
 toc: false

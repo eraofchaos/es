@@ -3,7 +3,7 @@ title: "Druida"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Hay Elfos que han heredado la voluntad de la naturaleza y son capaces usar el poder de esta para proteger a cualquiera que luche por el bosque."
 unitID: 208
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Druida"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Druida](/es/Items/unt_206/)
+ **Unit Soul:** [Druida](/ItemsES/unt_206/)
 
  **Unit description:** Cronosfera forestal: Las unidades en el círculo mágico son inmunes al daño mágico
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Báculo de Resurgimiento](/es/Items/con_977/)
+ **Item to Subir rango:** [Ficha de Báculo de Resurgimiento](/ItemsES/con_977/)
 
- **Aspecto:** [Aspecto Especial de Báculo de Resurgimiento](/es/Items/con_645/)
+ **Aspecto:** [Aspecto Especial de Báculo de Resurgimiento](/ItemsES/con_645/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

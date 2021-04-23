@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodía. Melodía. Melodía es una Druida afortunada. Logra victorias milagrosas, incluso cuando tiene todas las de perder. Por ello, todas las tropas desean tenerla como líder."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Melodia"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Melodía es una Druida afortunada. Logra victorias milagrosas, incluso cuando tiene todas las de perder. Por ello, todas las tropas desean tenerla como líder.
 ## Detalles
- **Profession:** Druida
+ **Profession:** ![Druida](/images/h/h_prof_4.png) Druida
 
  **Race:** Murallas
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Buena fortuna
+ **Especialidad de Héroe:** Buena fortuna
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |    Deffence    |  Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 8 | TBD |
-  |    2    | 12 | 12 | TBD |
-  |    3    | 16 | 16 | TBD |
-  |    4    | 20 | 20 | TBD |
+  | Stars | Defensa del Héroe | Inteligencia del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 8 | **30x** [Melodía](/ItemsES/her_364/) |  |
+  |    2    | 12 | 12 | **50x** [Melodía](/ItemsES/her_364/) |  |
+  |    3    | 16 | 16 | **100x** [Melodía](/ItemsES/her_364/) |  |
+  |    4    | 20 | 20 | **150x** [Melodía](/ItemsES/her_364/) |  |
 
-## Spells
-### 1 Spell: Escudo de hielo
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Escudo de hielo
  **Descripción:** Concede inmunidad a daño de hechizos de agua a las unidades amistosas objetivo dentro de una gran zona durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.. Las unidades enemigas que ataquen a tus unidades con escudo quedan <span style="color: #e07c44;font-size:20px">ralentizadas</span><span style="color: black"> durante 3 s.
 
-### 2 Spell: Protección Divina
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Otorga un escudo de hielo a los aliados y aumenta su resistencia al daño de agua.
+
+ **Descripción 4:** Aumenta la inmunidad a magia de agua de las unidades amistosas; los ataques de congelación a otras unidades hacen que queden<span style="color: #f0f000;font-size:18px">ralentizadas</span><span style="color: black">.
+
+### 2 Hechizo: Protección Divina
  **Descripción:** Aumenta la reducción de daño de unidad un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a123+$a126+$a133+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> para las unidades amistosas en una zona grande y dura <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
-### 3 Spell: Muro de hielo
+ **Descripción 2:** Al siguiente nivel, recibe un <span style="color: #00ff22;font-size:16px">{$buffaddattr13}% adicional de protección contra el daño de unidad.</span><span style="color: black">
+
+ **Descripción 3:** Los aliados reciben daño reducido.
+
+ **Descripción 4:** Reduce la cantidad de daño recibido por las unidades amistosas.
+
+### 3 Hechizo: Muro de hielo
  **Descripción:** Invoca 1 Muro de hielo que <span style="color: #e07c44;font-size:20px">congela</span><span style="color: black"> a las unidades enemigas cercanas durante {($olast11+$olast12*($sklevel-1))/1000} s.
 
-### 4 Spell: Amnesia
+ **Descripción 2:** Al siguiente nivel, la recarga se reduce en <span style="color: #00ff22;font-size:16px">{($cd2)/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Invocar Muro de hielo
+
+ **Descripción 4:** Invoca un muro de hielo y <span style="color: #f0f000;font-size:18px">congela</span><span style="color: black"> a las unidades enemigas que pasan por el.
+
+### 4 Hechizo: Amnesia
  **Descripción:** Inmoviliza a las unidades enemigas a cierta distancia durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Tu enemigo controla el objetivo.
+
+ **Descripción 4:** Las unidades enemigas no pueden moverse.
 
 
 ## Ayudante

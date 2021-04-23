@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Pegasos son criaturas legendarias de los bosques. Acompañan a la élite de los Elfos y su mayor cometido es mantener la paz en el bosque."
 unitID: 204
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Pegaso"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Pegaso](/es/Items/unt_202/)
+ **Unit Soul:** [Pegaso](/ItemsES/unt_202/)
 
  **Unit description:** Protección de vitalidad: otorga un escudo de vida a la unidad más cercana en tu ejército.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

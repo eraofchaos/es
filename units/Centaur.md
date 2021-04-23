@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Centauros son guerreros natos. Se dedican desde muy jóvenes al arte de la guerra. Son guerreros versátiles, que sobresalen en las cargas, el combate y la exploración."
 unitID: 201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Centauro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Centauro](/es/Items/unt_199/)
+ **Unit Soul:** [Centauro](/ItemsES/unt_199/)
 
  **Unit description:** Pisotón de batalla: inflige daño a las unidades más cercanas y las ralentiza.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

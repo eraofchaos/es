@@ -2,7 +2,7 @@
 title: "Exclusivo - Mareas Nocturnas (Mermaid)"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Mareas Nocturnas. Mareas Nocturnas. Era of Chaos Exclusivo Mareas Nocturnas. Sirena Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Mermaid Mareas Nocturnas.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Sirena](/es/units/Mermaid/) 
 
- **Item to Subir rango:** [Ficha de Mareas Nocturnas](/es/Items/con_1004/)
+ **Item to Subir rango:** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/)
 
- **Aspecto:** [Aspecto Especial de Mareas Nocturnas](/es/Items/con_672/)
+ **Aspecto:** [Aspecto Especial de Mareas Nocturnas](/ItemsES/con_672/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | <Oda del Guardián> Cuando la Sirena recibe daño superior al 30% de sus PV máximos en un solo ataque, obtiene una burbuja equivalente al 25% de sus PV máximos y aumenta la DEF en 400 durante 15 s. La recarga es de 10 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | Aumenta el ATQ y la velocidad de ataque de la Sirena un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | <Canción de Auxilio> La Sirena aumenta el daño de unidad de una unidad lanzadora/a distancia amistosa al azar un 25% y le concede una burbuja equivalente al 20% de sus PV máximos durante 10 s. La recarga es de 20 s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | <Canto de Sirena> La Sirena entona el Canto de Sirena, lo que causa sueño a 2 unidades enemigas aleatorias durante 5 s. También restaura PV equivalentes al 60% del ATQ de la Sirena a las unidades de la retaguardia amistosas por segundo durante 10 s. La recarga es de 24 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | Aumenta la reducción de daño de unidad de la Sirena un 25%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | Cada vez que la Sirena gana una burbuja, aumenta la velocidad de ataque y la reducción de daño de unidad un 3% durante 8 s. Se acumula hasta 10 veces. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mareas Nocturnas](/es/Items/con_1004/) | <Canción de las Mareas Nocturnas> La Sirena se mece con las mareas, lo que aumenta su curación un 50% y su velocidad de ataque un 30% durante 9 s. Otorga la fuerza de las mareas a unidades amistosas aleatorias, lo que aumenta el daño de unidad un 30%, la velocidad de ataque un 20% y el golpe crítico en 200 o la reducción de daño de unidad un 30%, la DEF un 20% y la tenacidad en 200 durante 6 s. La recarga es de 35 s. |
+  |  Despertar  | **100x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | <Oda del Guardián> Cuando la Sirena recibe daño superior al 30% de sus PV máximos en un solo ataque, obtiene una burbuja equivalente al 25% de sus PV máximos y aumenta la DEF en 400 durante 15 s. La recarga es de 10 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | Aumenta el ATQ y la velocidad de ataque de la Sirena un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | <Canción de Auxilio> La Sirena aumenta el daño de unidad de una unidad lanzadora/a distancia amistosa al azar un 25% y le concede una burbuja equivalente al 20% de sus PV máximos durante 10 s. La recarga es de 20 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | <Canto de Sirena> La Sirena entona el Canto de Sirena, lo que causa sueño a 2 unidades enemigas aleatorias durante 5 s. También restaura PV equivalentes al 60% del ATQ de la Sirena a las unidades de la retaguardia amistosas por segundo durante 10 s. La recarga es de 24 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | Aumenta la reducción de daño de unidad de la Sirena un 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | Cada vez que la Sirena gana una burbuja, aumenta la velocidad de ataque y la reducción de daño de unidad un 3% durante 8 s. Se acumula hasta 10 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/) | <Canción de las Mareas Nocturnas> La Sirena se mece con las mareas, lo que aumenta su curación un 50% y su velocidad de ataque un 30% durante 9 s. Otorga la fuerza de las mareas a unidades amistosas aleatorias, lo que aumenta el daño de unidad un 30%, la velocidad de ataque un 20% y el golpe crítico en 200 o la reducción de daño de unidad un 30%, la DEF un 20% y la tenacidad en 200 durante 6 s. La recarga es de 35 s. |
 
 
 ## Subir de nivel

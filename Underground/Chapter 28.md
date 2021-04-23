@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 Túneles y trogloditas"
 permalink: /Underground/Chapter 28/
 excerpt: "Capítulo 28 Túneles y trogloditas. Era of Chaos  Subterráneo - Capítulo 28. Túneles y trogloditas"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 28.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu es un semielfo y el guerrero más famoso de Erathia. Mientras servía en el ejército de la Reina Catherine, el General Morgan Kendal lo descubrió y lo ascendió."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gelu"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Gelu es un semielfo y el guerrero más famoso de Erathia. Mientras servía en el ejército de la Reina Catherine, el General Morgan Kendal lo descubrió y lo ascendió.
 ## Detalles
- **Profession:** Guardabosques
+ **Profession:** ![Guardabosques](/images/h/h_prof_3.png) Guardabosques
 
  **Race:** Murallas
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR+
 
- **Specialty:** Tirador
+ **Especialidad de Héroe:** Tirador
 
  **Specialty Desc:** Bajo el liderazgo de Gelu, los Arqueros y los Elfos del Bosque mejoran a Tiradores. Sus habilidades de ataque y alcance mejoran considerablemente.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 8 | TBD |
-  |    2    | 21 | 12 | TBD |
-  |    3    | 28 | 16 | TBD |
-  |    4    | 35 | 20 | TBD |
+  | Stars | Ataque del Héroe | Sabiduría del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 14 | 8 | **30x** [Gelu](/ItemsES/her_366/) | Los Elfos del Bosque mejoran a Tiradores. <Golpe doble> mejora a <Golpe doble experto>. El ataque y los PV aumentan un 20%, y el alcance aumenta en 200 puntos. |
+  |    2    | 21 | 12 | **50x** [Gelu](/ItemsES/her_366/) | Los Ballesteros mejoran a Tiradores. <Golpe doble> mejora a <Golpe doble experto>. El ataque y los PV aumentan un 20%, y el alcance aumenta en 200 puntos. |
+  |    3    | 28 | 16 | **100x** [Gelu](/ItemsES/her_366/) | Aumenta el golpe crítico de todas las unidades a distancia en 200 puntos. |
+  |    4    | 35 | 20 | **150x** [Gelu](/ItemsES/her_366/) | Aumenta el daño crítico de todas las unidades a distancia amistosas en el campo de batalla un 100%. |
 
-## Spells
-### 1 Spell: Flecha de aire
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha de aire
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
 
-### 2 Spell: Piel pétrea
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de aire a las unidades enemigas y reduce la precisión del objetivo un 30%.
+
+### 2 Hechizo: Piel pétrea
  **Descripción:** Concede un <span style="color: #e07c44;font-size:20px">escudo</span><span style="color: black"> a las unidades amistosas a cierta distancia que absorbe <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> de daño durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
-### 3 Spell: Precisión
+ **Descripción 2:** Al siguiente nivel, absorbe <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> de daño adicional.
+
+ **Descripción 3:** Los aliados tienen escudo.
+
+ **Descripción 4:** Otorga a la unidad amistosa un escudo que absorbe el daño.
+
+### 3 Hechizo: Precisión
  **Descripción:** Concede un 100% de golpe crítico y precisión a las unidades amistosas en una zona grande durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
-### 4 Spell: Frenesí
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Los aliados reciben un golpe crítico garantizado.
+
+ **Descripción 4:** El ataque de las unidades amistosas tiene garantizado impactar e inflige daño crítico.
+
+### 4 Hechizo: Frenesí
  **Descripción:** Sacrifica los PV de unidades amistosas equivalentes al 30% de sus PV máximos en una zona grande (no inflige un daño letal), aumentando su velocidad de ataque en un {($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%, durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+
+ **Descripción 2:** Al siguiente nivel, la duración aumenta en <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Los aliados ganan velocidad de ataque aumentada.
+
+ **Descripción 4:** Resta vida[][-]de la unidad amistosa (no letal) y aumenta la velocidad de ataque.
 
 
 ## Ayudante

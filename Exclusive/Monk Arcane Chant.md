@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Monje Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Monk Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Monje](/es/units/Monk/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cada 9 s, <Preaching> se activa para restaurar PV igual al 125% del ATQ a la unidad amistosa con el porcentaje de PV más bajo. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de la unidad de Monje un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cada vez que se lanza <Preaching>, se otorga «Moral Alta» a una unidad amistosa aleatoria durante 10 s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Devotion>: El Monje disipa una penalización aleatoria de una unidad amistosa cada 10 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la reducción de daño de la unidad de Monje un 25%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cada vez que se lanza <Preaching>, se reduce la velocidad de ataque de una unidad hostil aleatoria un 10% durante 10 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cada vez que se lanza <Devotion>, recibe un escudo igual al 20% de sus PV máximos y otorga un escudo igual al 10% de sus PV máximos a una unidad amistosa aleatoria. El «escudo» no se puede acumular (los Monjes pueden ganar dos «escudos»). |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cada 9 s, <Preaching> se activa para restaurar PV igual al 125% del ATQ a la unidad amistosa con el porcentaje de PV más bajo. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de la unidad de Monje un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cada vez que se lanza <Preaching>, se otorga «Moral Alta» a una unidad amistosa aleatoria durante 10 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Devotion>: El Monje disipa una penalización aleatoria de una unidad amistosa cada 10 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta la reducción de daño de la unidad de Monje un 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cada vez que se lanza <Preaching>, se reduce la velocidad de ataque de una unidad hostil aleatoria un 10% durante 10 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cada vez que se lanza <Devotion>, recibe un escudo igual al 20% de sus PV máximos y otorga un escudo igual al 10% de sus PV máximos a una unidad amistosa aleatoria. El «escudo» no se puede acumular (los Monjes pueden ganar dos «escudos»). |
 
 
 ## Subir de nivel

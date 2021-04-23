@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Esqueleto](/es/Items/unt_208/)
+ **Unit Soul:** [Esqueleto](/ItemsES/unt_208/)
 
  **Unit description:** Escudo óseo: aumenta la reducción de daño de la unidad cuando la vida se reduce por debajo del 50%.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Defensa
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

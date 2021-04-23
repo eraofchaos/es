@@ -2,7 +2,7 @@
 title: "Exclusivo - Núcleo de Energía (Stone Elemental)"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Núcleo de Energía. Núcleo de Energía. Era of Chaos Exclusivo Núcleo de Energía. Elemental de Piedra Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Stone Elemental Núcleo de Energía.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Elemental de Piedra](/es/units/Stone Elemental/) 
 
- **Item to Subir rango:** [Ficha de Núcleo de energía](/es/Items/con_999/)
+ **Item to Subir rango:** [Ficha de Núcleo de energía](/ItemsES/con_999/)
 
- **Aspecto:** [Aspecto Especial de Núcleo de energía](/es/Items/con_667/)
+ **Aspecto:** [Aspecto Especial de Núcleo de energía](/ItemsES/con_667/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Núcleo de energía](/es/Items/con_999/) | <Rock Strike> Golpea el suelo con fuerza para infligir daño igual al 200% de su ATQ a las unidades hostiles en una zona grande, las «lanza por los aires» y las «aturde» durante 3 s. La recarga es de 20 s y la recarga previa es de 10 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Núcleo de energía](/es/Items/con_999/) | Aumenta la reducción de daño de la unidad de Elemental de Piedra un 20%. El efecto se duplica si una unidad mágica ataca al Elemental de Piedra. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Núcleo de energía](/es/Items/con_999/) | <Barro> Cuando un Héroe hostil o aliado lanza un hechizo de tierra, el Elemental de Piedra restaura un 2% de sus PV máximos. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Núcleo de energía](/es/Items/con_999/) | <Rock Strike> Reduce la velocidad de ataque de las unidades hostiles un 20% durante 8 s. Si <Fire Trio> está <burned> a los enemigos, se reducirá la reducción de daño de la unidad del 15%. El efecto dura 8 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Núcleo de energía](/es/Items/con_999/) | Aumenta la DEF del Elemental de Piedra un 20%. <Barro> restaura 30.000 PV a todas las unidades de la facción de Conflujo en una zona grande. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Núcleo de energía](/es/Items/con_999/) | El Elemental de Piedra es inmune al daño infligido con hechizos de tierra. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Núcleo de energía](/es/Items/con_999/) | <Resonancia elemental> Si hay un Elemental de Piedra en el campo de batalla, la DEF de todas las unidades de la facción de Conflujo aumenta un 10%. Por cada <Golpe pétreo> realizado, la DEF de las unidades de la facción de Conflujo aumenta un 10%. El efecto dura toda la batalla, pero no se puede acumular. |
+  |  Despertar  | **100x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | <Rock Strike> Golpea el suelo con fuerza para infligir daño igual al 200% de su ATQ a las unidades hostiles en una zona grande, las «lanza por los aires» y las «aturde» durante 3 s. La recarga es de 20 s y la recarga previa es de 10 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | Aumenta la reducción de daño de la unidad de Elemental de Piedra un 20%. El efecto se duplica si una unidad mágica ataca al Elemental de Piedra. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | <Barro> Cuando un Héroe hostil o aliado lanza un hechizo de tierra, el Elemental de Piedra restaura un 2% de sus PV máximos. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | <Rock Strike> Reduce la velocidad de ataque de las unidades hostiles un 20% durante 8 s. Si <Fire Trio> está <burned> a los enemigos, se reducirá la reducción de daño de la unidad del 15%. El efecto dura 8 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | Aumenta la DEF del Elemental de Piedra un 20%. <Barro> restaura 30.000 PV a todas las unidades de la facción de Conflujo en una zona grande. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | El Elemental de Piedra es inmune al daño infligido con hechizos de tierra. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Núcleo de energía](/ItemsES/con_999/) | <Resonancia elemental> Si hay un Elemental de Piedra en el campo de batalla, la DEF de todas las unidades de la facción de Conflujo aumenta un 10%. Por cada <Golpe pétreo> realizado, la DEF de las unidades de la facción de Conflujo aumenta un 10%. El efecto dura toda la batalla, pero no se puede acumular. |
 
 
 ## Subir de nivel

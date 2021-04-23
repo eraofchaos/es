@@ -3,7 +3,7 @@ title: "Gólem de Hierro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gólems de Hierro son construidos por los magos. Son fruto de una combinación de meticulosa artesanía y magia compleja, lo que los hace extraordinariamente resistentes a la magia."
 unitID: 603
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gólem de Hierro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Gólem de Hierro](/es/Items/unt_237/)
+ **Unit Soul:** [Gólem de Hierro](/ItemsES/unt_237/)
 
  **Unit description:** Resonancia metálica: Activa un escudo protector que defiende a las unidades amistosas.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Reducción de daño de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

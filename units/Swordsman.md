@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Espadachín"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Espadachín](/es/Items/unt_193/)
+ **Unit Soul:** [Espadachín](/ItemsES/unt_193/)
 
  **Unit description:** Protección divina: reduce el daño recibido.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Defensa
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

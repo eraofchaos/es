@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Ángel"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Ángel](/es/Items/unt_196/)
+ **Unit Soul:** [Ángel](/ItemsES/unt_196/)
 
  **Unit description:** Condena: inflige un daño colosal a 3 unidades y las aturde.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Durandel](/es/Items/con_973/)
+ **Item to Subir rango:** [Ficha de Durandel](/ItemsES/con_973/)
 
- **Aspecto:** [Aspecto Especial de Durandel](/es/Items/con_641/)
+ **Aspecto:** [Aspecto Especial de Durandel](/ItemsES/con_641/)
 
 
 ## Emblemas Sagrados recomendados
@@ -173,7 +173,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Liche"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Liche](/es/Items/unt_212/)
+ **Unit Soul:** [Liche](/ItemsES/unt_212/)
 
  **Unit description:** Sacrificio: invoca una horda de Esqueletos.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Tributo de Muerte](/es/Items/con_978/)
+ **Item to Subir rango:** [Ficha de Tributo de Muerte](/ItemsES/con_978/)
 
- **Aspecto:** [Aspecto Especial de Tributo de Muerte](/es/Items/con_646/)
+ **Aspecto:** [Aspecto Especial de Tributo de Muerte](/ItemsES/con_646/)
 
 
 ## Emblemas Sagrados recomendados
@@ -175,7 +175,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

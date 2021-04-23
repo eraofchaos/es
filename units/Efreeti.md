@@ -3,7 +3,7 @@ title: "Efrit"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Efrits son fruto de las llamas del Infierno. Pueden incendiar el aire con su magia de fuego."
 unitID: 506
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Efrit"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Efrit](/es/Items/unt_231/)
+ **Unit Soul:** [Efrit](/ItemsES/unt_231/)
 
  **Unit description:** Bola de fuego: inflige un daño colosal al enemigo y causa quemadura.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

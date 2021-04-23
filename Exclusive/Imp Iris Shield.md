@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Diablillo Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Imp Escudo Iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Diablillo](/es/units/Imp/) 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la resistencia mágica del Diablillo un 25%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF del Diablillo un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Armadura Robusta> Cuando los PV del Diablillo caen por debajo del 60% y 30% por primera vez, obtiene un escudo equivalente al 20% de sus PV máximos y aumenta la tenacidad en 150 durante 20 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV del Diablillo un 20% y la tenacidad en 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la reducción de daño de unidad del Diablillo un 2% y la tenacidad en 30 cada vez que se despliega una unidad del Infierno. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Forma Flexible> Cada vez que un Diablillo esquiva, hay un 25% de probabilidad de que recupere PV equivalentes al 3% de sus PV máximos y aumente el ATQ un 5% durante 5 s. Se acumula hasta el 250%. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Lengua de Fuego> El Diablillo inflige daño equivalente al 300% de su propio ATQ a las unidades objetivo y les causa quemado durante 6 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la resistencia mágica del Diablillo un 25%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la DEF del Diablillo un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Armadura Robusta> Cuando los PV del Diablillo caen por debajo del 60% y 30% por primera vez, obtiene un escudo equivalente al 20% de sus PV máximos y aumenta la tenacidad en 150 durante 20 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta los PV del Diablillo un 20% y la tenacidad en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la reducción de daño de unidad del Diablillo un 2% y la tenacidad en 30 cada vez que se despliega una unidad del Infierno. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Forma Flexible> Cada vez que un Diablillo esquiva, hay un 25% de probabilidad de que recupere PV equivalentes al 3% de sus PV máximos y aumente el ATQ un 5% durante 5 s. Se acumula hasta el 250%. |
 
 
 ## Subir de nivel

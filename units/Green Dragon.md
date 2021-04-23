@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Dragón Verde](/es/Items/unt_205/)
+ **Unit Soul:** [Dragón Verde](/ItemsES/unt_205/)
 
  **Unit description:** Refuerzos del Cielo: inflige un daño colosal a tres tropas enemigas de la retaguardia.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Ala de Dragón Resplandeciente](/es/Items/con_976/)
+ **Item to Subir rango:** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/)
 
- **Aspecto:** [Aspecto Especial de Ala de Dragón Resplandeciente](/es/Items/con_644/)
+ **Aspecto:** [Aspecto Especial de Ala de Dragón Resplandeciente](/ItemsES/con_644/)
 
 
 ## Emblemas Sagrados recomendados
@@ -177,7 +177,7 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

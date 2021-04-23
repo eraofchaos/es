@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Basilisco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Basilisco](/es/Items/unt_256/)
+ **Unit Soul:** [Basilisco](/ItemsES/unt_256/)
 
  **Short description:** Controla los tanques. Petrifica.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Cola de Basilisco](/es/Items/con_994/)
+ **Item to Subir rango:** [Ficha de Cola de Basilisco](/ItemsES/con_994/)
 
- **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_662/)
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/ItemsES/con_662/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Reducción de daño de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

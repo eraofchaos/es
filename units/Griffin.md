@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Grifo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Grifo](/es/Items/unt_192/)
+ **Unit Soul:** [Grifo](/ItemsES/unt_192/)
 
  **Unit description:** Picado: inflige daño a 3 unidades del oponente al atacar.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-11 Rojo y Negro"
 permalink: /Main Story/Chapter 22_11/
 excerpt: "Capítulo 22 - 11. Era of Chaos  Historia principal - Capítulo 22_11. 22-11 Rojo y Negro"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 22_11.md"
 toc: false

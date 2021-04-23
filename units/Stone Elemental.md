@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Elemental de Piedra"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Elemental de Piedra](/es/Items/unt_266/)
+ **Unit Soul:** [Elemental de Piedra](/ItemsES/unt_266/)
 
  **Short description:** Escupitajo letal. Aturde.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Núcleo de energía](/es/Items/con_999/)
+ **Item to Subir rango:** [Ficha de Núcleo de energía](/ItemsES/con_999/)
 
- **Aspecto:** [Aspecto Especial de Núcleo de energía](/es/Items/con_667/)
+ **Aspecto:** [Aspecto Especial de Núcleo de energía](/ItemsES/con_667/)
 
 
 ## Emblemas Sagrados recomendados
@@ -176,7 +176,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

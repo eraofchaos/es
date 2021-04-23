@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Nadie sabe dónde ocultan los Orcos sus hachas, pero parece que tienen de sobra para lanzar."
 unitID: 403
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Orco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Orco](/es/Items/unt_219/)
+ **Unit Soul:** [Orco](/ItemsES/unt_219/)
 
  **Unit description:** Ejecución: inflige daño adicional a los enemigos que tengan la vida por debajo del 30%.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -180,7 +180,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

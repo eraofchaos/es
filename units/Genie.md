@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Genio"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Genio](/es/Items/unt_239/)
+ **Unit Soul:** [Genio](/ItemsES/unt_239/)
 
  **Unit description:** Obsequio de energía: Convierte el ATQ en curación.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Lyra](/es/Items/con_986/)
+ **Item to Subir rango:** [Ficha de Lyra](/ItemsES/con_986/)
 
- **Aspecto:** [Aspecto Especial de Lyra](/es/Items/con_654/)
+ **Aspecto:** [Aspecto Especial de Lyra](/ItemsES/con_654/)
 
 
 ## Emblemas Sagrados recomendados
@@ -178,7 +178,7 @@ toc: true
 * Curación
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

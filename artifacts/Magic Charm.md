@@ -2,7 +2,7 @@
 title: "Artefacto - Pozo del Hechicero - Amuleto Mágico"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Pozo del Hechicero - Amuleto Mágico. Un amuleto con poder mágico. Uno de los componentes del Pozo del Hechicero."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Magic Charm.md"
 toc: false

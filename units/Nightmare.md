@@ -3,7 +3,7 @@ title: "Pesadilla"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La Pesadilla te mostrará el poder del Infierno. Esta clase de Pesadilla no se olvida fácilmente. Debilitarán al enemigo hasta que se tumbe para descansar en el abismo."
 unitID: 508
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Pesadilla"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Pesadilla](/es/Items/unt_233/)
+ **Unit Soul:** [Pesadilla](/ItemsES/unt_233/)
 
  **Short description:** De apoyo. Daño rápido inicial.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Ojo de Pesadilla](/es/Items/con_985/)
+ **Item to Subir rango:** [Ficha de Ojo de Pesadilla](/ItemsES/con_985/)
 
- **Aspecto:** [Tool_250809](/es/Items/con_653/)
+ **Aspecto:** [Tool_250809](/ItemsES/con_653/)
 
 
 ## Emblemas Sagrados recomendados
@@ -169,7 +169,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

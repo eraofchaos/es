@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Libélula Menor Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Serpent Fly Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Libélula Menor](/es/units/Serpent Fly/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | La Libélula Menor tiene un 30% de probabilidad de hacer sangrar a la unidad objetivo al atacar. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la absorción de vida de la Libélula Menor un 15%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el ATQ un 20% y la velocidad de ataque un 10% de la Libélula Menor. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño crítico de la Libélula Menor un 25%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | Invoca 1 Libélula cada 20 s que dura 30 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cuando se derrota a la unidad objetivo, la Libélula Menor enloquece, lo que aumenta su velocidad de ataque un 100% durante 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | La Libélula Menor tiene un 30% de probabilidad de hacer sangrar a la unidad objetivo al atacar. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta la absorción de vida de la Libélula Menor un 15%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Gana una [Plague Miasma] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Plague Miasma] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el ATQ un 20% y la velocidad de ataque un 10% de la Libélula Menor. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño crítico de la Libélula Menor un 25%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Invoca 1 Libélula cada 20 s que dura 30 s. |
 
 
 ## Subir de nivel

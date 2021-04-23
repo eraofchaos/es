@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Caballero Negro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Caballero Negro](/es/Items/unt_213/)
+ **Unit Soul:** [Caballero Negro](/ItemsES/unt_213/)
 
  **Unit description:** Golpe crítico: inflige un daño colosal y causa moral baja.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Sable del Inframundo](/es/Items/con_979/)
+ **Item to Subir rango:** [Ficha de Sable del Inframundo](/ItemsES/con_979/)
 
- **Aspecto:** [Aspecto Especial de Sable del Inframundo](/es/Items/con_647/)
+ **Aspecto:** [Aspecto Especial de Sable del Inframundo](/ItemsES/con_647/)
 
 
 ## Emblemas Sagrados recomendados
@@ -180,7 +180,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

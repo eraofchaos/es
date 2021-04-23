@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Gremlins han firmado contratos de servidumbre con la Torre. Prefieren atacar desde lejos con sus bolas de cadena encantadas."
 unitID: 601
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gremlin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Gremlin](/es/Items/unt_235/)
+ **Unit Soul:** [Gremlin](/ItemsES/unt_235/)
 
  **Unit description:** Bola de hierro mágica: Aumenta mucho el ATQ y la velocidad de ataque.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

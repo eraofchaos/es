@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Goblin Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Goblin Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Goblin](/es/units/Goblin/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Machacapiedras> El Goblin inflige un daño equivalente al 300% de su propio ATQ a la unidades objetivo cada 15 s y les inflige sangrado durante 7 s. Si la unidad objetivo está bajo los efectos de sobrecarga, la DEF se reduce un 15% durante 5 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta los PV del Goblin un 20% y la esquiva en 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta el golpe crítico del Goblin en 150 cuando se enfrenta a unidades con menos del 70% de PV. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Golpe Presto> Cuando un ataque del Goblin es esquivado, este inflige un daño equivalente al 100% de su propio ATQ a la unidad objetivo y le reduce la DEF un 4% durante 8 s. La recarga es de 2 s. Se acumula hasta 4 veces. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta la velocidad de ataque del Goblin un 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Aumenta su propio daño de unidad un 4% por cada unidad de Bastión en el campo de batalla. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Cadena Machacapiedras> Cuando el Goblin conecta un golpe crítico, tiene un 5% de probabilidad de activar <Machacapiedras>. La recarga es de 4 s. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | <Machacapiedras> El Goblin inflige un daño equivalente al 300% de su propio ATQ a la unidades objetivo cada 15 s y les inflige sangrado durante 7 s. Si la unidad objetivo está bajo los efectos de sobrecarga, la DEF se reduce un 15% durante 5 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Aumenta los PV del Goblin un 20% y la esquiva en 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el golpe crítico del Goblin en 150 cuando se enfrenta a unidades con menos del 70% de PV. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | <Golpe Presto> Cuando un ataque del Goblin es esquivado, este inflige un daño equivalente al 100% de su propio ATQ a la unidad objetivo y le reduce la DEF un 4% durante 8 s. La recarga es de 2 s. Se acumula hasta 4 veces. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la velocidad de ataque del Goblin un 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | Aumenta su propio daño de unidad un 4% por cada unidad de Bastión en el campo de batalla. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | <Cadena Machacapiedras> Cuando el Goblin conecta un golpe crítico, tiene un 5% de probabilidad de activar <Machacapiedras>. La recarga es de 4 s. |
 
 
 ## Subir de nivel

@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Archimaga Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Arch Mage Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Archimaga](/es/units/Arch Mage/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Carga mágica> La Maga imbuye de magia su báculo y lanza un poderoso ataque que inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo. La recarga es de 18 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Despertar mágico> Cuando la Maga recibe una ventaja mediante el hechizo de apoyo de un héroe amistoso, lanza <Carga mágica> una vez de inmediato. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Imbuye de magia la armadura al lanzar <Carga mágica>, lo que aumenta la reducción de daño de unidad de las unidades amistosas en una zona grande a su alrededor un 10% y la resistencia mágica un 40% durante 3 s. No se puede acumular. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Imbuye el arma de <Magia de agua: Congelación> al lanzar <Carga mágica>: el siguiente ataque congela a la unidad objetivo durante entre 2 y 4 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Imbuye el arma de <Magia de fuego: Devoraarmaduras> al lanzar <Carga mágica>: el siguiente ataque reduce la DEF de las unidades objetivo un 5% durante 3 s. Se acumula hasta 3 veces. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Imbuye la armadura de <Magia de viento: Brisa Cálida> al lanzar <Carga mágica>: recupera un 4% de los PV de las unidades amistosas cercanas en una zona grande a su alrededor. Hay un 25% de probabilidad de eliminar todas las penalizaciones. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | Imbuye la armadura de <Magia de tierra: Armadura Pétrea> al lanzar <Carga mágica>: absorbe daño equivalente al 50% de sus propios PV y aumenta la reducción de daño de unidad un 20% durante 3 s. No se puede acumular. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Carga mágica> La Maga imbuye de magia su báculo y lanza un poderoso ataque que inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo. La recarga es de 18 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Despertar mágico> Cuando la Maga recibe una ventaja mediante el hechizo de apoyo de un héroe amistoso, lanza <Carga mágica> una vez de inmediato. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Imbuye de magia la armadura al lanzar <Carga mágica>, lo que aumenta la reducción de daño de unidad de las unidades amistosas en una zona grande a su alrededor un 10% y la resistencia mágica un 40% durante 3 s. No se puede acumular. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Imbuye el arma de <Magia de agua: Congelación> al lanzar <Carga mágica>: el siguiente ataque congela a la unidad objetivo durante entre 2 y 4 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Imbuye el arma de <Magia de fuego: Devoraarmaduras> al lanzar <Carga mágica>: el siguiente ataque reduce la DEF de las unidades objetivo un 5% durante 3 s. Se acumula hasta 3 veces. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Imbuye la armadura de <Magia de viento: Brisa Cálida> al lanzar <Carga mágica>: recupera un 4% de los PV de las unidades amistosas cercanas en una zona grande a su alrededor. Hay un 25% de probabilidad de eliminar todas las penalizaciones. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Imbuye la armadura de <Magia de tierra: Armadura Pétrea> al lanzar <Carga mágica>: absorbe daño equivalente al 50% de sus propios PV y aumenta la reducción de daño de unidad un 20% durante 3 s. No se puede acumular. |
 
 
 ## Subir de nivel

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Goblin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Goblin](/es/Items/unt_217/)
+ **Unit Soul:** [Goblin](/ItemsES/unt_217/)
 
  **Unit description:** Tormenta bélica: inflige daño a tres unidades enemigas cercanas.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

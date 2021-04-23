@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-6 Altar del Demonio"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Capítulo 15 - 6. Era of Chaos  Historia principal - Capítulo 15_6. 15-6 Altar del Demonio"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 15_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Basilisco (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Cola de Basilisco. Cola de Basilisco. Era of Chaos Exclusivo Cola de Basilisco. Basilisco Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Basilisk Cola de Basilisco.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Basilisco](/es/units/Basilisk/) 
 
- **Item to Subir rango:** [Ficha de Cola de Basilisco](/es/Items/con_994/)
+ **Item to Subir rango:** [Ficha de Cola de Basilisco](/ItemsES/con_994/)
 
- **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_662/)
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/ItemsES/con_662/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | Cuando un ataque golpea a una unidad objetivo, hay un 8% de probabilidad de que le inflija daño adicional equivalente al 100% de su propio ATQ y la petrifique durante 3 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | Aumenta los PV del Basilisco y la reducción de daño de unidad un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | Cuando los ataques del Basilisco activan el estado de despertar, la DEF aumenta un 20% durante 3 s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | Gana una [Miasma pestilente] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Miasma pestilente] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | Aumenta la tenacidad del Basilisco en 500. Cuando los héroes amistosos lanzan hechizos de tipo tierra, el Basilisco obtiene una <Miasma pestilente> equivalente al 10% de sus propios PV máximos durante 20 s. La recarga es de 10 s. Cuando <Miasma pestilente> aparece, aumenta la reducción de daño de unidad del Basilisco un 10% durante 20 s. Se acumula hasta 3 veces. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | <Cortacolas> Cuando los PV de la unidad caen por debajo del 50%, el Basilisco pierde la cola para escapar y se vuelve inmune al daño durante 5 s. Esta habilidad solo se puede activar una vez por batalla. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Cola de Basilisco](/es/Items/con_994/) | <Asedio> Inflige daño equivalente al 15% de los PV máximos de la unidad objetivo y le causa aturdimiento durante 3 s. La recarga es de 13 s. Durante los 5 s en los que <Cortacolas> tiene efecto, su daño de unidad aumenta un 100%, la penetración aumenta en 500 y la velocidad de ataque, un 200%. Después de <Cortacolas>, la reducción de daño de unidad aumenta un 15% y no se puede usar <Asedio>. |
+  |  Despertar  | **100x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | Cuando un ataque golpea a una unidad objetivo, hay un 8% de probabilidad de que le inflija daño adicional equivalente al 100% de su propio ATQ y la petrifique durante 3 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | Aumenta los PV del Basilisco y la reducción de daño de unidad un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | Cuando los ataques del Basilisco activan el estado de despertar, la DEF aumenta un 20% durante 3 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | Gana una [Miasma pestilente] que absorbe PV igual al 30% de sus PV durante 20 s cuando se derrota a la unidad objetivo. Este efecto no se puede acumular. Gana [Miasma pestilente] una vez cuando sus PV se reducen por debajo del 30% por primera vez. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | Aumenta la tenacidad del Basilisco en 500. Cuando los héroes amistosos lanzan hechizos de tipo tierra, el Basilisco obtiene una <Miasma pestilente> equivalente al 10% de sus propios PV máximos durante 20 s. La recarga es de 10 s. Cuando <Miasma pestilente> aparece, aumenta la reducción de daño de unidad del Basilisco un 10% durante 20 s. Se acumula hasta 3 veces. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | <Cortacolas> Cuando los PV de la unidad caen por debajo del 50%, el Basilisco pierde la cola para escapar y se vuelve inmune al daño durante 5 s. Esta habilidad solo se puede activar una vez por batalla. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Cola de Basilisco](/ItemsES/con_994/) | <Asedio> Inflige daño equivalente al 15% de los PV máximos de la unidad objetivo y le causa aturdimiento durante 3 s. La recarga es de 13 s. Durante los 5 s en los que <Cortacolas> tiene efecto, su daño de unidad aumenta un 100%, la penetración aumenta en 500 y la velocidad de ataque, un 200%. Después de <Cortacolas>, la reducción de daño de unidad aumenta un 15% y no se puede usar <Asedio>. |
 
 
 ## Subir de nivel

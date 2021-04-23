@@ -3,7 +3,7 @@ title: "Piratas Regnan"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Son brutales y astutos. Esos barcos se convirtieron en pecios en el lecho marino tras encontrarse con sus navíos en la expedición."
 unitID: 9901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Piratas Regnan"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Piratas Regnan](/es/Items/unt_273/)
+ **Unit Soul:** [Piratas Regnan](/ItemsES/unt_273/)
 
  **Short description:** Daño masivo y aumenta el valor.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusivo - Mirada Oscura (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Mirada Oscura. Mirada Oscura. Era of Chaos Exclusivo Mirada Oscura. Observador Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Beholder Mirada Oscura.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Observador](/es/units/Beholder/) 
 
- **Item to Subir rango:** [Ficha de Mirada Oscura](/es/Items/con_990/)
+ **Item to Subir rango:** [Ficha de Mirada Oscura](/ItemsES/con_990/)
 
- **Aspecto:** [Aspecto Especial de Mirada Oscura](/es/Items/con_658/)
+ **Aspecto:** [Aspecto Especial de Mirada Oscura](/ItemsES/con_658/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Mirada Oscura](/es/Items/con_990/) | <Visión Oscura> Inflige daño equivalente al 200% de su propio ATQ a todas las unidades enemigas en una zona grande delante suyo y disminuye su reducción de daño de unidad un 15%. El efecto se duplica contra objetivos aturdidos. Dura 7 s. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mirada Oscura](/es/Items/con_990/) | Cuando los héroes enemigos lanzan un hechizo, el Observador obtiene un escudo equivalente al 10% de los PV máximos durante 7 s. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mirada Oscura](/es/Items/con_990/) | Aumenta el golpe crítico del Observador en 50 cada vez que se despliega una unidad de Mazmorra. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mirada Oscura](/es/Items/con_990/) | El Observador lanza <Atadura Sombría> a una unidad enemiga aleatoria cada 20 s. La unidad bajo los efectos de la atadura no puede atacar y su DEF disminuye un 20%. Si la unidad objetivo está bajo los efectos de <Control Mental>, su tenacidad disminuye en 200 durante 5 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mirada Oscura](/es/Items/con_990/) | Aumenta la reducción de daño de unidad del Observador un 15%. Cada vez que un Ojo de la Muerte se cierra, aumenta la DEF un 10%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mirada Oscura](/es/Items/con_990/) | Aumenta el ATQ y el daño de golpe crítico del Observador un 20% al atacar a unidades que estén sangrando. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mirada Oscura](/es/Items/con_990/) | <Bendición Inadvertida> Al comienzo de la batalla, el Observador aumenta el daño de unidad y la velocidad de ataque de las unidades amistosas de Mazmorra un 30%. Este efecto se debilita un 10% cada 10 s hasta 2 veces. El efecto dura 30 s. La duración del efecto se duplica al luchar contra unidades cuerpo a cuerpo y el debilitamiento se divide por la mitad. |
+  |  Despertar  | **100x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | <Visión Oscura> Inflige daño equivalente al 200% de su propio ATQ a todas las unidades enemigas en una zona grande delante suyo y disminuye su reducción de daño de unidad un 15%. El efecto se duplica contra objetivos aturdidos. Dura 7 s. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | Cuando los héroes enemigos lanzan un hechizo, el Observador obtiene un escudo equivalente al 10% de los PV máximos durante 7 s. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | Aumenta el golpe crítico del Observador en 50 cada vez que se despliega una unidad de Mazmorra. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | El Observador lanza <Atadura Sombría> a una unidad enemiga aleatoria cada 20 s. La unidad bajo los efectos de la atadura no puede atacar y su DEF disminuye un 20%. Si la unidad objetivo está bajo los efectos de <Control Mental>, su tenacidad disminuye en 200 durante 5 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | Aumenta la reducción de daño de unidad del Observador un 15%. Cada vez que un Ojo de la Muerte se cierra, aumenta la DEF un 10%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | Aumenta el ATQ y el daño de golpe crítico del Observador un 20% al atacar a unidades que estén sangrando. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mirada Oscura](/ItemsES/con_990/) | <Bendición Inadvertida> Al comienzo de la batalla, el Observador aumenta el daño de unidad y la velocidad de ataque de las unidades amistosas de Mazmorra un 30%. Este efecto se debilita un 10% cada 10 s hasta 2 veces. El efecto dura 30 s. La duración del efecto se duplica al luchar contra unidades cuerpo a cuerpo y el debilitamiento se divide por la mitad. |
 
 
 ## Subir de nivel

@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Dragón de Hueso](/es/Items/unt_214/)
+ **Unit Soul:** [Dragón de Hueso](/ItemsES/unt_214/)
 
  **Unit description:** Miedo: reduce la defensa de los enemigos mucho y causa moral baja.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha del Hueso de Dragón Inmortal](/es/Items/con_980/)
+ **Item to Subir rango:** [Ficha del Hueso de Dragón Inmortal](/ItemsES/con_980/)
 
- **Aspecto:** [Aspecto Especial de Hueso de Dragón Inmortal](/es/Items/con_648/)
+ **Aspecto:** [Aspecto Especial de Hueso de Dragón Inmortal](/ItemsES/con_648/)
 
 
 ## Emblemas Sagrados recomendados
@@ -176,7 +176,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

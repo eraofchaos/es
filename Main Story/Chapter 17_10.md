@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-10 Quitarle la Comida al Lobo"
 permalink: /Main Story/Chapter 17_10/
 excerpt: "Capítulo 17 - 10. Era of Chaos  Historia principal - Capítulo 17_10. 17-10 Quitarle la Comida al Lobo"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 17_10.md"
 toc: false

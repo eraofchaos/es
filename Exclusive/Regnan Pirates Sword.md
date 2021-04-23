@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Piratas Regnan Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Regnan Pirates Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Piratas Regnan](/es/units/Regnan Pirates/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | Realiza un poderoso contraataque cuando recibe un ataque, lo que inflige un 300% de daño a los enemigos. La recarga es de 8 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Tiene un 50% de probabilidad de infectar a las unidades hostiles con <Escorbuto> al atacar, lo que hace que pierdan un 1% de los PV por segundo y reduce su curación un 35% durante 3 s (no se puede acumular). |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta el ATQ de los Piratas Regnan un 20% y el daño de la unidad un 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | Restaura un 30% de los PV tras comer naranjas para curar el escorbuto cuando los PV de los Piratas Regnan se reducen por debajo del 30% por primera vez. Otorga inmunidad al aturdimiento, la petrificación y al silencio durante 5 s cuando se equipa con Emblema Sagrado. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta el golpe crítico de los Piratas Regnan en 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño crítico de los Piratas Regnan un 25%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | Después de impactar con un golpe crítico, restauran un 5% de los PV y su daño crítico aumenta un 5% durante 15 s, hasta un máximo de 10 acumulaciones. Puede activarse cada 10 s. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | Realiza un poderoso contraataque cuando recibe un ataque, lo que inflige un 300% de daño a los enemigos. La recarga es de 8 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Tiene un 50% de probabilidad de infectar a las unidades hostiles con <Escorbuto> al atacar, lo que hace que pierdan un 1% de los PV por segundo y reduce su curación un 35% durante 3 s (no se puede acumular). |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el ATQ de los Piratas Regnan un 20% y el daño de la unidad un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | Restaura un 30% de los PV tras comer naranjas para curar el escorbuto cuando los PV de los Piratas Regnan se reducen por debajo del 30% por primera vez. Otorga inmunidad al aturdimiento, la petrificación y al silencio durante 5 s cuando se equipa con Emblema Sagrado. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el golpe crítico de los Piratas Regnan en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el daño crítico de los Piratas Regnan un 25%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | Después de impactar con un golpe crítico, restauran un 5% de los PV y su daño crítico aumenta un 5% durante 15 s, hasta un máximo de 10 acumulaciones. Puede activarse cada 10 s. |
 
 
 ## Subir de nivel

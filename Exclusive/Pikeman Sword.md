@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Piquero Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Pikeman Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Piquero](/es/units/Pikeman/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta la velocidad de ataque del Piquero un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta la tenacidad del Piquero en 150. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Carga Ferviente> Activa un <Lanzazo Sagrado> adicional cuando el Piquero tiene la moral alta. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de golpe crítico del Piquero un 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Aumenta la DEF un 3% y la esquiva en 30 por cada unidad de Castillo en el campo de batalla. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Valentía> Cuando los ataques del Piquero son esquivados, todas las unidades amistosas en su camino aumentan su daño de golpe crítico y velocidad de ataque un 20% durante 12 s. La recarga es de 20 s. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | <Lanzazo Sagrado> El Piquero inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo cada 15 s y reduce la DEF del objetivo un 4% durante 7 s. Se acumula hasta 4 veces. Si la unidad objetivo está aturdida, la tenacidad también se reduce en 150 durante 6 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la velocidad de ataque del Piquero un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la tenacidad del Piquero en 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | <Carga Ferviente> Activa un <Lanzazo Sagrado> adicional cuando el Piquero tiene la moral alta. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el daño de golpe crítico del Piquero un 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la DEF un 3% y la esquiva en 30 por cada unidad de Castillo en el campo de batalla. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | <Valentía> Cuando los ataques del Piquero son esquivados, todas las unidades amistosas en su camino aumentan su daño de golpe crítico y velocidad de ataque un 20% durante 12 s. La recarga es de 20 s. |
 
 
 ## Subir de nivel

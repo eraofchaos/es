@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Catafracto"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Catafracto](/es/Items/unt_195/)
+ **Unit Soul:** [Catafracto](/ItemsES/unt_195/)
 
  **Unit description:** Justa: inflige daño considerable y aturde con el primer ataque.
 
@@ -88,7 +88,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -173,7 +173,7 @@ toc: true
 
 * ?!? 
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

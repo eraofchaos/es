@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Escudo de Cristal Gélido"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Era of Chaos  Espada de Escarcha - Escudo de Cristal Gélido. Un escudo sagrado sellado en la meseta de Bracada. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Ice Crystal Shield.md"
 toc: false

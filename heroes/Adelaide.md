@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. De joven, tras naufragar y quedarse sola, Adelaide acabo en el territorio de los Elfos de las Nieves. Entrenó durante 20 años con sus rescatadores y se convirtió en la maga más poderosa del Reino antes de volver a Erathia."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Adelaide"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** De joven, tras naufragar y quedarse sola, Adelaide acabo en el territorio de los Elfos de las Nieves. Entrenó durante 20 años con sus rescatadores y se convirtió en la maga más poderosa del Reino antes de volver a Erathia.
 ## Detalles
- **Profession:** Clérigos
+ **Profession:** ![Clérigos](/images/h/h_prof_2.png) Clérigos
 
  **Race:** Castillo
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** R+
 
- **Specialty:** Anillo Gélido
+ **Especialidad de Héroe:** Anillo Gélido
 
  **Mana base:** 40
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 10 | 8 | TBD |
-  |    2    | 15 | 12 | TBD |
-  |    3    | 20 | 16 | TBD |
-  |    4    | 25 | 20 | TBD |
+  | Stars | Inteligencia del Héroe | Sabiduría del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 10 | 8 | **30x** [Adelaide](/ItemsES/her_359/) | Las unidades amistosas infligen un 30% de daño adicional a las unidades enemigas congeladas. |
+  |    2    | 15 | 12 | **50x** [Adelaide](/ItemsES/her_359/) | Aumenta el daño infligido con <Anillo Gélido> un 30%. |
+  |    3    | 20 | 16 | **100x** [Adelaide](/ItemsES/her_359/) | Reduce el coste de la magia de agua un 10%. |
+  |    4    | 25 | 20 | **150x** [Adelaide](/ItemsES/her_359/) | La duración de la congelación causada por <Anillo Gélido> aumenta un 100%. |
 
-## Spells
-### 1 Spell: Flecha congelada
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha congelada
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> de daño de hechizo de agua a las unidades enemigas a cierta distancia y las <span style="color: #e07c44;font-size:20px">ralentiza</span><span style="color: black"> durante 8 s.
 
-### 2 Spell: Descarga de hielo
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de agua a las unidades enemigas y les lanza <span style="color: #f0f000;font-size:18px">ralentización</span><span style="color: black">.
+
+### 2 Hechizo: Descarga de hielo
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de agua a las unidades enemigas a cierta distancia e inflige <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101> de daño de hechizo de agua adicional a los objetivos <span style="color: #e07c44;font-size:20px">ralentizados.</span><span style="color: black">
 
-### 3 Spell: Muro de hielo
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> y el daño adicional aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd22}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de agua a las unidades enemigas y daño de agua adicional a los objetivos <span style="color: #f0f000;font-size:18px">ralentizados</span><span style="color: black"><span style="color: #48b946;font-size:20px"></span><span style="color: black">.
+
+### 3 Hechizo: Muro de hielo
  **Descripción:** Invoca 1 Muro de hielo que <span style="color: #e07c44;font-size:20px">congela</span><span style="color: black"> a las unidades enemigas cercanas durante {($olast11+$olast12*($sklevel-1))/1000} s.
 
-### 4 Spell: Anillo Gélido
+ **Descripción 2:** Al siguiente nivel, la recarga se reduce en <span style="color: #00ff22;font-size:16px">{($cd2)/1000}</span><span style="color: black"> segundos.
+
+ **Descripción 3:** Invocar Muro de hielo
+
+ **Descripción 4:** Invoca un muro de hielo y <span style="color: #f0f000;font-size:18px">congela</span><span style="color: black"> a las unidades enemigas que pasan por el.
+
+### 4 Hechizo: Anillo Gélido
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de agua a las unidades enemigas en una zona muy grande y <span style="color: #e07c44;font-size:20px">congela</span><span style="color: black"> a los objetivos <span style="color: #e07c44;font-size:20px">ralentizados</span><span style="color: black"> durante 5 s.
+
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de agua a las unidades enemigas y hace que los objetivos <span style="color: #f0f000;font-size:18px">ralentizados </span><span style="color: black">queden <span style="color: #f0f000;font-size:18px">congelados</span><span style="color: black">.
 
 
 ## Ayudante

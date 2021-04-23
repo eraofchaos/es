@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 - 12-3 Una Represalia Poderoso"
 permalink: /Underground/Chapter 12_3/
 excerpt: "Capítulo 12 - 3. Era of Chaos  Subterráneo - Capítulo 12_3. 12-3 Una Represalia Poderoso"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 12_3.md"
 toc: false

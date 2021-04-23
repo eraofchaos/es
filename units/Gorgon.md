@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gorgona"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Gorgona](/es/Items/unt_257/)
+ **Unit Soul:** [Gorgona](/ItemsES/unt_257/)
 
  **Short description:** Ataque elevado. Resistente. Control potente.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Cuerno de Gorgona](/es/Items/con_995/)
+ **Item to Subir rango:** [Ficha de Cuerno de Gorgona](/ItemsES/con_995/)
 
- **Aspecto:** [Aspecto Especial de Cuerno de Gorgona](/es/Items/con_663/)
+ **Aspecto:** [Aspecto Especial de Cuerno de Gorgona](/ItemsES/con_663/)
 
 
 ## Emblemas Sagrados recomendados
@@ -186,7 +186,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

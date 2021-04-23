@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Espadachín Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Swordsman Escudo Iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Espadachín](/es/units/Swordsman/) 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Rompeescudos> El Espadachín ralentiza a una unidad enemiga cada 18 s y disminuye su reducción de daño de unidad un 15% durante 7 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta los PV un 20% y la esquiva en 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF un 20% durante 5 s cuando tiene la moral alta. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Recuperación> Cuando una unidad de Espadachín recibe daño superior al 8% de sus PV máximos con un solo ataque, recupera PV equivalentes al 150% de su propio ATQ. La recarga es de 10 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la tenacidad en 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta su propia reducción de daño de unidad un 4% por cada unidad de Castillo en el campo de batalla. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Matanza de Dragones> La reducción de daño de unidad del Espadachín aumenta un 20% cuando ataca a unidades de 1 o 4 miembros. Las unidades a corta distancia también obtienen un 20% de aumento de la velocidad de ataque. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Rompeescudos> El Espadachín ralentiza a una unidad enemiga cada 18 s y disminuye su reducción de daño de unidad un 15% durante 7 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta los PV un 20% y la esquiva en 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la DEF un 20% durante 5 s cuando tiene la moral alta. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Recuperación> Cuando una unidad de Espadachín recibe daño superior al 8% de sus PV máximos con un solo ataque, recupera PV equivalentes al 150% de su propio ATQ. La recarga es de 10 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la tenacidad en 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta su propia reducción de daño de unidad un 4% por cada unidad de Castillo en el campo de batalla. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Matanza de Dragones> La reducción de daño de unidad del Espadachín aumenta un 20% cuando ataca a unidades de 1 o 4 miembros. Las unidades a corta distancia también obtienen un 20% de aumento de la velocidad de ataque. |
 
 
 ## Subir de nivel

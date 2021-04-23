@@ -3,7 +3,7 @@ title: "Hidra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bestia de varias cabezas que vive en lo profundo de la ciénaga. Matarla supone la gloria con la que sueñan todos los héroes."
 unitID: 807
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Hidra"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Hidra](/es/Items/unt_259/)
+ **Unit Soul:** [Hidra](/ItemsES/unt_259/)
 
  **Short description:** Ataque elevado. Resistente. Control potente.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Cabeza de Hidra](/es/Items/con_997/)
+ **Item to Subir rango:** [Ficha de Cabeza de Hidra](/ItemsES/con_997/)
 
- **Aspecto:** [Aspecto Especial de Núcleo de energía](/es/Items/con_665/)
+ **Aspecto:** [Aspecto Especial de Núcleo de energía](/ItemsES/con_665/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,7 +171,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

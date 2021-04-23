@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-10 Gemas Élficas"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Capítulo 16 - 10. Era of Chaos  Historia principal - Capítulo 16_10. 16-10 Gemas Élficas"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 16_10.md"
 toc: false

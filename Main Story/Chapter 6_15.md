@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-15 Matanza Nocturna"
 permalink: /Main Story/Chapter 6_15/
 excerpt: "Capítulo 6 - 15. Era of Chaos  Historia principal - Capítulo 6_15. 6-15 Matanza Nocturna"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 6_15.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Elemental Psíquico](/es/Items/unt_267/)
+ **Unit Soul:** [Elemental Psíquico](/ItemsES/unt_267/)
 
  **Short description:** Daño rápido de energía. Quemadura.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Núcleo Espiritual](/es/Items/con_1000/)
+ **Item to Subir rango:** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/)
 
- **Aspecto:** [Aspecto Especial de Núcleo Espiritual](/es/Items/con_668/)
+ **Aspecto:** [Aspecto Especial de Núcleo Espiritual](/ItemsES/con_668/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,7 +171,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

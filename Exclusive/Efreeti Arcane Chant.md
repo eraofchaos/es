@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Efreeti)"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Efrit Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Efreeti Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Efrit](/es/units/Efreeti/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Llamas del Olvido> Cuando el objetivo atacado está quemándose, recibe una bola de fuego que inflige daño equivalente al 30% de sus PV máximos a las unidades enemigas en una zona grande. La recarga es de 30 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de unidad del Efrit un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el ATQ del Efrit un 20% y la velocidad de ataque un 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Vasallaje> Cuando una unidad enemiga en el campo de batalla tiene una Marca del Infierno, el Efrit utiliza Fuego Infernal para atacar a una de las unidades marcadas, lo que le inflige daño equivalente al 100% de su propio ATQ y le añade una nueva Marca del Infierno. La recarga es de 15 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de golpe crítico del Efrit un 40%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | El Efrit es inmune al daño causado por los hechizos de tipo fuego. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Llamas del Olvido> causa aturdimiento durante 5 s y reduce el daño de unidad un 40% durante 10 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Llamas del Olvido> Cuando el objetivo atacado está quemándose, recibe una bola de fuego que inflige daño equivalente al 30% de sus PV máximos a las unidades enemigas en una zona grande. La recarga es de 30 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de unidad del Efrit un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el ATQ del Efrit un 20% y la velocidad de ataque un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Vasallaje> Cuando una unidad enemiga en el campo de batalla tiene una Marca del Infierno, el Efrit utiliza Fuego Infernal para atacar a una de las unidades marcadas, lo que le inflige daño equivalente al 100% de su propio ATQ y le añade una nueva Marca del Infierno. La recarga es de 15 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de golpe crítico del Efrit un 40%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | El Efrit es inmune al daño causado por los hechizos de tipo fuego. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Llamas del Olvido> causa aturdimiento durante 5 s y reduce el daño de unidad un 40% durante 10 s. |
 
 
 ## Subir de nivel

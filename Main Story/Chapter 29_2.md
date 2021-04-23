@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-2 Tumba del Liche"
 permalink: /Main Story/Chapter 29_2/
 excerpt: "Capítulo 29 - 2. Era of Chaos  Historia principal - Capítulo 29_2. 29-2 Tumba del Liche"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 29_2.md"
 toc: false

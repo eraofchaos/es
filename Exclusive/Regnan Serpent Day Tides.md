@@ -2,7 +2,7 @@
 title: "Exclusivo - Mareas Diurnas (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Mareas Diurnas. Mareas Diurnas. Era of Chaos Exclusivo Mareas Diurnas. Serpiente Regnan Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Regnan Serpent Mareas Diurnas.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Serpiente Regnan](/es/units/Regnan Serpent/) 
 
- **Item to Subir rango:** [Ficha de Mareas Diurnas](/es/Items/con_1003/)
+ **Item to Subir rango:** [Ficha de Mareas Diurnas](/ItemsES/con_1003/)
 
- **Aspecto:** [Aspecto Especial de Mareas Diurnas](/es/Items/con_671/)
+ **Aspecto:** [Aspecto Especial de Mareas Diurnas](/ItemsES/con_671/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | <Torrente Infinito> La Serpiente Regnan golpea con su tridente y lanza el poder de las mareas contra los enemigos, lo que inflige daño equivalente al 100% de su propio ATQ a las unidades enemigas en una zona grande delante suyo y aumenta su velocidad de ataque un 20% y el daño de golpe crítico un 40%. Reduce la tenacidad y la esquiva de las unidades enemigas bajo los efectos de ralentización en 200 durante 6 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | Aumenta la reducción de daño de unidad de la Serpiente Regnan un 20% y otro 20% adicional al recibir ataques a distancia. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | Al lanzar <Torrente Infinito>, aumenta la DEF de la Serpiente Regnan un 10%. Dura toda la batalla. Se acumula hasta 3 veces. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | La Serpiente Regnan, bajo los efectos de la fuerza de las mareas, entra en el estado Marea Alta 5 s después de que comience la batalla, lo que aumenta la reducción de daño de unidad un 20% durante 6 s y recupera PV equivalentes al 5% de sus PV máximos. A continuación, entra en el estado Marea Nocturna, lo que aumenta su velocidad de ataque un 20% y su golpe crítico en 200 durante 6 s. Después de esto, la Serpiente Regnan alterna entre los estados Marea Alta y Marea Nocturna. Dura toda la batalla. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | Aumenta la curación que recibe la Serpiente Regnan un 40% y los PV un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | Al entrar en el estado Marea Alta, la Serpiente Regnan obtiene una burbuja adicional equivalente al 7% de sus PV máximos durante 6 s. Al entrar en el estado Marea Nocturna, la Serpiente Regnan se purifica una vez. Al comienzo de la batalla, la Serpiente Regnan obtiene una burbuja equivalente al 30% de sus PV máximos durante 12 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mareas Diurnas](/es/Items/con_1003/) | <Obsequio Oceánico> Al lanzar <Torrente Infinito>, la Serpiente Regnan otorga una burbuja equivalente al 20% de los PV máximos a las unidades de Cala de la retaguardia amistosas durante 15 s y aumenta la tenacidad de las unidades de Cala de vanguardia amistosas en 300 durante 6 s. |
+  |  Despertar  | **100x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | <Torrente Infinito> La Serpiente Regnan golpea con su tridente y lanza el poder de las mareas contra los enemigos, lo que inflige daño equivalente al 100% de su propio ATQ a las unidades enemigas en una zona grande delante suyo y aumenta su velocidad de ataque un 20% y el daño de golpe crítico un 40%. Reduce la tenacidad y la esquiva de las unidades enemigas bajo los efectos de ralentización en 200 durante 6 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | Aumenta la reducción de daño de unidad de la Serpiente Regnan un 20% y otro 20% adicional al recibir ataques a distancia. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | Al lanzar <Torrente Infinito>, aumenta la DEF de la Serpiente Regnan un 10%. Dura toda la batalla. Se acumula hasta 3 veces. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | La Serpiente Regnan, bajo los efectos de la fuerza de las mareas, entra en el estado Marea Alta 5 s después de que comience la batalla, lo que aumenta la reducción de daño de unidad un 20% durante 6 s y recupera PV equivalentes al 5% de sus PV máximos. A continuación, entra en el estado Marea Nocturna, lo que aumenta su velocidad de ataque un 20% y su golpe crítico en 200 durante 6 s. Después de esto, la Serpiente Regnan alterna entre los estados Marea Alta y Marea Nocturna. Dura toda la batalla. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | Aumenta la curación que recibe la Serpiente Regnan un 40% y los PV un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | Al entrar en el estado Marea Alta, la Serpiente Regnan obtiene una burbuja adicional equivalente al 7% de sus PV máximos durante 6 s. Al entrar en el estado Marea Nocturna, la Serpiente Regnan se purifica una vez. Al comienzo de la batalla, la Serpiente Regnan obtiene una burbuja equivalente al 30% de sus PV máximos durante 12 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Mareas Diurnas](/ItemsES/con_1003/) | <Obsequio Oceánico> Al lanzar <Torrente Infinito>, la Serpiente Regnan otorga una burbuja equivalente al 20% de los PV máximos a las unidades de Cala de la retaguardia amistosas durante 15 s y aumenta la tenacidad de las unidades de Cala de vanguardia amistosas en 300 durante 6 s. |
 
 
 ## Subir de nivel

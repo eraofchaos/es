@@ -3,7 +3,7 @@ title: "Diablillo"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Diablillo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Diablillo](/es/Items/unt_226/)
+ **Unit Soul:** [Diablillo](/ItemsES/unt_226/)
 
  **Unit description:** Impulso: la unidad tiene una probabilidad de revivir con la vida al máximo al morir.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Evasión de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

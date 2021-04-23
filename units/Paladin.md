@@ -3,7 +3,7 @@ title: "Paladín"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Paladín es el principal benefactor de la facción de Castillo. Es experto en motivar a las unidades para que den rienda suelta a sus habilidades potenciales."
 unitID: 108
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Paladín"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Paladín](/es/Items/unt_197/)
+ **Unit Soul:** [Paladín](/ItemsES/unt_197/)
 
  **Unit description:** Refuerzos de los valientes: Invoca una Comitiva de Refugio para que luche
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Valiente](/es/Items/con_974/)
+ **Item to Subir rango:** [Ficha de Valiente](/ItemsES/con_974/)
 
- **Aspecto:** [Aspecto Especial de Valiente](/es/Items/con_642/)
+ **Aspecto:** [Aspecto Especial de Valiente](/ItemsES/con_642/)
 
 
 ## Emblemas Sagrados recomendados
@@ -170,7 +170,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Jinete Lupino Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Wolf Rider Pica de Caballero.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Jinete Lupino](/es/units/Wolf Rider/) 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Golpe Lupino> El Jinete Lupino inflige un daño equivalente al 250% de su propio ATQ y un 5% de los PV máximos del objetivo a la unidad objetivo. La recarga es de 12 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el ATQ del Jinete Lupino un 20% y la velocidad de ataque un 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la reducción de daño de unidad del Jinete Lupino un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Pacto de Lobos> El Jinete Lupino invoca 1 lobo para que lo ayude en combate durante 10 s cada 3 s. Los ataques normales del lobo invocado tienen un 5% de probabilidad de causar aturdimiento durante 2 s al objetivo. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la esquiva del Jinete Lupino en 60 y la tenacidad en 60 cada vez que se despliega una unidad de Bastión. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | El Jinete Lupino es inmune a todo el daño de hechizos durante los primeros 20 s de combate. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Cada vez que se lanza <Pacto de Lobos>, hay un 20% de probabilidad de invocar a un Rey de los Lobos. Una vez invocado, el Rey de los Lobos aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 20% durante 10 s. No se puede acumular. Los ataques del Rey de los Lobos tienen un 25% de probabilidad de causar aturdimiento al objetivo durante 2 s e infligir el doble de daño. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Golpe Lupino> El Jinete Lupino inflige un daño equivalente al 250% de su propio ATQ y un 5% de los PV máximos del objetivo a la unidad objetivo. La recarga es de 12 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta el ATQ del Jinete Lupino un 20% y la velocidad de ataque un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la reducción de daño de unidad del Jinete Lupino un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Pacto de Lobos> El Jinete Lupino invoca 1 lobo para que lo ayude en combate durante 10 s cada 3 s. Los ataques normales del lobo invocado tienen un 5% de probabilidad de causar aturdimiento durante 2 s al objetivo. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la esquiva del Jinete Lupino en 60 y la tenacidad en 60 cada vez que se despliega una unidad de Bastión. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | El Jinete Lupino es inmune a todo el daño de hechizos durante los primeros 20 s de combate. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Cada vez que se lanza <Pacto de Lobos>, hay un 20% de probabilidad de invocar a un Rey de los Lobos. Una vez invocado, el Rey de los Lobos aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 20% durante 10 s. No se puede acumular. Los ataques del Rey de los Lobos tienen un 25% de probabilidad de causar aturdimiento al objetivo durante 2 s e infligir el doble de daño. |
 
 
 ## Subir de nivel

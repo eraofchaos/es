@@ -3,7 +3,7 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Vidente Regnan"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Vidente Regnan](/es/Items/unt_279/)
+ **Unit Soul:** [Vidente Regnan](/ItemsES/unt_279/)
 
  **Short description:** Líder de Cala. Control potente.
 
@@ -83,9 +83,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/)
+ **Item to Subir rango:** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/)
 
- **Aspecto:** [Tool_2990709](/es/Items/con_674/)
+ **Aspecto:** [Tool_2990709](/ItemsES/con_674/)
 
 
 ## Emblemas Sagrados recomendados
@@ -180,7 +180,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

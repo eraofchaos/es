@@ -2,7 +2,7 @@
 title: "Exclusivo - Gasa (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Gasa. Gasa. Era of Chaos Exclusivo Gasa. Momia Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Mummy Gasa.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Momia](/es/units/Mummy/) 
 
- **Item to Subir rango:** [Ficha de Gasa](/es/Items/con_981/)
+ **Item to Subir rango:** [Ficha de Gasa](/ItemsES/con_981/)
 
- **Aspecto:** [Aspecto Especial de Gasa](/es/Items/con_649/)
+ **Aspecto:** [Aspecto Especial de Gasa](/ItemsES/con_649/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Gasa](/es/Items/con_981/) | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta la reducción de daño de unidad de la Momia un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Gasa](/es/Items/con_981/) | La Momia aumenta su propia DEF un 15% durante 5 s cuando está bajo los efectos de moral baja y recupera PV equivalentes al 8% de sus PV máximos. La recarga es de 15 s. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Gasa](/es/Items/con_981/) | <Momificación> La Momia utiliza vendas para envolver a las unidades cuerpo a cuerpo cercanas, lo que les impide moverse, atacar y lanzar habilidades, y disminuye su reducción de daño de unidad un 15% durante 3 s. La recarga es de 25 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta su propia reducción de daño de unidad un 6% por cada unidad de Necrópolis en el campo de batalla. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Gasa](/es/Items/con_981/) | Cuando un héroe amistoso lanza un hechizo de tipo tierra, la Momia aumenta el daño de unidad de las unidades de Necrópolis en una zona grande un 5% y la reducción de daño de unidad un 10% durante 6 s. Se acumula hasta 3 veces. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Gasa](/es/Items/con_981/) | Aumenta la reducción de daño de unidad un 40% cuando la Momia está siendo atacada por unidades lanzadoras/a distancia. <Momificación> se vuelve a activar cuando los PV caen por debajo del 75%, el 50% y el 25%, lo que le permite recuperar PV equivalentes al 3% de sus PV máximos por segundo. |
+  |  Despertar  | **100x** [Ficha de Gasa](/ItemsES/con_981/) | La Momia causa moral baja a todas las unidades en una zona grande cada 8 s, reduce el daño de unidad de las unidades enemigas dentro del alcance un 15% y les causa plaga durante 3 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Gasa](/ItemsES/con_981/) | Aumenta la reducción de daño de unidad de la Momia un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Gasa](/ItemsES/con_981/) | La Momia aumenta su propia DEF un 15% durante 5 s cuando está bajo los efectos de moral baja y recupera PV equivalentes al 8% de sus PV máximos. La recarga es de 15 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Gasa](/ItemsES/con_981/) | <Momificación> La Momia utiliza vendas para envolver a las unidades cuerpo a cuerpo cercanas, lo que les impide moverse, atacar y lanzar habilidades, y disminuye su reducción de daño de unidad un 15% durante 3 s. La recarga es de 25 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Gasa](/ItemsES/con_981/) | Aumenta su propia reducción de daño de unidad un 6% por cada unidad de Necrópolis en el campo de batalla. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Gasa](/ItemsES/con_981/) | Cuando un héroe amistoso lanza un hechizo de tipo tierra, la Momia aumenta el daño de unidad de las unidades de Necrópolis en una zona grande un 5% y la reducción de daño de unidad un 10% durante 6 s. Se acumula hasta 3 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Gasa](/ItemsES/con_981/) | Aumenta la reducción de daño de unidad un 40% cuando la Momia está siendo atacada por unidades lanzadoras/a distancia. <Momificación> se vuelve a activar cuando los PV caen por debajo del 75%, el 50% y el 25%, lo que le permite recuperar PV equivalentes al 3% de sus PV máximos por segundo. |
 
 
 ## Subir de nivel

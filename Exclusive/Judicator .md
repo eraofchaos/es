@@ -2,7 +2,7 @@
 title: "Exclusivo -  (Judicator)"
 permalink: /Exclusive/Judicator /
 excerpt: "Era of Chaos . . Era of Chaos Exclusivo . Adjudicadora Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Judicator .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Adjudicadora](/es/units/Judicator/) 
 
- **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/)
+ **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/)
 
- **Aspecto:** [Tool_210909](/es/Items/con_643/)
+ **Aspecto:** [Tool_210909](/ItemsES/con_643/)
 
  **Type:** Capital
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/) |  |
+  |  Despertar  | **100x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/) |  |
 
 
 ## Subir de nivel

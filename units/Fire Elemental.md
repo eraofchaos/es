@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Elemental de Fuego"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/)
 
- **Unit Soul:** [Elemental de Fuego](/es/Items/unt_265/)
+ **Unit Soul:** [Elemental de Fuego](/ItemsES/unt_265/)
 
  **Short description:** Quemadura. Explosión amplia.
 
@@ -81,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Energía de fuego](/es/Items/con_998/)
+ **Item to Subir rango:** [Ficha de Energía de fuego](/ItemsES/con_998/)
 
- **Aspecto:** [Aspecto Especial de Energía de fuego](/es/Items/con_666/)
+ **Aspecto:** [Aspecto Especial de Energía de fuego](/ItemsES/con_666/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Velocidad de ataque
 * Evasión de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

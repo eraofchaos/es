@@ -2,7 +2,7 @@
 title: "Exclusivo - Cabeza de Hidra (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Cabeza de Hidra. Cabeza de Hidra. Era of Chaos Exclusivo Cabeza de Hidra. Hidra Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Hydra Cabeza de Hidra.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Hidra](/es/units/Hydra/) 
 
- **Item to Subir rango:** [Ficha de Cabeza de Hidra](/es/Items/con_997/)
+ **Item to Subir rango:** [Ficha de Cabeza de Hidra](/ItemsES/con_997/)
 
- **Aspecto:** [Aspecto Especial de Núcleo de energía](/es/Items/con_665/)
+ **Aspecto:** [Aspecto Especial de Núcleo de energía](/ItemsES/con_665/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | <Frenesí Voraz> Muerde al enemigo 1 vez cada 1 s, lo ataca 5 veces en total y le inflige daño equivalente al 50% de su propio ATQ cada vez. Reduce la tenacidad del enemigo en 50 y aumenta su propio daño de golpe crítico un 4%. Se acumula hasta 5 veces. Este efecto dura 3 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | Aumenta el daño de unidad de la Hidra y el ATQ un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | Aumenta la DEF de la Hidra y la reducción de daño de unidad un 10%. Cuando la Hidra está en el campo de batalla, aumenta la DEF de todas las unidades de Fortaleza amistosas un 10% y la reducción de daño de unidad un 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | <Renacer> Cuando recibe daño superior al 10% de sus propios PV máximos en un solo ataque, pero inferior al 20% de sus PV máximos, recupera 500.000 PV después al cabo de 3 s. Cuando recibe daño superior al 20% de sus propios PV máximos en un solo ataque, se vuelve inmune al daño más allá de ese 20%. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | Aumenta la absorción de vida de la Hidra un 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | La Hidra es inmune a la petrificación y, cuando está bajo los efectos de moral baja, aumenta su velocidad de ataque un 33% durante 5 s. Cuando está bajo los efectos de desaliento, su golpe crítico aumenta en 300 durante 5 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Cabeza de Hidra](/es/Items/con_997/) | <Aliento Caótico> Ataca a las unidades enemigas en una zona grande delante suyo, les inflige daño equivalente al 200% de su propio ATQ a las unidades defensivas y daño equivalente al 23% de los PV máximos a las demás unidades. También causa 1 penalización aleatoria. La recarga es de 15 s. |
+  |  Despertar  | **100x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | <Frenesí Voraz> Muerde al enemigo 1 vez cada 1 s, lo ataca 5 veces en total y le inflige daño equivalente al 50% de su propio ATQ cada vez. Reduce la tenacidad del enemigo en 50 y aumenta su propio daño de golpe crítico un 4%. Se acumula hasta 5 veces. Este efecto dura 3 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | Aumenta el daño de unidad de la Hidra y el ATQ un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | Aumenta la DEF de la Hidra y la reducción de daño de unidad un 10%. Cuando la Hidra está en el campo de batalla, aumenta la DEF de todas las unidades de Fortaleza amistosas un 10% y la reducción de daño de unidad un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | <Renacer> Cuando recibe daño superior al 10% de sus propios PV máximos en un solo ataque, pero inferior al 20% de sus PV máximos, recupera 500.000 PV después al cabo de 3 s. Cuando recibe daño superior al 20% de sus propios PV máximos en un solo ataque, se vuelve inmune al daño más allá de ese 20%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | Aumenta la absorción de vida de la Hidra un 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | La Hidra es inmune a la petrificación y, cuando está bajo los efectos de moral baja, aumenta su velocidad de ataque un 33% durante 5 s. Cuando está bajo los efectos de desaliento, su golpe crítico aumenta en 300 durante 5 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Cabeza de Hidra](/ItemsES/con_997/) | <Aliento Caótico> Ataca a las unidades enemigas en una zona grande delante suyo, les inflige daño equivalente al 200% de su propio ATQ a las unidades defensivas y daño equivalente al 23% de los PV máximos a las demás unidades. También causa 1 penalización aleatoria. La recarga es de 15 s. |
 
 
 ## Subir de nivel

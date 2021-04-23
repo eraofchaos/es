@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Bola de Cristal"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Fragmento del Edén - Bola de Cristal. Una bola de cristal brillante. Según la leyenda, permite ver el futuro."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Crystal Ball.md"
 toc: false

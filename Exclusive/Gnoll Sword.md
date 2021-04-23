@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gnoll Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gnoll Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Gnoll](/es/units/Gnoll/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Heridas Abiertas> El Gnoll inflige daño equivalente al 275% de su propio ATQ a las unidades objetivo y les causa sangrado durante 8 s. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta la penetración del Gnoll en 100. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de unidad del Gnoll un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | Aumenta la esquiva del Gnoll en 300. Al recibir un golpe crítico, restaura el 5% de los PV máximos y tiene un 50% de probabilidad de aumentar la reducción de daño de unidad un 50% durante 1 s. La recarga es de 3 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta la reducción de daño de unidad del Gnoll un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | El Gnoll aumenta también su ATQ un 20% y su absorción de vida un 15% al luchar contra unidades que estén sangrando. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | Al lanzar <Heridas Abiertas>, inflige un 2,5% adicional de PV máximos por segundo a la unidad objetivo y reduce el daño de unidad de la unidad objetivo un 30% y la DEF un 10% durante 5 s. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | <Heridas Abiertas> El Gnoll inflige daño equivalente al 275% de su propio ATQ a las unidades objetivo y les causa sangrado durante 8 s. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la penetración del Gnoll en 100. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el daño de unidad del Gnoll un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la esquiva del Gnoll en 300. Al recibir un golpe crítico, restaura el 5% de los PV máximos y tiene un 50% de probabilidad de aumentar la reducción de daño de unidad un 50% durante 1 s. La recarga es de 3 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la reducción de daño de unidad del Gnoll un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | El Gnoll aumenta también su ATQ un 20% y su absorción de vida un 15% al luchar contra unidades que estén sangrando. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | Al lanzar <Heridas Abiertas>, inflige un 2,5% adicional de PV máximos por segundo a la unidad objetivo y reduce el daño de unidad de la unidad objetivo un 30% y la DEF un 10% durante 5 s. |
 
 
 ## Subir de nivel

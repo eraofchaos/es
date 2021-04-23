@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Observador"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Observador](/es/Items/unt_246/)
+ **Unit Soul:** [Observador](/ItemsES/unt_246/)
 
  **Unit description:** Control mental: Inmoviliza a enemigos y hace que pierdan PV de forma prolongada.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Mirada Oscura](/es/Items/con_990/)
+ **Item to Subir rango:** [Ficha de Mirada Oscura](/ItemsES/con_990/)
 
- **Aspecto:** [Aspecto Especial de Mirada Oscura](/es/Items/con_658/)
+ **Aspecto:** [Aspecto Especial de Mirada Oscura](/ItemsES/con_658/)
 
 
 ## Emblemas Sagrados recomendados
@@ -167,7 +167,7 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

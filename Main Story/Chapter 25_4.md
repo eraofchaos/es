@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-4 Familia de Cuidadores de Dragones"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Capítulo 25 - 4. Era of Chaos  Historia principal - Capítulo 25_4. 25-4 Familia de Cuidadores de Dragones"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 25_4.md"
 toc: false

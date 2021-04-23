@@ -2,7 +2,7 @@
 title: "Exclusivo - Llama eterna (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Llama eterna. Llama eterna. Era of Chaos Exclusivo Llama eterna. Pájaro Ígneo Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Firebird Llama eterna.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Pájaro Ígneo](/es/units/Firebird/) 
 
- **Item to Subir rango:** [Ficha de Llama eterna](/es/Items/con_1001/)
+ **Item to Subir rango:** [Ficha de Llama eterna](/ItemsES/con_1001/)
 
- **Aspecto:** [Aspecto Especial de Llama eterna](/es/Items/con_669/)
+ **Aspecto:** [Aspecto Especial de Llama eterna](/ItemsES/con_669/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Llama eterna](/es/Items/con_1001/) | <Tierra en llamas> Cada 10 s, el Pájaro Ígneo inflige daño 3 veces a todas las unidades enemigas que se encuentran en la misma fila que el objetivo y les inflige daño por quemadura durante 8 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Llama eterna](/es/Items/con_1001/) | El Pájaro Ígneo es inmune al daño infligido con los hechizos de fuego. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Llama eterna](/es/Items/con_1001/) | Aumenta el daño de la unidad de Pájaro Ígneo un 10% y su velocidad de ataque un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Llama eterna](/es/Items/con_1001/) | Cuando el Pájaro Ígneo se enfrenta a unidades de 1 o 4 miembros, inflige un daño equivalente al 20% de su ATQ a todas las unidades enemigas situadas a cierta distancia de la unidad objetivo y les causa daño por quemadura. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Llama eterna](/es/Items/con_1001/) | Cuando se enfrenta a unidades con quemadura, la penetración del Pájaro Ígneo aumenta en 400. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Llama eterna](/es/Items/con_1001/) | Cuando un Héroe amistoso lanza un hechizo de fuego, restaura un 10% de los PV. Puede activarse cada 5 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Llama eterna](/es/Items/con_1001/) | Aumenta el daño de la unidad de Pájaro Ígneo un 20%. Cuando un Héroe hostil lanza un hechizo de fuego, aumenta el daño de la unidad y la reducción de daño de la unidad un 20%. El efecto dura 5 s. |
+  |  Despertar  | **100x** [Ficha de Llama eterna](/ItemsES/con_1001/) | <Tierra en llamas> Cada 10 s, el Pájaro Ígneo inflige daño 3 veces a todas las unidades enemigas que se encuentran en la misma fila que el objetivo y les inflige daño por quemadura durante 8 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Llama eterna](/ItemsES/con_1001/) | El Pájaro Ígneo es inmune al daño infligido con los hechizos de fuego. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Llama eterna](/ItemsES/con_1001/) | Aumenta el daño de la unidad de Pájaro Ígneo un 10% y su velocidad de ataque un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Llama eterna](/ItemsES/con_1001/) | Cuando el Pájaro Ígneo se enfrenta a unidades de 1 o 4 miembros, inflige un daño equivalente al 20% de su ATQ a todas las unidades enemigas situadas a cierta distancia de la unidad objetivo y les causa daño por quemadura. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Llama eterna](/ItemsES/con_1001/) | Cuando se enfrenta a unidades con quemadura, la penetración del Pájaro Ígneo aumenta en 400. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Llama eterna](/ItemsES/con_1001/) | Cuando un Héroe amistoso lanza un hechizo de fuego, restaura un 10% de los PV. Puede activarse cada 5 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Llama eterna](/ItemsES/con_1001/) | Aumenta el daño de la unidad de Pájaro Ígneo un 20%. Cuando un Héroe hostil lanza un hechizo de fuego, aumenta el daño de la unidad y la reducción de daño de la unidad un 20%. El efecto dura 5 s. |
 
 
 ## Subir de nivel

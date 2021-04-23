@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-14 Las Alas de la Mariposa"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Capítulo 24 - 14. Era of Chaos  Historia principal - Capítulo 24_14. 24-14 Las Alas de la Mariposa"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 24_14.md"
 toc: false

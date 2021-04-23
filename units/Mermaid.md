@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Sirena"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Sirena](/es/Items/unt_277/)
+ **Unit Soul:** [Sirena](/ItemsES/unt_277/)
 
  **Short description:** Curación en grupo. Ventajas potentes.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Mareas Nocturnas](/es/Items/con_1004/)
+ **Item to Subir rango:** [Ficha de Mareas Nocturnas](/ItemsES/con_1004/)
 
- **Aspecto:** [Aspecto Especial de Mareas Nocturnas](/es/Items/con_672/)
+ **Aspecto:** [Aspecto Especial de Mareas Nocturnas](/ItemsES/con_672/)
 
 
 ## Emblemas Sagrados recomendados
@@ -172,7 +172,7 @@ toc: true
 * Velocidad de ataque
 * Curación
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

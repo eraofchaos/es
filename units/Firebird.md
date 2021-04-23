@@ -3,7 +3,7 @@ title: "Pájaro Ígneo"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El Pájaro Ígneo es la criatura más poderosa del Conflujo. Vive en el fuego que le concede la vida eterna. Las rugientes llamas que lo rodean calcinan el mal en el mismísimo aire."
 unitID: 907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Pájaro Ígneo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Pájaro Ígneo](/es/Items/unt_268/)
+ **Unit Soul:** [Pájaro Ígneo](/ItemsES/unt_268/)
 
  **Unit description:** Aliento de llamas: inflige daño a las tropas enemigas a su paso.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Llama eterna](/es/Items/con_1001/)
+ **Item to Subir rango:** [Ficha de Llama eterna](/ItemsES/con_1001/)
 
- **Aspecto:** [Aspecto Especial de Llama eterna](/es/Items/con_669/)
+ **Aspecto:** [Aspecto Especial de Llama eterna](/ItemsES/con_669/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Golpe crítico de la unidad
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusivo -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Exclusivo . Vidente Regnan Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Regnan Seer .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Vidente Regnan](/es/units/Regnan Seer/) 
 
- **Item to Subir rango:** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/)
+ **Item to Subir rango:** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/)
 
- **Aspecto:** [Tool_2990709](/es/Items/con_674/)
+ **Aspecto:** [Tool_2990709](/ItemsES/con_674/)
 
  **Type:** Capital
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Alma de estandarte de La ciudad del océano](/es/Items/con_1006/) |  |
+  |  Despertar  | **100x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Alma de estandarte de La ciudad del océano](/ItemsES/con_1006/) |  |
 
 
 ## Subir de nivel

@@ -4,7 +4,7 @@ permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal."
 heroID: 60502
 QR: hero_60502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Vidomina"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Vidomina era una gran promesa de joven, pero fue expulsada de Bracada cuando se descubrió que estaba usando su magia para convertir a los vivos en no muertos. Su expulsión la tornó definitivamente hacia el mal.
 ## Detalles
- **Profession:** Nigromante
+ **Profession:** ![Nigromante](/images/h/h_prof_6.png) Nigromante
 
  **Race:** Necrópolis
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** R
 
- **Specialty:** Nigromante
+ **Especialidad de Héroe:** Nigromante
 
  **Mana base:** 34
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |  Intelligence  |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 8 | 14 | TBD |
-  |    2    | 12 | 21 | TBD |
-  |    3    | 16 | 28 | TBD |
-  |    4    | 20 | 35 | TBD |
+  | Stars | Inteligencia del Héroe | Sabiduría del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 8 | 14 | **30x** [Vidomina](/ItemsES/her_372/) | La recarga de <Nigromancia> aumenta un 20%. |
+  |    2    | 12 | 21 | **50x** [Vidomina](/ItemsES/her_372/) | Las unidades enemigas dentro del alcance de <Nigromancia> reciben, además, «Moral baja». |
+  |    3    | 16 | 28 | **100x** [Vidomina](/ItemsES/her_372/) | Los PV y el ataque de todos los esqueletos (incluidos los Esqueletos, Esqueletos invocados, Liches y Dragones de Hueso) aumenta un 20%. Además, su daño de unidad y su reducción de daño de unidad aumentan un 10%. |
+  |    4    | 20 | 35 | **150x** [Vidomina](/ItemsES/her_372/) | <Nigromancia> y <Ejército de No Muertos> pueden invocar Esqueletos Armados más poderosos. Los ataques normales de los Esqueletos Armados tienen una probabilidad de aturdir a los objetivos durante 3 s. |
 
-## Spells
-### 1 Spell: Flecha de aire
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha de aire
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> de daño de hechizo a las unidades enemigas a cierta distancia y reduce la precisión del objetivo un 30% durante 8 s.
 
-### 2 Spell: Nigromancia
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de aire a las unidades enemigas y reduce la precisión del objetivo un 30%.
+
+### 2 Hechizo: Nigromancia
  **Descripción:** Invoca 9 Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
 
-### 3 Spell: Animar a los muertos
+ **Descripción 2:** Al siguiente nivel, los Esqueletos obtienen un aumento de nivel de <span style="color: #00ff22;font-size:16px">1</span><span style="color: black">, un aumento de Ataque de <span style="color: #00ff22;font-size:16px">60</span><span style="color: black"> y un aumento de vida de <span style="color: #00ff22;font-size:16px">1520</span><span style="color: black">.
+
+ **Descripción 3:** Invocar Esqueleto
+
+ **Descripción 4:** Invoca 9 Esqueletos en una ubicación especificada.
+
+### 3 Hechizo: Animar a los muertos
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> de daño de hechizo de tierra a las unidades enemigas a cierta distancia que no sean de la facción de Necrópolis y restaura los PV de las unidades de Necrópolis amistosas en <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101>.
 
-### 4 Spell: Ejército de no muertos
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black"> y la recuperación aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de tierra a las unidades enemigas que no sean de Necrópolis. Las unidades de Necrópolis amistosas recuperan vida.
+
+### 4 Hechizo: Ejército de no muertos
  **Descripción:** Invoca Esqueletos de nvl.<span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> en el área objetivo que igualan el número de unidades enemigas que se encuentren en ella. Los Esqueletos durarán 20 s y tienen un ATQ de <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> y unos PV de <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black">.
+
+ **Descripción 2:** Al siguiente nivel, los Esqueletos obtienen un aumento de nivel de <span style="color: #1ca216;font-size:18px">1</span><span style="color: black">, un aumento de Ataque de <span style="color: #1ca216;font-size:18px">68</span><span style="color: black"> y un aumento de vida de <span style="color: #1ca216;font-size:18px">1216</span><span style="color: black">
+
+ **Descripción 3:** Invoca Esqueletos según el número de unidades enemigas.
+
+ **Descripción 4:** Invoca Esqueletos según el número de unidades enemigas.
 
 
 ## Ayudante

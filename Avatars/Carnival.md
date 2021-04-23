@@ -2,7 +2,7 @@
 title: "Avatar - Feria"
 permalink: /Avatars/Carnival/
 excerpt: "Era of Chaos  Feria"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Carnival.md"
 toc: false

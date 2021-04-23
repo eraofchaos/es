@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Demonio del Abismo Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Pit Fiend Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Demonio del Abismo](/es/units/Pit Fiend/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Latigazo> La Demonio del Abismo golpea con su látigo, lo que inflige daño equivalente al 300% de su propio ATQ a las unidades enemigas en una zona grande y les causa sangrado. Hay un 50% de probabilidad de reducir el daño de unidad un 20% durante 6 s. La recarga es de 16 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta el ATQ de la Demonio del Abismo un 20% y su curación un 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta la reducción de daño de unidad de las unidades amistosas del Infierno un 10% cuando la Demonio del Abismo está en el campo de batalla. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Atadura Infernal> La Demonio del Abismo rodea a la unidad objetivo con su látigo, lo que expone sus debilidades, le impide moverse y atacar, y disminuye la reducción de daño de unidad un 15% durante 4 s. La recarga es de 20 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de unidad de la Demonio del Abismo un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Cuando la Demonio del Abismo ataca a una unidad enemiga que esté sangrando, hay un 30% de probabilidad de que ella y una unidad del Infierno amistosa recuperen PV equivalentes al 50% de su propio ATQ. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Su Majestad> La Demonio del Abismo suelta un latigazo a una unidad del Infierno amistosa para motivar su potencial, lo que aumenta el daño de unidad de dicha unidad un 20%, la reducción de daño de unidad un 20%, el golpe crítico en 200 y la tenacidad en 200 durante 8 s. Mientras la habilidad está activa, la curación que recibe se reduce un 30%. La recarga es de 27 s. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | <Latigazo> La Demonio del Abismo golpea con su látigo, lo que inflige daño equivalente al 300% de su propio ATQ a las unidades enemigas en una zona grande y les causa sangrado. Hay un 50% de probabilidad de reducir el daño de unidad un 20% durante 6 s. La recarga es de 16 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el ATQ de la Demonio del Abismo un 20% y su curación un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la reducción de daño de unidad de las unidades amistosas del Infierno un 10% cuando la Demonio del Abismo está en el campo de batalla. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | <Atadura Infernal> La Demonio del Abismo rodea a la unidad objetivo con su látigo, lo que expone sus debilidades, le impide moverse y atacar, y disminuye la reducción de daño de unidad un 15% durante 4 s. La recarga es de 20 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el daño de unidad de la Demonio del Abismo un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | Cuando la Demonio del Abismo ataca a una unidad enemiga que esté sangrando, hay un 30% de probabilidad de que ella y una unidad del Infierno amistosa recuperen PV equivalentes al 50% de su propio ATQ. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | <Su Majestad> La Demonio del Abismo suelta un latigazo a una unidad del Infierno amistosa para motivar su potencial, lo que aumenta el daño de unidad de dicha unidad un 20%, la reducción de daño de unidad un 20%, el golpe crítico en 200 y la tenacidad en 200 durante 8 s. Mientras la habilidad está activa, la curación que recibe se reduce un 30%. La recarga es de 27 s. |
 
 
 ## Subir de nivel

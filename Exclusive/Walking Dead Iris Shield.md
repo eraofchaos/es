@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Muerto Viviente Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Walking Dead Escudo Iris.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Muerto Viviente](/es/units/Walking Dead/) 
 
- **Item to Subir rango:** [Ficha de Escudo Iris](/es/Items/con_913/)
+ **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Escudo Iris](/es/Items/con_913/) | <Matanza> El Muerto Viviente blande su cuchilla, lo que inflige daño igual al 100% de su ATQ a las unidades hostiles en una zona pequeña a su paso. Los objetivos golpeados sangran y reciben 10% de su ATQ en forma de daño por segundo. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la DEF del Muerto Viviente en 300. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/es/Items/con_913/) | Aumenta la tenacidad del Muerto Viviente en 500. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/es/Items/con_913/) | Si el objetivo tiene «Moral baja», la velocidad de ataque del Muerto Viviente y su absorción de vida aumentan un 20%. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/es/Items/con_913/) | Los Muertos Vivientes restauran 1% de sus PV máximos por segundo. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/es/Items/con_913/) | Los Muertos Vivientes reducen la DEF de las unidades hostiles a su alrededor en 25 cada 4 s durante 5 s. Este efecto se acumula. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/es/Items/con_913/) | Al principio de la batalla, la velocidad de movimiento de las unidades hostiles se reduce en 30 durante 4 s. Aumenta el daño de las unidades de Necrópolis amistosas un 20% durante 20 s cuando recuperan su velocidad de movimiento. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Matanza> El Muerto Viviente blande su cuchilla, lo que inflige daño igual al 100% de su ATQ a las unidades hostiles en una zona pequeña a su paso. Los objetivos golpeados sangran y reciben 10% de su ATQ en forma de daño por segundo. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la DEF del Muerto Viviente en 300. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la tenacidad del Muerto Viviente en 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Si el objetivo tiene «Moral baja», la velocidad de ataque del Muerto Viviente y su absorción de vida aumentan un 20%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Los Muertos Vivientes restauran 1% de sus PV máximos por segundo. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Los Muertos Vivientes reducen la DEF de las unidades hostiles a su alrededor en 25 cada 4 s durante 5 s. Este efecto se acumula. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Al principio de la batalla, la velocidad de movimiento de las unidades hostiles se reduce en 30 durante 4 s. Aumenta el daño de las unidades de Necrópolis amistosas un 20% durante 20 s cuando recuperan su velocidad de movimiento. |
 
 
 ## Subir de nivel

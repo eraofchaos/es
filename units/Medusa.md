@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Se trata de bellas mujeres con cuerpo y cabellos con forma de serpiente. Sus fríos ojos convierten en piedra cualquier criatura que miren."
 unitID: 704
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Medusa"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Medusa](/es/Items/unt_247/)
+ **Unit Soul:** [Medusa](/ItemsES/unt_247/)
 
  **Unit description:** Mirada petrificadora: Petrifica a los enemigos y reduce la reducción de daño de la unidad.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Arco de Medusa](/es/Items/con_991/)
+ **Item to Subir rango:** [Ficha de Arco de Medusa](/ItemsES/con_991/)
 
- **Aspecto:** [Aspecto Especial de Arco de Medusa](/es/Items/con_659/)
+ **Aspecto:** [Aspecto Especial de Arco de Medusa](/ItemsES/con_659/)
 
 
 ## Emblemas Sagrados recomendados
@@ -172,7 +172,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento a distancia](/es/Items/con_789/)
+ **Mejora de talento:** [Poción de talento a distancia](/ItemsES/con_789/)
 
 
 ## Awaking

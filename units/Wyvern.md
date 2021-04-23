@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Guiverno"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Guiverno](/es/Items/unt_258/)
+ **Unit Soul:** [Guiverno](/ItemsES/unt_258/)
 
  **Short description:** Potente cuerpo a cuerpo. Tóxico.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Cola de Guiverno](/es/Items/con_996/)
+ **Item to Subir rango:** [Ficha de Cola de Guiverno](/ItemsES/con_996/)
 
- **Aspecto:** [Aspecto Especial de Cola de Guiverno](/es/Items/con_664/)
+ **Aspecto:** [Aspecto Especial de Cola de Guiverno](/ItemsES/con_664/)
 
 
 ## Emblemas Sagrados recomendados
@@ -172,7 +172,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

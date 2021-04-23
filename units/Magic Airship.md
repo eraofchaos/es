@@ -3,7 +3,7 @@ title: "Aeronave Mágica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos La enorme vela redonda es capaz de elevar la recia nave, y hace que vuele sobre las nubes para disfrutar de un bautismo de aire limpio."
 unitID: 608
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Aeronave Mágica"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Aeronave Mágica](/es/Items/unt_242/)
+ **Unit Soul:** [Aeronave Mágica](/ItemsES/unt_242/)
 
  **Short description:** DPS de retaguardia que otorga ventaja
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Polaris](/es/Items/con_989/)
+ **Item to Subir rango:** [Ficha de Polaris](/ItemsES/con_989/)
 
- **Aspecto:** [Aspecto Especial de Polaris](/es/Items/con_657/)
+ **Aspecto:** [Aspecto Especial de Polaris](/ItemsES/con_657/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Velocidad de ataque
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

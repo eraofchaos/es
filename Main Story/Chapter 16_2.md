@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-2 Cazarrecompensas"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Capítulo 16 - 2. Era of Chaos  Historia principal - Capítulo 16_2. 16-2 Cazarrecompensas"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 16_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Gárgola de Piedra Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Stone Gargoyle Espada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Gárgola de Piedra](/es/units/Stone Gargoyle/) 
 
- **Item to Subir rango:** [Ficha de espada](/es/Items/con_912/)
+ **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de espada](/es/Items/con_912/) | <Zarpazo> Inflige daño equivalente al 250% de su propio ATQ a la unidad objetivo y le causa sangrado durante 6 s; además, aumenta su propia velocidad de ataque un 20% durante 6 s. La recarga es de 26 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/es/Items/con_912/) | Aumenta los PV de la Gárgola de Piedra un 15% y la DEF un 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/es/Items/con_912/) | Aumenta el daño de unidad de la Gárgola de Piedra un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/es/Items/con_912/) | <Despertar mágico> Cuando una Gárgola de Piedra recibe una ventaja de un héroe amistoso, aumenta su resistencia mágica un 15% y obtiene un escudo equivalente al 10% de sus PV máximos durante 8 s. Se acumula hasta 2 veces. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/es/Items/con_912/) | Aumenta la reducción de daño de unidad de la Gárgola de Piedra un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/es/Items/con_912/) | Es inmune a aturdimiento, petrificación y cristalización mientras está en forma de estatua. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/es/Items/con_912/) | <Máscara Pétrea> Al atacar a una unidad que está sangrando a causa de <Zarpazo>, cada ataque inflige daño equivalente al 1% de sus PV máximos y disminuye la reducción de daño de unidad un 1%; además, recupera PV equivalentes al 1% de sus PV máximos y aumenta su daño de unidad un 1%. Este efecto solo se puede activar una vez por segundo. Cada acumulación dura 2 s. Se acumula hasta 10 veces. |
+  |  Despertar  | **100x** [Ficha de espada](/ItemsES/con_912/) | <Zarpazo> Inflige daño equivalente al 250% de su propio ATQ a la unidad objetivo y le causa sangrado durante 6 s; además, aumenta su propia velocidad de ataque un 20% durante 6 s. La recarga es de 26 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de espada](/ItemsES/con_912/) | Aumenta los PV de la Gárgola de Piedra un 15% y la DEF un 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de espada](/ItemsES/con_912/) | Aumenta el daño de unidad de la Gárgola de Piedra un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de espada](/ItemsES/con_912/) | <Despertar mágico> Cuando una Gárgola de Piedra recibe una ventaja de un héroe amistoso, aumenta su resistencia mágica un 15% y obtiene un escudo equivalente al 10% de sus PV máximos durante 8 s. Se acumula hasta 2 veces. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de espada](/ItemsES/con_912/) | Aumenta la reducción de daño de unidad de la Gárgola de Piedra un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de espada](/ItemsES/con_912/) | Es inmune a aturdimiento, petrificación y cristalización mientras está en forma de estatua. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de espada](/ItemsES/con_912/) | <Máscara Pétrea> Al atacar a una unidad que está sangrando a causa de <Zarpazo>, cada ataque inflige daño equivalente al 1% de sus PV máximos y disminuye la reducción de daño de unidad un 1%; además, recupera PV equivalentes al 1% de sus PV máximos y aumenta su daño de unidad un 1%. Este efecto solo se puede activar una vez por segundo. Cada acumulación dura 2 s. Se acumula hasta 10 veces. |
 
 
 ## Subir de nivel

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-5 El Portal de la Frontera"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Capítulo 2 - 5. Era of Chaos  Historia principal - Capítulo 2_5. 2-5 El Portal de la Frontera"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 2_5.md"
 toc: false

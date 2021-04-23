@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Dragona Mutare. Dragona Mutare. Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Dragon Mutare"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descripción:** Tras beber el Vial de Sangre de Dragón, Mutare se convirtió en una dragona, pero conservó su consciencia humana. Hay quien especula que su transformación anuncia la llegada del Padre de los Dragones.
 ## Detalles
- **Profession:** Adalid
+ **Profession:** ![Adalid](/images/h/h_prof_16.png) Adalid
 
  **Race:** Mazmorra
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** SSR
 
- **Specialty:** El Dragón despierta
+ **Especialidad de Héroe:** El Dragón despierta
 
  **Mana base:** 20
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Deffence    |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | TBD |
-  |    2    | 18 | 27 | TBD |
-  |    3    | 24 | 36 | TBD |
-  |    4    | 30 | 45 | TBD |
+  | Stars | Ataque del Héroe | Defensa del Héroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 18 | **30x** [Dragona Mutare](/ItemsES/her_390/) | <Rugido de Dragón> puede activar las habilidades definitivas del Dragón negro, el Dragón Verde y el Dragón Rojo. El daño de unidad y la velocidad de ataque de las unidades amistosas aumentarán un 10% cuando haya un Dragón Verde en el campo de batalla. Cuando haya un Dragón Negro en el campo de batalla, la reducción de daño de unidad y la DEF de las unidades amistosas aumentarán un 10% |
+  |    2    | 18 | 27 | **50x** [Dragona Mutare](/ItemsES/her_390/) | Cuando las unidades de Mazmorra luchen contra objetivos con quemadura, su daño de unidad aumenta un 20%. Cuando reciban ataques de objetivos con sangrado, la reducción de daño de unidad aumenta un 20% |
+  |    3    | 24 | 36 | **100x** [Dragona Mutare](/ItemsES/her_390/) | Por cada unidad voladora desplegada, se aumenta un 3% el daño de unidad, la reducción de daño de unidad y la velocidad de ataque del Dragón Negro, el Dragón Verde y el Dragón Rojo |
+  |    4    | 30 | 45 | **150x** [Dragona Mutare](/ItemsES/her_390/) | Cuando las unidades activen habilidades de rompehechizos, se concederán 2 s de inmunidad mágica (recarga de 6 s) y se recuperará un 10% de los PV máximos. Por cada unidad de Mazmorra desplegada, la velocidad de ataque de las unidades amistosas aumentará un 4% |
 
-## Spells
-### 1 Spell: Flecha de fuego
+ **Special Desciption 1:** Consejo general a añadir
+
+## Hechizo
+### 1 Hechizo: Flecha de fuego
  **Descripción:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> de daño de hechizo de fuego a las unidades enemigas en un área determinada y las <span style="color: #e07c44;font-size:20px">quema</span><span style="color: black"> durante {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
-### 2 Spell: Maldición
+ **Descripción 2:** Al siguiente nivel, el daño aumenta en <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">
+
+ **Descripción 3:** Se inflige daño a tu enemigo.
+
+ **Descripción 4:** Inflige daño de fuego a las unidades enemigas.
+
+### 2 Hechizo: Maldición
  **Descripción:** Disminuye el ATQ de las unidades del objetivo enemigo en una zona grande un <span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> durante <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
-### 3 Spell: Matagigantes
+ **Descripción 2:** Al siguiente nivel, el Ataque se reduce un <span style="color: #00ff22;font-size:16px">{-($buffaddattr13)}% adicional</span><span style="color: black">.
+
+ **Descripción 3:** El Ataque del enemigo se reduce.
+
+ **Descripción 4:** Reduce el Ataque de las unidades enemigas.
+
+### 3 Hechizo: Matagigantes
  **Descripción:** Aumenta el ataque un <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black"> para las unidades amistosas en una zona grande durante {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s. Para las unidades de 9 miembros dura 5 s adicionales.
 
-### 4 Spell: Rugido de Dragón
+ **Descripción 2:** Al siguiente nivel, el Ataque aumenta un <span style="color: #00ff22;font-size:16px">{$buffaddattr13}% adicional</span><span style="color: black">.
+
+ **Descripción 3:** Los aliados ganan Ataque aumentado.
+
+ **Descripción 4:** Aumenta el Ataque de la unidad amistosa, los efectos duran más en las unidades de 16 miembros.
+
+### 4 Hechizo: Rugido de Dragón
  **Descripción:** Inflige <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> a todas las unidades enemigas con un daño igual al <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> de sus PV máximos cada 2 s durante 16 s y las <span style="color: #e07c44;font-size:20px">aturde</span><span style="color: black"> durante 6 s. Algunas unidades pueden volverse inmunes al daño de <span style="color: #e07c44;font-size:20px">sangrado</span><span style="color: black"> y las unidades <span style="color: #e07c44;font-size:20px">sangrando</span><span style="color: black"> tienen curación reducida.
+
+ **Descripción 2:** Al siguiente nivel, el daño de sangrado aumenta un <span style="color: #1ca216;font-size:18px">{$ovaluepro22}%</span><span style="color: black">
+
+ **Descripción 3:** Provoca sangrado y aturdimiento al enemigo
+
+ **Descripción 4:** Provoca sangrado y aturdimiento
 
 
 ## Ayudante

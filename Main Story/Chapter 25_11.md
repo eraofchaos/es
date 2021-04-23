@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-11 La Ayuda del Sabio"
 permalink: /Main Story/Chapter 25_11/
 excerpt: "Capítulo 25 - 11. Era of Chaos  Historia principal - Capítulo 25_11. 25-11 La Ayuda del Sabio"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 25_11.md"
 toc: false

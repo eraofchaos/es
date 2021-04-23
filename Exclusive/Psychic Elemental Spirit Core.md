@@ -2,7 +2,7 @@
 title: "Exclusivo - Núcleo Espiritual (Psychic Elemental)"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Núcleo Espiritual. Núcleo Espiritual. Era of Chaos Exclusivo Núcleo Espiritual. Elemental Psíquico Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Psychic Elemental Núcleo Espiritual.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Elemental Psíquico](/es/units/Psychic Elemental/) 
 
- **Item to Subir rango:** [Ficha de Núcleo Espiritual](/es/Items/con_1000/)
+ **Item to Subir rango:** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/)
 
- **Aspecto:** [Aspecto Especial de Núcleo Espiritual](/es/Items/con_668/)
+ **Aspecto:** [Aspecto Especial de Núcleo Espiritual](/ItemsES/con_668/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | <Desmoralización> El Elemental Psíquico bombardea la mente del enemigo, lo que le inflige daño equivalente al 20% de los PV máximos a la unidad objetivo y recupera PV equivalentes al 50% de su propio ATQ. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | Aumenta el daño de unidad del Elemental Psíquico un 30%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | El Elemental Psíquico es inmune a todo el daño de hechizos. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, todas las unidades de Conflujo amistosas se vuelven inmunes a todo el daño de hechizo. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | <Dominación> El Elemental Psíquico roba un 20% de la DEF de una unidad aleatoria, lo que le concede una bonificación basada en porcentaje durante 10 s. La recarga es de 10 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | Aumenta la reducción de daño de unidad del Elemental Psíquico un 30%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | El Elemental Psíquico es inmune a los efectos de aturdimiento, silencio, congelación, detener el tiempo, parálisis, petrificación y cristalización. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, todas las unidades de Conflujo amistosas obtienen los efectos de inmunidad mencionados antes. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Núcleo Espiritual](/es/Items/con_1000/) | <Armonía Elemental> Los Elementales Psíquicos aumentan su golpe crítico en 500 y su daño de golpe crítico un 50%. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, se activa <Resonancia Elemental>. Cuando está en el campo de batalla, aumenta la tenacidad de todas las unidades de Conflujo amistosas en 500, la esquiva en 500 y la reducción de daño de unidad un 20%. |
+  |  Despertar  | **100x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | <Desmoralización> El Elemental Psíquico bombardea la mente del enemigo, lo que le inflige daño equivalente al 20% de los PV máximos a la unidad objetivo y recupera PV equivalentes al 50% de su propio ATQ. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | Aumenta el daño de unidad del Elemental Psíquico un 30%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | El Elemental Psíquico es inmune a todo el daño de hechizos. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, todas las unidades de Conflujo amistosas se vuelven inmunes a todo el daño de hechizo. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | <Dominación> El Elemental Psíquico roba un 20% de la DEF de una unidad aleatoria, lo que le concede una bonificación basada en porcentaje durante 10 s. La recarga es de 10 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | Aumenta la reducción de daño de unidad del Elemental Psíquico un 30%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | El Elemental Psíquico es inmune a los efectos de aturdimiento, silencio, congelación, detener el tiempo, parálisis, petrificación y cristalización. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, todas las unidades de Conflujo amistosas obtienen los efectos de inmunidad mencionados antes. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | <Armonía Elemental> Los Elementales Psíquicos aumentan su golpe crítico en 500 y su daño de golpe crítico un 50%. Cuando el Elemental Psíquico recibe 4 tipos de efectos de <Resonancia Elemental>, se activa <Resonancia Elemental>. Cuando está en el campo de batalla, aumenta la tenacidad de todas las unidades de Conflujo amistosas en 500, la esquiva en 500 y la reducción de daño de unidad un 20%. |
 
 
 ## Subir de nivel

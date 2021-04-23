@@ -3,7 +3,7 @@ title: "Engendro Venenoso"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos demonios nacieron de las llamas y las sombras en los fulgores de las profundidades del infierno. Según las leyendas que cuenta la gente, son pesadillas aterradoras que reducen a cenizas los campos de batalla con las llamas kármicas del pecado."
 unitID: 509
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Engendro Venenoso"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/es/Items/unt_234/)
+ **Unit Soul:** [Tool_3509](/ItemsES/unt_234/)
 
  **Short description:** Roba almas para dar la vuelta a la partida. Nacido para morir.
 
@@ -235,7 +235,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

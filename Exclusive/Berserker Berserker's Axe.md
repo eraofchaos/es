@@ -2,7 +2,7 @@
 title: "Exclusivo - Hacha de Berserker (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Hacha de Berserker. Hacha de Berserker. Era of Chaos Exclusivo Hacha de Berserker. Berserker Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Berserker Hacha de Berserker.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Berserker](/es/units/Berserker/) 
 
- **Item to Subir rango:** [Ficha de Hacha de Berserker](/es/Items/con_983/)
+ **Item to Subir rango:** [Ficha de Hacha de Berserker](/ItemsES/con_983/)
 
- **Aspecto:** [Aspecto Especial de Hacha de Berserker](/es/Items/con_651/)
+ **Aspecto:** [Aspecto Especial de Hacha de Berserker](/ItemsES/con_651/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | <Hacha Giratoria> El Berserker lanza un hacha giratoria que inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande delante y les causa sangrado durante 8 s. La recarga es de 18 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | Aumenta el daño de unidad del Berserker un 15%. Aumenta el daño de unidad un 15% al luchar contra unidades aturdidas. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | Hay un 5% de probabilidad de que los ataques del Berserker aturdan a una unidad objetivo durante 1,5 s. Se activa cada 5 s |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | <Golpe Letal> El Berserker inflige daño equivalente al 225% de su ATQ a la unidad objetivo, disminuye la reducción de daño de unidad del objetivo un 20% y la DEF un 10%. Si la unidad objetivo está sangrando, reduce el daño de unidad del objetivo un 20% y la velocidad de ataque un 10% durante 10 s. La recarga es de 25 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | Después de lanzar <Golpe Letal>, el Berserker aumenta su propio daño de unidad un 15% y la reducción de daño de unidad un 10% durante 15 s. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | Cada ataque del Berserker aumenta su propia velocidad de ataque un 1% hasta un máximo de un 50%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Hacha de Berserker](/es/Items/con_983/) | <Incineración> 15 s después de que comience la batalla, el Berserker sacrifica un 10% de sus PV máximos e inflige daño equivalente al 30% de sus PV máximos a la unidad objetivo. El Berserker también aumenta su propio golpe crítico en 300 y el daño de golpe crítico un 15% durante 5 s e inflige sangrado durante 10 s. La recarga es de 30 s. |
+  |  Despertar  | **100x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | <Hacha Giratoria> El Berserker lanza un hacha giratoria que inflige daño equivalente al 150% de su propio ATQ a las unidades enemigas en una zona grande delante y les causa sangrado durante 8 s. La recarga es de 18 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | Aumenta el daño de unidad del Berserker un 15%. Aumenta el daño de unidad un 15% al luchar contra unidades aturdidas. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | Hay un 5% de probabilidad de que los ataques del Berserker aturdan a una unidad objetivo durante 1,5 s. Se activa cada 5 s |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | <Golpe Letal> El Berserker inflige daño equivalente al 225% de su ATQ a la unidad objetivo, disminuye la reducción de daño de unidad del objetivo un 20% y la DEF un 10%. Si la unidad objetivo está sangrando, reduce el daño de unidad del objetivo un 20% y la velocidad de ataque un 10% durante 10 s. La recarga es de 25 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | Después de lanzar <Golpe Letal>, el Berserker aumenta su propio daño de unidad un 15% y la reducción de daño de unidad un 10% durante 15 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | Cada ataque del Berserker aumenta su propia velocidad de ataque un 1% hasta un máximo de un 50%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Hacha de Berserker](/ItemsES/con_983/) | <Incineración> 15 s después de que comience la batalla, el Berserker sacrifica un 10% de sus PV máximos e inflige daño equivalente al 30% de sus PV máximos a la unidad objetivo. El Berserker también aumenta su propio golpe crítico en 300 y el daño de golpe crítico un 15% durante 5 s e inflige sangrado durante 10 s. La recarga es de 30 s. |
 
 
 ## Subir de nivel

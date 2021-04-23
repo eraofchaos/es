@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gigante"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Gigante](/es/Items/unt_241/)
+ **Unit Soul:** [Gigante](/ItemsES/unt_241/)
 
  **Unit description:** Dios de la Guerra: Ignora el alcance e inflige daño igual a un porcentaje de los PV.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Mil Toneladas](/es/Items/con_988/)
+ **Item to Subir rango:** [Ficha de Mil Toneladas](/ItemsES/con_988/)
 
- **Aspecto:** [Aspecto Especial de Mil Toneladas](/es/Items/con_656/)
+ **Aspecto:** [Aspecto Especial de Mil Toneladas](/ItemsES/con_656/)
 
 
 ## Emblemas Sagrados recomendados
@@ -171,7 +171,7 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

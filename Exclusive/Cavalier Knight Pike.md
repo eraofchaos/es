@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Catafracto Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Cavalier Pica de Caballero.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Catafracto](/es/units/Cavalier/) 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Pica de Caballero](/es/Items/con_916/) | <Jabalina sofocante> 2 s después de que empiece la batalla, los Caballeros arrojan las lanzas adicionales que sostienen. Esto inflige un daño equivalente al 200% de su ATQ a un objetivo enemigo aleatorio y reduce la DEF del objetivo un 10% durante 30 s. Al enfrentarse a unidades lanzadoras/a distancia, reduce el daño de unidad un 20%. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la reducción de daño de la unidad de Catafractos un 25% cuando reciben daño a distancia. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta el ATQ de los Catafractos un 20% y el daño de la unidad un 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Aumenta la DEF de los Catafractos un 10%. Al principio de la batalla, aumenta la penetración de todas las unidades de Castillo amistosas en 300. Este efecto no se puede disipar |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Los ataques de los Catafractos reducen la DEF de su objetivo un 20% durante 1 s. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Los Catafractos reciben un 15% de absorción de vida. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/es/Items/con_916/) | Los Catafractos restauran un 20% de sus PV máximos cuando tienen [High Morale]. Este efecto solo se activa cada 3 s. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Jabalina sofocante> 2 s después de que empiece la batalla, los Caballeros arrojan las lanzas adicionales que sostienen. Esto inflige un daño equivalente al 200% de su ATQ a un objetivo enemigo aleatorio y reduce la DEF del objetivo un 10% durante 30 s. Al enfrentarse a unidades lanzadoras/a distancia, reduce el daño de unidad un 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la reducción de daño de la unidad de Catafractos un 25% cuando reciben daño a distancia. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta el ATQ de los Catafractos un 20% y el daño de la unidad un 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la DEF de los Catafractos un 10%. Al principio de la batalla, aumenta la penetración de todas las unidades de Castillo amistosas en 300. Este efecto no se puede disipar |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Los ataques de los Catafractos reducen la DEF de su objetivo un 20% durante 1 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Los Catafractos reciben un 15% de absorción de vida. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Los Catafractos restauran un 20% de sus PV máximos cuando tienen [High Morale]. Este efecto solo se activa cada 3 s. |
 
 
 ## Subir de nivel

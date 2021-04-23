@@ -3,7 +3,7 @@ title: "Mantícora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una criatura monstruosa con cuerpo de león, alas de murciélago y cola de escorpión. Las víctimas de su picadura pueden olvidarse de ver otro atardecer."
 unitID: 706
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Mantícora"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Mantícora](/es/Items/unt_249/)
+ **Unit Soul:** [Mantícora](/ItemsES/unt_249/)
 
  **Short description:** Grandes DPS y resistencia.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Cola de Escorpión](/es/Items/con_992/)
+ **Item to Subir rango:** [Ficha de Cola de Escorpión](/ItemsES/con_992/)
 
- **Aspecto:** [Aspecto Especial de Cola de Escorpión](/es/Items/con_660/)
+ **Aspecto:** [Aspecto Especial de Cola de Escorpión](/ItemsES/con_660/)
 
 
 ## Emblemas Sagrados recomendados
@@ -166,7 +166,7 @@ toc: true
 * Velocidad de ataque
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

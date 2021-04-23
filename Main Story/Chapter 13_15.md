@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-15 Victoria o Muerte"
 permalink: /Main Story/Chapter 13_15/
 excerpt: "Capítulo 13 - 15. Era of Chaos  Historia principal - Capítulo 13_15. 13-15 Victoria o Muerte"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 13_15.md"
 toc: false

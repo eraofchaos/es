@@ -3,7 +3,7 @@ title: "Dragón Negro"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Dragón Negro](/es/Items/unt_250/)
+ **Unit Soul:** [Dragón Negro](/ItemsES/unt_250/)
 
  **Unit description:** Aliento de dragón: Ataca a los enemigos en una zona grande y los quema.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Escama de Dragón Negro](/es/Items/con_993/)
+ **Item to Subir rango:** [Ficha de Escama de Dragón Negro](/ItemsES/con_993/)
 
- **Aspecto:** [Aspecto Especial de Escama de Dragón Negro](/es/Items/con_661/)
+ **Aspecto:** [Aspecto Especial de Escama de Dragón Negro](/ItemsES/con_661/)
 
 
 ## Emblemas Sagrados recomendados
@@ -174,7 +174,7 @@ toc: true
 * Daño de la unidad
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

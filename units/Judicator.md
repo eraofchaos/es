@@ -3,7 +3,7 @@ title: "Adjudicadora"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Las Adjudicadoras de Erathia pasan sus vidas venerando a la Luz Sagrada. Estas mujeres, escogidas debido a sus dones, se dedican a llevar la luz y la calidez a la gente necesitada."
 unitID: 109
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Adjudicadora"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Adjudicadora](/es/Items/unt_198/)
+ **Unit Soul:** [Adjudicadora](/ItemsES/unt_198/)
 
  **Short description:** Halo de apoyo, aumenta el alcance.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/es/Items/con_975/)
+ **Item to Subir rango:** [Alma de estandarte de Resplandor del Santuario](/ItemsES/con_975/)
 
- **Aspecto:** [Tool_210909](/es/Items/con_643/)
+ **Aspecto:** [Tool_210909](/ItemsES/con_643/)
 
 
 ## Emblemas Sagrados recomendados
@@ -175,7 +175,7 @@ toc: true
 * Curación
 * Daño de la unidad
 
- **Mejora de talento:** [Poción de talento de lanzador](/es/Items/con_790/)
+ **Mejora de talento:** [Poción de talento de lanzador](/ItemsES/con_790/)
 
 
 ## Awaking

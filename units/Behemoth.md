@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Behemoths son una de las pocas criaturas primigenias. Sus orígenes se remontan a una época anterior a los Dragones. Sus colosales cuerpos les permiten ignorar los ataques enemigos."
 unitID: 407
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Behemoth"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Behemoth](/es/Items/unt_223/)
+ **Unit Soul:** [Behemoth](/ItemsES/unt_223/)
 
  **Unit description:** Rugido salvaje: reduce el ataque del enemigo mucho y lo aturde.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Espíritu Sanguinario](/es/Items/con_982/)
+ **Item to Subir rango:** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/)
 
- **Aspecto:** [Aspecto Especial de Espíritu Sanguinario](/es/Items/con_650/)
+ **Aspecto:** [Aspecto Especial de Espíritu Sanguinario](/ItemsES/con_650/)
 
 
 ## Emblemas Sagrados recomendados
@@ -180,7 +180,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Exclusivo - Sable del Inframundo (Black Knight)"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Sable del Inframundo. Sable del Inframundo. Era of Chaos Exclusivo Sable del Inframundo. Caballero Negro Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Black Knight Sable del Inframundo.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Caballero Negro](/es/units/Black Knight/) 
 
- **Item to Subir rango:** [Ficha de Sable del Inframundo](/es/Items/con_979/)
+ **Item to Subir rango:** [Ficha de Sable del Inframundo](/ItemsES/con_979/)
 
- **Aspecto:** [Aspecto Especial de Sable del Inframundo](/es/Items/con_647/)
+ **Aspecto:** [Aspecto Especial de Sable del Inframundo](/ItemsES/con_647/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | El Caballero Negro reduce la DEF de las unidades hostiles en una zona grande un 30%. Aumenta su penetración en 500 cuando se enfrenta a unidades con «Moral baja». |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | Aumenta la reducción de daño de la unidad de Caballeros Negros un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | Aumenta el daño de la unidad de Caballeros Negros un 25%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | Al principio de la batalla, el Caballero Negro carga hacia un punto. Es inmune a todo el daño durante este tiempo. Aparece delante de la unidad hostil al final de la fila en 6 s. Si no hay un objetivo válido, ataca a una unidad de la retaguardia aleatoria e impacta con un golpe crítico (Sin efecto de despertar. Solo tiene efecto una vez por batalla). |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | Cuando asesta un golpe crítico, el Caballero Negro gana 50 de golpe crítico y un 20% de resistencia mágica. Dura 5 s y se puede acumular hasta 10 veces. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | Aumenta la absorción de vida del Caballero Negro un 20% y otro 20% adicional tras asestar un golpe crítico. Dura 5 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Sable del Inframundo](/es/Items/con_979/) | <King's Revival> Invoca a un Caballero Negro cada 20 s. Se puede invocar a un Caballero Negro cuando la unidad objetivo haya sido derrotada. Cuando aparece un Caballero Negro, aumenta el golpe crítico de la unidad en 100 y la penetración en 50. |
+  |  Despertar  | **100x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | El Caballero Negro reduce la DEF de las unidades hostiles en una zona grande un 30%. Aumenta su penetración en 500 cuando se enfrenta a unidades con «Moral baja». |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | Aumenta la reducción de daño de la unidad de Caballeros Negros un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | Aumenta el daño de la unidad de Caballeros Negros un 25%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | Al principio de la batalla, el Caballero Negro carga hacia un punto. Es inmune a todo el daño durante este tiempo. Aparece delante de la unidad hostil al final de la fila en 6 s. Si no hay un objetivo válido, ataca a una unidad de la retaguardia aleatoria e impacta con un golpe crítico (Sin efecto de despertar. Solo tiene efecto una vez por batalla). |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | Cuando asesta un golpe crítico, el Caballero Negro gana 50 de golpe crítico y un 20% de resistencia mágica. Dura 5 s y se puede acumular hasta 10 veces. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | Aumenta la absorción de vida del Caballero Negro un 20% y otro 20% adicional tras asestar un golpe crítico. Dura 5 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Sable del Inframundo](/ItemsES/con_979/) | <King's Revival> Invoca a un Caballero Negro cada 20 s. Se puede invocar a un Caballero Negro cuando la unidad objetivo haya sido derrotada. Cuando aparece un Caballero Negro, aumenta el golpe crítico de la unidad en 100 y la penetración en 50. |
 
 
 ## Subir de nivel

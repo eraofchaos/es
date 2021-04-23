@@ -2,7 +2,7 @@
 title: "Avatar - Leyenda en el césped"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "Era of Chaos  Leyenda en el césped"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Legend on the Grass.md"
 toc: false

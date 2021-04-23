@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-11 Elfa del Bosque"
 permalink: /Main Story/Chapter 8_11/
 excerpt: "Capítulo 8 - 11. Era of Chaos  Historia principal - Capítulo 8_11. 8-11 Elfa del Bosque"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 8_11.md"
 toc: false

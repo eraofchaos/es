@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 - 27-2 Artesanía Enana"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Capítulo 27 - 2. Era of Chaos  Subterráneo - Capítulo 27_2. 27-2 Artesanía Enana"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 27_2.md"
 toc: false

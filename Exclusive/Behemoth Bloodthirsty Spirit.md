@@ -2,7 +2,7 @@
 title: "Exclusivo - Espíritu Sanguinario (Behemoth)"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Espíritu Sanguinario. Espíritu Sanguinario. Era of Chaos Exclusivo Espíritu Sanguinario. Behemoth Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Behemoth Espíritu Sanguinario.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Behemoth](/es/units/Behemoth/) 
 
- **Item to Subir rango:** [Ficha de Espíritu Sanguinario](/es/Items/con_982/)
+ **Item to Subir rango:** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/)
 
- **Aspecto:** [Aspecto Especial de Espíritu Sanguinario](/es/Items/con_650/)
+ **Aspecto:** [Aspecto Especial de Espíritu Sanguinario](/ItemsES/con_650/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | <Baluarte de Bastión> El Behemoth protege a las demás unidades de Bastión, de modo que recibe el 25% del daño que reciben las unidades de Bastión en el campo de batalla y aumenta la reducción de daño de unidad un 40% durante 5 s. La recarga es de 25 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | Cuando el Behemoth está en el campo de batalla, aumenta el daño de las unidades lanzadoras/a distancia de Bastión amistosas un 20% y la reducción de daño de unidad de las unidades cuerpo a cuerpo amistosas un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | Aumenta los PV de base del Behemoth en 50.000 puntos. El daño recibido de las unidades lanzadoras/a distancia se reduce un 40%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | <Behemoth Imponente> Cuando el Behemoth recibe un golpe crítico, desata su furia, aturde a los enemigos en una zona grande a su alrededor durante 3 s y reduce el daño de unidad y la velocidad de ataque de los enemigos en una zona muy grande un 20% durante 5 s. La recarga es de 6 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | Cuando el Behemoth lanza <Baluarte de Bastión>, su linaje ancestral le hace recuperar rápidamente un 20% de sus PV máximos en 5 s. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | Cuando el Behemoth lanza <Behemoth Imponente>, abruma a los enemigos en una zona grande a su alrededor, les inflige daño equivalente al 10% de los PV máximos del enemigo y un 150% del ATQ del Behemoth. Cada vez que el Behemoth lanza <Behemoth Imponente>, su daño de unidad aumenta un 8% y su reducción de daño de unidad un 5% durante 8 s. Se acumula hasta 8 veces. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Espíritu Sanguinario](/es/Items/con_982/) | <Frenesí de Guerra> La primera vez que los PV del Behemoth caen por debajo del 72%, 48% y 24%, su DEF aumenta un 13% cada vez. El efecto permanece incluso después de que los PV se hayan restaurado. |
+  |  Despertar  | **100x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | <Baluarte de Bastión> El Behemoth protege a las demás unidades de Bastión, de modo que recibe el 25% del daño que reciben las unidades de Bastión en el campo de batalla y aumenta la reducción de daño de unidad un 40% durante 5 s. La recarga es de 25 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | Cuando el Behemoth está en el campo de batalla, aumenta el daño de las unidades lanzadoras/a distancia de Bastión amistosas un 20% y la reducción de daño de unidad de las unidades cuerpo a cuerpo amistosas un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | Aumenta los PV de base del Behemoth en 50.000 puntos. El daño recibido de las unidades lanzadoras/a distancia se reduce un 40%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | <Behemoth Imponente> Cuando el Behemoth recibe un golpe crítico, desata su furia, aturde a los enemigos en una zona grande a su alrededor durante 3 s y reduce el daño de unidad y la velocidad de ataque de los enemigos en una zona muy grande un 20% durante 5 s. La recarga es de 6 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | Cuando el Behemoth lanza <Baluarte de Bastión>, su linaje ancestral le hace recuperar rápidamente un 20% de sus PV máximos en 5 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | Cuando el Behemoth lanza <Behemoth Imponente>, abruma a los enemigos en una zona grande a su alrededor, les inflige daño equivalente al 10% de los PV máximos del enemigo y un 150% del ATQ del Behemoth. Cada vez que el Behemoth lanza <Behemoth Imponente>, su daño de unidad aumenta un 8% y su reducción de daño de unidad un 5% durante 8 s. Se acumula hasta 8 veces. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | <Frenesí de Guerra> La primera vez que los PV del Behemoth caen por debajo del 72%, 48% y 24%, su DEF aumenta un 13% cada vez. El efecto permanece incluso después de que los PV se hayan restaurado. |
 
 
 ## Subir de nivel

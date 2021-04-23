@@ -2,7 +2,7 @@
 title: "Ayudante Ezio"
 permalink: /heroes/Adjutant Ezio/
 excerpt: "Era of Chaos  Ayudante Ezio"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Adjutant Ezio.md"
 QR: adhero_61901
@@ -34,7 +34,7 @@ classes: wide
 
 ## Nivel de Ayudante Upgrade
 
-  | Nivel de Ayudante | Poder de Ayudante | [Pergaminos de hechizo](/es/Items/con_694/) | [Manual de Tácticas](/es/Items/unk_2115/) | Accumulated [Pergaminos de hechizo](/es/Items/con_694/) | Accumulated [Manual de Tácticas](/es/Items/unk_2115/) |
+  | Nivel de Ayudante | Poder de Ayudante | [Pergaminos de hechizo](/ItemsES/con_694/) | [Manual de Tácticas](/ItemsES/unk_2115/) | Accumulated [Pergaminos de hechizo](/ItemsES/con_694/) | Accumulated [Manual de Tácticas](/ItemsES/unk_2115/) |
   |:-------|:-------|:------------|:------------|:------------|:------------|
   | **1** | 5000 | 0 | **0** | **0** | **0** |
   | **2** | 6000 | 100 | **0** | **100** | **0** |

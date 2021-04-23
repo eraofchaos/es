@@ -3,7 +3,7 @@ title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Serpiente Regnan"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Serpiente Regnan](/es/Items/unt_276/)
+ **Unit Soul:** [Serpiente Regnan](/ItemsES/unt_276/)
 
  **Unit description:** Pisotón de las profundidades: Control en área, desalienta a los enemigos y reduce el golpe crítico.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Mareas Diurnas](/es/Items/con_1003/)
+ **Item to Subir rango:** [Ficha de Mareas Diurnas](/ItemsES/con_1003/)
 
- **Aspecto:** [Aspecto Especial de Mareas Diurnas](/es/Items/con_671/)
+ **Aspecto:** [Aspecto Especial de Mareas Diurnas](/ItemsES/con_671/)
 
 
 ## Emblemas Sagrados recomendados
@@ -187,7 +187,7 @@ toc: true
 * Defensa
 * Reducción de daño de la unidad
 
- **Mejora de talento:** [Poción de talento defensiva](/es/Items/con_787/)
+ **Mejora de talento:** [Poción de talento defensiva](/ItemsES/con_787/)
 
 
 ## Awaking

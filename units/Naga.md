@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Naga"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Naga](/es/Items/unt_240/)
+ **Unit Soul:** [Naga](/ItemsES/unt_240/)
 
  **Unit description:** Danza de hojas: Daño en área y reducción de la DEF de daño en área.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Subir rango:** [Ficha de Espada Naga](/es/Items/con_987/)
+ **Item to Subir rango:** [Ficha de Espada Naga](/ItemsES/con_987/)
 
- **Aspecto:** [Aspecto Especial de Espada de Naga](/es/Items/con_655/)
+ **Aspecto:** [Aspecto Especial de Espada de Naga](/ItemsES/con_655/)
 
 
 ## Emblemas Sagrados recomendados
@@ -177,7 +177,7 @@ toc: true
 * Velocidad de ataque
 * Golpe crítico de la unidad
 
- **Mejora de talento:** [Poción de talento ofensiva](/es/Items/con_786/)
+ **Mejora de talento:** [Poción de talento ofensiva](/ItemsES/con_786/)
 
 
 ## Awaking

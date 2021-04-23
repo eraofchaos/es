@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada de Naga (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Espada de Naga. Espada de Naga. Era of Chaos Exclusivo Espada de Naga. Naga Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Naga Espada de Naga.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Naga](/es/units/Naga/) 
 
- **Item to Subir rango:** [Ficha de Espada Naga](/es/Items/con_987/)
+ **Item to Subir rango:** [Ficha de Espada Naga](/ItemsES/con_987/)
 
- **Aspecto:** [Aspecto Especial de Espada de Naga](/es/Items/con_655/)
+ **Aspecto:** [Aspecto Especial de Espada de Naga](/ItemsES/con_655/)
 
  **Type:** Asistencia técnica
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Espada Naga](/es/Items/con_987/) | <Voluntad inquebrantable> Cuando la Naga recibe un efecto de aturdimiento, petrificación o silencio, se vuelve inmune a la mayoría de controles y penalizaciones (p. ej.: congelación, silencio, ralentización, petrificación, aturdimiento, moral baja, desaliento y <Detener el tiempo>) y aumenta un 20% la reducción de daño de unidad durante 5 s. La recarga es de 15 s. (Surte efecto tras equipar un Emblema Sagrado). |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Espada Naga](/es/Items/con_987/) | Reduce la duración de los efectos de aturdimiento, petrificación, ralentización, congelación, moral baja y silencio un 50%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Espada Naga](/es/Items/con_987/) | Aumenta el ATQ y daño de la unidad de la Naga un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Espada Naga](/es/Items/con_987/) | <Formación de espadas Naga> Cuando sus PV caen por debajo del 25% por primera vez, la Naga invoca su Formación de espadas Naga. Las unidades amistosas situadas en una zona amplia aumentan la penetración en 20 y la absorción de vida un 2% por segundo. Este efecto puede acumularse hasta 10 veces. (Sigue teniendo efecto incluso después de que la Naga haya sido derrotada). |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Espada Naga](/es/Items/con_987/) | Aumenta la absorción de vida de la Naga y la reducción de daño de la unidad un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Espada Naga](/es/Items/con_987/) | La Naga es inmune a los efectos de aturdimiento. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Espada Naga](/es/Items/con_987/) | <Ray of Naga Sword> Inflige daño igual al 200% de su ATQ a todas las unidades hostiles de la fila del objetivo cada 15 s, reduce la DEF del enemigo y la reducción de daño de la unidad un 30% y aumenta su golpe crítico en 1000 y el Absorción de vida en un 20% durante 5 segundos. |
+  |  Despertar  | **100x** [Ficha de Espada Naga](/ItemsES/con_987/) | <Voluntad inquebrantable> Cuando la Naga recibe un efecto de aturdimiento, petrificación o silencio, se vuelve inmune a la mayoría de controles y penalizaciones (p. ej.: congelación, silencio, ralentización, petrificación, aturdimiento, moral baja, desaliento y <Detener el tiempo>) y aumenta un 20% la reducción de daño de unidad durante 5 s. La recarga es de 15 s. (Surte efecto tras equipar un Emblema Sagrado). |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Espada Naga](/ItemsES/con_987/) | Reduce la duración de los efectos de aturdimiento, petrificación, ralentización, congelación, moral baja y silencio un 50%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Espada Naga](/ItemsES/con_987/) | Aumenta el ATQ y daño de la unidad de la Naga un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Espada Naga](/ItemsES/con_987/) | <Formación de espadas Naga> Cuando sus PV caen por debajo del 25% por primera vez, la Naga invoca su Formación de espadas Naga. Las unidades amistosas situadas en una zona amplia aumentan la penetración en 20 y la absorción de vida un 2% por segundo. Este efecto puede acumularse hasta 10 veces. (Sigue teniendo efecto incluso después de que la Naga haya sido derrotada). |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Espada Naga](/ItemsES/con_987/) | Aumenta la absorción de vida de la Naga y la reducción de daño de la unidad un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Espada Naga](/ItemsES/con_987/) | La Naga es inmune a los efectos de aturdimiento. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Espada Naga](/ItemsES/con_987/) | <Ray of Naga Sword> Inflige daño igual al 200% de su ATQ a todas las unidades hostiles de la fila del objetivo cada 15 s, reduce la DEF del enemigo y la reducción de daño de la unidad un 30% y aumenta su golpe crítico en 1000 y el Absorción de vida en un 20% durante 5 segundos. |
 
 
 ## Subir de nivel

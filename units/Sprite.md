@@ -3,7 +3,7 @@ title: "Hada"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Hada"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 
- **Unit Soul:** [Hada](/es/Items/unt_262/)
+ **Unit Soul:** [Hada](/ItemsES/unt_262/)
 
  **Short description:** Silencia. Hechizo inicial mejorado.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** [Ficha de Pica de Caballero](/es/Items/con_916/)
+ **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 
  **Aspecto:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Daño de la unidad
 * Resistencia mágica
 
- **Mejora de talento:** [Poción de talento de carga](/es/Items/con_788/)
+ **Mejora de talento:** [Poción de talento de carga](/ItemsES/con_788/)
 
 
 ## Awaking

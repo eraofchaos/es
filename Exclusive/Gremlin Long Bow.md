@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Gremlin)"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Gremlin Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Gremlin Arco largo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Gremlin](/es/units/Gremlin/) 
 
- **Item to Subir rango:** [Ficha de Arco Largo](/es/Items/con_914/)
+ **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Arco Largo](/es/Items/con_914/) | <Bomba mágica> Lanza una bola de hierro mágica a la unidad objetivo y le inflige daño equivalente al 200% de su propio ATQ a las unidades enemigas cercanas cuando la bola explota. La recarga es de 15 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el daño de unidad del Gremlin un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/es/Items/con_914/) | <Despertar mágico> Aumenta la resistencia mágica del Gremlin un 6% y la reducción de daño de unidad un 3% durante 5 s. Se acumula hasta 10 veces. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/es/Items/con_914/) | <Bomba mágica> inflige daño adicional equivalente al 100% de su propio ATQ e inflige aturdimiento a las unidades enemigas durante 2 s. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/es/Items/con_914/) | Aumenta el ATQ del Gremlin un 20%. Inflige daño adicional equivalente al 25% de su propio ATQ a las unidades aturdidas. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/es/Items/con_914/) | El Gremlin canta al comienzo de la batalla, lo que aumenta su golpe crítico en 500 y su daño de golpe crítico un 100% durante 20 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/es/Items/con_914/) | <Picaresca> Cada vez que un Gremlin muere, aparece una <Bomba mágica> que causa aturdimiento a las unidades enemigas cercanas durante 2 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Bomba mágica> Lanza una bola de hierro mágica a la unidad objetivo y le inflige daño equivalente al 200% de su propio ATQ a las unidades enemigas cercanas cuando la bola explota. La recarga es de 15 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el daño de unidad del Gremlin un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Despertar mágico> Aumenta la resistencia mágica del Gremlin un 6% y la reducción de daño de unidad un 3% durante 5 s. Se acumula hasta 10 veces. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Bomba mágica> inflige daño adicional equivalente al 100% de su propio ATQ e inflige aturdimiento a las unidades enemigas durante 2 s. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el ATQ del Gremlin un 20%. Inflige daño adicional equivalente al 25% de su propio ATQ a las unidades aturdidas. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/ItemsES/con_914/) | El Gremlin canta al comienzo de la batalla, lo que aumenta su golpe crítico en 500 y su daño de golpe crítico un 100% durante 20 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Picaresca> Cada vez que un Gremlin muere, aparece una <Bomba mágica> que causa aturdimiento a las unidades enemigas cercanas durante 2 s. |
 
 
 ## Subir de nivel

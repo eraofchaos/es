@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Roc)"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Roc Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Roc Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Roc](/es/units/Roc/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Pulso de Estática> El Roc manipula los rayos en su cuerpo e inflige daño equivalente al 2% de sus PV máximos por segundo a las unidades enemigas en una zona grande y reduce la velocidad de ataque un 20% durante 5 s. La recarga es de 20 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el ATQ del Roc un 20% y el daño de golpe crítico un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de unidad del Roc un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando el Roc ataca a enemigos dentro del <Pulso de Estática>, aumenta su propia velocidad de ataque un 30% y el daño de golpe crítico un 40%. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Descarga de Rayos> El Roc inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa sobrecarga durante 5 s. El Roc también recibe sobrecarga durante 3 s. La recarga es de 15 s. Sobrecarga: las unidades en este estado no pueden usar ataques normales. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | Reduce la DEF de los enemigos dentro del <Pulso de Estática> un 10%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Búsqueda de Tormenta> Cuando el Roc conecta un golpe crítico, lanza <Pulso de Estática> a las unidades enemigas en una zona grande aleatoria. También aumenta la esquiva de las unidades cuerpo a cuerpo de Bastión amistosas en 1000 y el golpe crítico de las unidades lanzadoras/a distancia de Bastión amistosas en 500 durante 5 s. La recarga es de 20 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Pulso de Estática> El Roc manipula los rayos en su cuerpo e inflige daño equivalente al 2% de sus PV máximos por segundo a las unidades enemigas en una zona grande y reduce la velocidad de ataque un 20% durante 5 s. La recarga es de 20 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el ATQ del Roc un 20% y el daño de golpe crítico un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de unidad del Roc un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cuando el Roc ataca a enemigos dentro del <Pulso de Estática>, aumenta su propia velocidad de ataque un 30% y el daño de golpe crítico un 40%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Descarga de Rayos> El Roc inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo y le causa sobrecarga durante 5 s. El Roc también recibe sobrecarga durante 3 s. La recarga es de 15 s. Sobrecarga: las unidades en este estado no pueden usar ataques normales. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Reduce la DEF de los enemigos dentro del <Pulso de Estática> un 10%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Búsqueda de Tormenta> Cuando el Roc conecta un golpe crítico, lanza <Pulso de Estática> a las unidades enemigas en una zona grande aleatoria. También aumenta la esquiva de las unidades cuerpo a cuerpo de Bastión amistosas en 1000 y el golpe crítico de las unidades lanzadoras/a distancia de Bastión amistosas en 500 durante 5 s. La recarga es de 20 s. |
 
 
 ## Subir de nivel

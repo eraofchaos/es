@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco de Medusa (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco de Medusa. Arco de Medusa. Era of Chaos Exclusivo Arco de Medusa. Medusa Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Medusa Arco de Medusa.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Exclusivo for Unit:** [Medusa](/es/units/Medusa/) 
 
- **Item to Subir rango:** [Ficha de Arco de Medusa](/es/Items/con_991/)
+ **Item to Subir rango:** [Ficha de Arco de Medusa](/ItemsES/con_991/)
 
- **Aspecto:** [Aspecto Especial de Arco de Medusa](/es/Items/con_659/)
+ **Aspecto:** [Aspecto Especial de Arco de Medusa](/ItemsES/con_659/)
 
  **Type:** A distancia
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Arco de Medusa](/es/Items/con_991/) | La Medusa tiene un 50% de probabilidad de inyectar <Veneno de serpiente> a una unidad aleatoria al atacar. Tiene efecto toda la batalla y se acumula hasta 10 veces. Cuando la Medusa se enfrenta a una unidad con 10 acumulaciones de <Veneno de serpiente>, aumenta el daño de la unidad un 30%. <Veneno de serpiente>: Inflige daño igual al 5% del ATQ de la Medusa por segundo. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco de Medusa](/es/Items/con_991/) | Aumenta el golpe crítico de la Medusa en 300. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco de Medusa](/es/Items/con_991/) | Aumenta el ATQ y la velocidad de ataque de la Medusa un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco de Medusa](/es/Items/con_991/) | <Slough> La Medusa usa una habilidad cada 10 s para eliminar todas las penalizaciones que tenga. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco de Medusa](/es/Items/con_991/) | Aumenta el daño de la unidad de Medusas un 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco de Medusa](/es/Items/con_991/) | La Medusa gana 10% de absorción de vida. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco de Medusa](/es/Items/con_991/) | <Throat Seal> La Medusa tiene un 3% de probabilidad de infligir daño igual al 200% de su ATQ a su objetivo al atacar y de reducir la DEF un 20%, la velocidad de ataque un 10% y la esquiva en 500. El efecto dura 5 s. |
+  |  Despertar  | **100x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | La Medusa tiene un 50% de probabilidad de inyectar <Veneno de serpiente> a una unidad aleatoria al atacar. Tiene efecto toda la batalla y se acumula hasta 10 veces. Cuando la Medusa se enfrenta a una unidad con 10 acumulaciones de <Veneno de serpiente>, aumenta el daño de la unidad un 30%. <Veneno de serpiente>: Inflige daño igual al 5% del ATQ de la Medusa por segundo. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | Aumenta el golpe crítico de la Medusa en 300. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | Aumenta el ATQ y la velocidad de ataque de la Medusa un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | <Slough> La Medusa usa una habilidad cada 10 s para eliminar todas las penalizaciones que tenga. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | Aumenta el daño de la unidad de Medusas un 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | La Medusa gana 10% de absorción de vida. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco de Medusa](/ItemsES/con_991/) | <Throat Seal> La Medusa tiene un 3% de probabilidad de infligir daño igual al 200% de su ATQ a su objetivo al atacar y de reducir la DEF un 20%, la velocidad de ataque un 10% y la esquiva en 500. El efecto dura 5 s. |
 
 
 ## Subir de nivel

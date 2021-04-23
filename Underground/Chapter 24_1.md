@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 24 - 24-1 La Tierra Congelada"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Capítulo 24 - 1. Era of Chaos  Subterráneo - Capítulo 24_1. 24-1 La Tierra Congelada"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: es
 ref: "Chapter 24_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Aparición Exclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Wight Canto Arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Exclusivo for Unit:** [Aparición](/es/units/Wight/) 
 
- **Item to Subir rango:** [Ficha de Canto Arcano](/es/Items/con_915/)
+ **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
  **Aspecto:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Niebla Maldita> La Aparición genera una niebla maldita que disminuye la reducción de daño de unidad de las unidades enemigas en una zona grande junto a la unidad objetivo un 15% e inflige un daño equivalente al 50% de su propio ATQ por segundo durante 6 s. La recarga es de 18 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta el daño de unidad de la Aparición un 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/es/Items/con_915/) | Aumenta la velocidad de ataque de la Aparición un 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/es/Items/con_915/) | Cuando las Apariciones mueren, 3 unidades reciben miedo durante 5 s y 1 marca de miedo que se acumula. (Miedo: No puede atacar, mover o usar habilidades. Reduce la resistencia mágica un 30%). |
-  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/es/Items/con_915/) | Después de lanzar <Niebla Maldita>, la Aparición aumenta aleatoriamente el golpe crítico de una unidad amistosa al azar en 300 y el daño de golpe crítico un 30% durante 10 s. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/es/Items/con_915/) | La Aparición es inmune al daño de hechizo de tipo tierra. Al atacar a una unidad objetivo, hay un 25% de probabilidad de que la Aparición inflija un daño adicional equivalente al 100% de su propio ATQ y recupere PV equivalentes al 30% de su propio ATQ. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/es/Items/con_915/) | <Descarga Fantasmal> La Aparición causa desesperación en la unidad objetivo, lo que reduce su daño de unidad y reducción de daño de unidad un 30% durante 8 s. También tiene un 50% de probabilidad de causarle miedo a la unidad objetivo durante 5 s y añadirle una marca de miedo acumulable. La recarga es de 15 s. |
+  |  Despertar  | **100x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Niebla Maldita> La Aparición genera una niebla maldita que disminuye la reducción de daño de unidad de las unidades enemigas en una zona grande junto a la unidad objetivo un 15% e inflige un daño equivalente al 50% de su propio ATQ por segundo durante 6 s. La recarga es de 18 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta el daño de unidad de la Aparición un 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Aumenta la velocidad de ataque de la Aparición un 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Cuando las Apariciones mueren, 3 unidades reciben miedo durante 5 s y 1 marca de miedo que se acumula. (Miedo: No puede atacar, mover o usar habilidades. Reduce la resistencia mágica un 30%). |
+  | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Canto Arcano](/ItemsES/con_915/) | Después de lanzar <Niebla Maldita>, la Aparición aumenta aleatoriamente el golpe crítico de una unidad amistosa al azar en 300 y el daño de golpe crítico un 30% durante 10 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Canto Arcano](/ItemsES/con_915/) | La Aparición es inmune al daño de hechizo de tipo tierra. Al atacar a una unidad objetivo, hay un 25% de probabilidad de que la Aparición inflija un daño adicional equivalente al 100% de su propio ATQ y recupere PV equivalentes al 30% de su propio ATQ. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Canto Arcano](/ItemsES/con_915/) | <Descarga Fantasmal> La Aparición causa desesperación en la unidad objetivo, lo que reduce su daño de unidad y reducción de daño de unidad un 30% durante 8 s. También tiene un 50% de probabilidad de causarle miedo a la unidad objetivo durante 5 s y añadirle una marca de miedo acumulable. La recarga es de 15 s. |
 
 
 ## Subir de nivel

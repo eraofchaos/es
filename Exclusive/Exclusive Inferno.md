@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Era of Chaos Exclusivo Inferno. Exclusivo Inferno. List of Exclusivo Inferno in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: es
 ref: "Exclusive Inferno"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Diablillo](/es/units/Imp/) | [Escudo Iris](/es/Exclusive/Imp Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
-  | 2  | [Gog](/es/units/Gog/) | [Canto Arcano](/es/Exclusive/Gog Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
-  | 3  | [Sabueso Infernal](/es/units/Hell Hound/) | [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/es/Items/con_916/) | - |
-  | 4  | [Demonio](/es/units/Demon/) | [Escudo Iris](/es/Exclusive/Demon Iris Shield/) | + | Carga | [Ficha de Escudo Iris](/es/Items/con_913/) | - |
-  | 5  | [Demonio del Abismo](/es/units/Pit Fiend/) | [Espada](/es/Exclusive/Pit Fiend Sword/) | - | Carga | [Ficha de espada](/es/Items/con_912/) | - |
-  | 6  | [Efrit](/es/units/Efreeti/) | [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/es/Items/con_915/) | - |
-  | 7  | [Diablo](/es/units/Devil/) | [Guadaña del Diablo](/es/Exclusive/Devil Devil Scythe/) | - | Asistencia técnica | [Ficha de Guadaña del Diablo](/es/Items/con_984/) | [Aspecto Especial de Guadaña del Diablo](/es/Items/con_652/) |
-  | 8  | [Pesadilla](/es/units/Nightmare/) | [](/es/Exclusive/Nightmare /) | - | A distancia | [Ficha de Ojo de Pesadilla](/es/Items/con_985/) | [Tool_250809](/es/Items/con_653/) |
+  | 1  | [Diablillo](/es/units/Imp/) | [Escudo Iris](/es/Exclusive/Imp Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
+  | 2  | [Gog](/es/units/Gog/) | [Canto Arcano](/es/Exclusive/Gog Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
+  | 3  | [Sabueso Infernal](/es/units/Hell Hound/) | [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
+  | 4  | [Demonio](/es/units/Demon/) | [Escudo Iris](/es/Exclusive/Demon Iris Shield/) | + | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
+  | 5  | [Demonio del Abismo](/es/units/Pit Fiend/) | [Espada](/es/Exclusive/Pit Fiend Sword/) | - | Carga | [Ficha de espada](/ItemsES/con_912/) | - |
+  | 6  | [Efrit](/es/units/Efreeti/) | [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
+  | 7  | [Diablo](/es/units/Devil/) | [Guadaña del Diablo](/es/Exclusive/Devil Devil Scythe/) | - | Asistencia técnica | [Ficha de Guadaña del Diablo](/ItemsES/con_984/) | [Aspecto Especial de Guadaña del Diablo](/ItemsES/con_652/) |
+  | 8  | [Pesadilla](/es/units/Nightmare/) | [](/es/Exclusive/Nightmare /) | - | A distancia | [Ficha de Ojo de Pesadilla](/ItemsES/con_985/) | [Tool_250809](/ItemsES/con_653/) |
   | 9  | [Engendro Venenoso](/es/units/Venom Spawn/) | - | - | - | none | none |
