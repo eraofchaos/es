@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo de magia de tierra](/images/t/artifact_40464.png)
+
 
 
 ## Detalles

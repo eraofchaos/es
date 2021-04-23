@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ballesta Ejemplar](/images/t/artifact_40446.png)
+
 
 
 ## Detalles

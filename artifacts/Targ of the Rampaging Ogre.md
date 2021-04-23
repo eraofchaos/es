@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Escudo del Ogro Enloquecido](/images/t/artifact_40312.png)
+
 
 
 ## Detalles

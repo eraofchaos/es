@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Báculo de la Sabiduría](/images/t/artifact_40443.png)
+
 
 
 ## Detalles

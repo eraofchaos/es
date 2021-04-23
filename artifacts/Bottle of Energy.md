@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Botella de energía](/images/t/artifact_40113.png)
+
 
 
 ## Detalles

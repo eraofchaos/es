@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Anillo de la Vida](/images/t/artifact_40112.png)
+
 
 
 ## Detalles

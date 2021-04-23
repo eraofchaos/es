@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Botas de Polaridad](/images/t/artifact_40233.png)
+
 
 
 ## Detalles

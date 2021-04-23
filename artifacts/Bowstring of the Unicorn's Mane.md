@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Cordaje de Crin de Unicornio](/images/t/artifact_40103.png)
+
 
 
 ## Detalles

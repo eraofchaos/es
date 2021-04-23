@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sobrevesta de Contrapeso](/images/t/artifact_40232.png)
+
 
 
 ## Detalles

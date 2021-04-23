@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Espada de Caballero](/images/t/artifact_40441.png)
+
 
 
 ## Detalles

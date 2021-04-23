@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Flechas de Pluma de Ángel](/images/t/artifact_40102.png)
+
 
 
 ## Detalles

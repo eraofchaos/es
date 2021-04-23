@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Escudo de la Muerte](/images/t/artifact_40302.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Capucha del Vampiro](/images/t/artifact_40322.png)
+
 
 
 ## Detalles

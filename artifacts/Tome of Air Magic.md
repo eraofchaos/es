@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo de magia de aire](/images/t/artifact_40463.png)
+
 
 
 ## Detalles

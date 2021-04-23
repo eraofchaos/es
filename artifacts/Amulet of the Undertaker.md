@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Amuleto del Enterrador](/images/t/artifact_40321.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Gargantilla de Hechicería](/images/t/artifact_40221.png)
+
 
 
 ## Detalles

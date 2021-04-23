@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Gargantilla de Hechicería](/es/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   |  [Anillo de Hechicería](/es/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  | ![Gargantilla de Hechicería](/images/t/artifact_40221.png) [Gargantilla de Hechicería](/es/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Anillo de Hechicería](/images/t/artifact_40221.png) [Anillo de Hechicería](/es/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
   |   | ![Anillo de la Maga](/images/t/icon_artifact_22.png) **Anillo de la Maga** |  | 
-  |   |  [Manto de Hechicería](/es/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  |   | ![Manto de Hechicería](/images/t/artifact_40221.png) [Manto de Hechicería](/es/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Detalles

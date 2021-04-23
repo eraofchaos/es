@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Casco de Cráneo](/images/t/artifact_40303.png)
+
 
 
 ## Detalles

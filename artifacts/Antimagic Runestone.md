@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} |   |  [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Gargantilla de Interferencia](/images/t/artifact_40231.png) [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Sobrevesta de Contrapeso](/images/t/artifact_40231.png) [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Piedra Rúnica de Antimagia](/images/t/icon_artifact_23.png) **Piedra Rúnica de Antimagia** |  | 
-  |   |  [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Botas de Polaridad](/images/t/artifact_40231.png) [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Detalles

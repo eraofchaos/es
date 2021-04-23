@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Túnica del Rey Cíclope](/images/t/artifact_40314.png)
+
 
 
 ## Detalles

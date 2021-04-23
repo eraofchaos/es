@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   |  [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  | ![Tomo de Magia de Fuego](/images/t/artifact_40461.png) [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo de magia de tierra](/images/t/artifact_40461.png) [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
   |   | ![Sombrero del Encantador](/images/t/icon_artifact_46.png) **Sombrero del Encantador** |  | 
-  |  [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   |  [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Tomo de magia de agua](/images/t/artifact_40461.png) [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo de magia de aire](/images/t/artifact_40461.png) [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Detalles

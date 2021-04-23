@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Armadura Ósea](/images/t/artifact_40304.png)
+
 
 
 ## Detalles

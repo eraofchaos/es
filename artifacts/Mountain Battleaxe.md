@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Hacha de Guerra de Montaña](/images/t/artifact_40444.png)
+
 
 
 ## Detalles

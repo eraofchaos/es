@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo de magia de agua](/images/t/artifact_40462.png)
+
 
 
 ## Detalles

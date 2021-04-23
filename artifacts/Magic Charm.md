@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Amuleto Mágico](/images/t/artifact_40212.png)
+
 
 
 ## Detalles

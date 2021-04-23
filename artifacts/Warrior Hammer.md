@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Mazo de Guerrero](/images/t/artifact_40445.png)
+
 
 
 ## Detalles

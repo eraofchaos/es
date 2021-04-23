@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Garrote del Caos del Ogro](/images/t/artifact_40311.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Corona de los Magos Supremos](/images/t/artifact_40313.png)
+
 
 
 ## Detalles

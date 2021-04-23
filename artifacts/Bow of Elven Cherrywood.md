@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Arco de Madera de Cerezo Élfica](/images/t/artifact_40101.png)
+
 
 
 ## Detalles

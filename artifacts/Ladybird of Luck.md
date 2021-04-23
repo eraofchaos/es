@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Mariquita de Buen Agüero](/images/t/artifact_40123.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Cartas de la Profecía](/images/t/artifact_40122.png)
+
 
 
 ## Detalles

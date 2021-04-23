@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Amuleto de Maná](/images/t/artifact_40211.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo de Magia de Fuego](/images/t/artifact_40461.png)
+
 
 
 ## Detalles

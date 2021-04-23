@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Espada del Fuego Infernal](/images/t/artifact_40301.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Manto de Hechicería](/images/t/artifact_40223.png)
+
 
 
 ## Detalles

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Anillo de Hechicería](/images/t/artifact_40222.png)
+
 
 
 ## Detalles

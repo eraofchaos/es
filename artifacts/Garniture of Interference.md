@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Gargantilla de Interferencia](/images/t/artifact_40231.png)
+
 
 
 ## Detalles

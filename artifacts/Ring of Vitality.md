@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Anillo de vitalidad](/images/t/artifact_40111.png)
+
 
 
 ## Detalles

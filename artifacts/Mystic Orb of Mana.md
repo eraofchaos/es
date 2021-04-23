@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Orbe Místico de Maná](/images/t/artifact_40213.png)
+
 
 
 ## Detalles

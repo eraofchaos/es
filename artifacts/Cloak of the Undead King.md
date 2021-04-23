@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   |  [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Amuleto del Enterrador](/images/t/artifact_40321.png) [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Capucha del Vampiro](/images/t/artifact_40321.png) [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Capa del Rey No Muerto](/images/t/icon_artifact_32.png) **Capa del Rey No Muerto** |  | 
-  |   |  [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Botas del Muerto](/images/t/artifact_40321.png) [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Detalles

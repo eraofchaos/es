@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} |   |  [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  |  [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) **Espada del Apocalipsis** |  [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  |  [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   |  [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Arco Forestal](/images/t/artifact_40441.png) [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Ballesta Ejemplar](/images/t/artifact_40441.png) [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Espada de Caballero](/images/t/artifact_40441.png) [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) **Espada del Apocalipsis** | ![Hacha de Guerra de Montaña](/images/t/artifact_40441.png) [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Báculo de la Sabiduría](/images/t/artifact_40441.png) [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Mazo de Guerrero](/images/t/artifact_40441.png) [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Detalles

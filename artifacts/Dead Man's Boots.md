@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Botas del Muerto](/images/t/artifact_40323.png)
+
 
 
 ## Detalles
