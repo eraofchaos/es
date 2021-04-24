@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Báculo Fulminante](/images/t/artifact_40433.png)
+
 
 
 ## Detalles

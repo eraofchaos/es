@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   |  [Brasero del Caos](/es/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Reloj de Arena Olvidado](/es/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | **Espejo de Venganza** |  | 
+  |   | ![Espejo de Venganza](/images/t/icon_artifact_35.png) **Espejo de Venganza** |  | 
   |  [Escama de Hielo](/es/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Collar de Equilibrio](/es/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 

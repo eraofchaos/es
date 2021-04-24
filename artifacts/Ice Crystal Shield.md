@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Escudo de Cristal Gélido](/images/t/artifact_40435.png)
+
 
 
 ## Detalles

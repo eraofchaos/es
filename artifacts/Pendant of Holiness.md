@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Medallón de la Santidad](/images/t/artifact_40416.png)
+
 
 
 ## Detalles

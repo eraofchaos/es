@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tridente del Fondo Marino](/images/t/artifact_40431.png)
+
 
 
 ## Detalles

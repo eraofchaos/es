@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Arco del Tirador](/images/t/icon_artifact_10.png) [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Una reliquia sagrada forjada a partir de los tesoros élficos. Capaz de aumentar el ataque a distancia. |
   | 4   | ![Capa del Rey No Muerto](/images/t/icon_artifact_32.png) [Capa del Rey No Muerto](/es/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Una reliquia sagrada forjada por un rey no muerto para ocultar su rostro. Capaz de invocar un ejército de Esqueletos. |
   | 5   | ![Códice del Archimago](/images/t/icon_artifact_34.png) [Códice del Archimago](/es/artifacts/Archmage's Codex/){: .btn .btn--era4} | 4 | 35 | Registra hechizos arcanos. Fortaleza a las unidades a distancia y lanzadoras. |
-  | 6   | [Espejo de Venganza](/es/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | Una maga débil utilizó hechizos prohibidos para crear este artefacto maligno con el objetivo de vengarse. Este artefacto puede potenciar el poder de combate de tus tropas. |
+  | 6   | ![Espejo de Venganza](/images/t/icon_artifact_35.png) [Espejo de Venganza](/es/artifacts/Mirror of Revenge/){: .btn .btn--era4} | 4 | 35 | Una maga débil utilizó hechizos prohibidos para crear este artefacto maligno con el objetivo de vengarse. Este artefacto puede potenciar el poder de combate de tus tropas. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/es/artifacts/Artifacts Upgrade/)

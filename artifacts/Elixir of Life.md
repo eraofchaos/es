@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Anillo de vitalidad](/images/t/artifact_40111.png) [Anillo de vitalidad](/es/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anillo de la Vida](/images/t/artifact_40111.png) [Anillo de la Vida](/es/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Anillo de vitalidad](/images/t/artifact_40111.png) [Anillo de vitalidad](/es/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anillo de la Vida](/images/t/artifact_40112.png) [Anillo de la Vida](/es/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Elixir de Vida](/images/t/icon_artifact_11.png) **Elixir de Vida** |  | 
-  |   | ![Botella de energía](/images/t/artifact_40111.png) [Botella de energía](/es/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Botella de energía](/images/t/artifact_40113.png) [Botella de energía](/es/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Detalles
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Anillo de vitalidad](/es/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Defensa del Héroe**: 1+(LEVEL\*0.4)<br/>**Sabiduría del Héroe**: 1+(LEVEL\*0.4) | Un anillo que suministra energía. Uno de los componentes del Elixir de Vida. | 
-  | 2 | [Anillo de la Vida](/es/artifacts/Ring of Life/){: .btn .btn--era2} | **Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Ataque del Héroe**: 1+(LEVEL\*0.4) | Un anillo que suministra grandes cantidades de vida a su portador. Uno de los componentes del Elixir de Vida. | 
-  | 3 | [Botella de energía](/es/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Inteligencia del Héroe**: 1+(LEVEL\*0.4) | Una botella que hace que su portador se sienta con energía. Uno de los componentes del Elixir de Vida. | 
+  | 1 | ![Anillo de vitalidad](/images/t/artifact_40111.png) [Anillo de vitalidad](/es/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Defensa del Héroe**: 1+(LEVEL\*0.4)<br/>**Sabiduría del Héroe**: 1+(LEVEL\*0.4) | Un anillo que suministra energía. Uno de los componentes del Elixir de Vida. | 
+  | 2 | ![Anillo de la Vida](/images/t/artifact_40112.png) [Anillo de la Vida](/es/artifacts/Ring of Life/){: .btn .btn--era2} | **Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Ataque del Héroe**: 1+(LEVEL\*0.4) | Un anillo que suministra grandes cantidades de vida a su portador. Uno de los componentes del Elixir de Vida. | 
+  | 3 | ![Botella de energía](/images/t/artifact_40113.png) [Botella de energía](/es/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Inteligencia del Héroe**: 1+(LEVEL\*0.4) | Una botella que hace que su portador se sienta con energía. Uno de los componentes del Elixir de Vida. | 
 
 
 ## Artifact Advancement

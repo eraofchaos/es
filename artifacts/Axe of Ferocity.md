@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Garrote del Caos del Ogro](/images/t/artifact_40311.png) [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Túnica del Rey Cíclope](/images/t/artifact_40311.png) [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  | ![Garrote del Caos del Ogro](/images/t/artifact_40311.png) [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Túnica del Rey Cíclope](/images/t/artifact_40314.png) [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
   |   | ![Hacha de la Ferocidad](/images/t/icon_artifact_31.png) **Hacha de la Ferocidad** |  | 
-  | ![Escudo del Ogro Enloquecido](/images/t/artifact_40311.png) [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Corona de los Magos Supremos](/images/t/artifact_40311.png) [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Escudo del Ogro Enloquecido](/images/t/artifact_40312.png) [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Corona de los Magos Supremos](/images/t/artifact_40313.png) [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Detalles
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Ataque de la unidad**: 3+(LEVEL\*1.2) %<br/>**Ataque del Héroe**: 5+(LEVEL\*2)<br/>**Inteligencia del Héroe**: 5+(LEVEL\*2) | Un bastón arrebatado a un Capitán Ogro en una taberna del camino. Uno de los componentes del Hacha de la Ferocidad. | 
-  | 2 | [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 5+(LEVEL\*2)<br/>**Sabiduría del Héroe**: 5+(LEVEL\*2) | Un regalo por derrotar a un teniente de los Ogros. Uno de los componentes del Hacha de la Ferocidad. | 
-  | 3 | [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Ataque de la unidad**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 5+(LEVEL\*2)<br/>**Sabiduría del Héroe**: 5+(LEVEL\*2) | Una corona de obsequio por salvar a un hechicero loco. Uno de los componentes del Hacha de la Ferocidad. | 
-  | 4 | [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Ataque del Héroe**: 5+(LEVEL\*2)<br/>**Defensa del Héroe**: 5+(LEVEL\*2) | Un abrigo perdido por un Cíclope bañista despistado. Uno de los componentes del Hacha de la Ferocidad. | 
+  | 1 | ![Garrote del Caos del Ogro](/images/t/artifact_40311.png) [Garrote del Caos del Ogro](/es/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} | **Ataque de la unidad**: 3+(LEVEL\*1.2) %<br/>**Ataque del Héroe**: 5+(LEVEL\*2)<br/>**Inteligencia del Héroe**: 5+(LEVEL\*2) | Un bastón arrebatado a un Capitán Ogro en una taberna del camino. Uno de los componentes del Hacha de la Ferocidad. | 
+  | 2 | ![Escudo del Ogro Enloquecido](/images/t/artifact_40312.png) [Escudo del Ogro Enloquecido](/es/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 5+(LEVEL\*2)<br/>**Sabiduría del Héroe**: 5+(LEVEL\*2) | Un regalo por derrotar a un teniente de los Ogros. Uno de los componentes del Hacha de la Ferocidad. | 
+  | 3 | ![Corona de los Magos Supremos](/images/t/artifact_40313.png) [Corona de los Magos Supremos](/es/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | **Ataque de la unidad**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 5+(LEVEL\*2)<br/>**Sabiduría del Héroe**: 5+(LEVEL\*2) | Una corona de obsequio por salvar a un hechicero loco. Uno de los componentes del Hacha de la Ferocidad. | 
+  | 4 | ![Túnica del Rey Cíclope](/images/t/artifact_40314.png) [Túnica del Rey Cíclope](/es/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Ataque del Héroe**: 5+(LEVEL\*2)<br/>**Defensa del Héroe**: 5+(LEVEL\*2) | Un abrigo perdido por un Cíclope bañista despistado. Uno de los componentes del Hacha de la Ferocidad. | 
 
 
 ## Artifact Advancement

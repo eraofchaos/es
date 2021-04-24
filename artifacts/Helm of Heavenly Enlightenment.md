@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Yelmo de la Divina Iluminación](/images/t/artifact_40413.png)
+
 
 
 ## Detalles

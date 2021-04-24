@@ -15,7 +15,7 @@ classes: wide
 
  **Descripción:** Un objeto utilizado para regular la poderosa magia de escarcha. Uno de los componentes del Espejo de Venganza.
 
- **Part of Artifact:** [Espejo de Venganza](/es/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Espejo de Venganza](/images/t/icon_artifact_35.png) [Espejo de Venganza](/es/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

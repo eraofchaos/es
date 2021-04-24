@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Ave de Percepción](/images/t/artifact_40331.png)
+
 
 
 ## Detalles
 
  **Descripción:** Una escultura de Ojo de halcón encantada por el poder de una bruja. Uno de los componentes del Ojo de halcón.
 
- **Part of Artifact:** [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Ojo de halcón](/images/t/icon_artifact_33.png) [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Espada del Juicio](/images/t/artifact_40411.png)
+
 
 
 ## Detalles

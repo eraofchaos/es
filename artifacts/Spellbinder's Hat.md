@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Tomo de Magia de Fuego](/images/t/artifact_40461.png) [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo de magia de tierra](/images/t/artifact_40461.png) [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  | ![Tomo de Magia de Fuego](/images/t/artifact_40461.png) [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo de magia de tierra](/images/t/artifact_40464.png) [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
   |   | ![Sombrero del Encantador](/images/t/icon_artifact_46.png) **Sombrero del Encantador** |  | 
-  | ![Tomo de magia de agua](/images/t/artifact_40461.png) [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo de magia de aire](/images/t/artifact_40461.png) [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Tomo de magia de agua](/images/t/artifact_40462.png) [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo de magia de aire](/images/t/artifact_40463.png) [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Detalles
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de fuego avanzada. Luna lo leía antes de irse a dormir. Uno de los componentes del Sombrero del Encantador. | 
-  | 2 | [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de agua avanzada. Te lo dio Adelaide. Uno de los componentes del Sombrero del Encantador. | 
-  | 3 | [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Inteligencia del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de aire avanzada. Al leerlo, sentirás el elemental de aire. Uno de los componentes del Sombrero del Encantador. | 
-  | 4 | [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de tierra avanzada. Cuenta la leyenda que Jeddite lo usó para derrotar a Mutare, convertida en dragón. Uno de los componentes del Sombrero del Encantador. | 
+  | 1 | ![Tomo de Magia de Fuego](/images/t/artifact_40461.png) [Tomo de Magia de Fuego](/es/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de fuego avanzada. Luna lo leía antes de irse a dormir. Uno de los componentes del Sombrero del Encantador. | 
+  | 2 | ![Tomo de magia de agua](/images/t/artifact_40462.png) [Tomo de magia de agua](/es/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de agua avanzada. Te lo dio Adelaide. Uno de los componentes del Sombrero del Encantador. | 
+  | 3 | ![Tomo de magia de aire](/images/t/artifact_40463.png) [Tomo de magia de aire](/es/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Inteligencia del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de aire avanzada. Al leerlo, sentirás el elemental de aire. Uno de los componentes del Sombrero del Encantador. | 
+  | 4 | ![Tomo de magia de tierra](/images/t/artifact_40464.png) [Tomo de magia de tierra](/es/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Este libro de hechizos incluye enseñanzas de magia de tierra avanzada. Cuenta la leyenda que Jeddite lo usó para derrotar a Mutare, convertida en dragón. Uno de los componentes del Sombrero del Encantador. | 
 
 
 ## Artifact Advancement

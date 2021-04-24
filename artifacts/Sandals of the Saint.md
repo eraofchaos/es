@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Sandalias del Santo](/images/t/artifact_40415.png)
+
 
 
 ## Detalles

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Vigía Estoico](/images/t/artifact_40332.png)
+
 
 
 ## Detalles
 
  **Descripción:** Una escultura de aventurero con ojos de fuego. Uno de los componentes del Ojo de halcón.
 
- **Part of Artifact:** [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Ojo de halcón](/images/t/icon_artifact_33.png) [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 

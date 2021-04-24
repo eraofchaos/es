@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
-  |   | **Ojo de halcón** |  | 
-  |  [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  | ![Ave de Percepción](/images/t/artifact_40331.png) [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} |   | ![Anillo de Ojo de Águila](/images/t/artifact_40334.png) [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |   | ![Ojo de halcón](/images/t/icon_artifact_33.png) **Ojo de halcón** |  | 
+  | ![Vigía Estoico](/images/t/artifact_40332.png) [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | ![Medalla de la Verdad](/images/t/artifact_40333.png) [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Detalles
@@ -31,10 +31,10 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8) | Una escultura de Ojo de halcón encantada por el poder de una bruja. Uno de los componentes del Ojo de halcón. | 
-  | 2 | [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} | **Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8) | Una escultura de aventurero con ojos de fuego. Uno de los componentes del Ojo de halcón. | 
-  | 3 | [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Un amuleto de bruja con ojos. Uno de los componentes del Ojo de halcón. | 
-  | 4 | [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Daño Mágico**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 12+(LEVEL\*4.8) | Un anillo secreto con ojos. Uno de los componentes del Ojo de halcón. | 
+  | 1 | ![Ave de Percepción](/images/t/artifact_40331.png) [Ave de Percepción](/es/artifacts/Bird of Perception/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8) | Una escultura de Ojo de halcón encantada por el poder de una bruja. Uno de los componentes del Ojo de halcón. | 
+  | 2 | ![Vigía Estoico](/images/t/artifact_40332.png) [Vigía Estoico](/es/artifacts/Stoic Watchman/){: .btn .btn--era5} | **Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8) | Una escultura de aventurero con ojos de fuego. Uno de los componentes del Ojo de halcón. | 
+  | 3 | ![Medalla de la Verdad](/images/t/artifact_40333.png) [Medalla de la Verdad](/es/artifacts/Medal of Truth/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Un amuleto de bruja con ojos. Uno de los componentes del Ojo de halcón. | 
+  | 4 | ![Anillo de Ojo de Águila](/images/t/artifact_40334.png) [Anillo de Ojo de Águila](/es/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Daño Mágico**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 12+(LEVEL\*4.8) | Un anillo secreto con ojos. Uno de los componentes del Ojo de halcón. | 
 
 
 ## Artifact Advancement

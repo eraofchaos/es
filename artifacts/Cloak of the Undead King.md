@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Amuleto del Enterrador](/images/t/artifact_40321.png) [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Capucha del Vampiro](/images/t/artifact_40321.png) [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  | ![Amuleto del Enterrador](/images/t/artifact_40321.png) [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Capucha del Vampiro](/images/t/artifact_40322.png) [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
   |   | ![Capa del Rey No Muerto](/images/t/icon_artifact_32.png) **Capa del Rey No Muerto** |  | 
-  |   | ![Botas del Muerto](/images/t/artifact_40321.png) [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  |   | ![Botas del Muerto](/images/t/artifact_40323.png) [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Detalles
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Daño Mágico**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 2+(LEVEL\*0.8)<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un amuleto utilizado por un Liche para protegerse. Uno de los componentes de la Capa del Rey No Muerto. | 
-  | 2 | [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4) | Un manto valioso de un Vampiro. Uno de los componentes de la Capa del Rey No Muerto. | 
-  | 3 | [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Una bota que vuelve a su portador rápido como el viento. Uno de los componentes de la Capa del Rey No Muerto. | 
+  | 1 | ![Amuleto del Enterrador](/images/t/artifact_40321.png) [Amuleto del Enterrador](/es/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} | **Daño Mágico**: 3+(LEVEL\*1.2) %<br/>**Inteligencia del Héroe**: 2+(LEVEL\*0.8)<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un amuleto utilizado por un Liche para protegerse. Uno de los componentes de la Capa del Rey No Muerto. | 
+  | 2 | ![Capucha del Vampiro](/images/t/artifact_40322.png) [Capucha del Vampiro](/es/artifacts/Vampire's Cowl/){: .btn .btn--era4} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4) | Un manto valioso de un Vampiro. Uno de los componentes de la Capa del Rey No Muerto. | 
+  | 3 | ![Botas del Muerto](/images/t/artifact_40323.png) [Botas del Muerto](/es/artifacts/Dead Man's Boots/){: .btn .btn--era4} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 2+(LEVEL\*0.8) %<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Una bota que vuelve a su portador rápido como el viento. Uno de los componentes de la Capa del Rey No Muerto. | 
 
 
 ## Artifact Advancement

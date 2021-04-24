@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Báculo del Inframundo](/images/t/artifact_40436.png)
+
 
 
 ## Detalles

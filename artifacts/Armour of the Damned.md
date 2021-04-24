@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Espada del Fuego Infernal](/images/t/artifact_40301.png) [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armadura Ósea](/images/t/artifact_40301.png) [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  | ![Espada del Fuego Infernal](/images/t/artifact_40301.png) [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armadura Ósea](/images/t/artifact_40304.png) [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | 
   |   | ![Armadura de los Condenados](/images/t/icon_artifact_30.png) **Armadura de los Condenados** |  | 
-  | ![Escudo de la Muerte](/images/t/artifact_40301.png) [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Casco de Cráneo](/images/t/artifact_40301.png) [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Escudo de la Muerte](/images/t/artifact_40302.png) [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Casco de Cráneo](/images/t/artifact_40303.png) [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Detalles
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4) | Una espada que alberga un poder oscuro. Uno de los componentes de la Armadura de los Condenados. | 
-  | 2 | [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4) | Un escudo formado a partir de huesos de no muertos. Uno de los componentes de la Armadura de los Condenados. | 
-  | 3 | [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Inteligencia del Héroe**: 6+(LEVEL\*2.4) | Un casco encontrado en el Mundo Subterráneo. Uno de los componentes de la Armadura de los Condenados. | 
-  | 4 | [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un escudo compuesto de huesos duros. Uno de los componentes de la Armadura de los Condenados. | 
+  | 1 | ![Espada del Fuego Infernal](/images/t/artifact_40301.png) [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4) | Una espada que alberga un poder oscuro. Uno de los componentes de la Armadura de los Condenados. | 
+  | 2 | ![Escudo de la Muerte](/images/t/artifact_40302.png) [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4) | Un escudo formado a partir de huesos de no muertos. Uno de los componentes de la Armadura de los Condenados. | 
+  | 3 | ![Casco de Cráneo](/images/t/artifact_40303.png) [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Inteligencia del Héroe**: 6+(LEVEL\*2.4) | Un casco encontrado en el Mundo Subterráneo. Uno de los componentes de la Armadura de los Condenados. | 
+  | 4 | ![Armadura Ósea](/images/t/artifact_40304.png) [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un escudo compuesto de huesos duros. Uno de los componentes de la Armadura de los Condenados. | 
 
 
 ## Artifact Advancement

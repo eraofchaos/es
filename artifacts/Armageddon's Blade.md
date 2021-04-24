@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Arco Forestal](/images/t/artifact_40441.png) [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Ballesta Ejemplar](/images/t/artifact_40441.png) [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | ![Espada de Caballero](/images/t/artifact_40441.png) [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) **Espada del Apocalipsis** | ![Hacha de Guerra de Montaña](/images/t/artifact_40441.png) [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | ![Báculo de la Sabiduría](/images/t/artifact_40441.png) [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Mazo de Guerrero](/images/t/artifact_40441.png) [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Arco Forestal](/images/t/artifact_40442.png) [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Ballesta Ejemplar](/images/t/artifact_40446.png) [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Espada de Caballero](/images/t/artifact_40441.png) [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) **Espada del Apocalipsis** | ![Hacha de Guerra de Montaña](/images/t/artifact_40444.png) [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Báculo de la Sabiduría](/images/t/artifact_40443.png) [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Mazo de Guerrero](/images/t/artifact_40445.png) [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Detalles
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | **Ataque de la unidad**: 14+(LEVEL\*5.6) %<br/>**Ataque del Héroe**: 8+(LEVEL\*3.2) | Una espada blandida por los héroes de los castillos. Uno de los componentes de la Espada del Apocalipsis. | 
-  | 2 | [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} | **Ataque de la unidad**: 5+(LEVEL\*2) %<br/>**Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 16+(LEVEL\*6.4) | Un arco usado a menudo por las Elfas del Bosque. Uno de los componentes de la Espada del Apocalipsis. | 
-  | 3 | [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una reliquia que protege el Escudo de hielo. Uno de los componentes de la Espada del Apocalipsis. | 
-  | 4 | [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Una reliquia que dejó el Rey de los Enanos tras la batalla de Enroth. Uno de los componentes de la Espada del Apocalipsis. | 
-  | 5 | [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un mazo de guerra que ocultaron en la Cresta del Gigante. Uno de los componentes de la Espada del Apocalipsis. | 
-  | 6 | [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un artefacto usado por el Héroe Gelu antes de alcanzar la mayoría de edad. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 1 | ![Espada de Caballero](/images/t/artifact_40441.png) [Espada de Caballero](/es/artifacts/Knight Sword/){: .btn .btn--era5} | **Ataque de la unidad**: 14+(LEVEL\*5.6) %<br/>**Ataque del Héroe**: 8+(LEVEL\*3.2) | Una espada blandida por los héroes de los castillos. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 2 | ![Arco Forestal](/images/t/artifact_40442.png) [Arco Forestal](/es/artifacts/Forest Bow/){: .btn .btn--era5} | **Ataque de la unidad**: 5+(LEVEL\*2) %<br/>**Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 16+(LEVEL\*6.4) | Un arco usado a menudo por las Elfas del Bosque. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 3 | ![Báculo de la Sabiduría](/images/t/artifact_40443.png) [Báculo de la Sabiduría](/es/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una reliquia que protege el Escudo de hielo. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 4 | ![Hacha de Guerra de Montaña](/images/t/artifact_40444.png) [Hacha de Guerra de Montaña](/es/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Una reliquia que dejó el Rey de los Enanos tras la batalla de Enroth. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 5 | ![Mazo de Guerrero](/images/t/artifact_40445.png) [Mazo de Guerrero](/es/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un mazo de guerra que ocultaron en la Cresta del Gigante. Uno de los componentes de la Espada del Apocalipsis. | 
+  | 6 | ![Ballesta Ejemplar](/images/t/artifact_40446.png) [Ballesta Ejemplar](/es/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un artefacto usado por el Héroe Gelu antes de alcanzar la mayoría de edad. Uno de los componentes de la Espada del Apocalipsis. | 
 
 
 ## Artifact Advancement

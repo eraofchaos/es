@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Escudo del León del Valor](/es/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  |  [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alianza Angelical](/images/t/icon_artifact_41.png) **Alianza Angelical** |  [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  |  [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Escudo del León del Valor](/es/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | ![Medallón de la Santidad](/images/t/artifact_40416.png) [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  | ![Espada del Juicio](/images/t/artifact_40411.png) [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alianza Angelical](/images/t/icon_artifact_41.png) **Alianza Angelical** | ![Armadura Portentosa](/images/t/artifact_40414.png) [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  | ![Yelmo de la Divina Iluminación](/images/t/artifact_40413.png) [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | ![Sandalias del Santo](/images/t/artifact_40415.png) [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Detalles
@@ -33,12 +33,12 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Ataque de la unidad**: 14+(LEVEL\*5.6) %<br/>**Ataque del Héroe**: 8+(LEVEL\*3.2) | Una espada que los dioses regalaron a los humanos. Uno de los componentes de la Alianza Angelical. | 
+  | 1 | ![Espada del Juicio](/images/t/artifact_40411.png) [Espada del Juicio](/es/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Ataque de la unidad**: 14+(LEVEL\*5.6) %<br/>**Ataque del Héroe**: 8+(LEVEL\*3.2) | Una espada que los dioses regalaron a los humanos. Uno de los componentes de la Alianza Angelical. | 
   | 2 | [Escudo del León del Valor](/es/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} | **Ataque de la unidad**: 5+(LEVEL\*2) %<br/>**Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Defensa del Héroe**: 16+(LEVEL\*6.4) | Un emblema del poder militar de las unidades de Grifos. Uno de los componentes de la Alianza Angelical. | 
-  | 3 | [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una corona bendecida por los dioses. Uno de los componentes de la Alianza Angelical. | 
-  | 4 | [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Una armadura que atestiguó las grandezas del Imperio. Uno de los componentes de la Alianza Angelical. | 
-  | 5 | [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una reliquia sagrada confeccionada para celebrar la unidad de Erathia. Uno de los componentes de la Alianza Angelical. | 
-  | 6 | [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un collar que perteneció a un Ángel. Uno de los componentes de la Alianza Angelical. | 
+  | 3 | ![Yelmo de la Divina Iluminación](/images/t/artifact_40413.png) [Yelmo de la Divina Iluminación](/es/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una corona bendecida por los dioses. Uno de los componentes de la Alianza Angelical. | 
+  | 4 | ![Armadura Portentosa](/images/t/artifact_40414.png) [Armadura Portentosa](/es/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Una armadura que atestiguó las grandezas del Imperio. Uno de los componentes de la Alianza Angelical. | 
+  | 5 | ![Sandalias del Santo](/images/t/artifact_40415.png) [Sandalias del Santo](/es/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Una reliquia sagrada confeccionada para celebrar la unidad de Erathia. Uno de los componentes de la Alianza Angelical. | 
+  | 6 | ![Medallón de la Santidad](/images/t/artifact_40416.png) [Medallón de la Santidad](/es/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 16+(LEVEL\*6.4) | Un collar que perteneció a un Ángel. Uno de los componentes de la Alianza Angelical. | 
 
 
 ## Artifact Advancement

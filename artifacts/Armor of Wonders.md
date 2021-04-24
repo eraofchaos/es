@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Armadura Portentosa](/images/t/artifact_40414.png)
+
 
 
 ## Detalles

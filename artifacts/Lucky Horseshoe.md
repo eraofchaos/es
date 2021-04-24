@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Trébol de la Fortuna](/images/t/artifact_40121.png) [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cartas de la Profecía](/images/t/artifact_40121.png) [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  | ![Trébol de la Fortuna](/images/t/artifact_40121.png) [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Cartas de la Profecía](/images/t/artifact_40122.png) [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
   |   | ![Herradura de la Suerte](/images/t/icon_artifact_12.png) **Herradura de la Suerte** |  | 
-  |   | ![Mariquita de Buen Agüero](/images/t/artifact_40121.png) [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  |   | ![Mariquita de Buen Agüero](/images/t/artifact_40123.png) [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Detalles
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Ataque de la unidad**: 1+(LEVEL\*0.4) %<br/>**Ataque del Héroe**: 1+(LEVEL\*0.4) | Un trébol que trae una gran fortuna. Uno de los componentes de la Herradura de la Suerte. | 
-  | 2 | [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Inteligencia del Héroe**: 1+(LEVEL\*0.4)<br/>**Sabiduría del Héroe**: 1+(LEVEL\*0.4) | Una carta de adivinación con magia fuerte. Uno de los componentes de la Herradura de la Suerte. | 
-  | 3 | [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Defensa del Héroe**: 1+(LEVEL\*0.4) | Una estatua de ave resplandeciente. Uno de los componentes de la Herradura de la Suerte. | 
+  | 1 | ![Trébol de la Fortuna](/images/t/artifact_40121.png) [Trébol de la Fortuna](/es/artifacts/Clover of Fortune/){: .btn .btn--era2} | **Ataque de la unidad**: 1+(LEVEL\*0.4) %<br/>**Ataque del Héroe**: 1+(LEVEL\*0.4) | Un trébol que trae una gran fortuna. Uno de los componentes de la Herradura de la Suerte. | 
+  | 2 | ![Cartas de la Profecía](/images/t/artifact_40122.png) [Cartas de la Profecía](/es/artifacts/Cards of Prophecy/){: .btn .btn--era2} | **Inteligencia del Héroe**: 1+(LEVEL\*0.4)<br/>**Sabiduría del Héroe**: 1+(LEVEL\*0.4) | Una carta de adivinación con magia fuerte. Uno de los componentes de la Herradura de la Suerte. | 
+  | 3 | ![Mariquita de Buen Agüero](/images/t/artifact_40123.png) [Mariquita de Buen Agüero](/es/artifacts/Ladybird of Luck/){: .btn .btn--era2} | **Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Defensa del Héroe**: 1+(LEVEL\*0.4) | Una estatua de ave resplandeciente. Uno de los componentes de la Herradura de la Suerte. | 
 
 
 ## Artifact Advancement

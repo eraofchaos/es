@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Hacha de Guerra del Minotauro](/images/t/artifact_40432.png)
+
 
 
 ## Detalles

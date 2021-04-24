@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Gargantilla de Interferencia](/images/t/artifact_40231.png) [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Sobrevesta de Contrapeso](/images/t/artifact_40231.png) [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Gargantilla de Interferencia](/images/t/artifact_40231.png) [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Sobrevesta de Contrapeso](/images/t/artifact_40232.png) [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Piedra Rúnica de Antimagia](/images/t/icon_artifact_23.png) **Piedra Rúnica de Antimagia** |  | 
-  |   | ![Botas de Polaridad](/images/t/artifact_40231.png) [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Botas de Polaridad](/images/t/artifact_40233.png) [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Detalles
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Ataque de la unidad**: 1+(LEVEL\*0.4) %<br/>**Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Un collar con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
-  | 2 | [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Inteligencia del Héroe**: 2+(LEVEL\*0.8)<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Un manto con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
-  | 3 | [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Unas botas con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
+  | 1 | ![Gargantilla de Interferencia](/images/t/artifact_40231.png) [Gargantilla de Interferencia](/es/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Ataque de la unidad**: 1+(LEVEL\*0.4) %<br/>**Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Un collar con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
+  | 2 | ![Sobrevesta de Contrapeso](/images/t/artifact_40232.png) [Sobrevesta de Contrapeso](/es/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Inteligencia del Héroe**: 2+(LEVEL\*0.8)<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Un manto con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
+  | 3 | ![Botas de Polaridad](/images/t/artifact_40233.png) [Botas de Polaridad](/es/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Vida de la unidad**: 1+(LEVEL\*0.4) %<br/>**Daño Mágico**: 1+(LEVEL\*0.4) %<br/>**Sabiduría del Héroe**: 3+(LEVEL\*1.2) | Unas botas con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia. | 
 
 
 ## Artifact Advancement

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Arco de Madera de Cerezo Élfica](/images/t/artifact_40101.png) [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Flechas de Pluma de Ángel](/images/t/artifact_40101.png) [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  | ![Arco de Madera de Cerezo Élfica](/images/t/artifact_40101.png) [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Flechas de Pluma de Ángel](/images/t/artifact_40102.png) [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
   |   | ![Arco del Tirador](/images/t/icon_artifact_10.png) **Arco del Tirador** |  | 
-  |   | ![Cordaje de Crin de Unicornio](/images/t/artifact_40101.png) [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |   | ![Cordaje de Crin de Unicornio](/images/t/artifact_40103.png) [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Detalles
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 4+(LEVEL\*1.6) | Un arco largo tallado en madera por los elfos. Uno de los componentes del Arco del Tirador. | 
-  | 2 | [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Daño Mágico**: 2+(LEVEL\*0.8) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6) | Una flecha mágica confeccionada por los elfos. Uno de los componentes del Arco del Tirador. | 
-  | 3 | [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Una crin que una bestia sagrada regaló a los elfos. Uno de los componentes del Arco del Tirador. | 
+  | 1 | ![Arco de Madera de Cerezo Élfica](/images/t/artifact_40101.png) [Arco de Madera de Cerezo Élfica](/es/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 4+(LEVEL\*1.6) | Un arco largo tallado en madera por los elfos. Uno de los componentes del Arco del Tirador. | 
+  | 2 | ![Flechas de Pluma de Ángel](/images/t/artifact_40102.png) [Flechas de Pluma de Ángel](/es/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Daño Mágico**: 2+(LEVEL\*0.8) %<br/>**Defensa del Héroe**: 4+(LEVEL\*1.6) | Una flecha mágica confeccionada por los elfos. Uno de los componentes del Arco del Tirador. | 
+  | 3 | ![Cordaje de Crin de Unicornio](/images/t/artifact_40103.png) [Cordaje de Crin de Unicornio](/es/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Una crin que una bestia sagrada regaló a los elfos. Uno de los componentes del Arco del Tirador. | 
 
 
 ## Artifact Advancement

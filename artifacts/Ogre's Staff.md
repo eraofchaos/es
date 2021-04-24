@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Báculo de Ogro](/images/t/artifact_40434.png)
+
 
 
 ## Detalles

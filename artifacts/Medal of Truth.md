@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Medalla de la Verdad](/images/t/artifact_40333.png)
+
 
 
 ## Detalles
 
  **Descripción:** Un amuleto de bruja con ojos. Uno de los componentes del Ojo de halcón.
 
- **Part of Artifact:** [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Ojo de halcón](/images/t/icon_artifact_33.png) [Ojo de halcón](/es/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Esencia de Artefacto](/ItemsES/con_905/)
 

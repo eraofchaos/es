@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  |  [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Espada de Escarcha** |  [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  |  [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  | ![Hacha de Guerra del Minotauro](/images/t/artifact_40432.png) [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | ![Báculo del Inframundo](/images/t/artifact_40436.png) [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  | ![Tridente del Fondo Marino](/images/t/artifact_40431.png) [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Espada de Escarcha** | ![Báculo de Ogro](/images/t/artifact_40434.png) [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | ![Báculo Fulminante](/images/t/artifact_40433.png) [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} |   | ![Escudo de Cristal Gélido](/images/t/artifact_40435.png) [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Detalles
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Nombre    |   Bonus | Descripción | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Ataque del Héroe**: 10+(LEVEL\*4) | Un arma utilizada por Poseidón. Uno de los componentes de la Espada de Escarcha. | 
-  | 2 | [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Ataque de la unidad**: 5+(LEVEL\*2) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8)<br/>**Defensa del Héroe**: 8+(LEVEL\*3.2) | Un hacha de guerra legada por los Tauren. Uno de los componentes de la Espada de Escarcha. | 
-  | 3 | [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 10+(LEVEL\*4) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4) | Un báculo usado por un Archiliche. Uno de los componentes de la Espada de Escarcha. | 
-  | 4 | [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Vida de la unidad**: 6+(LEVEL\*2.4) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8)<br/>**Inteligencia del Héroe**: 6+(LEVEL\*2.4) | Un báculo venerado por los Ogros. Uno de los componentes de la Espada de Escarcha. | 
-  | 5 | [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 10+(LEVEL\*4)<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Un escudo sagrado sellado en la meseta de Bracada. Uno de los componentes de la Espada de Escarcha. | 
-  | 6 | [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Ataque del Héroe**: 8+(LEVEL\*3.2)<br/>**Inteligencia del Héroe**: 10+(LEVEL\*4)<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Un báculo definitivo sellado en Deyja. Uno de los componentes de la Espada de Escarcha. | 
+  | 1 | ![Tridente del Fondo Marino](/images/t/artifact_40431.png) [Tridente del Fondo Marino](/es/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Ataque del Héroe**: 10+(LEVEL\*4) | Un arma utilizada por Poseidón. Uno de los componentes de la Espada de Escarcha. | 
+  | 2 | ![Hacha de Guerra del Minotauro](/images/t/artifact_40432.png) [Hacha de Guerra del Minotauro](/es/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Ataque de la unidad**: 5+(LEVEL\*2) %<br/>**Ataque del Héroe**: 12+(LEVEL\*4.8)<br/>**Defensa del Héroe**: 8+(LEVEL\*3.2) | Un hacha de guerra legada por los Tauren. Uno de los componentes de la Espada de Escarcha. | 
+  | 3 | ![Báculo Fulminante](/images/t/artifact_40433.png) [Báculo Fulminante](/es/artifacts/Withering Staff/){: .btn .btn--era5} | **Ataque de la unidad**: 2+(LEVEL\*0.8) %<br/>**Vida de la unidad**: 10+(LEVEL\*4) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4) | Un báculo usado por un Archiliche. Uno de los componentes de la Espada de Escarcha. | 
+  | 4 | ![Báculo de Ogro](/images/t/artifact_40434.png) [Báculo de Ogro](/es/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Vida de la unidad**: 6+(LEVEL\*2.4) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8)<br/>**Inteligencia del Héroe**: 6+(LEVEL\*2.4) | Un báculo venerado por los Ogros. Uno de los componentes de la Espada de Escarcha. | 
+  | 5 | ![Escudo de Cristal Gélido](/images/t/artifact_40435.png) [Escudo de Cristal Gélido](/es/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Defensa del Héroe**: 10+(LEVEL\*4)<br/>**Sabiduría del Héroe**: 4+(LEVEL\*1.6) | Un escudo sagrado sellado en la meseta de Bracada. Uno de los componentes de la Espada de Escarcha. | 
+  | 6 | ![Báculo del Inframundo](/images/t/artifact_40436.png) [Báculo del Inframundo](/es/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Ataque del Héroe**: 8+(LEVEL\*3.2)<br/>**Inteligencia del Héroe**: 10+(LEVEL\*4)<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Un báculo definitivo sellado en Deyja. Uno de los componentes de la Espada de Escarcha. | 
 
 
 ## Artifact Advancement
