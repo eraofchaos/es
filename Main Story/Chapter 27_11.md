@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-11 Eterno"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Capítulo 27 - 11. Era of Chaos  Historia principal - Capítulo 27_11. 27-11 Eterno"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 27_11.md"
 toc: false

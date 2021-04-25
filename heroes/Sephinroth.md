@@ -4,7 +4,7 @@ permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Se dice que Sephinroth, la única hechicera que se conoce de Antagarich, es la hija ilegítima del Rey Corazón de Grifo."
 heroID: 61402
 QR: hero_61402
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Sephinroth"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descripción:** Se dice que Sephinroth, la única hechicera que se conoce de Antagarich, es la hija ilegítima del Rey Corazón de Grifo.
 ## Detalles
- **Profession:** ![Brujo](/images/h/h_prof_11.png) Brujo
+ **Profession:** ![Brujo](/images/h/h_prof_11.png)  [Brujo](/es/heroes/Profession Warlock/)
 
- **Race:** Mazmorra
+ **Facción::** [Mazmorra](/es/heroes/Faction Dungeon/)
 
- **Rate:** R
+ **Rango:** [R](/es/heroes/Hero Rank R/)
 
  **User Rate:** R
 

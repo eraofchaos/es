@@ -1,9 +1,9 @@
 ---
 title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
+excerpt: "Era of Chaos Campeón Oscuro. Campeón Oscuro Unidades. null. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Campeón Oscuro"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/es/units/Unit Rank Commander/)
+ **Rango:** [Comandante](/es/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 

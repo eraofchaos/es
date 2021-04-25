@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-1  La belleza de los fuegos artificiales"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Capítulo 29 - 1. Era of Chaos  Subterráneo - Capítulo 29_1. 29-1  La belleza de los fuegos artificiales"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 29_1.md"
 toc: false

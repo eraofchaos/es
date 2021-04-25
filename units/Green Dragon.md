@@ -1,9 +1,9 @@
 ---
 title: "Dragón Verde"
 permalink: /units/Green Dragon/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
+excerpt: "Era of Chaos Dragón Verde. Dragón Verde Unidades. Dragón Dorado. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/es/units/Unit Rank SSR/)
+ **Rango:** [SSR](/es/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 

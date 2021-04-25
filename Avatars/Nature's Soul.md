@@ -2,7 +2,7 @@
 title: "Avatar - Alma de la Naturaleza"
 permalink: /Avatars/Nature's Soul/
 excerpt: "Era of Chaos  Alma de la Naturaleza"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Nature's Soul.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Cuando Lucifer Kreegan mató a Xenofex y se hizo con el poder, Xeron fue el primero en jurar alianza al usurpador, lo que le granjeó el favor del nuevo Rey."
 heroID: 60801
 QR: hero_60801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Xeron"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descripción:** Cuando Lucifer Kreegan mató a Xenofex y se hizo con el poder, Xeron fue el primero en jurar alianza al usurpador, lo que le granjeó el favor del nuevo Rey.
 ## Detalles
- **Profession:** ![Demoníaco](/images/h/h_prof_9.png) Demoníaco
+ **Profession:** ![Demoníaco](/images/h/h_prof_9.png)  [Demoníaco](/es/heroes/Profession Demoniac/)
 
- **Race:** Infierno
+ **Facción::** [Infierno](/es/heroes/Faction Inferno/)
 
- **Rate:** SSR
+ **Rango:** [SSR](/es/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-13 Alcanzar la Meta"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Capítulo 7 - 13. Era of Chaos  Historia principal - Capítulo 7_13. 7-13 Alcanzar la Meta"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 7_13.md"
 toc: false

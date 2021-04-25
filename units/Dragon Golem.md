@@ -1,9 +1,9 @@
 ---
 title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
+excerpt: "Era of Chaos Gólem Dragón. Gólem Dragón Unidades. null. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Gólem Dragón"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [Comandante](/es/units/Unit Rank Commander/)
+ **Rango:** [Comandante](/es/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 

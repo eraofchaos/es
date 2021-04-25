@@ -2,15 +2,15 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-  |  Nr | I | Avatar | Open | Descripción |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Avatar | Open | Descripción |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 | ![Adalid del océano](/images/a/avatarFrame_202.png) | [Adalid del océano](/es/Avatars/Ocean Overlord/) | + | Marco de avatar de Adalid del océano |
   | 2 | ![Adalid salvaje](/images/a/avatarFrame_98.png) | [Adalid salvaje](/es/Avatars/Wild Overlord/) | + | Marco de avatar de Adalid salvaje |
   | 3 | ![Alma de Dragón](/images/a/avatarFrame_52.png) | [Alma de Dragón](/es/Avatars/Dragon Soul/) | + | Marco de avatar de Alma de Dragón |

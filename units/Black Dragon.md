@@ -1,9 +1,9 @@
 ---
 title: "Dragón Negro"
 permalink: /units/Black Dragon/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
+excerpt: "Era of Chaos Dragón Negro. Dragón Negro Unidades. Rey Dragón Negro. Era of Chaos Un tirano en la cumbre de la cadena alimenticia del mundo subterráneo. Los hechizos de los mortales no le hacen efecto alguno."
 unitID: 707
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Dragón Negro"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
- **Rank:** [SSR](/es/units/Unit Rank SSR/)
+ **Rango:** [SSR](/es/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Basilisco"
 permalink: /units/Basilisk/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
+excerpt: "Era of Chaos Basilisco. Basilisco Unidades. null. Era of Chaos Depredadores que viven bajo el agua. Son fríos y pacientes, por lo que suelen esperar a que su presa entre en su trampa en la oscuridad."
 unitID: 804
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Basilisco"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/es/units/Unit Member x4/)
 
- **Rank:** [SR](/es/units/Unit Rank SR/)
+ **Rango:** [SR](/es/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 

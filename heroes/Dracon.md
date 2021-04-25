@@ -4,7 +4,7 @@ permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia."
 heroID: 61202
 QR: hero_61202
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Dracon"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descripción:** Dracon es considerado un prodigio de la magia por muchos de sus mayores. Su objetivo en la vida es convertirse en el mejor matadragones de la historia.
 ## Detalles
- **Profession:** ![Hechicero](/images/h/h_prof_15.png) Hechicero
+ **Profession:** ![Hechicero](/images/h/h_prof_15.png)  [Hechicero](/es/heroes/Profession Wizard/)
 
- **Race:** Torre
+ **Facción::** [Torre](/es/heroes/Faction Tower/)
 
- **Rate:** SR+
+ **Rango:** [SR+](/es/heroes/Hero Rank SR+/)
 
  **User Rate:** R
 

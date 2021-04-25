@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 El camino a casa"
 permalink: /Underground/Chapter 22/
 excerpt: "Capítulo 22 El camino a casa. Era of Chaos  Subterráneo - Capítulo 22. El camino a casa"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 22.md"
 toc: false

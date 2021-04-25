@@ -2,7 +2,7 @@
 title: "Hombreras del Fuego de Hogar"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Hombreras del Fuego de Hogar. Hombreras del Fuego de Hogar"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

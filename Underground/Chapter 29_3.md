@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-3  Carga intrépida"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Capítulo 29 - 3. Era of Chaos  Subterráneo - Capítulo 29_3. 29-3  Carga intrépida"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 29_3.md"
 toc: false

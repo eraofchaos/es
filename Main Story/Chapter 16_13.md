@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-13 Trampas para Atrapar a la Bestia"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Capítulo 16 - 13. Era of Chaos  Historia principal - Capítulo 16_13. 16-13 Trampas para Atrapar a la Bestia"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 16_13.md"
 toc: false

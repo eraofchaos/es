@@ -2,7 +2,7 @@
 title: "Avatar - Invitación de luz de luna"
 permalink: /Avatars/Moonlight Invitation/
 excerpt: "Era of Chaos  Invitación de luz de luna"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Moonlight Invitation.md"
 toc: false

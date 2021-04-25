@@ -1,9 +1,9 @@
 ---
 title: "Diablillo"
 permalink: /units/Imp/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
+excerpt: "Era of Chaos Diablillo. Diablillo Unidades. Familiar. Era of Chaos Puede que los Diablillos sean demonios de poca monta, pero son astutos y violentos, y muestran un desenfreno terrible en combate."
 unitID: 501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Diablillo"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/es/units/Unit Rank R/)
+ **Rango:** [R](/es/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 

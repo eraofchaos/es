@@ -2,7 +2,7 @@
 title: "Guardia vital"
 permalink: /equipment/Life Guardian/
 excerpt: "Era of Chaos Guardia vital. Guardia vital"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Life Guardian.md"
 toc: false

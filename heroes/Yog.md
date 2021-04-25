@@ -4,7 +4,7 @@ permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog lleva muchos años estudiando con las Magas de Bracada, pero prefiere la estrategia militar a las runas mágicas. Posteriormente, el Duque de Krewlod se dio cuenta de su talento y lo convirtió en un general destacado del ejército bárbaro."
 heroID: 60604
 QR: hero_60604
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Yog"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descripción:** Yog lleva muchos años estudiando con las Magas de Bracada, pero prefiere la estrategia militar a las runas mágicas. Posteriormente, el Duque de Krewlod se dio cuenta de su talento y lo convirtió en un general destacado del ejército bárbaro.
 ## Detalles
- **Profession:** ![Bárbaro](/images/h/h_prof_7.png) Bárbaro
+ **Profession:** ![Bárbaro](/images/h/h_prof_7.png)  [Bárbaro](/es/heroes/Profession Barbarian/)
 
- **Race:** Bastión
+ **Facción::** [Bastión](/es/heroes/Faction Stronghold/)
 
- **Rate:** SR
+ **Rango:** [SR](/es/heroes/Hero Rank SR/)
 
  **User Rate:** SR
 

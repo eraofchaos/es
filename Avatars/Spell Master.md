@@ -2,7 +2,7 @@
 title: "Avatar - Maestro de hechizos"
 permalink: /Avatars/Spell Master/
 excerpt: "Era of Chaos  Maestro de hechizos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Spell Master.md"
 toc: false

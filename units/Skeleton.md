@@ -1,9 +1,9 @@
 ---
 title: "Esqueleto"
 permalink: /units/Skeleton/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
+excerpt: "Era of Chaos Esqueleto. Esqueleto Unidades. Esqueleto Guerrero. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/es/units/Unit Rank R/)
+ **Rango:** [R](/es/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 

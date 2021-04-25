@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "index.md"
 toc: false
@@ -10,15 +10,15 @@ classes: wide
 ---
   by Facción: [Conflujo](/es/units/Faction Conflux/){: .btn .btn--primary} [Infierno](/es/units/Faction Inferno/){: .btn .btn--success} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--warning} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--danger} [Murallas](/es/units/Faction Rampart/){: .btn .btn--info} [Castillo](/es/units/Faction Castle/){: .btn .btn--primary} [Torre](/es/units/Faction Tower/){: .btn .btn--success} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--warning} [Cala](/es/units/Faction Cove/){: .btn .btn--danger} [Ejército Neutral](/es/units/Faction Neutral Army/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [A distancia](/es/units/Unit Class Ranged/){: .btn .btn--primary} [Carga](/es/units/Unit Class Charging/){: .btn .btn--success} [Lanzador](/es/units/Unit Class Caster/){: .btn .btn--warning} [Ofensa](/es/units/Unit Class Offense/){: .btn .btn--danger} [Defensa](/es/units/Unit Class Defense/){: .btn .btn--info} 
+  by Clase: [A distancia](/es/units/Unit Class Ranged/){: .btn .btn--primary} [Carga](/es/units/Unit Class Charging/){: .btn .btn--success} [Lanzador](/es/units/Unit Class Caster/){: .btn .btn--warning} [Ofensa](/es/units/Unit Class Offense/){: .btn .btn--danger} [Defensa](/es/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/es/units/Unit Rank R/){: .btn .btn--primary} [SSR](/es/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/es/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/es/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Rango: [R](/es/units/Unit Rank R/){: .btn .btn--primary} [SSR](/es/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/es/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/es/units/Unit Rank SR/){: .btn .btn--danger} 
 
   by Members: [x9](/es/units/Unit Member x9/){: .btn .btn--primary} [x1](/es/units/Unit Member x1/){: .btn .btn--success} [x4](/es/units/Unit Member x4/){: .btn .btn--warning} 
 
   by Stars: [<i class="fas fa-star"/>](/es/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Nombre        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Nombre        |   Type   | Awake |  Rango  |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Adjudicadora](/images/u/ti_shenpanguan.jpg) | [Adjudicadora](/es/units/Judicator/) | Lanzador | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 2 | ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg) | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

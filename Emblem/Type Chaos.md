@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Caos"
 permalink: /Emblem/Type Chaos/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Caos. Era of Chaos Caos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "typeCaos.md"
 toc: false

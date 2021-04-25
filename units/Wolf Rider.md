@@ -1,9 +1,9 @@
 ---
 title: "Jinete Lupino"
 permalink: /units/Wolf Rider/
-excerpt: "Era of Chaos Unidades. Unidades. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
+excerpt: "Era of Chaos Jinete Lupino. Jinete Lupino Unidades. Incursor Lupino. Era of Chaos Los Incursores Lupinos actúan al unísono con sus monturas, lobos gigantes domados. Los afilados dientes y garras de los lobos aterrorizan aún más a los enemigos."
 unitID: 402
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Jinete Lupino"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/es/units/Unit Member x9/)
 
- **Rank:** [R](/es/units/Unit Rank R/)
+ **Rango:** [R](/es/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/es/units/Star 1/)
 

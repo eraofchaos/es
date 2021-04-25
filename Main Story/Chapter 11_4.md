@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-4 Vanguardia de la Ocupación"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Capítulo 11 - 4. Era of Chaos  Historia principal - Capítulo 11_4. 11-4 Vanguardia de la Ocupación"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 11_4.md"
 toc: false

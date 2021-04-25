@@ -2,7 +2,7 @@
 title: "Rayo"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Rayo. Rayo"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Thunderbolt.md"
 toc: false

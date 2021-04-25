@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-14 El Guardia de la Sangre de Dragón"
 permalink: /Main Story/Chapter 27_14/
 excerpt: "Capítulo 27 - 14. Era of Chaos  Historia principal - Capítulo 27_14. 27-14 El Guardia de la Sangre de Dragón"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 27_14.md"
 toc: false

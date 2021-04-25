@@ -2,14 +2,20 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  | Nr |  I |    Nombre    |  Race   |  Proffesion   |  Rate  |    Specialty     | User Rate  | 
+  by Facción: [Conflujo](/es/heroes/Faction Conflux/){: .btn .btn--primary} [Infierno](/es/heroes/Faction Inferno/){: .btn .btn--success} [Mazmorra](/es/heroes/Faction Dungeon/){: .btn .btn--warning} [Murallas](/es/heroes/Faction Rampart/){: .btn .btn--danger} [Fortaleza](/es/heroes/Faction Fortress/){: .btn .btn--info} [Castillo](/es/heroes/Faction Castle/){: .btn .btn--primary} [Torre](/es/heroes/Faction Tower/){: .btn .btn--success} [Bastión](/es/heroes/Faction Stronghold/){: .btn .btn--warning} [Ejército Neutral](/es/heroes/Faction Neutral Army/){: .btn .btn--danger} [Cala](/es/heroes/Faction Cove/){: .btn .btn--info} [Necrópolis](/es/heroes/Faction Necropolis/){: .btn .btn--primary} 
+
+  by Clase: [Criaturas marinas](/es/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [Guardabosques](/es/heroes/Profession Ranger/){: .btn .btn--success} [Caballero de la Muerte](/es/heroes/Profession Death Knight/){: .btn .btn--warning} [Adalid](/es/heroes/Profession Overlord/){: .btn .btn--danger} [Hereje](/es/heroes/Profession Heretic/){: .btn .btn--info} [Brujo](/es/heroes/Profession Warlock/){: .btn .btn--primary} [Druida](/es/heroes/Profession Druid/){: .btn .btn--success} [Bárbaro](/es/heroes/Profession Barbarian/){: .btn .btn--warning} [Clérigos](/es/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/es/heroes/Profession Unknown/){: .btn .btn--info} [Demoníaco](/es/heroes/Profession Demoniac/){: .btn .btn--primary} [Caminante de Planos](/es/heroes/Profession Planeswalker/){: .btn .btn--success} [Caballero](/es/heroes/Profession Knight/){: .btn .btn--warning} [Amaestrador](/es/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirata](/es/heroes/Profession Pirate/){: .btn .btn--info} [Elementalista](/es/heroes/Profession Elementalist/){: .btn .btn--primary} [Nigromante](/es/heroes/Profession Necromancer/){: .btn .btn--success} [Hechicero](/es/heroes/Profession Wizard/){: .btn .btn--warning} 
+
+  by Rango: [R](/es/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/es/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/es/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/es/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/es/heroes/Hero Rank SR/){: .btn .btn--info} 
+
+  | Nr |  I |    Nombre    |  Facción:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/es/heroes/Adelaide/) | Castillo | Clérigos | **SR** |  Anillo Gélido | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/es/heroes/Astral/) | Torre | Hechicero | **SSR** |  Amplificación mágica | SSR |

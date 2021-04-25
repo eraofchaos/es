@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-2 Actores Clave"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Capítulo 11 - 2. Era of Chaos  Subterráneo - Capítulo 11_2. 11-2 Actores Clave"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 11_2.md"
 toc: false

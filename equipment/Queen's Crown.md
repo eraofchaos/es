@@ -2,7 +2,7 @@
 title: "Corona de la Reina"
 permalink: /equipment/Queen's Crown/
 excerpt: "Era of Chaos Corona de la Reina. Corona de la Reina"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Queen's Crown.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hombreras de Púas"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Hombreras de Púas. Hombreras de Púas"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Spiked Pauldrons.md"
 toc: false

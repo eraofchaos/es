@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-1 Tierra de los No Muertos"
 permalink: /Main Story/Chapter 6_1/
 excerpt: "Capítulo 6 - 1. Era of Chaos  Historia principal - Capítulo 6_1. 6-1 Tierra de los No Muertos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 6_1.md"
 toc: false

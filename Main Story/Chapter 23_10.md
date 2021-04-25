@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-10 Hábitos de Dragón Tóxico"
 permalink: /Main Story/Chapter 23_10/
 excerpt: "Capítulo 23 - 10. Era of Chaos  Historia principal - Capítulo 23_10. 23-10 Hábitos de Dragón Tóxico"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 23_10.md"
 toc: false

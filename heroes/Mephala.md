@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país."
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Mephala"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descripción:** Entrenada en el ejército de Erathia, Mephala era prodigiosa en el uso del terreno para obtener la ventaja. Aunque prefiere la tranquilidad de su aldea, sigue en el ejército por el bien de su país.
 ## Detalles
- **Profession:** ![Guardabosques](/images/h/h_prof_3.png) Guardabosques
+ **Profession:** ![Guardabosques](/images/h/h_prof_3.png)  [Guardabosques](/es/heroes/Profession Ranger/)
 
- **Race:** Murallas
+ **Facción::** [Murallas](/es/heroes/Faction Rampart/)
 
- **Rate:** R
+ **Rango:** [R](/es/heroes/Hero Rank R/)
 
  **User Rate:** R
 

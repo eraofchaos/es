@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Enano Exclusivo."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Dwarf Escudo Iris.md"
 toc: false

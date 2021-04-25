@@ -2,7 +2,7 @@
 title: "Avatar - Escama de fútbol"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "Era of Chaos  Escama de fútbol"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Foolbatt's Squama.md"
 toc: false

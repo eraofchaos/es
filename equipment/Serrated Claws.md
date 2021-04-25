@@ -2,7 +2,7 @@
 title: "Garras Dentadas"
 permalink: /equipment/Serrated Claws/
 excerpt: "Era of Chaos Garras Dentadas. Garras Dentadas"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Serrated Claws.md"
 toc: false

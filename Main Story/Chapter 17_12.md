@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-12 Una Naturaleza Malvada"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Capítulo 17 - 12. Era of Chaos  Historia principal - Capítulo 17_12. 17-12 Una Naturaleza Malvada"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 17_12.md"
 toc: false

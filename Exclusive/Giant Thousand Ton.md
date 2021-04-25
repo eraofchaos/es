@@ -2,7 +2,7 @@
 title: "Exclusivo - Mil Toneladas (Giant)"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Mil Toneladas. Mil Toneladas. Era of Chaos Exclusivo Mil Toneladas. Gigante Exclusivo."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Giant Mil Toneladas.md"
 toc: false

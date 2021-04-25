@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-2 El Objeto Brillante"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Capítulo 23 - 2. Era of Chaos  Historia principal - Capítulo 23_2. 23-2 El Objeto Brillante"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 23_2.md"
 toc: false

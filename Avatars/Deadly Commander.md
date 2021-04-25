@@ -2,7 +2,7 @@
 title: "Avatar - Comandante mortífero"
 permalink: /Avatars/Deadly Commander/
 excerpt: "Era of Chaos  Comandante mortífero"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Deadly Commander.md"
 toc: false

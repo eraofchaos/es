@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 - 3-4 Una Sabia Visita"
 permalink: /Underground/Chapter 3_4/
 excerpt: "Capítulo 3 - 4. Era of Chaos  Subterráneo - Capítulo 3_4. 3-4 Una Sabia Visita"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 3_4.md"
 toc: false

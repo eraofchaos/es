@@ -2,7 +2,7 @@
 title: "Avatar - Necrópolis"
 permalink: /Avatars/Necropolis/
 excerpt: "Era of Chaos  Necrópolis"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Necropolis.md"
 toc: false

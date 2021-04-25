@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-3 Intercepción"
 permalink: /Main Story/Chapter 9_3/
 excerpt: "Capítulo 9 - 3. Era of Chaos  Historia principal - Capítulo 9_3. 9-3 Intercepción"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 9_3.md"
 toc: false

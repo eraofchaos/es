@@ -2,7 +2,7 @@
 title: "Tocado del Dios Serpiente"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Era of Chaos Tocado del Dios Serpiente. Tocado del Dios Serpiente"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Headdress of the Serpent God.md"
 toc: false

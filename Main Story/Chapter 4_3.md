@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-3 Cristal Volcánico"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "Capítulo 4 - 3. Era of Chaos  Historia principal - Capítulo 4_3. 4-3 Cristal Volcánico"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 4_3.md"
 toc: false

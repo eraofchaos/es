@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-11 Guía del Observador"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Capítulo 26 - 11. Era of Chaos  Historia principal - Capítulo 26_11. 26-11 Guía del Observador"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 26_11.md"
 toc: false

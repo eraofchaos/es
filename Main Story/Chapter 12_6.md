@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-6 Reconstruyendo la Frontera"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Capítulo 12 - 6. Era of Chaos  Historia principal - Capítulo 12_6. 12-6 Reconstruyendo la Frontera"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Chapter 12_6.md"
 toc: false

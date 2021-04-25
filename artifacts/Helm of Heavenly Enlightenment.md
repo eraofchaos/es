@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Yelmo de la Divina Iluminación"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "Era of Chaos  Alianza Angelical - Yelmo de la Divina Iluminación. Una corona bendecida por los dioses. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: es
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false
