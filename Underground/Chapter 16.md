@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 16 Por el rey y la nación"
 permalink: /Underground/Chapter 16/
 excerpt: "Capítulo 16 Por el rey y la nación. Era of Chaos  Subterráneo - Capítulo 16. Por el rey y la nación"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 16.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Recompensa 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Recompensa 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **160 x** Star Points
+ Recompensa 3: **160 x** Star Points
 
- Reward 4: **15 x** [Shiva](/ItemsES/her_376/){: .btn .btn--era5}
+ Recompensa 4: **15 x** [Shiva](/ItemsES/her_376/){: .btn .btn--era5}
 

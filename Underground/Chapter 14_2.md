@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 14 - 14-2 Pasadizo Subterráneo"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Capítulo 14 - 2. Era of Chaos  Subterráneo - Capítulo 14_2. 14-2 Pasadizo Subterráneo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 14_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 - 20-5 Aliento Gélido"
 permalink: /Underground/Chapter 20_5/
 excerpt: "Capítulo 20 - 5. Era of Chaos  Subterráneo - Capítulo 20_5. 20-5 Aliento Gélido"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 20_5.md"
 toc: false

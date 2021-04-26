@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 - 19-4 Una Verdad Mágica"
 permalink: /Underground/Chapter 19_4/
 excerpt: "Capítulo 19 - 4. Era of Chaos  Subterráneo - Capítulo 19_4. 19-4 Una Verdad Mágica"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 19_4.md"
 toc: false

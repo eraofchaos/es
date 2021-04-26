@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 Acantilados de los Grifos"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capítulo 4. Era of Chaos  Historia principal - Capítulo 4. Acantilados de los Grifos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 4.md"
 toc: false
@@ -30,35 +30,35 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Recompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **2 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **1000x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Recompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **3 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **1500x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Recompensa 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **5 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **2000x** [EXP de unidad](/ItemsES/con_902/)
 

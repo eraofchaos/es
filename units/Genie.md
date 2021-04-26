@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genio. Genio Unidades. Genio Maestra. Era of Chaos Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Genio"
 toc: true

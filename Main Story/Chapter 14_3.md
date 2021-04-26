@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-3 Asalto a la Fortaleza"
 permalink: /Main Story/Chapter 14_3/
 excerpt: "Capítulo 14 - 3. Era of Chaos  Historia principal - Capítulo 14_3. 14-3 Asalto a la Fortaleza"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 14_3.md"
 toc: false

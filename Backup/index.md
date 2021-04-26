@@ -2,7 +2,7 @@
 title: "Refuerzos de batalla"
 permalink: /Backup/
 excerpt: "Era of Chaos  Refuerzos de batalla - Las Magas pueden desgarrar un portal en el espacio del campo de batalla, transportando 3 unidades de refuerzo al campo de batalla mientras generan un fuerte aura de hechizo. Tus enemigos temblarán."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "index.md"
 toc: false
@@ -13,14 +13,14 @@ classes: wide
 
   Las Magas pueden desgarrar un portal en el espacio del campo de batalla, transportando 3 unidades de refuerzo al campo de batalla mientras generan un fuerte aura de hechizo. Tus enemigos temblarán.
 
-  |  Nr  | Refuerzos de batalla | Open Level | Habilidad especial  | Habilidad de campo de batalla | Habilidad global |
-  |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Carga ofensiva](/es/Backup/Charge Offensive/) |  | Carga ofensiva | Ataque de tormenta | Punta de lanza |
-  | 2  | [Bendición de Luna](/es/Backup/Blessing of Luna/) | 80 | Bendición de Luna | Curar | Poder de energía |
-  | 3  | [Guadaña de la Muerte](/es/Backup/Scythe of the Death/) | 85 | Guadaña de la Muerte | Aniquilar | Erudición |
-  | 4  | [Presión ártica](/es/Backup/Arctic Coercion/) | 89 | Presión ártica | Energía poderosa | Alimentación |
-  | 5  | [Círculo de orden de hechizos](/es/Backup/Spell Commandment/) | 93 | Círculo de orden de hechizos | Campo de fuerza | Incandescencia |
-  | 6  | [Caza en el bosque](/es/Backup/Hunt in the Forest/) | 97 | Caza en el bosque | Incentivo | Potenciación |
+  |  Nr  | Icon | Refuerzos de batalla | Open Level | Habilidad especial  | Habilidad de campo de batalla | Habilidad global |
+  |:-----|------|:---------------|:----------:|:--------------|:--------------|:-------------|
+  | 1  | ![Carga ofensiva](/images/b/backupIcon_1.png) | [Carga ofensiva](/es/Backup/Charge Offensive/) |  | Carga ofensiva | Ataque de tormenta | Punta de lanza |
+  | 2  | ![Bendición de Luna](/images/b/backupIcon_2.png) | [Bendición de Luna](/es/Backup/Blessing of Luna/) | 80 | Bendición de Luna | Curar | Poder de energía |
+  | 3  | ![Guadaña de la Muerte](/images/b/backupIcon_3.png) | [Guadaña de la Muerte](/es/Backup/Scythe of the Death/) | 85 | Guadaña de la Muerte | Aniquilar | Erudición |
+  | 4  | ![Presión ártica](/images/b/backupIcon_4.png) | [Presión ártica](/es/Backup/Arctic Coercion/) | 89 | Presión ártica | Energía poderosa | Alimentación |
+  | 5  | ![Círculo de orden de hechizos](/images/b/backupIcon_6.png) | [Círculo de orden de hechizos](/es/Backup/Spell Commandment/) | 93 | Círculo de orden de hechizos | Campo de fuerza | Incandescencia |
+  | 6  | ![Caza en el bosque](/images/b/backupIcon_5.png) | [Caza en el bosque](/es/Backup/Hunt in the Forest/) | 97 | Caza en el bosque | Incentivo | Potenciación |
 
 
 ## Habilidad especial  Level up costs:

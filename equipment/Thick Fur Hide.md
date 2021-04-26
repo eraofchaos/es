@@ -2,7 +2,7 @@
 title: "Pelaje grueso"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Era of Chaos Pelaje grueso. Pelaje grueso"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Thick Fur Hide.md"
 toc: false

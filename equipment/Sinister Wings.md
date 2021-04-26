@@ -2,7 +2,7 @@
 title: "Alas Siniestras"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Alas Siniestras. Alas Siniestras"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Sinister Wings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Colgante de Dientes de Dragón"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Colgante de Dientes de Dragón. Un collar bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Necklace of Dragonteeth.md"
 toc: false

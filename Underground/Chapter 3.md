@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 Acantilados de los Grifos"
 permalink: /Underground/Chapter 3/
 excerpt: "Capítulo 3 Acantilados de los Grifos. Era of Chaos  Subterráneo - Capítulo 3. Acantilados de los Grifos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 3.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Recompensa 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **20000x** <i class="fas fa-coins"/>
+ Recompensa 2:  **20000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 3: **5 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Catherine](/ItemsES/her_361/){: .btn .btn--era5}
+ Recompensa 4: **15 x** [Catherine](/ItemsES/her_361/){: .btn .btn--era5}
 

@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack era un héroe olvidado de Enroth antes de navegar hasta Erathia. En esta tierra en conflicto encontró el lugar perfecto para dar uso a sus habilidades."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Crag Hack"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Detalles
  **Profession:** ![Bárbaro](/images/h/h_prof_7.png)  [Bárbaro](/es/heroes/Profession Barbarian/)
 
- **Facción::** [Bastión](/es/heroes/Faction Stronghold/)
+ **Facción:** [Bastión](/es/heroes/Faction Stronghold/)
 
  **Rango:** [SR](/es/heroes/Hero Rank SR/)
 

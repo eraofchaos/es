@@ -2,7 +2,7 @@
 title: "Avatar - Señor de la guerra del mar"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "Era of Chaos  Señor de la guerra del mar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Warlord of the Sea.md"
 toc: false

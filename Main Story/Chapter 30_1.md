@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-1 Manantial mágico"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Capítulo 30 - 1. Era of Chaos  Historia principal - Capítulo 30_1. 30-1 Manantial mágico"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 30_1.md"
 toc: false

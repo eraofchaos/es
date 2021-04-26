@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-4 Prohibición"
 permalink: /Main Story/Chapter 21_4/
 excerpt: "Capítulo 21 - 4. Era of Chaos  Historia principal - Capítulo 21_4. 21-4 Prohibición"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 21_4.md"
 toc: false

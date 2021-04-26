@@ -2,7 +2,7 @@
 title: "Escápula del Hades"
 permalink: /equipment/Hades' Scapula/
 excerpt: "Era of Chaos Escápula del Hades. Escápula del Hades"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Hades' Scapula.md"
 toc: false

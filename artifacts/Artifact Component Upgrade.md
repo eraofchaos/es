@@ -2,7 +2,7 @@
 title: "Artefacto Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Era of Chaos Artifact component upgrade cost. Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Artifact Component Upgrade.md"
 toc: false

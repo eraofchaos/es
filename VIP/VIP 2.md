@@ -2,7 +2,7 @@
 title: "VIP - VIP 2"
 permalink: /VIP/VIP 2/
 excerpt: "Era of Chaos  Sistema VIP. VIP 2"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "VIP 2.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
 ## Detalles
 
- **Reward:** **1x** [Paquete prémium V2](/ItemsES/con_1298/)
+ **Recompensa:** **1x** [Paquete prémium V2](/ItemsES/con_1298/)
 
  **EXP:** 300
 

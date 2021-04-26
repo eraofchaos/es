@@ -2,7 +2,7 @@
 title: "Backup - Carga ofensiva"
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Carga ofensiva"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Charge Offensive.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
 
 
 ## Habilidad especial  - **Carga ofensiva** 
+
+  ![Carga ofensiva](/images/b/backupIcon_1.png)
 
  **Skill Power:** 1204
 
@@ -50,6 +52,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Ataque de tormenta** 
 
+  ![Ataque de tormenta](/images/b/backupSkill1Icon_1.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -74,6 +78,8 @@ classes: wide
 
 
 ## Habilidad global - **Punta de lanza** 
+
+  ![Punta de lanza](/images/b/backupSkill2Icon_1.png)
 
  **Habilidad global Power:** 1076
 

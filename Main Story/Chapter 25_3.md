@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-3 Temporada Subterránea"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Capítulo 25 - 3. Era of Chaos  Historia principal - Capítulo 25_3. 25-3 Temporada Subterránea"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 25_3.md"
 toc: false

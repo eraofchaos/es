@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-8 Masa de rocas elevadas"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Capítulo 28 - 8. Era of Chaos  Historia principal - Capítulo 28_8. 28-8 Masa de rocas elevadas"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 28_8.md"
 toc: false

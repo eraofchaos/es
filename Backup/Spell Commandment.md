@@ -2,7 +2,7 @@
 title: "Backup - Círculo de orden de hechizos"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Círculo de orden de hechizos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Spell Commandment.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Habilidad especial  - **Círculo de orden de hechizos** 
 
+  ![Círculo de orden de hechizos](/images/b/backupIcon_6.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Campo de fuerza** 
 
+  ![Campo de fuerza](/images/b/backupSkill1Icon_6.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Habilidad global - **Incandescencia** 
+
+  ![Incandescencia](/images/b/backupSkill2Icon_6.png)
 
  **Habilidad global Power:** 1076
 

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-13 Establos y Bosques"
 permalink: /Main Story/Chapter 3_13/
 excerpt: "Capítulo 3 - 13. Era of Chaos  Historia principal - Capítulo 3_13. 3-13 Establos y Bosques"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 3_13.md"
 toc: false

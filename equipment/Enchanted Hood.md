@@ -2,7 +2,7 @@
 title: "Capucha Encantada"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Era of Chaos Capucha Encantada. Capucha Encantada"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Enchanted Hood.md"
 toc: false

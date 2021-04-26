@@ -2,7 +2,7 @@
 title: "Garra Mágica"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Garra Mágica. Garra Mágica"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Magic Claw.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Backup - Caza en el bosque"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Caza en el bosque"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Hunt in the Forest.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Habilidad especial  - **Caza en el bosque** 
 
+  ![Caza en el bosque](/images/b/backupIcon_5.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Incentivo** 
 
+  ![Incentivo](/images/b/backupSkill1Icon_5.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Habilidad global - **Potenciación** 
+
+  ![Potenciación](/images/b/backupSkill2Icon_5.png)
 
  **Habilidad global Power:** 1076
 

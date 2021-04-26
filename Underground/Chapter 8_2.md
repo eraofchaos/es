@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-2 Falta de Efectivos"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Capítulo 8 - 2. Era of Chaos  Subterráneo - Capítulo 8_2. 8-2 Falta de Efectivos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 8_2.md"
 toc: false

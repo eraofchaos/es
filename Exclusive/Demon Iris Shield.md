@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Demonio Exclusivo."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Demon Escudo Iris.md"
 toc: false

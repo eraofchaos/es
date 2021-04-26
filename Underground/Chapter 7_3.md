@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-3 Fiebre del Oro"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Capítulo 7 - 3. Era of Chaos  Subterráneo - Capítulo 7_3. 7-3 Fiebre del Oro"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 7_3.md"
 toc: false

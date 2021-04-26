@@ -2,7 +2,7 @@
 title: "Backup - Guadaña de la Muerte"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Guadaña de la Muerte"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Scythe of the Death.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Habilidad especial  - **Guadaña de la Muerte** 
 
+  ![Guadaña de la Muerte](/images/b/backupIcon_3.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Aniquilar** 
 
+  ![Aniquilar](/images/b/backupSkill1Icon_3.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Habilidad global - **Erudición** 
+
+  ![Erudición](/images/b/backupSkill2Icon_3.png)
 
  **Habilidad global Power:** 1076
 

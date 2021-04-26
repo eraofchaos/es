@@ -2,7 +2,7 @@
 title: "Hombreras Chapadas"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Hombreras Chapadas. Hombreras Chapadas"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Plated Shoulderpads.md"
 toc: false

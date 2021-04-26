@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart fue asesinado y ha sido revivido. Como general del ejército de no muertos, tiene poderes aún más formidables que cuando estaba vivo."
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Lord Haart"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Detalles
  **Profession:** ![Caballero de la Muerte](/images/h/h_prof_5.png)  [Caballero de la Muerte](/es/heroes/Profession Death Knight/)
 
- **Facción::** [Necrópolis](/es/heroes/Faction Necropolis/)
+ **Facción:** [Necrópolis](/es/heroes/Faction Necropolis/)
 
  **Rango:** [SSR](/es/heroes/Hero Rank SSR/)
 

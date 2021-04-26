@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-5 Muro de la Sabiduría"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Capítulo 20 - 5. Era of Chaos  Historia principal - Capítulo 20_5. 20-5 Muro de la Sabiduría"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 20_5.md"
 toc: false

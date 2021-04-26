@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Berserker. Berserker Unidades. Aullador de Muerte. Era of Chaos Los Berserkers son los mejores luchadores Orcos. Son altos, fuertes y propensos a la ira. En batalla, se abalanzan violentamente contra sus enemigos, y los hacen pedazos con sus hachas."
 unitID: 408
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Berserker"
 toc: true

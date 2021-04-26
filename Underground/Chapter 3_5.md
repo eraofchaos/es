@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 - 3-5 Iluminación"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Capítulo 3 - 5. Era of Chaos  Subterráneo - Capítulo 3_5. 3-5 Iluminación"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 3_5.md"
 toc: false

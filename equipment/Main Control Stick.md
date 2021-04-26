@@ -2,7 +2,7 @@
 title: "Palanca de control principal"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Palanca de control principal. Palanca de control principal"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Main Control Stick.md"
 toc: false

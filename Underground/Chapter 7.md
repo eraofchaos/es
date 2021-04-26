@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 Tierras fronterizas"
 permalink: /Underground/Chapter 7/
 excerpt: "Capítulo 7 Tierras fronterizas. Era of Chaos  Subterráneo - Capítulo 7. Tierras fronterizas"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 7.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Recompensa 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2:  **50000x** <i class="fas fa-coins"/>
+ Recompensa 2:  **50000x** <i class="fas fa-coins"/>
 
- Reward 3: **90 x** Star Points
+ Recompensa 3: **90 x** Star Points
 
- Reward 4: **15 x** [Rashka](/ItemsES/her_384/){: .btn .btn--era5}
+ Recompensa 4: **15 x** [Rashka](/ItemsES/her_384/){: .btn .btn--era5}
 

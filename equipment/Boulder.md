@@ -2,7 +2,7 @@
 title: "Roca"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Roca. Roca"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Boulder.md"
 toc: false

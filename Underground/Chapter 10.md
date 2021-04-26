@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 Corazón de Grifo"
 permalink: /Underground/Chapter 10/
 excerpt: "Capítulo 10 Corazón de Grifo. Era of Chaos  Subterráneo - Capítulo 10. Corazón de Grifo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 10.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Recompensa 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Recompensa 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **120 x** Star Points
+ Recompensa 3: **120 x** Star Points
 
- Reward 4: **15 x** [Crag Hack](/ItemsES/her_375/){: .btn .btn--era5}
+ Recompensa 4: **15 x** [Crag Hack](/ItemsES/her_375/){: .btn .btn--era5}
 

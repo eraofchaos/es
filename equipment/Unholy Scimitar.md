@@ -2,7 +2,7 @@
 title: "Cimitarra Impía"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Cimitarra Impía. Cimitarra Impía"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Unholy Scimitar.md"
 toc: false

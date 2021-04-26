@@ -2,7 +2,7 @@
 title: "Cinturón de cuero"
 permalink: /equipment/Leather Belt/
 excerpt: "Era of Chaos Cinturón de cuero. Cinturón de cuero"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Leather Belt.md"
 toc: false

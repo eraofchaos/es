@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 Isla Siemprealbor"
 permalink: /Main Story/Chapter 1/
 excerpt: "Capítulo 1. Era of Chaos  Historia principal - Capítulo 1. Isla Siemprealbor"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 1.md"
 toc: false
@@ -20,11 +20,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1: **10 x** [Piquero](/ItemsES/unt_190/){: .btn .btn--era3}
+ Recompensa 1: **10 x** [Piquero](/ItemsES/unt_190/){: .btn .btn--era3}
 
- Reward 2:  **150x** <i class="fas fa-gem"/>
+ Recompensa 2:  **150x** <i class="fas fa-gem"/>
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **1000x** [EXP de unidad](/ItemsES/con_902/)
 

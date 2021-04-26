@@ -2,7 +2,7 @@
 title: "Backup - Bendición de Luna"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Bendición de Luna"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Blessing of Luna.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Habilidad especial  - **Bendición de Luna** 
 
+  ![Bendición de Luna](/images/b/backupIcon_2.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Curar** 
 
+  ![Curar](/images/b/backupSkill1Icon_2.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Habilidad global - **Poder de energía** 
+
+  ![Poder de energía](/images/b/backupSkill2Icon_2.png)
 
  **Habilidad global Power:** 1076
 

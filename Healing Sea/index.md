@@ -2,7 +2,7 @@
 title: "Era of Chaos - Mar Sanador - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Mar Sanador. List of ALL Mar Sanador questions with correct answers"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "healingSea"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
 
    **Correct Answer:** **B. Enano.** 
 
-   **Rewards:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
+   **Recompensas:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
 
    *Wrong Answer:* *A. Elfa del bosque.* 
 
@@ -71,7 +71,7 @@ classes: wide
 
    **Correct Answer:** **A. Esa es la cuestión.** 
 
-   **Rewards:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
+   **Recompensas:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
 
    *Wrong Answer:* *B. Esa no es la cuestión.* 
 
@@ -85,7 +85,7 @@ classes: wide
 
    **Correct Answer:** **B. Los Kreegan** 
 
-   **Rewards:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
+   **Recompensas:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. Los orcos* 
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Quiero hacer un cíclope de nieve.** 
 
-   **Rewards:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
+   **Recompensas:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. No.* 
 
@@ -113,7 +113,7 @@ classes: wide
 
    **Correct Answer:** **B. El Minotauro.** 
 
-   **Rewards:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
+   **Recompensas:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. El Centauro.* 
 
@@ -127,7 +127,7 @@ classes: wide
 
    **Correct Answer:** **B. El Tirador.** 
 
-   **Rewards:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
+   **Recompensas:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
 
    *Wrong Answer:* *A. El Dragón Negro.* 
 
@@ -141,7 +141,7 @@ classes: wide
 
    **Correct Answer:** **B. El Dragón Dorado.** 
 
-   **Rewards:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
+   **Recompensas:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. El Dragón Verde.* 
 
@@ -155,7 +155,7 @@ classes: wide
 
    **Correct Answer:** **A. Un espíritu de lucha indomable.** 
 
-   **Rewards:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
+   **Recompensas:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
 
    *Wrong Answer:* *B. Moral alta.* 
 
@@ -169,7 +169,7 @@ classes: wide
 
    **Correct Answer:** **B. Demonios.** 
 
-   **Rewards:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
+   **Recompensas:**  **1x Cupón de descuento** (Cupón que se puede usar en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. Ángeles.* 
 
@@ -183,7 +183,7 @@ classes: wide
 
    **Correct Answer:** **A. La culpa es mía.** 
 
-   **Rewards:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
+   **Recompensas:**  **300x Cristal de Sangre de Dragón** (Un montón de Cristales de Sangre de Dragón (recurso de nivel 4), que se puede usar para mejorar los Barracones.)
 
    *Wrong Answer:* *B. La culpa sigue siendo tuya.* 
 
@@ -197,7 +197,7 @@ classes: wide
 
    **Correct Answer:** **B. Subterráneo** 
 
-   **Rewards:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
+   **Recompensas:**  **1x Teletransporte** (Habilita el teletransporte en el evento Mar Sanador.)
 
    *Wrong Answer:* *A. Bastión* 
 

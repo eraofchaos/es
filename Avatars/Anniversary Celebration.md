@@ -2,7 +2,7 @@
 title: "Avatar - Celebración de Aniversario"
 permalink: /Avatars/Anniversary Celebration/
 excerpt: "Era of Chaos  Celebración de Aniversario"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Anniversary Celebration.md"
 toc: false

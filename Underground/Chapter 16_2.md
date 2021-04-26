@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 16 - 16-2 Recuerdo del Cielo"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Capítulo 16 - 2. Era of Chaos  Subterráneo - Capítulo 16_2. 16-2 Recuerdo del Cielo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 16_2.md"
 toc: false

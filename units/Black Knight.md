@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Caballero Negro. Caballero Negro Unidades. Caballero del Terror. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Caballero Negro"
 toc: true

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 Un plan diabólico"
 permalink: /Underground/Chapter 4/
 excerpt: "Capítulo 4 Un plan diabólico. Era of Chaos  Subterráneo - Capítulo 4. Un plan diabólico"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 4.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Recompensa 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **30000x** <i class="fas fa-coins"/>
+ Recompensa 2:  **30000x** <i class="fas fa-coins"/>
 
- Reward 3: **60 x** Star Points
+ Recompensa 3: **60 x** Star Points
 
- Reward 4: **15 x** [Catherine](/ItemsES/her_361/){: .btn .btn--era5}
+ Recompensa 4: **15 x** [Catherine](/ItemsES/her_361/){: .btn .btn--era5}
 

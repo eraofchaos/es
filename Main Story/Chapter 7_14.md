@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-14 Corazón Roto"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Capítulo 7 - 14. Era of Chaos  Historia principal - Capítulo 7_14. 7-14 Corazón Roto"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 7_14.md"
 toc: false

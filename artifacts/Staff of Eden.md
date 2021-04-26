@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - El Cetro"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Era of Chaos  Fragmento del Edén - El Cetro. Un báculo de la Primera Civilización. Garantiza al portador tiempo y sabiduría ilimitados."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Staff of Eden.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "index.md"
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 #### 2021 Week 18  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **3 May** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
   | **4 May** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
@@ -23,7 +23,7 @@ toc: true
 
 #### 2021 Week 17  Semana de la Cala
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **26 Apr** | **3x [Elemental del Mar](/ItemsES/unt_275/)**  | ¡Un escuadrón de Elementales del Mar se une a tu ejército y te vuelves más fuerte! |
   | **27 Apr** | **3x [Piratas Regnan](/ItemsES/unt_273/)**  | ¡Un escuadrón de Piratas Regnan se une a tu ejército y te vuelves más fuerte! |
@@ -36,7 +36,7 @@ toc: true
 
 #### 2021 Week 16  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **19 Apr** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
   | **20 Apr** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
@@ -49,7 +49,7 @@ toc: true
 
 #### 2021 Week 15  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **12 Apr** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **13 Apr** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -62,7 +62,7 @@ toc: true
 
 #### 2021 Week 14  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **5 Apr** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
   | **6 Apr** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
@@ -75,7 +75,7 @@ toc: true
 
 #### 2021 Week 13  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **29 Mar** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
   | **30 Mar** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
@@ -88,7 +88,7 @@ toc: true
 
 #### 2021 Week 12  Semana de la Fortaleza
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **22 Mar** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
   | **23 Mar** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
@@ -101,7 +101,7 @@ toc: true
 
 #### 2021 Week 11  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **15 Mar** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **16 Mar** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -114,7 +114,7 @@ toc: true
 
 #### 2021 Week 10  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **8 Mar** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
   | **9 Mar** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
@@ -127,7 +127,7 @@ toc: true
 
 #### 2021 Week 9  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **1 Mar** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **2 Mar** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -140,7 +140,7 @@ toc: true
 
 #### 2021 Week 8  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **22 Feb** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
   | **23 Feb** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
@@ -153,7 +153,7 @@ toc: true
 
 #### 2021 Week 7  Semana de la Cala
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **15 Feb** | **3x [Elemental del Mar](/ItemsES/unt_275/)**  | ¡Un escuadrón de Elementales del Mar se une a tu ejército y te vuelves más fuerte! |
   | **16 Feb** | **3x [Piratas Regnan](/ItemsES/unt_273/)**  | ¡Un escuadrón de Piratas Regnan se une a tu ejército y te vuelves más fuerte! |
@@ -166,7 +166,7 @@ toc: true
 
 #### 2021 Week 6  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **8 Feb** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
   | **9 Feb** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
@@ -179,7 +179,7 @@ toc: true
 
 #### 2021 Week 5  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **1 Feb** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
   | **2 Feb** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
@@ -192,7 +192,7 @@ toc: true
 
 #### 2021 Week 4  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **25 Jan** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
   | **26 Jan** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
@@ -205,7 +205,7 @@ toc: true
 
 #### 2021 Week 3  Semana de la Fortaleza
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **18 Jan** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
   | **19 Jan** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
@@ -218,7 +218,7 @@ toc: true
 
 #### 2021 Week 2  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **11 Jan** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
   | **12 Jan** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
@@ -231,7 +231,7 @@ toc: true
 
 #### 2021 Week 1  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **4 Jan** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **5 Jan** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -244,7 +244,7 @@ toc: true
 
 #### 2020 Week 52  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **28 Dec** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
   | **29 Dec** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
@@ -257,7 +257,7 @@ toc: true
 
 #### 2020 Week 51  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **21 Dec** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
   | **22 Dec** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
@@ -270,7 +270,7 @@ toc: true
 
 #### 2020 Week 50  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **14 Dec** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
   | **15 Dec** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
@@ -283,7 +283,7 @@ toc: true
 
 #### 2020 Week 49  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **7 Dec** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **8 Dec** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -296,7 +296,7 @@ toc: true
 
 #### 2020 Week 48  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **30 Nov** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **1 Dec** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -309,7 +309,7 @@ toc: true
 
 #### 2020 Week 47  Semana de la Cala
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **23 Nov** | **3x [Elemental del Mar](/ItemsES/unt_275/)**  | ¡Un escuadrón de Elementales del Mar se une a tu ejército y te vuelves más fuerte! |
   | **24 Nov** | **3x [Piratas Regnan](/ItemsES/unt_273/)**  | ¡Un escuadrón de Piratas Regnan se une a tu ejército y te vuelves más fuerte! |
@@ -322,7 +322,7 @@ toc: true
 
 #### 2020 Week 46  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **16 Nov** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
   | **17 Nov** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
@@ -335,7 +335,7 @@ toc: true
 
 #### 2020 Week 45  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **9 Nov** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
   | **10 Nov** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
@@ -348,7 +348,7 @@ toc: true
 
 #### 2020 Week 44  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **2 Nov** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
   | **3 Nov** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
@@ -361,7 +361,7 @@ toc: true
 
 #### 2020 Week 43  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **26 Oct** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
   | **27 Oct** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
@@ -374,7 +374,7 @@ toc: true
 
 #### 2020 Week 42  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **19 Oct** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
   | **20 Oct** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
@@ -387,7 +387,7 @@ toc: true
 
 #### 2020 Week 41  Semana de la Fortaleza
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **12 Oct** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
   | **13 Oct** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
@@ -400,7 +400,7 @@ toc: true
 
 #### 2020 Week 40  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **5 Oct** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **6 Oct** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -413,7 +413,7 @@ toc: true
 
 #### 2020 Week 39  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **28 Sep** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
   | **29 Sep** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
@@ -426,7 +426,7 @@ toc: true
 
 #### 2020 Week 38  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **21 Sep** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
   | **22 Sep** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
@@ -439,7 +439,7 @@ toc: true
 
 #### 2020 Week 37  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **14 Sep** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
   | **15 Sep** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
@@ -452,7 +452,7 @@ toc: true
 
 #### 2020 Week 36  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **7 Sep** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **8 Sep** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -465,7 +465,7 @@ toc: true
 
 #### 2020 Week 35  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **31 Aug** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
   | **1 Sep** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
@@ -478,7 +478,7 @@ toc: true
 
 #### 2020 Week 34  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **24 Aug** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
   | **25 Aug** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
@@ -491,7 +491,7 @@ toc: true
 
 #### 2020 Week 33  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **17 Aug** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
   | **18 Aug** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
@@ -504,7 +504,7 @@ toc: true
 
 #### 2020 Week 32  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **10 Aug** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
   | **11 Aug** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
@@ -517,7 +517,7 @@ toc: true
 
 #### 2020 Week 31  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **3 Aug** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **4 Aug** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -530,7 +530,7 @@ toc: true
 
 #### 2020 Week 30  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **27 Jul** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **28 Jul** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -543,7 +543,7 @@ toc: true
 
 #### 2020 Week 29  Semana de la Fortaleza
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **20 Jul** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
   | **21 Jul** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
@@ -556,7 +556,7 @@ toc: true
 
 #### 2020 Week 28  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **13 Jul** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
   | **14 Jul** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
@@ -569,7 +569,7 @@ toc: true
 
 #### 2020 Week 27  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **6 Jul** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
   | **7 Jul** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
@@ -582,7 +582,7 @@ toc: true
 
 #### 2020 Week 26  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **29 Jun** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
   | **30 Jun** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
@@ -595,7 +595,7 @@ toc: true
 
 #### 2020 Week 25  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **22 Jun** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
   | **23 Jun** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
@@ -608,7 +608,7 @@ toc: true
 
 #### 2020 Week 24  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **15 Jun** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
   | **16 Jun** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
@@ -621,7 +621,7 @@ toc: true
 
 #### 2020 Week 23  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **8 Jun** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
   | **9 Jun** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
@@ -634,7 +634,7 @@ toc: true
 
 #### 2020 Week 22  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **1 Jun** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **2 Jun** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -647,7 +647,7 @@ toc: true
 
 #### 2020 Week 21  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **25 May** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡El Héroe Zydar lidera a sus esbirros del Infierno para que se unan a tus filas! |
   | **26 May** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
@@ -660,7 +660,7 @@ toc: true
 
 #### 2020 Week 20  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **18 May** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Elementales Psíquicos se une a tu ejército y te vuelves más fuerte! |
   | **19 May** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
@@ -673,7 +673,7 @@ toc: true
 
 #### 2020 Week 19  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **11 May** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Siguiendo la guía del dragón antiguo, Mutare se une a tu ejército! |
   | **12 May** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
@@ -686,7 +686,7 @@ toc: true
 
 #### 2020 Week 18  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **4 May** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡A Vidomina le interesan tus guerreros no muertos y está dispuesta a unirse a tu equipo! |
   | **5 May** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
@@ -699,7 +699,7 @@ toc: true
 
 #### 2020 Week 17  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **27 Apr** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Roc se une a tu ejército y te vuelves más fuerte! |
   | **28 Apr** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
@@ -712,7 +712,7 @@ toc: true
 
 #### 2020 Week 16  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **20 Apr** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
   | **21 Apr** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
@@ -725,7 +725,7 @@ toc: true
 
 #### 2020 Week 15  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **13 Apr** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Tus investigaciones arcanas llevan a Solmyr a unirse a tu ejército! |
   | **14 Apr** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
@@ -738,7 +738,7 @@ toc: true
 
 #### 2020 Week 14  Semana de la Mazmorra
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **6 Apr** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Siguiendo la guía del dragón antiguo, Mutare se une a tu ejército! |
   | **7 Apr** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
@@ -751,7 +751,7 @@ toc: true
 
 #### 2020 Week 13  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **30 Mar** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Elementales Psíquicos se une a tu ejército y te vuelves más fuerte! |
   | **31 Mar** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
@@ -764,7 +764,7 @@ toc: true
 
 #### 2020 Week 12  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **23 Mar** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Roc se une a tu ejército y te vuelves más fuerte! |
   | **24 Mar** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
@@ -777,7 +777,7 @@ toc: true
 
 #### 2020 Week 11  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **16 Mar** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡El Héroe Zydar lidera a sus esbirros del Infierno para que se unan a tus filas! |
   | **17 Mar** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
@@ -790,7 +790,7 @@ toc: true
 
 #### 2020 Week 10  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **9 Mar** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡El Héroe Ryland respeta tus acciones para proteger a la naturaleza y desea servirte! |
   | **10 Mar** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
@@ -803,7 +803,7 @@ toc: true
 
 #### 2020 Week 9  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **2 Mar** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡A Vidomina le interesan tus guerreros no muertos y está dispuesta a unirse a tu equipo! |
   | **3 Mar** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
@@ -816,7 +816,7 @@ toc: true
 
 #### 2020 Week 8  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **24 Feb** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Tus investigaciones arcanas llevan a Solmyr a unirse a tu ejército! |
   | **25 Feb** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
@@ -829,7 +829,7 @@ toc: true
 
 #### 2020 Week 7  Semana del Castillo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **17 Feb** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Una Maga que controla el poder de la nieve ha visitado tu territorio! |
   | **18 Feb** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
@@ -842,7 +842,7 @@ toc: true
 
 #### 2020 Week 6  Semana de Conflujo
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **10 Feb** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Elementales Psíquicos se une a tu ejército y te vuelves más fuerte! |
   | **11 Feb** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
@@ -855,7 +855,7 @@ toc: true
 
 #### 2020 Week 5  Semana del Bastión
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **3 Feb** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Roc se une a tu ejército y te vuelves más fuerte! |
   | **4 Feb** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
@@ -868,7 +868,7 @@ toc: true
 
 #### 2020 Week 4  Semana del Infierno
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **27 Jan** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡El Héroe Zydar lidera a sus esbirros del Infierno para que se unan a tus filas! |
   | **28 Jan** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
@@ -881,7 +881,7 @@ toc: true
 
 #### 2020 Week 3  Semana de las Murallas
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **20 Jan** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡El Héroe Ryland respeta tus acciones para proteger a la naturaleza y desea servirte! |
   | **21 Jan** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
@@ -894,7 +894,7 @@ toc: true
 
 #### 2020 Week 2  Semana de la Necrópolis
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **13 Jan** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡A Vidomina le interesan tus guerreros no muertos y está dispuesta a unirse a tu equipo! |
   | **14 Jan** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
@@ -907,7 +907,7 @@ toc: true
 
 #### 2020 Week 1  Semana de la Torre
 
-  |  Date  |      Reward    |    Reward Descripción    |
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
   |:-------|:---------------|:------------------------:|
   | **6 Jan** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Tus investigaciones arcanas llevan a Solmyr a unirse a tu ejército! |
   | **7 Jan** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |

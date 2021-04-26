@@ -2,7 +2,7 @@
 title: "Botas de cuero"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Botas de cuero. Botas de cuero"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Leather Boots.md"
 toc: false

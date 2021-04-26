@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 Dragón hada"
 permalink: /Main Story/Chapter 24/
 excerpt: "Capítulo 24. Era of Chaos  Historia principal - Capítulo 24. Dragón hada"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 24.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Completado Capítulo 24
 
- **Reward:** [Dracon](/es/heroes/Dracon/)
+ **Recompensa:** [Dracon](/es/heroes/Dracon/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Recompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **15 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **5000x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Recompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **20 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **20 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **80000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **8000x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **1x** [Arpía](/es/units/Harpy/)
+ Recompensa 1:  **1x** [Arpía](/es/units/Harpy/)
 
- Reward 2: **25 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **25 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **10000x** [EXP de unidad](/ItemsES/con_902/)
 

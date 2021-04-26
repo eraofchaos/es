@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 - 17-4 La Lámpara del Genio"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Capítulo 17 - 4. Era of Chaos  Subterráneo - Capítulo 17_4. 17-4 La Lámpara del Genio"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 17_4.md"
 toc: false

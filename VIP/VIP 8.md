@@ -2,7 +2,7 @@
 title: "VIP - VIP 8"
 permalink: /VIP/VIP 8/
 excerpt: "Era of Chaos  Sistema VIP. VIP 8"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "VIP 8.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
 ## Detalles
 
- **Reward:** **1x** [Paquete prémium V8](/ItemsES/con_1304/)
+ **Recompensa:** **1x** [Paquete prémium V8](/ItemsES/con_1304/)
 
  **EXP:** 7000
 

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 6 - 6-4 Conquistando la Capital"
 permalink: /Underground/Chapter 6_4/
 excerpt: "Capítulo 6 - 4. Era of Chaos  Subterráneo - Capítulo 6_4. 6-4 Conquistando la Capital"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 6_4.md"
 toc: false

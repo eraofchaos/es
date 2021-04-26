@@ -2,7 +2,7 @@
 title: "Backup - Presión ártica"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Presión ártica"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Arctic Coercion.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Habilidad especial  - **Presión ártica** 
 
+  ![Presión ártica](/images/b/backupIcon_4.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Habilidad de campo de batalla - **Energía poderosa** 
 
+  ![Energía poderosa](/images/b/backupSkill1Icon_4.png)
+
  **Habilidad de campo de batalla Power:** 1060
 
  **Habilidad de campo de batalla Unlock:** 5x [Pergamino de energía](/ItemsES/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Habilidad global - **Alimentación** 
+
+  ![Alimentación](/images/b/backupSkill2Icon_4.png)
 
  **Habilidad global Power:** 1076
 

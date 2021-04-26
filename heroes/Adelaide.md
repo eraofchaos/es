@@ -4,7 +4,7 @@ permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. De joven, tras naufragar y quedarse sola, Adelaide acabo en el territorio de los Elfos de las Nieves. Entrenó durante 20 años con sus rescatadores y se convirtió en la maga más poderosa del Reino antes de volver a Erathia."
 heroID: 60001
 QR: hero_60001
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Adelaide"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Detalles
  **Profession:** ![Clérigos](/images/h/h_prof_2.png)  [Clérigos](/es/heroes/Profession Clerics/)
 
- **Facción::** [Castillo](/es/heroes/Faction Castle/)
+ **Facción:** [Castillo](/es/heroes/Faction Castle/)
 
  **Rango:** [SR](/es/heroes/Hero Rank SR/)
 

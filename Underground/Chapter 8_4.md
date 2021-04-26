@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-4 Resucitando a los Muertos"
 permalink: /Underground/Chapter 8_4/
 excerpt: "Capítulo 8 - 4. Era of Chaos  Subterráneo - Capítulo 8_4. 8-4 Resucitando a los Muertos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 8_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-2 Lava Subterránea"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Capítulo 15 - 2. Era of Chaos  Subterráneo - Capítulo 15_2. 15-2 Lava Subterránea"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 15_2.md"
 toc: false

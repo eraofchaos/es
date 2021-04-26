@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank R -  Heroes"
 permalink: /heroes/Hero Rank R/
 excerpt: "Era of Chaos Hero Rank R. Hero Rank R. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Hero Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/es/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/es/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/es/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/es/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/es/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nombre    |  Facción:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nombre    |  Facción  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/es/heroes/Wystan/) | Fortaleza | Amaestrador | **R** |  Cazador de la Ciénaga | R |
   | 2 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/es/heroes/Shiva/) | Bastión | Bárbaro | **R** |  Portador de Tormentas | R |

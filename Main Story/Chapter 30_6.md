@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-6 Tabla de piedra y árbol muerto"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Capítulo 30 - 6. Era of Chaos  Historia principal - Capítulo 30_6. 30-6 Tabla de piedra y árbol muerto"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 30_6.md"
 toc: false

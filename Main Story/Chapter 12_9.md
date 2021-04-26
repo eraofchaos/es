@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-9 Negociaciones de Paz"
 permalink: /Main Story/Chapter 12_9/
 excerpt: "Capítulo 12 - 9. Era of Chaos  Historia principal - Capítulo 12_9. 12-9 Negociaciones de Paz"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 12_9.md"
 toc: false

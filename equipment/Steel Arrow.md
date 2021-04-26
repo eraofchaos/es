@@ -2,7 +2,7 @@
 title: "Flecha de Acero"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Flecha de Acero. Flecha de Acero"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Steel Arrow.md"
 toc: false

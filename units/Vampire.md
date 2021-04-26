@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Vampiro. Vampiro Unidades. Señor Vampiro. Era of Chaos Los Vampiros siguen muchos rituales aristocráticos de antaño. Pueden parecer encantadores y caballerosos, pero si muestran sus colmillos, solo hay un final posible: la muerte."
 unitID: 304
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Vampiro"
 toc: true

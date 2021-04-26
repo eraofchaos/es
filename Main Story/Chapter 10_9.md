@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-9 Reloj de la Hora Aciaga"
 permalink: /Main Story/Chapter 10_9/
 excerpt: "Capítulo 10 - 9. Era of Chaos  Historia principal - Capítulo 10_9. 10-9 Reloj de la Hora Aciaga"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 10_9.md"
 toc: false

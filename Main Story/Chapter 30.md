@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 La Salvación del Rey"
 permalink: /Main Story/Chapter 30/
 excerpt: "Capítulo 30. Era of Chaos  Historia principal - Capítulo 30. La Salvación del Rey"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 30.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Completado Capítulo 30
 
- **Reward:** [Kendal](/es/heroes/Kendal/)
+ **Recompensa:** [Kendal](/es/heroes/Kendal/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Recompensa 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **30 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **30 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **200000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **70000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **70000x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Recompensa 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **40 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **40 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **300000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **100000x** [EXP de unidad](/ItemsES/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Para recoger tu recompensa:</span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Recompensa 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2: **25 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
+ Recompensa 2: **25 x** [Pergaminos de hechizo](/ItemsES/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Recompensa 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **12000x** [EXP de unidad](/ItemsES/con_902/)
+ Recompensa 4:  **12000x** [EXP de unidad](/ItemsES/con_902/)
 

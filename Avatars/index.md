@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | 15 | ![Coleccionista: Avanzado](/images/a/avatarFrame_72.png) | [Coleccionista: Avanzado](/es/Avatars/Collector - Advanced/) | + | Coleccionista: Avanzado |
   | 16 | ![Coleccionista: Básico](/images/a/avatarFrame_71.png) | [Coleccionista: Básico](/es/Avatars/Collector - Basic/) | + | Coleccionista: Básico |
   | 17 | ![Coleccionista: Experto](/images/a/avatarFrame_59.png) | [Coleccionista: Experto](/es/Avatars/Collector - Expert/) | + | Marco de avatar exclusivo de Prueba de Emblema Sagrado |
-  | 18 |  | [Comandante mortífero](/es/Avatars/Deadly Commander/) | + | Marco de avatar de Comandante mortífero |
+  | 18 | ![Comandante mortífero](/images/a/avatarFrame_21.png) | [Comandante mortífero](/es/Avatars/Deadly Commander/) | + | Marco de avatar de Comandante mortífero |
   | 19 | ![Comandante táctico](/images/a/avatarFrame_20.png) | [Comandante táctico](/es/Avatars/Tactical Commander/) | + | Marco de avatar de Comandante táctico |
   | 20 | ![Comentadores](/images/a/avatarFrame_14.png) | [Comentadores](/es/Avatars/Commenters/) | + |  |
   | 21 | ![Competidor](/images/a/avatarFrame_2.png) | [Competidor](/es/Avatars/Competitor/) | + | Marco de avatar de Competidor de alto nivel |

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "index.md"
 QR: heroes
@@ -15,7 +15,7 @@ classes: wide
 
   by Rango: [R](/es/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/es/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/es/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/es/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/es/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nombre    |  Facción:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nombre    |  Facción  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/es/heroes/Adelaide/) | Castillo | Clérigos | **SR** |  Anillo Gélido | R+ |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/es/heroes/Astral/) | Torre | Hechicero | **SSR** |  Amplificación mágica | SSR |

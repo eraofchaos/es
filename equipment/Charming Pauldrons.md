@@ -2,7 +2,7 @@
 title: "Hombreras Encantadas"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Hombreras Encantadas. Hombreras Encantadas"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Charming Pauldrons.md"
 toc: false

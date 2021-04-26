@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Ogro Exclusivo."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Ogre Escudo Iris.md"
 toc: false

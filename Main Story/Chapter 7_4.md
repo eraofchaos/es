@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-4 Incursión"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "Capítulo 7 - 4. Era of Chaos  Historia principal - Capítulo 7_4. 7-4 Incursión"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 7_4.md"
 toc: false

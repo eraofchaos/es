@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Trueno del Titán. Trueno del Titán Una reliquia sagrada legendaria forjada a partir de los tesoros de un Gigante. Desata una descarga eléctrica sobre cualquier enemigo."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Titan's Thunder.md"
 toc: false

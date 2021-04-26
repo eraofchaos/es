@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-3 La Escultura del Ángel"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Capítulo 15 - 3. Era of Chaos  Subterráneo - Capítulo 15_3. 15-3 La Escultura del Ángel"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: es
 ref: "Chapter 15_3.md"
 toc: false
