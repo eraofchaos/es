@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 La Salvación del Rey"
 permalink: /Underground/Chapter 30/
 excerpt: "Capítulo 30 La Salvación del Rey. Era of Chaos  Subterráneo - Capítulo 30. La Salvación del Rey"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 30.md"
 toc: false

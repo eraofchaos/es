@@ -2,7 +2,7 @@
 title: "Avatar - Voluntad de los dioses"
 permalink: /Avatars/Will of the Gods/
 excerpt: "Era of Chaos  Voluntad de los dioses"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Will of the Gods.md"
 toc: false

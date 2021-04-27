@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Faction Inferno"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | ![Diablillo](/images/u/ti_xiaoemo.jpg) | [Diablillo](/es/units/Imp/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/es/units/Gog/) | Lanzador | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
-  | 4 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 4 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 5 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señor del Abismo  |
   | 6 | ![Efrit](/images/u/ti_liehuojingling.jpg) | [Efrit](/es/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultán Efrit  |
   | 7 | ![Diablo](/images/u/ti_daemo.jpg) | [Diablo](/es/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiablo  |

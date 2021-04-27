@@ -2,7 +2,7 @@
 title: "La ligereza del viento"
 permalink: /equipment/The Lightness of the Wind/
 excerpt: "Era of Chaos La ligereza del viento. La ligereza del viento"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "The Lightness of the Wind.md"
 toc: false

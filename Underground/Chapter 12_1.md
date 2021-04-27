@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 - 12-1 Ejércitos en Marcha"
 permalink: /Underground/Chapter 12_1/
 excerpt: "Capítulo 12 - 1. Era of Chaos  Subterráneo - Capítulo 12_1. 12-1 Ejércitos en Marcha"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 12_1.md"
 toc: false

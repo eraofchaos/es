@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-6 Campamento de los Bandidos"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Capítulo 3 - 6. Era of Chaos  Historia principal - Capítulo 3_6. 3-6 Campamento de los Bandidos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 3_6.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Muerto Viviente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Muerto Viviente. Muerto Viviente Unidades. Zombi. Era of Chaos Estos cuerpos putrefactos, reanimados por Nigromantes, caminan automáticamente hacia la batalla. Sus cuerpos abotargados y hediondos son volátiles, y causan la destrucción al explotar."
 unitID: 302
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Muerto Viviente"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nombre:** [Escudo Iris](/es/Exclusive/Walking Dead Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Escudo Iris](/ItemsES/con_913/)
 

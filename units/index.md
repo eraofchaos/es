@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "index.md"
 toc: false
@@ -88,7 +88,7 @@ classes: wide
   | 66 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 67 | ![Momia](/images/u/ti_munaiyi.jpg) | [Momia](/es/units/Mummy/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Rey Momia  |
   | 68 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
-  | 69 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
+  | 69 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 70 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/es/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Reina  |
   | 71 | ![Observador](/images/u/ti_xieyan.jpg) | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |
   | 72 | ![Ogro](/images/u/ti_shirenmo.jpg) | [Ogro](/es/units/Ogre/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Mago Ogro  |
@@ -99,9 +99,9 @@ classes: wide
   | 77 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 78 | ![Piratas Regnan](/images/u/ti_haidao.jpg) | [Piratas Regnan](/es/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Rey de los Piratas  |
   | 79 | ![Pájaro Ígneo](/images/u/ti_fenghuang.jpg) | [Pájaro Ígneo](/es/units/Firebird/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fénix  |
-  | 80 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
+  | 80 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
   | 81 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/es/units/Roc/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Ave de Trueno  |
-  | 82 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 82 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 83 | ![Serpiente Regnan](/images/u/ti_yurenyongshi.jpg) | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 84 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/es/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 85 | ![Tigre Blanco](/images/u/ti_baihu.jpg) | [Tigre Blanco](/es/units/White Tiger/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |

@@ -2,7 +2,7 @@
 title: "Artefacto - Alianza Angelical - Armadura Portentosa"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Era of Chaos  Alianza Angelical - Armadura Portentosa. Una armadura que atestiguó las grandezas del Imperio. Uno de los componentes de la Alianza Angelical."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Armor of Wonders.md"
 toc: false

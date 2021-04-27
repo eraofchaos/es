@@ -2,7 +2,7 @@
 title: "Hombreras Oxidadas"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Era of Chaos Hombreras Oxidadas. Hombreras Oxidadas"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Rusted Pauldrons.md"
 toc: false

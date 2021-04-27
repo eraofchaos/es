@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Bien"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Bien. Era of Chaos Bien"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "typeBien.md"
 toc: false

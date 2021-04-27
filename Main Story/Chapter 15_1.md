@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-1 Las Últimas Palabras del Demonio"
 permalink: /Main Story/Chapter 15_1/
 excerpt: "Capítulo 15 - 1. Era of Chaos  Historia principal - Capítulo 15_1. 15-1 Las Últimas Palabras del Demonio"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 15_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Alas de Mariposa de Fósforo"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Alas de Mariposa de Fósforo. Alas de Mariposa de Fósforo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

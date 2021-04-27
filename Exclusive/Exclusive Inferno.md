@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Inferno"
 permalink: /Exclusive/Exclusive Inferno/
 excerpt: "Era of Chaos Exclusivo Inferno. Exclusivo Inferno. List of Exclusivo Inferno in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Exclusive Inferno"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Diablillo](/es/units/Imp/) | [Escudo Iris](/es/Exclusive/Imp Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
   | 2  | [Gog](/es/units/Gog/) | [Canto Arcano](/es/Exclusive/Gog Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
-  | 3  | [Sabueso Infernal](/es/units/Hell Hound/) | [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
+  | 3  | [Sabueso Infernal](/es/units/Hell Hound/) | [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) | + | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
   | 4  | [Demonio](/es/units/Demon/) | [Escudo Iris](/es/Exclusive/Demon Iris Shield/) | + | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
   | 5  | [Demonio del Abismo](/es/units/Pit Fiend/) | [Espada](/es/Exclusive/Pit Fiend Sword/) | - | Carga | [Ficha de espada](/ItemsES/con_912/) | - |
   | 6  | [Efrit](/es/units/Efreeti/) | [Canto Arcano](/es/Exclusive/Efreeti Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |

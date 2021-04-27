@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-14 Corrosión Forestal"
 permalink: /Main Story/Chapter 8_14/
 excerpt: "Capítulo 8 - 14. Era of Chaos  Historia principal - Capítulo 8_14. 8-14 Corrosión Forestal"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 8_14.md"
 toc: false

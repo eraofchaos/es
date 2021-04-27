@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 - 28-1  Fiesta de las cabezas de hacha"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Capítulo 28 - 1. Era of Chaos  Subterráneo - Capítulo 28_1. 28-1  Fiesta de las cabezas de hacha"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 28_1.md"
 toc: false

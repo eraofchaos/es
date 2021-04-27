@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-1 Molinos Rojos"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Capítulo 2 - 1. Era of Chaos  Historia principal - Capítulo 2_1. 2-1 Molinos Rojos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 2_1.md"
 toc: false

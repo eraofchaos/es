@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-11 Repeliendo a los Atacantes"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Capítulo 7 - 11. Era of Chaos  Historia principal - Capítulo 7_11. 7-11 Repeliendo a los Atacantes"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 7_11.md"
 toc: false

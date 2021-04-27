@@ -2,7 +2,7 @@
 title: "Brazaletes Hirvientes"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Brazaletes Hirvientes. Brazaletes Hirvientes"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Scalding Bracers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 Pensamientos frenéticos"
 permalink: /Underground/Chapter 8/
 excerpt: "Capítulo 8 Pensamientos frenéticos. Era of Chaos  Subterráneo - Capítulo 8. Pensamientos frenéticos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 8.md"
 toc: false

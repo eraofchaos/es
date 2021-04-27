@@ -2,7 +2,7 @@
 title: "Colmillos Atroces"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Colmillos Atroces. Colmillos Atroces"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Ferocious Fangs.md"
 toc: false

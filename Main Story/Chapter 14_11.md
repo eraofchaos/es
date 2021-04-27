@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-11 En Busca de la Verdad"
 permalink: /Main Story/Chapter 14_11/
 excerpt: "Capítulo 14 - 11. Era of Chaos  Historia principal - Capítulo 14_11. 14-11 En Busca de la Verdad"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 14_11.md"
 toc: false

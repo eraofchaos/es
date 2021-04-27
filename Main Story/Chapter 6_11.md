@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-11 ¡Proteged la Ciudad!"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Capítulo 6 - 11. Era of Chaos  Historia principal - Capítulo 6_11. 6-11 ¡Proteged la Ciudad!"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 6_11.md"
 toc: false

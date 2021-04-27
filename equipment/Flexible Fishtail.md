@@ -2,7 +2,7 @@
 title: "Cola de Pez Flexible"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Era of Chaos Cola de Pez Flexible. Cola de Pez Flexible"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Flexible Fishtail.md"
 toc: false

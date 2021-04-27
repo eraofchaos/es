@@ -2,7 +2,7 @@
 title: "Báculo Rompehechizos"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Era of Chaos Báculo Rompehechizos. Báculo Rompehechizos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Spell Breaker's Staff.md"
 toc: false

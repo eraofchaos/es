@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Monk)"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Monje Exclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Monk Canto Arcano.md"
 toc: false

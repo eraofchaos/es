@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Demonio del Abismo Exclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Pit Fiend Espada.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 - 28-4  Sacrificio honorable"
 permalink: /Underground/Chapter 28_4/
 excerpt: "Capítulo 28 - 4. Era of Chaos  Subterráneo - Capítulo 28_4. 28-4  Sacrificio honorable"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 28_4.md"
 toc: false

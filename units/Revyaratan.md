@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Unidades. Monstruo Marino Ancestral. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Revyaratan"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Monstruo Marino Ancestral](/images/u/tia_haiguai.jpg)
 
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Monstruo Marino Ancestral
 
- **Awaking Descripción:** 
+ **Awaking Descripción:** En las profundidades del océano, en un abismo al que no llega la luz del sol, una criatura sin nombre evoluciona lentamente.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Despliega un Revyaratan con al menos </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> unidades de Cala y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> monstruos en una Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Monstruo Marino Ancestral en el Subterráneo: fases 15-2 y 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Despliega un Revyaratan con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Cala y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Descripción:** 
+### 1st Skill (or 2nd): Quebrantahuesos
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Mandíbula feroz&gt;</span><span style="color: #645252;font-size:18px"> El daño aumenta un 50%. Además, causa ralentización a los enemigos en la fila actual y reduce su tenacidad en 100 y la reducción de daño de unidad un 10%. Dura 5 s.</span>
 
-### 2nd Skill (or 1st): null
- **Descripción:** 
+### 2nd Skill (or 1st): Cazaclanes
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Mandíbula feroz&gt;</span><span style="color: #645252;font-size:18px"> El daño aumenta un 50%. Además, aumenta su propio daño de unidad un 20% y otorga a las unidades amistosas en la fila actual un aumento de 100 de golpe crítico y un 10% de daño de unidad. Dura 5 s.</span>
 
-### 3rd Skill (or 4th): null
- **Descripción:** 
+### 3rd Skill (or 4th): Voraz
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Codicia de esqueleto&gt;</span><span style="color: #645252;font-size:18px"> Se reducen los atributos de las unidades marcadas un 50% adicional. Aumenta la probabilidad de recuperación que se activa con &lt;Mandíbula feroz&gt; en un 50%.</span>
 
-### 4th Skill (or 3rd): null
- **Descripción:** 
+### 4th Skill (or 3rd): <Festín compartido>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Codicia de esqueleto&gt;</span><span style="color: #645252;font-size:18px"> Marca a una unidad enemiga adicional. Aumenta los PV recuperados mediante &lt;Mandíbula feroz&gt; un 50%.</span>
 
-### 5th Skill (or 6th): null
- **Descripción:** 
+### 5th Skill (or 6th): Voluntad inquebrantable
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Las rígidas subcorrientes&gt;</span><span style="color: #645252;font-size:18px"> Aumenta las bonificaciones de atributos de cada acumulación un 50%.</span>
 
-### 6th Skill (or 5th): null
- **Descripción:** 
+### 6th Skill (or 5th): Furia de las criaturas marinas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Las rígidas subcorrientes&gt;</span><span style="color: #645252;font-size:18px"> Aumenta las acumulaciones máximas a 8.</span>
 
 ## Technical info
  **runart:** 1

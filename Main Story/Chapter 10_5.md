@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-5 Esquirla de Alma"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Capítulo 10 - 5. Era of Chaos  Historia principal - Capítulo 10_5. 10-5 Esquirla de Alma"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 10_5.md"
 toc: false

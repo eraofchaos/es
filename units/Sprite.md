@@ -3,7 +3,7 @@ title: "Hada"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Hada. Hada Unidades. . Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Hada"
 toc: true

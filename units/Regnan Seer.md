@@ -3,7 +3,7 @@ title: "Vidente Regnan"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Vidente Regnan. Vidente Regnan Unidades. Elemental de la Marea. Era of Chaos La portavoz de las profundidades defenderá la majestuosidad del mar. Hace uso del poder del océano para forzar al enemigo a huir."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Vidente Regnan"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Cala son expertas en el combate naval. Cuando se enfrentan a unidades que no son de Cala, el daño de la unidad aumenta un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad normal 6 : Furia del océano
- **Descripción:** Cuando se desplieguen 3 unidades de facción de la Cala, la Vidente Regnan aumenta su velocidad de ataque y la reducción de daño de unidad. 10 seg. después del inicio de la batalla, la Vidente Regnan lanza Miedo profundo para activar el Dominio del Océano durante 15. La recarga es de 30 seg.
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan tres unidades de la facción de la Cala, la Vidente Regnan aumenta la velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y la reducción de daño de unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Dominio del Océano se activará cuando la Vidente Regnan lance &lt;Miedo profundo&gt;. Dura 15 s. La recarga es de 30 s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

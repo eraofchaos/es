@@ -3,7 +3,7 @@ title: "Elemental de Hielo"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Elemental de Hielo. Elemental de Hielo Unidades. Espíritu de las Nieves Silencioso. Era of Chaos Un ser vivo congelado, fruto de un Elemental de Agua. Ante una amenaza, liberará el aire gélido de su interior y congelará a sus enemigos."
 unitID: 903
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Elemental de Hielo"
 toc: true

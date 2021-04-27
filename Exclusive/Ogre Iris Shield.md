@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Ogro Exclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Ogre Escudo Iris.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Cuando se despliega al Ogro, este aumenta la velocidad de ataque de todas las unidades de Bastión amistosas un 10%. Aumenta su DEF un 10%. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la tenacidad del Ogro en 500. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Cuando se despliega al Ogro, este reduce la DEF de las unidades hostiles un 10% a cambio de un 100% de resistencia mágica. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | La DEF del Ogro aumenta un 5% por cada unidad defensiva desplegada. Los PV del Ogro aumentan en 1000 por cada unidad de Bastión desplegada. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | La DEF del Ogro aumenta un 5% por cada unidad defensiva desplegada. La regeneración de PV del Ogro aumenta en 1000 por cada unidad de Bastión desplegada. |
 
 
 ## Subir de nivel

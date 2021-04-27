@@ -3,7 +3,7 @@ title: "Sabueso Infernal"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Sabueso Infernal. Sabueso Infernal Unidades. null. Era of Chaos Los Sabuesos Infernales atacan al enemigo con sus tres cabezas. Por su cuerpo corre lava ardiente e incendian todo a su paso."
 unitID: 503
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Sabueso Infernal"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Nombre:** [Pica de Caballero](/es/Exclusive/Hell Hound Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 

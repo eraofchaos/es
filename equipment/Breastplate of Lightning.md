@@ -2,7 +2,7 @@
 title: "Peto del Relámpago"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Era of Chaos Peto del Relámpago. Peto del Relámpago"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Breastplate of Lightning.md"
 toc: false

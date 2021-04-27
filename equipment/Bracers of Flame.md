@@ -2,7 +2,7 @@
 title: "Brazaletes de Llamas"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Brazaletes de Llamas. Brazaletes de Llamas"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Bracers of Flame.md"
 toc: false

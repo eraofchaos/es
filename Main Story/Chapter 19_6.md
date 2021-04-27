@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-6 Centro Dual"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Capítulo 19 - 6. Era of Chaos  Historia principal - Capítulo 19_6. 19-6 Centro Dual"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 19_6.md"
 toc: false

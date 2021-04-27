@@ -2,7 +2,7 @@
 title: "Alas Tapacielos"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Era of Chaos Alas Tapacielos. Alas Tapacielos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Sky-blocking Wings.md"
 toc: false

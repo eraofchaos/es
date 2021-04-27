@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Star 3"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Vidente Regnan](/images/u/ti_haihou.jpg) | [Vidente Regnan](/es/units/Regnan Seer/) | Lanzador | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elemental de la Marea  |
   | 5 | ![Pájaro Ígneo](/images/u/ti_fenghuang.jpg) | [Pájaro Ígneo](/es/units/Firebird/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fénix  |
   | 6 | ![Campeón Oscuro](/images/u/ti_sishen.jpg) | [Campeón Oscuro](/es/units/Dark Champion/) | Ofensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
+  | 7 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
   | 8 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/es/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Antiguo Behemoth  |
   | 9 | ![Demonio de Hielo](/images/u/ti_bingmo.jpg) | [Demonio de Hielo](/es/units/Ice Demon/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 10 | ![Domador de Tiburones](/images/u/ti_xunshashi.jpg) | [Domador de Tiburones](/es/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Jinete de tiburones  |

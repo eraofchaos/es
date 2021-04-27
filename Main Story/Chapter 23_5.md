@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-5 Aliento de dragón"
 permalink: /Main Story/Chapter 23_5/
 excerpt: "Capítulo 23 - 5. Era of Chaos  Historia principal - Capítulo 23_5. 23-5 Aliento de dragón"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 23_5.md"
 toc: false

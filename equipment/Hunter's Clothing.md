@@ -2,7 +2,7 @@
 title: "Vestimenta de Cazador"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Era of Chaos Vestimenta de Cazador. Vestimenta de Cazador"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Hunter's Clothing.md"
 toc: false

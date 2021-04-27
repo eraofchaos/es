@@ -2,11 +2,37 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 20  Semana de las Murallas
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **17 May** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
+  | **18 May** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
+  | **19 May** | **3x [Pegaso](/ItemsES/unt_202/)**  | ¡Un escuadrón de Pegasos se une a tu ejército y te vuelves más fuerte! |
+  | **20 May** | **3x [Unicornio](/ItemsES/unt_204/)**  | ¡Un escuadrón de Unicornios se une a tu ejército y te vuelves más fuerte! |
+  | **21 May** | **3x [Enano](/ItemsES/unt_200/)**  | ¡Un escuadrón de Enanos se une a tu ejército y te vuelves más fuerte! |
+  | **22 May** | **3x [Guardia Dendroide](/ItemsES/unt_203/)**  | ¡Un escuadrón de Guardias Dendroides se une a tu ejército y te vuelves más fuerte! |
+  | **23 May** | **5x [Ryland](/ItemsES/her_368/)**  | ¡El Héroe Ryland respeta tus acciones para proteger a la naturaleza y desea servirte! |
+
+
+#### 2021 Week 19  Semana de la Fortaleza
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **10 May** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
+  | **11 May** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
+  | **12 May** | **100x <i class="fas fa-gem"/>**  | ¡Tu ejército ha encontrado un montón de tesoros en la ciénaga oscura! |
+  | **13 May** | **3x [Hombre Lagarto](/ItemsES/unt_254/)**  | ¡Un escuadrón de Hombres Lagarto se une a tu ejército y te vuelves más fuerte! |
+  | **14 May** | **5x [Runas de Lista de Fortaleza](/ItemsES/con_818/)**  | ¡Tus tropas del Infierno te han traído varias runas valiosas! |
+  | **15 May** | **3x [Libélula Menor](/ItemsES/unt_255/)**  | ¡Un escuadrón de Libélulas Menores se une a tu ejército y te vuelves más fuerte! |
+  | **16 May** | **5x [Korbac](/ItemsES/her_394/)**  | ¡Un valiente Amaestrador ha visitado tu territorio! |
+
 
 #### 2021 Week 18  Semana del Infierno
 

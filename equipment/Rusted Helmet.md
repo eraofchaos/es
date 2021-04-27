@@ -2,7 +2,7 @@
 title: "Yelmo Oxidado"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Era of Chaos Yelmo Oxidado. Yelmo Oxidado"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Rusted Helmet.md"
 toc: false

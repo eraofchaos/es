@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-7 Una Oportunidad Vital"
 permalink: /Main Story/Chapter 5_7/
 excerpt: "Capítulo 5 - 7. Era of Chaos  Historia principal - Capítulo 5_7. 5-7 Una Oportunidad Vital"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 5_7.md"
 toc: false

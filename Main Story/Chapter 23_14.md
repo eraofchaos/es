@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-14 El Hedor del Azufre"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Capítulo 23 - 14. Era of Chaos  Historia principal - Capítulo 23_14. 23-14 El Hedor del Azufre"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 23_14.md"
 toc: false

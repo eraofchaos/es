@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 Terreno neutral"
 permalink: /Main Story/Chapter 19/
 excerpt: "Capítulo 19. Era of Chaos  Historia principal - Capítulo 19. Terreno neutral"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: es
 ref: "Chapter 19.md"
 toc: false
