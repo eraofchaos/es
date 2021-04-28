@@ -71,7 +71,7 @@ sidebar:
   | **2** |  **1000x** [Cristal de Sangre de Dragón](/ItemsES/con_879/) | 1 | 10 | 20 |
   | **3** |  **30x** [Mithril del vacío](/ItemsES/con_817/) | 1 | 10 | 20 |
   | **4** |  **15x** [Ticket de canjeo de Emblema Sagrado](/ItemsES/con_513/) | 1 | 10 | 20 |
-  | **5** |  **10x** [Tool_10046](/ItemsES/con_2135/) | 1 | 10 | 10 |
+  | **5** |  **10x** [Perla discreta](/ItemsES/con_2135/) | 1 | 10 | 10 |
   | **6** |  **8x** [Pacto del oráculo](/ItemsES/con_816/) | 1 | 10 | 10 |
   | **7** |  **1x** [Cofre de componente de artefacto épico](/ItemsES/con_1926/) | 2 | 2 | 5 |
   | **8** |  **8x** [Perla reluciente](/ItemsES/con_527/) | 2 | 15 | 10 |

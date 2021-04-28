@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/es/units/Star 3/)
 
- **Unit Soul:** [Tool_3709](/ItemsES/unt_252/)
+ **Unit Soul:** [Hechicera Maligna](/ItemsES/unt_252/)
 
  **Short description:** Refleja los hechizos. Domina las ventajas.
 
