@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - La senda del Asesino"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos La senda del Asesino. La senda del Asesino. Era of Chaos Emblema Sagrado La senda del Asesino. Era of Chaos Neutral La senda del Asesino"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Path of an Assassin.md"
 toc: false

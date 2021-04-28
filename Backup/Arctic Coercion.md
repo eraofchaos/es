@@ -2,7 +2,7 @@
 title: "Backup - Presión ártica"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Presión ártica"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Arctic Coercion.md"
 toc: false

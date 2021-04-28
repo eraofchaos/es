@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-12 Torre de Garra"
 permalink: /Main Story/Chapter 4_12/
 excerpt: "Capítulo 4 - 12. Era of Chaos  Historia principal - Capítulo 4_12. 4-12 Torre de Garra"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 4_12.md"
 toc: false

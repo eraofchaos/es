@@ -2,7 +2,7 @@
 title: "Runa del Verdor"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Runa del Verdor. Runa del Verdor"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Evergreen Rune.md"
 toc: false

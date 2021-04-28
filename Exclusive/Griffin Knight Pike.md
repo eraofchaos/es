@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Griffin)"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Grifo Exclusivo."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Griffin Pica de Caballero.md"
 toc: false

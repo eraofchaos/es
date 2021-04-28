@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-14 Estallido"
 permalink: /Main Story/Chapter 6_14/
 excerpt: "Capítulo 6 - 14. Era of Chaos  Historia principal - Capítulo 6_14. 6-14 Estallido"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 6_14.md"
 toc: false

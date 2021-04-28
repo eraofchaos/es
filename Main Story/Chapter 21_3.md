@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-3 Bardo"
 permalink: /Main Story/Chapter 21_3/
 excerpt: "Capítulo 21 - 3. Era of Chaos  Historia principal - Capítulo 21_3. 21-3 Bardo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 21_3.md"
 toc: false

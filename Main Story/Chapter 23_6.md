@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-6 Cueva minera"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Capítulo 23 - 6. Era of Chaos  Historia principal - Capítulo 23_6. 23-6 Cueva minera"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 23_6.md"
 toc: false

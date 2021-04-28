@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-14 Refugio Sagrado"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Capítulo 28 - 14. Era of Chaos  Historia principal - Capítulo 28_14. 28-14 Refugio Sagrado"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 28_14.md"
 toc: false

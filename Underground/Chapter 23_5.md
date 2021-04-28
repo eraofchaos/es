@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-5 Propagación"
 permalink: /Underground/Chapter 23_5/
 excerpt: "Capítulo 23 - 5. Era of Chaos  Subterráneo - Capítulo 23_5. 23-5 Propagación"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 23_5.md"
 toc: false

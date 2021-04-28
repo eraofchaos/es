@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-7 Al Acecho"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Capítulo 13 - 7. Era of Chaos  Historia principal - Capítulo 13_7. 13-7 Al Acecho"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 13_7.md"
 toc: false

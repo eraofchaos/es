@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 Pactando con el diablo"
 permalink: /Underground/Chapter 18/
 excerpt: "Capítulo 18 Pactando con el diablo. Era of Chaos  Subterráneo - Capítulo 18. Pactando con el diablo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 18.md"
 toc: false

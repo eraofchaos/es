@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esfinge questions and correct answers"
 permalink: /sphinx/
 excerpt: "Era of Chaos Esfinge. Esfinge questions. List of ALL Esfinge questions with correct answers in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "index.md"
 toc: false

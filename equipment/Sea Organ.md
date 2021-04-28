@@ -2,7 +2,7 @@
 title: "Órgano del Mar"
 permalink: /equipment/Sea Organ/
 excerpt: "Era of Chaos Órgano del Mar. Órgano del Mar"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Sea Organ.md"
 toc: false

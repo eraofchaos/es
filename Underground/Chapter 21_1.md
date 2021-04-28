@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 21 - 21-1 Regalo de Guerra"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Capítulo 21 - 1. Era of Chaos  Subterráneo - Capítulo 21_1. 21-1 Regalo de Guerra"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 21_1.md"
 toc: false

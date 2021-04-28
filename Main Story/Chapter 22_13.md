@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-13 Guía de la Maga"
 permalink: /Main Story/Chapter 22_13/
 excerpt: "Capítulo 22 - 13. Era of Chaos  Historia principal - Capítulo 22_13. 22-13 Guía de la Maga"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 22_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Báculo Fulminante"
 permalink: /artifacts/Withering Staff/
 excerpt: "Era of Chaos  Espada de Escarcha - Báculo Fulminante. Un báculo usado por un Archiliche. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Withering Staff.md"
 toc: false

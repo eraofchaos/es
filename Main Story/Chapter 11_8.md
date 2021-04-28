@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-8 Batalla Trepidante"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "Capítulo 11 - 8. Era of Chaos  Historia principal - Capítulo 11_8. 11-8 Batalla Trepidante"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 11_8.md"
 toc: false

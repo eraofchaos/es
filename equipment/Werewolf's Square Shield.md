@@ -2,7 +2,7 @@
 title: "Tarja de Licántropo"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Tarja de Licántropo. Tarja de Licántropo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Werewolf's Square Shield.md"
 toc: false

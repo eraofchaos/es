@@ -2,7 +2,7 @@
 title: "Paño de la Sirena"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Paño de la Sirena. Paño de la Sirena"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Cloth of the Mermaid.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "index.md"
 toc: false

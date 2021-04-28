@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 - 28-2  Desarrollo y construcción"
 permalink: /Underground/Chapter 28_2/
 excerpt: "Capítulo 28 - 2. Era of Chaos  Subterráneo - Capítulo 28_2. 28-2  Desarrollo y construcción"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 28_2.md"
 toc: false

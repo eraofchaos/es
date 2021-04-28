@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 Terreno neutral"
 permalink: /Underground/Chapter 19/
 excerpt: "Capítulo 19 Terreno neutral. Era of Chaos  Subterráneo - Capítulo 19. Terreno neutral"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 19.md"
 toc: false

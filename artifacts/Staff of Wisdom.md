@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Báculo de la Sabiduría"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Báculo de la Sabiduría. Una reliquia que protege el Escudo de hielo. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Staff of Wisdom.md"
 toc: false

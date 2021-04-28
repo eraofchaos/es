@@ -2,7 +2,7 @@
 title: "Visera de los Muertos"
 permalink: /equipment/Visor of the Dead/
 excerpt: "Era of Chaos Visera de los Muertos. Visera de los Muertos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Visor of the Dead.md"
 toc: false

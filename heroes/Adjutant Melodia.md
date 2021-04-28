@@ -2,7 +2,7 @@
 title: "Ayudante Melodía"
 permalink: /heroes/Adjutant Melodia/
 excerpt: "Era of Chaos  Ayudante Melodía"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Adjutant Melodia.md"
 QR: adhero_60201

@@ -2,7 +2,7 @@
 title: "Colmillo Tóxico"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Colmillo Tóxico. Colmillo Tóxico"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Toxic Fang.md"
 toc: false

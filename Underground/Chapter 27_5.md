@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 - 27-5 Ciclón"
 permalink: /Underground/Chapter 27_5/
 excerpt: "Capítulo 27 - 5. Era of Chaos  Subterráneo - Capítulo 27_5. 27-5 Ciclón"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 27_5.md"
 toc: false

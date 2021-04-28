@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Minotauro. Minotauro Unidades. Minotauro Rey. Era of Chaos El oscuro laberinto oculta a una fuerte criatura. Su enorme hacha corta en pedazos a cualquier enemigo extraviado."
 unitID: 705
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Minotauro"
 toc: true

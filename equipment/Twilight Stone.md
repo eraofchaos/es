@@ -2,7 +2,7 @@
 title: "Piedra del Crepúsculo"
 permalink: /equipment/Twilight Stone/
 excerpt: "Era of Chaos Piedra del Crepúsculo. Piedra del Crepúsculo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Twilight Stone.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Orange Artifacts"
 permalink: /artifacts/Orange Artifacts/
 excerpt: "Era of Chaos  List of all Orange Artifacts . Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Orange Artifacts.md"
 toc: false

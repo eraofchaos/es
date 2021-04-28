@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Culpabilidad de Tarnum"
 permalink: /Emblem/Tarnum's Culpability/
 excerpt: "Era of Chaos Culpabilidad de Tarnum. Culpabilidad de Tarnum. Era of Chaos Emblema Sagrado Culpabilidad de Tarnum. Era of Chaos Neutral Culpabilidad de Tarnum"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Tarnum's Culpability.md"
 toc: false

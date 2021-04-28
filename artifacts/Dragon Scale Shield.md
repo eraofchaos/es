@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Escudo de Escamas de Dragón"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Escudo de Escamas de Dragón. Un escudo bendecido con la magia del Rey Dragón. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Dragon Scale Shield.md"
 toc: false

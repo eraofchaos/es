@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-3 Carne de Cañón"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Capítulo 22 - 3. Era of Chaos  Subterráneo - Capítulo 22_3. 22-3 Carne de Cañón"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 22_3.md"
 toc: false

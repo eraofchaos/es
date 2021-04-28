@@ -2,7 +2,7 @@
 title: "Cráneo Huésped"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Cráneo Huésped. Cráneo Huésped"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Host Cranium.md"
 toc: false

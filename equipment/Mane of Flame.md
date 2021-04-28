@@ -2,7 +2,7 @@
 title: "Melena de Llamas"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Melena de Llamas. Melena de Llamas"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Mane of Flame.md"
 toc: false

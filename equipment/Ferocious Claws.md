@@ -2,7 +2,7 @@
 title: "Garras Atroces"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Garras Atroces. Garras Atroces"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Ferocious Claws.md"
 toc: false

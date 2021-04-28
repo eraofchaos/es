@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-12 Lanzamiento de Bolas de fuego"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Capítulo 30 - 12. Era of Chaos  Historia principal - Capítulo 30_12. 30-12 Lanzamiento de Bolas de fuego"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 30_12.md"
 toc: false

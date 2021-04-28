@@ -2,7 +2,7 @@
 title: "Yelmo espartano"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Era of Chaos Yelmo espartano. Yelmo espartano"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Spartan Helmet.md"
 toc: false

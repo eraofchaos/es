@@ -2,7 +2,7 @@
 title: "Cuerno de Buey Mortífero"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Era of Chaos Cuerno de Buey Mortífero. Cuerno de Buey Mortífero"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Deadly Ox Horn.md"
 toc: false

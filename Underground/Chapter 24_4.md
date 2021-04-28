@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 24 - 24-4 Carnívoros"
 permalink: /Underground/Chapter 24_4/
 excerpt: "Capítulo 24 - 4. Era of Chaos  Subterráneo - Capítulo 24_4. 24-4 Carnívoros"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 24_4.md"
 toc: false

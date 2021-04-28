@@ -2,7 +2,7 @@
 title: "Artefacto - Arco del Tirador - Cordaje de Crin de Unicornio"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "Era of Chaos  Arco del Tirador - Cordaje de Crin de Unicornio. Una crin que una bestia sagrada regaló a los elfos. Uno de los componentes del Arco del Tirador."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Durante la guerra fronteriza de seis meses con Krewlod, Tazar lideró una pequeña fuerza en un destacamento de Tatalia y contuvo al ejército de Krewlod, cinco veces mayor que el suyo, durante ocho días hasta la llegada de los refuerzos."
 heroID: 61501
 QR: hero_61501
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Tazar"
 toc: true

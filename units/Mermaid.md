@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Sirena. Sirena Unidades. null. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Sirena"
 toc: true

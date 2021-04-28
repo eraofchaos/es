@@ -2,7 +2,7 @@
 title: "Daga de Puñalada en el Corazón"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Daga de Puñalada en el Corazón. Daga de Puñalada en el Corazón"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Heart Stab Dagger.md"
 toc: false

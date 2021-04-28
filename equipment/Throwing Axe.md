@@ -2,7 +2,7 @@
 title: "Hacha Arrojadiza"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Hacha Arrojadiza. Hacha Arrojadiza"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Throwing Axe.md"
 toc: false

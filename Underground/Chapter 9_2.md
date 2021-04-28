@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 9 - 9-2 Recrudecimiento"
 permalink: /Underground/Chapter 9_2/
 excerpt: "Capítulo 9 - 2. Era of Chaos  Subterráneo - Capítulo 9_2. 9-2 Recrudecimiento"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 9_2.md"
 toc: false

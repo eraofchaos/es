@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-13 Reproducción de Banshee"
 permalink: /Main Story/Chapter 26_13/
 excerpt: "Capítulo 26 - 13. Era of Chaos  Historia principal - Capítulo 26_13. 26-13 Reproducción de Banshee"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 26_13.md"
 toc: false

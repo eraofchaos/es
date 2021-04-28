@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-8 La Torre Mágica"
 permalink: /Main Story/Chapter 19_8/
 excerpt: "Capítulo 19 - 8. Era of Chaos  Historia principal - Capítulo 19_8. 19-8 La Torre Mágica"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 19_8.md"
 toc: false

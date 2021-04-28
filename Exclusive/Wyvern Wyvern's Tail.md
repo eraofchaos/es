@@ -2,7 +2,7 @@
 title: "Exclusivo - Cola de Guiverno (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Cola de Guiverno. Cola de Guiverno. Era of Chaos Exclusivo Cola de Guiverno. Guiverno Exclusivo."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Wyvern Cola de Guiverno.md"
 toc: false

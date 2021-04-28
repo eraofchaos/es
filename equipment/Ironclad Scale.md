@@ -2,7 +2,7 @@
 title: "Escama Blindada"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Era of Chaos Escama Blindada. Escama Blindada"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Ironclad Scale.md"
 toc: false

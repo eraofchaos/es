@@ -2,7 +2,7 @@
 title: "Avatar - Rabia Berserker"
 permalink: /Avatars/Berserker Rage/
 excerpt: "Era of Chaos  Rabia Berserker"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Berserker Rage.md"
 toc: false

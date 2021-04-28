@@ -2,7 +2,7 @@
 title: "Pluma de Archigrifo"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Pluma de Archigrifo. Pluma de Archigrifo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Archgriffin Feather.md"
 toc: false

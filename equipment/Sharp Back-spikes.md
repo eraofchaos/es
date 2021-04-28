@@ -2,7 +2,7 @@
 title: "Púas Traseras Afiladas"
 permalink: /equipment/Sharp Back-spikes/
 excerpt: "Era of Chaos Púas Traseras Afiladas. Púas Traseras Afiladas"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Sharp Back-spikes.md"
 toc: false

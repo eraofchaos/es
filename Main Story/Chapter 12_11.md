@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-11 Manteneos Unidos"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Capítulo 12 - 11. Era of Chaos  Historia principal - Capítulo 12_11. 12-11 Manteneos Unidos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 12_11.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar se centró durante buena parte de su vida en mejorar sus hechizos, convirtiéndose en un gran lanzahechizos antes de hacerse con el liderazgo en el campo de batalla. Es más fiable que la mayoría de los demonios."
 heroID: 60901
 QR: hero_60901
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Zydar"
 toc: true

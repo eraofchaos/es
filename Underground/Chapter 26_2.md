@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 - 26-2 Celos Ardientes"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Capítulo 26 - 2. Era of Chaos  Subterráneo - Capítulo 26_2. 26-2 Celos Ardientes"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 26_2.md"
 toc: false

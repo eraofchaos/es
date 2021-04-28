@@ -2,7 +2,7 @@
 title: "Avatar - Sombra del Dragón del Reino de Hielo"
 permalink: /Avatars/Shadow of Ice Kingdom Dragon/
 excerpt: "Era of Chaos  Sombra del Dragón del Reino de Hielo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Shadow of Ice Kingdom Dragon.md"
 toc: false

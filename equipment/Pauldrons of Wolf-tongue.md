@@ -2,7 +2,7 @@
 title: "Hombreras de Lengua de Lobo"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Hombreras de Lengua de Lobo. Hombreras de Lengua de Lobo"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pantalones de Marinero"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Pantalones de Marinero. Pantalones de Marinero"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Sailor's Pants.md"
 toc: false

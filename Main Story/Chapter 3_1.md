@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-1 Tumba del guerrero"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Capítulo 3 - 1. Era of Chaos  Historia principal - Capítulo 3_1. 3-1 Tumba del guerrero"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 3_1.md"
 toc: false

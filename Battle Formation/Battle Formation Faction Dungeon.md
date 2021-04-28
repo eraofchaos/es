@@ -2,7 +2,7 @@
 title: "Formación de batalla Mazmorra"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "Formación de batalla Mazmorra"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "BattleFormationFactionDungeon"
 toc: false

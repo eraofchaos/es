@@ -2,7 +2,7 @@
 title: "Cola de Llamas"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Cola de Llamas. Cola de Llamas"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Tail of Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-13 El Ejército del Reino"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Capítulo 9 - 13. Era of Chaos  Historia principal - Capítulo 9_13. 9-13 El Ejército del Reino"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 9_13.md"
 toc: false

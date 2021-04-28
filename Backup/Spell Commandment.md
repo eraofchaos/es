@@ -2,7 +2,7 @@
 title: "Backup - Círculo de orden de hechizos"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Círculo de orden de hechizos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Spell Commandment.md"
 toc: false

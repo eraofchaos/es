@@ -2,7 +2,7 @@
 title: "Información de combinación for Plaga"
 permalink: /combination/Plague/
 excerpt: "Información de combinación - Plaga. Units and Heroes Formation."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Plaga.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Arbalesta del Océano"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Era of Chaos Arbalesta del Océano. Arbalesta del Océano"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Ocean's Arbalest.md"
 toc: false

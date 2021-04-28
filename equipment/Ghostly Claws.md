@@ -2,7 +2,7 @@
 title: "Garras Fantasmales"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Garras Fantasmales. Garras Fantasmales"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Ghostly Claws.md"
 toc: false

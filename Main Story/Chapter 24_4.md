@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-4 El Sueño de una Visión"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "Capítulo 24 - 4. Era of Chaos  Historia principal - Capítulo 24_4. 24-4 El Sueño de una Visión"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: es
 ref: "Chapter 24_4.md"
 toc: false
