@@ -8,9 +8,6 @@ locale: es
 ref: "Vidente Regnan"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Vidente Regnan](/images/u/ti_haihou.jpg)
 
 ## General information

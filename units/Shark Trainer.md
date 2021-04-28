@@ -8,9 +8,6 @@ locale: es
 ref: "Domador de Tiburones"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
   ![Domador de Tiburones](/images/u/ti_xunshashi.jpg)
 
 ## General information
