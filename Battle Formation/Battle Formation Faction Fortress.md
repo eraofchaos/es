@@ -2,7 +2,7 @@
 title: "Formación de batalla Fortaleza"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Formación de batalla Fortaleza"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Aumenta la resistencia mágica un 10% para todas las unidades de Fortaleza** |
   | **8** | **El daño crítico de las unidades de Fortaleza aumenta un 12% cuando luchan contra unidades que sufren enfermedad** |
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Fortaleza** |
+  | **10** | **Aumenta el ATQ un 15% para todas las unidades de Fortaleza** |
+  | **11** | **Aumenta los PV un 17% para todas las unidades de Fortaleza** |
+  | **12** | **La absorción de vida de las unidades de Fortaleza aumenta un 6% cuando luchan contra unidades que sufren enfermedad** |
 
 ## Formación de batalla Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Fortress - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Gnoll](/es/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATQ + **1** % | 80 |   |
+  
+
+
+## Formación de batalla Circle 3:
+
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 2 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 3 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 4 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 5 | Fortress - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Gnoll](/es/units/Gnoll) |
+  | 6 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 7 | Fortress - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 8 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 9 | Fortress - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
+  | 10 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 11 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
+  | 12 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
+  | 13 | Fortress - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Libélula Menor](/es/units/Serpent Fly) |
+  | 14 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
+  | 15 | Fortress - Physical Trials | PV + **1.2** % | 90 |   |
+  | 16 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 17 | Fortress - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Gnoll](/es/units/Gnoll) |
+  | 18 | Fortress - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 19 | Fortress - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 20 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 21 | Fortress - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 22 | Fortress - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 23 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 24 | Fortress - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  
+
+
+## Formación de batalla Circle 4:
+
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Libélula Menor](/es/units/Serpent Fly) |
+  | 2 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 3 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 4 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 5 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 6 | Fortress - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 7 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 8 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 9 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 10 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 11 | Fortress - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 12 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 13 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 14 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
+  | 15 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
+  | 16 | Fortress - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 17 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
+  | 18 | Fortress - Physical Trials | PV + **1.4** % | 100 |   |
+  | 19 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 20 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 21 | Fortress - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Hombre Lagarto](/es/units/Lizardman) |
+  | 22 | Fortress - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 23 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 24 | Fortress - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 25 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 26 | Fortress - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Libélula Menor](/es/units/Serpent Fly) |
+  | 27 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 28 | Fortress - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 29 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 30 | Fortress - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   
 

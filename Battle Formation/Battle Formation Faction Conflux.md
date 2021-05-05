@@ -2,7 +2,7 @@
 title: "Formación de batalla Conflujo"
 permalink: /Battle Formation/Battle Formation Faction Conflux
 excerpt: "Formación de batalla Conflujo"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "BattleFormationFactionConflux"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Aumenta la resistencia mágica de todas las unidades de Conflujo un 10%** |
   | **8** | **El golpe crítico de las unidades de Conflujo aumenta en 80 cuando luchan contra unidades aturdidas** |
   | **9** | **Aumenta la velocidad de ataque un 4% para todas las unidades de Conflujo** |
+  | **10** | **Aumenta el ATQ un 15% para todas las unidades de Conflujo** |
+  | **11** | **Aumenta los PV un 17% para todas las unidades de Conflujo** |
+  | **12** | **Cuando las unidades de Conflujo luchan contra unidades que sufran quemadura y silencio, su reducción de daño de unidad aumentará un 4% por efecto** |
 
 ## Formación de batalla Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Conflux - Blaster | Golpe crítico + **5**  | 160 |  **10** x [Hada](/es/units/Sprite) |
   | 17 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.3** % | 80 |   |
   | 18 | Conflux - Storm Assaulter | ATQ + **1** % | 80 |   |
+  
+
+
+## Formación de batalla Circle 3:
+
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.4** % | 180 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 2 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 3 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 4 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 5 | Conflux - A Strike Hit | Precisión + **7**  | 180 |  **10** x [Hada](/es/units/Sprite) |
+  | 6 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 7 | Conflux - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 8 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 9 | Conflux - Ingeniousness | Evasión + **7**  | 180 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 10 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 11 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
+  | 12 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
+  | 13 | Conflux - Shield Practice | Reducción de daño de unidad + **0.4** % | 180 |  **10** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 14 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
+  | 15 | Conflux - Physical Trials | PV + **1.2** % | 90 |   |
+  | 16 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 17 | Conflux - Rocklike Skin | Tenacidad + **8**  | 180 |  **10** x [Hada](/es/units/Sprite) |
+  | 18 | Conflux - Physical Trials | ATQ + **0.4** %, PV + **0.8** % | 90 |   |
+  | 19 | Conflux - Storm Assaulter | ATQ + **0.6** %, PV + **0.6** % | 90 |   |
+  | 20 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 21 | Conflux - Blaster | Golpe crítico + **6**  | 180 |  **10** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 22 | Conflux - Storm Assaulter | ATQ + **0.8** %, PV + **0.4** % | 90 |   |
+  | 23 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  | 24 | Conflux - Storm Assaulter | ATQ + **1.2** % | 90 |   |
+  
+
+
+## Formación de batalla Circle 4:
+
+  |  Nr  |  Nombre   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Conflux - Damage Amplification | Daño de la unidad + **0.5** % | 190 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 2 | Conflux - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 3 | Conflux - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 4 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 5 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 6 | Conflux - A Strike Hit | Precisión + **8**  | 190 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 7 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 8 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 9 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 10 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 11 | Conflux - Ingeniousness | Evasión + **8**  | 190 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 12 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 13 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 14 | Conflux - Physical Trials | PV + **1.4** % | 100 |   |
+  | 15 | Conflux - Physical Trials | PV + **1.4** % | 100 |   |
+  | 16 | Conflux - Shield Practice | Reducción de daño de unidad + **0.5** % | 190 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 17 | Conflux - Physical Trials | PV + **1.4** % | 100 |   |
+  | 18 | Conflux - Physical Trials | PV + **1.4** % | 100 |   |
+  | 19 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 20 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 21 | Conflux - Rocklike Skin | Tenacidad + **10**  | 190 |  **20** x [Elemental de Hielo](/es/units/Ice Elemental) |
+  | 22 | Conflux - Physical Trials | ATQ + **0.5** %, PV + **0.9** % | 100 |   |
+  | 23 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 24 | Conflux - Storm Assaulter | ATQ + **0.7** %, PV + **0.7** % | 100 |   |
+  | 25 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 26 | Conflux - Blaster | Golpe crítico + **7**  | 190 |  **20** x [Elemental de Tormenta](/es/units/Storm Elemental) |
+  | 27 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 28 | Conflux - Storm Assaulter | ATQ + **0.9** %, PV + **0.5** % | 100 |   |
+  | 29 | Conflux - Storm Assaulter | ATQ + **1.4** % | 100 |   |
+  | 30 | Conflux - Storm Assaulter | ATQ + **1.4** % | 100 |   |
   
 
