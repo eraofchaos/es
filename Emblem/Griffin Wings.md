@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Alas de Grifo"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Alas de Grifo. Alas de Grifo. Era of Chaos Emblema Sagrado Alas de Grifo. Era of Chaos Orden Alas de Grifo"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Griffin Wings.md"
 toc: false

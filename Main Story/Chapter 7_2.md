@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-2 El Inicio de una Conspiración"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "Capítulo 7 - 2. Era of Chaos  Historia principal - Capítulo 7_2. 7-2 El Inicio de una Conspiración"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 7_2.md"
 toc: false

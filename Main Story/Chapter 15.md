@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 Frente unido"
 permalink: /Main Story/Chapter 15/
 excerpt: "Capítulo 15. Era of Chaos  Historia principal - Capítulo 15. Frente unido"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 15.md"
 toc: false

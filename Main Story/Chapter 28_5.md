@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-5 Misert"
 permalink: /Main Story/Chapter 28_5/
 excerpt: "Capítulo 28 - 5. Era of Chaos  Historia principal - Capítulo 28_5. 28-5 Misert"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 28_5.md"
 toc: false

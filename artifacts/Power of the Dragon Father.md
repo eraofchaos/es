@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones. Poder del Padre de los Dragones Una reliquia sagrada forjada por el poder del Rey Dragón a partir de objetos valiosos. Capaz de reducir el daño de hechizo."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Power of the Dragon Father.md"
 toc: false

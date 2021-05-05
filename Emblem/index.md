@@ -2,7 +2,7 @@
 title: "Emblema Sagrado"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Equipar Emblemas Sagrados aumenta mucho el Poder de las unidades. Los Emblemas Sagrados tienen varias combinaciones de facción y calidad. Los conjuntos de Emblemas Sagrados conceden atributos adicionales geniales."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "index.md"
 toc: false

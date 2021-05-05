@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 - 10-5 El Renacer del Rey"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Capítulo 10 - 5. Era of Chaos  Subterráneo - Capítulo 10_5. 10-5 El Renacer del Rey"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 10_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Espada del Juicio"
 permalink: /equipment/Judgment Sword/
 excerpt: "Era of Chaos Espada del Juicio. Espada del Juicio"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Judgment Sword.md"
 toc: false

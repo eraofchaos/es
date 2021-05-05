@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-1 La Tienda Azul"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Capítulo 4 - 1. Era of Chaos  Historia principal - Capítulo 4_1. 4-1 La Tienda Azul"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 4_1.md"
 toc: false

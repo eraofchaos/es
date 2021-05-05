@@ -2,7 +2,7 @@
 title: "Hombreras de Navegación"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Hombreras de Navegación. Hombreras de Navegación"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Seafaring Pauldrons.md"
 toc: false

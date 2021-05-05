@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-2 Mendigando a los Vecinos"
 permalink: /Underground/Chapter 7_2/
 excerpt: "Capítulo 7 - 2. Era of Chaos  Subterráneo - Capítulo 7_2. 7-2 Mendigando a los Vecinos"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 7_2.md"
 toc: false

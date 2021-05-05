@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 - 4-4 Devastación Total"
 permalink: /Underground/Chapter 4_4/
 excerpt: "Capítulo 4 - 4. Era of Chaos  Subterráneo - Capítulo 4_4. 4-4 Devastación Total"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 4_4.md"
 toc: false

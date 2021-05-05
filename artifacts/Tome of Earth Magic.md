@@ -2,7 +2,7 @@
 title: "Artefacto - Sombrero del Encantador - Tomo de magia de tierra"
 permalink: /artifacts/Tome of Earth Magic/
 excerpt: "Era of Chaos  Sombrero del Encantador - Tomo de magia de tierra. Este libro de hechizos incluye enseñanzas de magia de tierra avanzada. Cuenta la leyenda que Jeddite lo usó para derrotar a Mutare, convertida en dragón. Uno de los componentes del Sombrero del Encantador."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Tome of Earth Magic.md"
 toc: false

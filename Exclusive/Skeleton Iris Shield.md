@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Skeleton)"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Esqueleto Exclusivo."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Skeleton Escudo Iris.md"
 toc: false

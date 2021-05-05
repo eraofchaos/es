@@ -2,7 +2,7 @@
 title: "Exclusivo - Hueso de Dragón Inmortal (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Hueso de Dragón Inmortal. Hueso de Dragón Inmortal. Era of Chaos Exclusivo Hueso de Dragón Inmortal. Dragón de Hueso Exclusivo."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Bone Dragon Hueso de Dragón Inmortal.md"
 toc: false

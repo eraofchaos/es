@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-13 El Propósito de la Sangre de Dragón"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Capítulo 27 - 13. Era of Chaos  Historia principal - Capítulo 27_13. 27-13 El Propósito de la Sangre de Dragón"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 27_13.md"
 toc: false

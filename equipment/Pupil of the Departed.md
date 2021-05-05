@@ -2,7 +2,7 @@
 title: "Pupilo de los Difuntos"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupilo de los Difuntos. Pupilo de los Difuntos"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Pupil of the Departed.md"
 toc: false

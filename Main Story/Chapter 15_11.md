@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-11 Demonio Invocado"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Capítulo 15 - 11. Era of Chaos  Historia principal - Capítulo 15_11. 15-11 Demonio Invocado"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 15_11.md"
 toc: false

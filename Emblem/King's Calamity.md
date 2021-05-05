@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Calamidad del Rey"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Calamidad del Rey. Calamidad del Rey. Era of Chaos Emblema Sagrado Calamidad del Rey. Era of Chaos Maligno Calamidad del Rey"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "King's Calamity.md"
 toc: false

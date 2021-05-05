@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Lujuria"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Lujuria. Lujuria. Era of Chaos Emblema Sagrado Lujuria. Era of Chaos Caos Lujuria"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Lust.md"
 toc: false

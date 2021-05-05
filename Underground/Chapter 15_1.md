@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-1 La Escultura del Demonio"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Capítulo 15 - 1. Era of Chaos  Subterráneo - Capítulo 15_1. 15-1 La Escultura del Demonio"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 15_1.md"
 toc: false

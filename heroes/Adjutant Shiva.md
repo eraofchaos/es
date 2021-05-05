@@ -2,7 +2,7 @@
 title: "Ayudante Shiva"
 permalink: /heroes/Adjutant Shiva/
 excerpt: "Era of Chaos  Ayudante Shiva"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Adjutant Shiva.md"
 QR: adhero_60603

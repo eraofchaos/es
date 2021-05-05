@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-5 Las Secuelas"
 permalink: /Main Story/Chapter 13_5/
 excerpt: "Capítulo 13 - 5. Era of Chaos  Historia principal - Capítulo 13_5. 13-5 Las Secuelas"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: es
 ref: "Chapter 13_5.md"
 toc: false
