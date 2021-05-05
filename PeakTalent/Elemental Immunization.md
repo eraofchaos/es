@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Cicatriz de veterano](/es/PeakTalent/Veteran Scar/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Cicatriz de veterano](/images/pt/talent_1003.png) [Cicatriz de veterano](/es/PeakTalent/Veteran Scar/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Resistencia mágica: +2 | - | Inteligencia del Héroe básica: +2 | - |
   | 2 | Resistencia mágica: +4 | - | Inteligencia del Héroe básica: +4 | - |
   | 3 | Resistencia mágica: +6 | - | Inteligencia del Héroe básica: +6 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 150000 | 3 |

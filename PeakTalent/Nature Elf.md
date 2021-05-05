@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Cortesía](/es/PeakTalent/Chivalry/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Cortesía](/images/pt/talent_3006.png) [Cortesía](/es/PeakTalent/Chivalry/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Resistencia mágica: +2 | Reflejo de daño: +1 | Ataque del Héroe básico: +1 | Inteligencia del Héroe básica: +1 |
   | 2 | Resistencia mágica: +4 | Reflejo de daño: +2 | Ataque del Héroe básico: +2 | Inteligencia del Héroe básica: +2 |
   | 3 | Resistencia mágica: +6 | Reflejo de daño: +3 | Ataque del Héroe básico: +4 | Inteligencia del Héroe básica: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punto de Poder Máximo](/ItemsES/con_934/) | 200000 | 4 |

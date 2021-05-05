@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Inmunidad elemental](/es/PeakTalent/Elemental Immunization/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Inmunidad elemental](/images/pt/talent_1004.png) [Inmunidad elemental](/es/PeakTalent/Elemental Immunization/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PV (1/4/9): +1000/300/150 | Reducción de daño de unidad: +0.5% | Defensa del Héroe básica: +1 | Sabiduría del Héroe básica: +1 |
   | 2 | PV (1/4/9): +2000/600/300 | Reducción de daño de unidad: +1% | Defensa del Héroe básica: +2 | Sabiduría del Héroe básica: +2 |
   | 3 | PV (1/4/9): +3000/900/450 | Reducción de daño de unidad: +1.5% | Defensa del Héroe básica: +3 | Sabiduría del Héroe básica: +3 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 150000 | 3 |

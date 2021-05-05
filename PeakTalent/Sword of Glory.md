@@ -27,7 +27,7 @@ sidebar:
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATQ: +10% | Velocidad de ataque: +1 | Sabiduría del Héroe básica: +2 | - |
   | 2 | ATQ: +20% | Velocidad de ataque: +2 | Sabiduría del Héroe básica: +4 | - |
   | 3 | ATQ: +30% | Velocidad de ataque: +3 | Sabiduría del Héroe básica: +8 | - |
@@ -43,7 +43,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punto de Poder Máximo](/ItemsES/con_934/) | 200000 | 4 |

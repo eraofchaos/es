@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Corazón resistente](/es/PeakTalent/Heart of Endurance/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Corazón resistente](/images/pt/talent_1002.png) [Corazón resistente](/es/PeakTalent/Heart of Endurance/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATQ (1/4/9): +200/60/30 | ATQ: +3.5% | Ataque del Héroe básico: +1 | Defensa del Héroe básica: +1 |
   | 2 | ATQ (1/4/9): +400/120/60 | ATQ: +7% | Ataque del Héroe básico: +2 | Defensa del Héroe básica: +2 |
   | 3 | ATQ (1/4/9): +600/180/90 | ATQ: +10.5% | Ataque del Héroe básico: +3 | Defensa del Héroe básica: +3 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 150000 | 3 |

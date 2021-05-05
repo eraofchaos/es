@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Lobo solitario](/es/PeakTalent/Lone Wolf/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Lobo solitario](/images/pt/talent_2001.png) [Lobo solitario](/es/PeakTalent/Lone Wolf/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATQ (1/4/9): +200/60/30 | Precisión: +20 | Ataque del Héroe básico: +1 | Inteligencia del Héroe básica: +1 |
   | 2 | ATQ (1/4/9): +400/120/60 | Precisión: +40 | Ataque del Héroe básico: +2 | Inteligencia del Héroe básica: +2 |
   | 3 | ATQ (1/4/9): +600/180/90 | Precisión: +60 | Ataque del Héroe básico: +4 | Inteligencia del Héroe básica: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punto de Poder Máximo](/ItemsES/con_934/) | 200000 | 4 |

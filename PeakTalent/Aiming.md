@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at [Cazador antiguo](/es/PeakTalent/Old Hunter/)
+  **UNLOCK: 7x** [Punto de Poder Máximo](/ItemsES/con_934/) at ![Cazador antiguo](/images/pt/talent_2010.png) [Cazador antiguo](/es/PeakTalent/Old Hunter/)
 
   [Poder Máximo EXP](/es/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATQ (1/4/9): +200/60/30 | Alcance: +15 | Inteligencia del Héroe básica: +2 | - |
   | 2 | ATQ (1/4/9): +400/120/60 | Alcance: +30 | Inteligencia del Héroe básica: +4 | - |
   | 3 | ATQ (1/4/9): +600/180/90 | Alcance: +45 | Inteligencia del Héroe básica: +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punto de Poder Máximo](/ItemsES/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punto de Poder Máximo](/ItemsES/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punto de Poder Máximo](/ItemsES/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punto de Poder Máximo](/ItemsES/con_934/) | 200000 | 4 |
