@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-7 Minas de azufre"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Capítulo 30 - 7. Era of Chaos  Historia principal - Capítulo 30_7. 30-7 Minas de azufre"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 30_7.md"
 toc: false

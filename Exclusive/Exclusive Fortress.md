@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Exclusivo Fortress. Exclusivo Fortress. List of Exclusivo Fortress in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Exclusive Fortress"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/es/units/Gnoll/) | [Espada](/es/Exclusive/Gnoll Sword/) | - | Carga | [Ficha de espada](/ItemsES/con_912/) | - |
-  | 2  | [Hombre Lagarto](/es/units/Lizardman/) | [Arco largo](/es/Exclusive/Lizardman Long Bow/) | - | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
+  | 2  | [Hombre Lagarto](/es/units/Lizardman/) | [Arco largo](/es/Exclusive/Lizardman Long Bow/) | + | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
   | 3  | [Libélula Menor](/es/units/Serpent Fly/) | [Canto Arcano](/es/Exclusive/Serpent Fly Arcane Chant/) | + | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
   | 4  | [Basilisco](/es/units/Basilisk/) | [Cola de Basilisco](/es/Exclusive/Basilisk Basilisk's Tail/) | - | A distancia | [Ficha de Cola de Basilisco](/ItemsES/con_994/) | [Aspecto Especial de Energía de fuego](/ItemsES/con_662/) |
   | 5  | [Gorgona](/es/units/Gorgon/) | [Cuerno de Gorgona](/es/Exclusive/Gorgon Gorgon's Horn/) | - | Asistencia técnica | [Ficha de Cuerno de Gorgona](/ItemsES/con_995/) | [Aspecto Especial de Cuerno de Gorgona](/ItemsES/con_663/) |

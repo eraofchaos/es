@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Unit Rank SR"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 24 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 25 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 26 | ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg) | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 27 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 27 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 28 | ![Catafracto](/images/u/ti_qishi.jpg) | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Caballeros Campeones  |
   | 29 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |
   | 30 | ![Libélula Menor](/images/u/ti_longying.jpg) | [Libélula Menor](/es/units/Serpent Fly/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Libélula  |

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-7 El Bosque Sagrado"
 permalink: /Main Story/Chapter 29_7/
 excerpt: "Capítulo 29 - 7. Era of Chaos  Historia principal - Capítulo 29_7. 29-7 El Bosque Sagrado"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 29_7.md"
 toc: false

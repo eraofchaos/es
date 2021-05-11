@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-3 Ejército de la Alianza"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Capítulo 5 - 3. Era of Chaos  Historia principal - Capítulo 5_3. 5-3 Ejército de la Alianza"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 5_3.md"
 toc: false

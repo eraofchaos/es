@@ -2,7 +2,7 @@
 title: "Cazador antiguo. Poder Máximo - Cazador antiguo"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Era of Chaos Poder Máximo Cazador antiguo. Poder Máximo Cazador antiguo. Cazador antiguo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Old Hunter.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Golpe Preciso. Poder Máximo - Golpe Preciso"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "Era of Chaos Poder Máximo Golpe Preciso. Poder Máximo Golpe Preciso. Golpe Preciso"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Precise Strike.md"
 toc: false

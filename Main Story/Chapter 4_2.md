@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-2 Casa Abandonada"
 permalink: /Main Story/Chapter 4_2/
 excerpt: "Capítulo 4 - 2. Era of Chaos  Historia principal - Capítulo 4_2. 4-2 Casa Abandonada"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 4_2.md"
 toc: false

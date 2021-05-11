@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-1 Tierra de los No Muertos"
 permalink: /Main Story/Chapter 10_1/
 excerpt: "Capítulo 10 - 1. Era of Chaos  Historia principal - Capítulo 10_1. 10-1 Tierra de los No Muertos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 10_1.md"
 toc: false

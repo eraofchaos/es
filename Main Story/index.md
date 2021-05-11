@@ -2,7 +2,7 @@
 title: "Historia principal"
 permalink: /Main Story/
 excerpt: "Historia principal. Era of Chaos  Historia principal."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 - 3-1 Una Senda Traicionera"
 permalink: /Underground/Chapter 3_1/
 excerpt: "Capítulo 3 - 1. Era of Chaos  Subterráneo - Capítulo 3_1. 3-1 Una Senda Traicionera"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 3_1.md"
 toc: false

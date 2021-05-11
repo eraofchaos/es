@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-14 La Aparición del Demonio"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Capítulo 15 - 14. Era of Chaos  Historia principal - Capítulo 15_14. 15-14 La Aparición del Demonio"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 15_14.md"
 toc: false

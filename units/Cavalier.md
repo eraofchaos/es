@@ -3,7 +3,7 @@ title: "Catafracto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Catafracto. Catafracto Unidades. Caballeros Campeones. Era of Chaos Los Catafractos entran a la carga en batalla sobre sus nobles corceles, protegidos por recias armaduras. Son casi invencibles, y muchas victorias han sido fruto de su esfuerzo."
 unitID: 106
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Catafracto"
 toc: true

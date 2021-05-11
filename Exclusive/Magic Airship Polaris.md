@@ -2,7 +2,7 @@
 title: "Exclusivo - Polaris (Magic Airship)"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Polaris. Polaris. Era of Chaos Exclusivo Polaris. Aeronave Mágica Exclusivo."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Magic Airship Polaris.md"
 toc: false

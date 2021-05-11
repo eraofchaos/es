@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-7 Expulsando al Enemigo"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Capítulo 12 - 7. Era of Chaos  Historia principal - Capítulo 12_7. 12-7 Expulsando al Enemigo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 12_7.md"
 toc: false

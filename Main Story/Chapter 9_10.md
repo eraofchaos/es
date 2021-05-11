@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-10 Resistencia a la Fatiga"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Capítulo 9 - 10. Era of Chaos  Historia principal - Capítulo 9_10. 9-10 Resistencia a la Fatiga"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 9_10.md"
 toc: false

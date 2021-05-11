@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 - 4-1 Peligro Oculto"
 permalink: /Underground/Chapter 4_1/
 excerpt: "Capítulo 4 - 1. Era of Chaos  Subterráneo - Capítulo 4_1. 4-1 Peligro Oculto"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 4_1.md"
 toc: false

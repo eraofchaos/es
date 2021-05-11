@@ -2,7 +2,7 @@
 title: "Avatar - Alma de Dragón"
 permalink: /Avatars/Dragon Soul/
 excerpt: "Era of Chaos  Alma de Dragón"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Dragon Soul.md"
 toc: false

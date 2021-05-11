@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 - 28-3  Anhelo del cielo"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Capítulo 28 - 3. Era of Chaos  Subterráneo - Capítulo 28_3. 28-3  Anhelo del cielo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 28_3.md"
 toc: false

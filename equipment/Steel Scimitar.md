@@ -2,7 +2,7 @@
 title: "Cimitarra de acero"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Era of Chaos Cimitarra de acero. Cimitarra de acero"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Steel Scimitar.md"
 toc: false

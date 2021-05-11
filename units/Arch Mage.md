@@ -3,7 +3,7 @@ title: "Archimaga"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Archimaga. Archimaga Unidades. Archimaga. Era of Chaos El título de Mago solo se concede a los más poderosos de los lanzahechizos. Su presencia en batalla otorga una gran ventaja mágica a aquellos que estén de su lado."
 unitID: 604
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Archimaga"
 toc: true

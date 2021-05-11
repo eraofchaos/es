@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-2 La Cabaña de la Bruja"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "Capítulo 2 - 2. Era of Chaos  Historia principal - Capítulo 2_2. 2-2 La Cabaña de la Bruja"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 2_2.md"
 toc: false

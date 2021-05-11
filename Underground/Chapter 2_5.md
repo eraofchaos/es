@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-5 Se Buscan Aliados"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Capítulo 2 - 5. Era of Chaos  Subterráneo - Capítulo 2_5. 2-5 Se Buscan Aliados"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 2_5.md"
 toc: false

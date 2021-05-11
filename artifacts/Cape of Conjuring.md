@@ -2,7 +2,7 @@
 title: "Artefacto - Anillo de la Maga - Manto de Hechicería"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Era of Chaos  Anillo de la Maga - Manto de Hechicería. Un manto con un poder mágico centelleante. Uno de los componentes del Anillo de la Maga."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Cape of Conjuring.md"
 toc: false

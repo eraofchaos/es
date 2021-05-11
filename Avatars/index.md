@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "index.md"
 toc: false
@@ -96,7 +96,7 @@ classes: wide
   | 83 | ![Soberano del Cielo](/images/a/avatarFrame_41.png) | [Soberano del Cielo](/es/Avatars/Ruler of Sky/) | + | Marco de avatar de Soberano del Cielo |
   | 84 | ![Soberano del Infierno](/images/a/avatarFrame_58.png) | [Soberano del Infierno](/es/Avatars/Inferno Ruler/) | + | Marco de avatar del Soberano del Infierno |
   | 85 | ![Soberano del Vacío](/images/a/avatarFrame_42.png) | [Soberano del Vacío](/es/Avatars/Ruler of Void/) | + | Marco de avatar de Soberano del Vacío |
-  | 86 | ![Sombra de la bestia](/images/a/avatarFrame_79.png) | [Sombra de la bestia](/es/Avatars/Shadow of Beast/) | - | Marco de avatar de Sombra de la bestia |
+  | 86 | ![Sombra de la bestia](/images/a/avatarFrame_79.png) | [Sombra de la bestia](/es/Avatars/Shadow of Beast/) | + | Marco de avatar de Sombra de la bestia |
   | 87 | ![Sombra de los fantasmas](/images/a/avatarFrame_78.png) | [Sombra de los fantasmas](/es/Avatars/Shadow of Ghosts/) | - | Marco de avatar de Sombra de los fantasmas |
   | 88 |  | [Sombra del Dragón del Reino de Hielo](/es/Avatars/Shadow of Ice Kingdom Dragon/) | - | Marco de avatar Sombra del Dragón del Reino de Hielo |
   | 89 | ![Suertudo](/images/a/avatarFrame_55.png) | [Suertudo](/es/Avatars/Lucky Dog/) | - |  |

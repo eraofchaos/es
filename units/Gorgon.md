@@ -3,7 +3,7 @@ title: "Gorgona"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgona. Gorgona Unidades. Gran Gorgona. Era of Chaos Criaturas repulsivas con ojos letales. Nadie sale de la ciénaga si te han elegido como objetivo."
 unitID: 805
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Gorgona"
 toc: true
@@ -194,7 +194,7 @@ toc: true
   ![Gran Gorgona](/images/u/tia_manniu.jpg)
 
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Gran Gorgona
 
@@ -224,10 +224,10 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Uncivilized Curse&gt;</span><span style="color: #645252;font-size:18px">Disminuye la velocidad de ataque de las unidades hostiles un 20%. Al morir, petrifica a las unidades cercanas a cierta distancia durante 8 s y disminuye permanentemente un 3% la velocidad de ataque de las unidades hostiles que no sean de Fortaleza. El efecto se puede acumular hasta 4 veces</span>
 
 ### 5th Skill (or 6th): Rey de la Ciénaga
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">Al recibir daño único, la Gorgona será inmune a todo el daño que supere el 20% de sus PV máximos. Disminuye la velocidad de ataque de las unidades hostiles que no sean de Fortaleza un 10% y la curación un 30% cuando la Gorgona esté en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Adalid de la ciénaga&gt;</span><span style="color: #645252;font-size:18px"> La Gorgona aumenta su DEF un 10% y reduce la velocidad de ataque de las unidades enemigas que no sean de Fortaleza un 20% y la curación recibida un 30% cuando está en el campo de batalla.</span>
 
 ### 6th Skill (or 5th): Señor de la Ciénaga
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Marsh Overlord&gt;</span><span style="color: #645252;font-size:18px">Al recibir daño único, la Gorgona será inmune a todo el daño que supere el 20% de sus PV máximos. Aumenta la velocidad de ataque de todas las unidades amistosas un 20% cuando Gorgona esté en el campo de batalla</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Adalid de la ciénaga&gt;</span><span style="color: #645252;font-size:18px"> La Gorgona aumenta su DEF un 10% y aumenta la velocidad de ataque de las unidades amistosas un 35% cuando está en el campo de batalla.</span>
 
 ## Technical info
  **runart:** 1

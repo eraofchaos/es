@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-10 Refugio"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "Capítulo 12 - 10. Era of Chaos  Historia principal - Capítulo 12_10. 12-10 Refugio"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 12_10.md"
 toc: false

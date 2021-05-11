@@ -2,7 +2,7 @@
 title: "Cola de Dragón de Plaga"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Cola de Dragón de Plaga. Cola de Dragón de Plaga"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Plague Dragon Tail.md"
 toc: false

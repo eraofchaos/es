@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-14 Huellas de los No Muertos"
 permalink: /Main Story/Chapter 12_14/
 excerpt: "Capítulo 12 - 14. Era of Chaos  Historia principal - Capítulo 12_14. 12-14 Huellas de los No Muertos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 12_14.md"
 toc: false

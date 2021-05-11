@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-13 Taller"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Capítulo 28 - 13. Era of Chaos  Historia principal - Capítulo 28_13. 28-13 Taller"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 28_13.md"
 toc: false

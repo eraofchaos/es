@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Lizardman)"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Hombre Lagarto Exclusivo."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Lizardman Arco largo.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

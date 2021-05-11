@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 - 5-2 El Ejército se Acerca"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Capítulo 5 - 2. Era of Chaos  Subterráneo - Capítulo 5_2. 5-2 El Ejército se Acerca"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 5_2.md"
 toc: false

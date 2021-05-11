@@ -3,7 +3,7 @@ title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Demonio de Hielo. Demonio de Hielo Unidades. null. Era of Chaos Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Demonio de Hielo"
 toc: true

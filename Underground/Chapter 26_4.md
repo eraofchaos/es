@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 - 26-4 La Reina de Hojas"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Capítulo 26 - 4. Era of Chaos  Subterráneo - Capítulo 26_4. 26-4 La Reina de Hojas"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 26_4.md"
 toc: false

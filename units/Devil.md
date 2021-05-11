@@ -3,7 +3,7 @@ title: "Diablo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Diablo. Diablo Unidades. Archidiablo. Era of Chaos El Diablo es el líder del Infierno. Puede luchar a cualquier ritmo, e incluso teletransportarse y atacar al enemigo por la retaguardia."
 unitID: 507
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Diablo"
 toc: true

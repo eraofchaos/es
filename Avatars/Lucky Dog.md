@@ -2,7 +2,7 @@
 title: "Avatar - Suertudo"
 permalink: /Avatars/Lucky Dog/
 excerpt: "Era of Chaos  Suertudo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Lucky Dog.md"
 toc: false

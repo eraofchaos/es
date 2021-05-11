@@ -2,7 +2,7 @@
 title: "Espada Maldita"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Espada Maldita. Espada Maldita"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Cursed Sword.md"
 toc: false

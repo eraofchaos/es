@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-2 El poder del bosque"
 permalink: /Main Story/Chapter 28_2/
 excerpt: "Capítulo 28 - 2. Era of Chaos  Historia principal - Capítulo 28_2. 28-2 El poder del bosque"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 28_2.md"
 toc: false

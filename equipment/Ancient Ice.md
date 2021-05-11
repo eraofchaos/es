@@ -2,7 +2,7 @@
 title: "Hielo antiguo"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Hielo antiguo. Hielo antiguo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Ancient Ice.md"
 toc: false

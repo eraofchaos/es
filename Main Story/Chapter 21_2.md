@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-2 Gloria Efímera"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Capítulo 21 - 2. Era of Chaos  Historia principal - Capítulo 21_2. 21-2 Gloria Efímera"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 21_2.md"
 toc: false

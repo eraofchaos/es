@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 De vuelta al hogar"
 permalink: /Underground/Chapter 1/
 excerpt: "Capítulo 1 De vuelta al hogar. Era of Chaos  Subterráneo - Capítulo 1. De vuelta al hogar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 1.md"
 toc: false

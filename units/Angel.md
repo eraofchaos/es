@@ -3,7 +3,7 @@ title: "Ángel"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Ángel. Ángel Unidades. Arcángel. Era of Chaos Los Arcángeles son un símbolo de fuerza y luz. Son amados en todo el reino. En batalla son feroces. Son capaces de abatir al enemigo y de devolver la vida a sus aliados."
 unitID: 107
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Ángel"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">La unidad de Ángel inflige </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> de daño a 3 unidades hostiles al azar, y las </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;aturde&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> durante 3 s.</span><span style="color: black">
 
 ### Habilidad normal 1 : Resurrección
- **Descripción:** <span style="color: #645252;font-size:20px">El Ángel revive a 1 de tus unidades y restablece un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV de esa unidad.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">El Ángel revive a 1 de tus unidades amistosas y restablece un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV de esa unidad. Esta habilidad no se puede silenciar.</span><span style="color: black">
 
 ### Habilidad normal 2 : Resplandor
  **Descripción:** <span style="color: #645252;font-size:20px">Si el Ángel está en el campo de batalla, todas las unidades aliadas reciben regeneración de PV adicional cada 2 s igual a un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de sus PV máximos.</span><span style="color: black">

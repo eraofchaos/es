@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-4 Noticias"
 permalink: /Main Story/Chapter 18_4/
 excerpt: "Capítulo 18 - 4. Era of Chaos  Historia principal - Capítulo 18_4. 18-4 Noticias"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 18_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-7 La Chica Mágica"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Capítulo 20 - 7. Era of Chaos  Historia principal - Capítulo 20_7. 20-7 La Chica Mágica"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 20_7.md"
 toc: false

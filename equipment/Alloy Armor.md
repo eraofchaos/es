@@ -2,7 +2,7 @@
 title: "Armadura de aleación"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Armadura de aleación. Armadura de aleación"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Alloy Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Unit Rank SSR"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Dragón Negro](/images/u/ti_heilong.jpg) | [Dragón Negro](/es/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Rey Dragón Negro  |
   | 14 | ![Dragón Rojo](/images/u/ti_chilong.jpg) | [Dragón Rojo](/es/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 15 | ![Dragón Verde](/images/u/ti_lvlong.jpg) | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Dragón Dorado  |
-  | 16 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
+  | 16 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
   | 17 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 18 | ![Caballero Negro](/images/u/ti_siwangqishi.jpg) | [Caballero Negro](/es/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Caballero del Terror  |
   | 19 | ![Hidra](/images/u/ti_duotoulong.jpg) | [Hidra](/es/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Hidra del Caos  |

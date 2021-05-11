@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 - 10-2 La Búsqueda de la Tumba"
 permalink: /Underground/Chapter 10_2/
 excerpt: "Capítulo 10 - 2. Era of Chaos  Subterráneo - Capítulo 10_2. 10-2 La Búsqueda de la Tumba"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 10_2.md"
 toc: false

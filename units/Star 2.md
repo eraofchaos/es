@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Star 2"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 13 | ![Espadachín](/images/u/ti_shizijun.jpg) | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
   | 14 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 15 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
-  | 16 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 16 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 17 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |
   | 18 | ![Libélula Menor](/images/u/ti_longying.jpg) | [Libélula Menor](/es/units/Serpent Fly/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Libélula  |
   | 19 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/es/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Plateada  |

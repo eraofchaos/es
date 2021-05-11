@@ -2,7 +2,7 @@
 title: "Avatar - Toque del Dios Maligno"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "Era of Chaos  Toque del Dios Maligno"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Evil God's Touch.md"
 toc: false

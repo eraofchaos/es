@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "index.md"
 toc: false
@@ -65,7 +65,7 @@ classes: wide
   | 43 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrero Gnoll  |
   | 44 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/es/units/Goblin/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 45 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/es/units/Gog/) | Lanzador | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
-  | 46 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
+  | 46 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
   | 47 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/es/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 48 | ![Grifo](/images/u/ti_shijiu.jpg) | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 49 | ![Guardia Dendroide](/images/u/ti_shuyao.jpg) | [Guardia Dendroide](/es/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldado Dendroide  |
@@ -78,7 +78,7 @@ classes: wide
   | 56 | ![Hechicera Maligna](/images/u/ti_xiemonv.jpg) | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 57 | ![Hidra](/images/u/ti_duotoulong.jpg) | [Hidra](/es/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Hidra del Caos  |
   | 58 | ![Hierbavispa](/images/u/ti_dufengcao.jpg) | [Hierbavispa](/es/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
-  | 59 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 59 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 60 | ![Jinete Lupino](/images/u/ti_langqibing.jpg) | [Jinete Lupino](/es/units/Wolf Rider/) | Carga | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Incursor Lupino  |
   | 61 | ![Libélula Menor](/images/u/ti_longying.jpg) | [Libélula Menor](/es/units/Serpent Fly/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Libélula  |
   | 62 | ![Liche](/images/u/ti_wuyao.jpg) | [Liche](/es/units/Lich/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Archiliche  |

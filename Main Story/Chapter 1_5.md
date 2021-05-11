@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-5 Cuando el Desastre Azota"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Capítulo 1 - 5. Era of Chaos  Historia principal - Capítulo 1_5. 1-5 Cuando el Desastre Azota"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 1_5.md"
 toc: false

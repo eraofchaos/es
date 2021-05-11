@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-12 Avance Triunfal"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Capítulo 9 - 12. Era of Chaos  Historia principal - Capítulo 9_12. 9-12 Avance Triunfal"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 9_12.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Hombre Lagarto"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Hombre Lagarto. Hombre Lagarto Unidades. null. Era of Chaos Los cazadores letales acechan en la oscuridad. Sus flechas emponzoñadas son capaces de abatir a cualquier presa."
 unitID: 802
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Hombre Lagarto"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Nombre:** [Arco largo](/es/Exclusive/Lizardman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 

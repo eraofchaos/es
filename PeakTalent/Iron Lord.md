@@ -2,7 +2,7 @@
 title: "Señor de hierro. Poder Máximo - Señor de hierro"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Poder Máximo Señor de hierro. Poder Máximo Señor de hierro. Señor de hierro"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Iron Lord.md"
 toc: false

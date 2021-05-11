@@ -2,7 +2,7 @@
 title: "Logro militar. Poder Máximo - Logro militar"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Era of Chaos Poder Máximo Logro militar. Poder Máximo Logro militar. Logro militar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Military Attainment.md"
 toc: false

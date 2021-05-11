@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-14 Fortaleza de los Amaestradores"
 permalink: /Main Story/Chapter 14_14/
 excerpt: "Capítulo 14 - 14. Era of Chaos  Historia principal - Capítulo 14_14. 14-14 Fortaleza de los Amaestradores"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 14_14.md"
 toc: false

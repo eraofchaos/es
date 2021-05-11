@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-10 Romper el Silencio"
 permalink: /Main Story/Chapter 5_10/
 excerpt: "Capítulo 5 - 10. Era of Chaos  Historia principal - Capítulo 5_10. 5-10 Romper el Silencio"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 5_10.md"
 toc: false

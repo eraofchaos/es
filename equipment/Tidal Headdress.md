@@ -2,7 +2,7 @@
 title: "Tocado de las Mareas"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Tocado de las Mareas. Tocado de las Mareas"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Tidal Headdress.md"
 toc: false

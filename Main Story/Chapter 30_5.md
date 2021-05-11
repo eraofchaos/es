@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-5 Descanso y Chimenea"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Capítulo 30 - 5. Era of Chaos  Historia principal - Capítulo 30_5. 30-5 Descanso y Chimenea"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: es
 ref: "Chapter 30_5.md"
 toc: false
