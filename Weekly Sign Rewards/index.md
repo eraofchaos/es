@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 22  Semana del Castillo
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **31 May** | **5x [Piquero](/ItemsES/unt_190/)**  | ¡Un escuadrón de Piqueros se une a tu ejército y te vuelves más fuerte! |
+  | **1 Jun** | **5x [Ballestero](/ItemsES/unt_191/)**  | ¡Un escuadrón de Ballesteros se une a tu ejército y te vuelves más fuerte! |
+  | **2 Jun** | **3x [Espadachín](/ItemsES/unt_193/)**  | ¡Un escuadrón de Espadachines se une a tu ejército y te vuelves más fuerte! |
+  | **3 Jun** | **3x [Grifo](/ItemsES/unt_192/)**  | ¡Un escuadrón de Grifos se une a tu ejército y te vuelves más fuerte! |
+  | **4 Jun** | **3x [Monje](/ItemsES/unt_194/)**  | ¡Un escuadrón de Monjes se une a tu ejército y te vuelves más fuerte! |
+  | **5 Jun** | **3x [Catafracto](/ItemsES/unt_195/)**  | ¡Un escuadrón de Catafractos se une a tu ejército y te vuelves más fuerte! |
+  | **6 Jun** | **5x [Adelaide](/ItemsES/her_359/)**  | ¡Una Maga que controla el poder de la nieve ha visitado tu territorio! |
+
 
 #### 2021 Week 21  Semana de la Torre
 

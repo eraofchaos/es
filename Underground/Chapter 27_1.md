@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 - 27-1 Macrobianos"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Capítulo 27 - 1. Era of Chaos  Subterráneo - Capítulo 27_1. 27-1 Macrobianos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 27_1.md"
 toc: false

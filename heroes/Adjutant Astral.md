@@ -2,7 +2,7 @@
 title: "Ayudante Astral"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Era of Chaos  Ayudante Astral"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Adjutant Astral.md"
 QR: adhero_61203

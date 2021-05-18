@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-4 Artimañas Divinas"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Capítulo 22 - 4. Era of Chaos  Subterráneo - Capítulo 22_4. 22-4 Artimañas Divinas"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 22_4.md"
 toc: false

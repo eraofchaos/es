@@ -2,7 +2,7 @@
 title: "Báculo de Cabeza de Carnero"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Báculo de Cabeza de Carnero. Báculo de Cabeza de Carnero"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Rams-head Staff.md"
 toc: false

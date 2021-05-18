@@ -2,7 +2,7 @@
 title: "Pico de Llama Virulenta"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Pico de Llama Virulenta. Pico de Llama Virulenta"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Beak of Raging Flame.md"
 toc: false

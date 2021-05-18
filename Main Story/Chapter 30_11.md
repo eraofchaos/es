@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-11 Tienda de patas largas"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Capítulo 30 - 11. Era of Chaos  Historia principal - Capítulo 30_11. 30-11 Tienda de patas largas"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 30_11.md"
 toc: false

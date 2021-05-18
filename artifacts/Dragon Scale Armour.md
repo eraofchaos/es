@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Armadura de Escama de Dragón"
 permalink: /artifacts/Dragon Scale Armour/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Armadura de Escama de Dragón. Un cofre bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Dragon Scale Armour.md"
 toc: false

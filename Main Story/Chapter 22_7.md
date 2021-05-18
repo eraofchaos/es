@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-7 El Susurro del Dragón"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Capítulo 22 - 7. Era of Chaos  Historia principal - Capítulo 22_7. 22-7 El Susurro del Dragón"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 22_7.md"
 toc: false

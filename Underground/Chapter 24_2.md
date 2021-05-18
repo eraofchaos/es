@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 24 - 24-2 Infierno en Llamas"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Capítulo 24 - 2. Era of Chaos  Subterráneo - Capítulo 24_2. 24-2 Infierno en Llamas"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 24_2.md"
 toc: false

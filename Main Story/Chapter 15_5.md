@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-5 Trabajando por la Paz"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "Capítulo 15 - 5. Era of Chaos  Historia principal - Capítulo 15_5. 15-5 Trabajando por la Paz"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 15_5.md"
 toc: false

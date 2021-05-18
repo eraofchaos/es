@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-12 Impresión Malvada"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Capítulo 21 - 12. Era of Chaos  Historia principal - Capítulo 21_12. 21-12 Impresión Malvada"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 21_12.md"
 toc: false

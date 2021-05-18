@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-6 El Regicida"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Capítulo 21 - 6. Era of Chaos  Historia principal - Capítulo 21_6. 21-6 El Regicida"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 21_6.md"
 toc: false

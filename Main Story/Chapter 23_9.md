@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-9 Enfermedad del Óxido"
 permalink: /Main Story/Chapter 23_9/
 excerpt: "Capítulo 23 - 9. Era of Chaos  Historia principal - Capítulo 23_9. 23-9 Enfermedad del Óxido"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 23_9.md"
 toc: false

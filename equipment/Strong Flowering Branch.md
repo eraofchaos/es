@@ -2,7 +2,7 @@
 title: "Rama Floreciente Recia"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Rama Floreciente Recia. Rama Floreciente Recia"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Strong Flowering Branch.md"
 toc: false

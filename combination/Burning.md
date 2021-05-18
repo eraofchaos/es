@@ -2,7 +2,7 @@
 title: "Información de combinación for Quemadura"
 permalink: /combination/Burning/
 excerpt: "Información de combinación - Quemadura. Units and Heroes Formation."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Quemadura.md"
 toc: false

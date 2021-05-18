@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 - 25-4 Recuperación"
 permalink: /Underground/Chapter 25_4/
 excerpt: "Capítulo 25 - 4. Era of Chaos  Subterráneo - Capítulo 25_4. 25-4 Recuperación"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 25_4.md"
 toc: false

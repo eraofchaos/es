@@ -2,7 +2,7 @@
 title: "Pendientes del Gobernante"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Pendientes del Gobernante. Pendientes del Gobernante"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Ruler's Earrings.md"
 toc: false

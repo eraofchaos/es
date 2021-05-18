@@ -3,7 +3,7 @@ title: "Dragón Verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Dragón Verde. Dragón Verde Unidades. Dragón Dorado. Era of Chaos Los Dragones Verdes son los guardianes del bosque. Su aliento ácido y su gigantesco cuerpo los hacen casi invencibles."
 unitID: 207
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Dragón Verde"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nombre:** [Ala de Dragón Resplandeciente](/es/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/)
 

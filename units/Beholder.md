@@ -3,7 +3,7 @@ title: "Observador"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Observador. Observador Unidades. Ojo maléfico. Era of Chaos Estos monstruos de numerosos ojos son inteligentes. Para ellos, todas las criaturas son siervos."
 unitID: 703
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Observador"
 toc: true

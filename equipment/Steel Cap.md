@@ -2,7 +2,7 @@
 title: "Bonete de Acero"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Bonete de Acero. Bonete de Acero"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Steel Cap.md"
 toc: false

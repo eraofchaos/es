@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Unit Member x1"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | ![Dragón Negro](/images/u/ti_heilong.jpg) | [Dragón Negro](/es/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Rey Dragón Negro  |
   | 21 | ![Adjudicadora](/images/u/ti_shenpanguan.jpg) | [Adjudicadora](/es/units/Judicator/) | Lanzador | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 22 | ![Dragón Rojo](/images/u/ti_chilong.jpg) | [Dragón Rojo](/es/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 23 | ![Dragón Verde](/images/u/ti_lvlong.jpg) | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Dragón Dorado  |
+  | 23 | ![Dragón Verde](/images/u/ti_lvlong.jpg) | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Dragón Dorado  |
   | 24 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
   | 25 | ![Hechicera Maligna](/images/u/ti_xiemonv.jpg) | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 26 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |

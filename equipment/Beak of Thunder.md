@@ -2,7 +2,7 @@
 title: "Pico de Trueno"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Pico de Trueno. Pico de Trueno"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Beak of Thunder.md"
 toc: false

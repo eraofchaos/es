@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 Por el rey y la nación"
 permalink: /Main Story/Chapter 16/
 excerpt: "Capítulo 16. Era of Chaos  Historia principal - Capítulo 16. Por el rey y la nación"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 16.md"
 toc: false

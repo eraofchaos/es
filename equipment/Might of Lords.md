@@ -2,7 +2,7 @@
 title: "Poder de los Señores"
 permalink: /equipment/Might of Lords/
 excerpt: "Era of Chaos Poder de los Señores. Poder de los Señores"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Might of Lords.md"
 toc: false

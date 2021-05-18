@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-13 Cerca del Objetivo"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Capítulo 14 - 13. Era of Chaos  Historia principal - Capítulo 14_13. 14-13 Cerca del Objetivo"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 14_13.md"
 toc: false

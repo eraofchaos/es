@@ -2,7 +2,7 @@
 title: "Sanguinario. Poder Máximo - Sanguinario"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Era of Chaos Poder Máximo Sanguinario. Poder Máximo Sanguinario. Sanguinario"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Bloodthirsty.md"
 toc: false

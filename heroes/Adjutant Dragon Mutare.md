@@ -2,7 +2,7 @@
 title: "Ayudante Dragona Mutare"
 permalink: /heroes/Adjutant Dragon Mutare/
 excerpt: "Era of Chaos  Ayudante Dragona Mutare"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Adjutant Dragon Mutare.md"
 QR: adhero_61302

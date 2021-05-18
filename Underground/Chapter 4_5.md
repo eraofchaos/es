@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 - 4-5 La Mano de Dios"
 permalink: /Underground/Chapter 4_5/
 excerpt: "Capítulo 4 - 5. Era of Chaos  Subterráneo - Capítulo 4_5. 4-5 La Mano de Dios"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 4_5.md"
 toc: false

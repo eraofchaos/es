@@ -2,7 +2,7 @@
 title: "Exclusivo - Ala de Dragón Resplandeciente (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala de Dragón Resplandeciente. Ala de Dragón Resplandeciente. Era of Chaos Exclusivo Ala de Dragón Resplandeciente. Dragón Verde Exclusivo."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Green Dragon Ala de Dragón Resplandeciente.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Asistencia técnica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1610
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | Los ataques del Dragón Verde causan sangrado, lo que provoca que los objetivos reciban un daño equivalente al 2% de sus PV máximos cada 2 s durante 3 s. |
+  |  Despertar  | **100x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | Cuando el Dragón Verde obtiene un escudo, las unidades de Murallas amistosas también obtienen uno equivalente al 10% de los PV máximos durante 10 s. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | Aumenta el daño de unidad del Dragón Verde un 20% y el golpe crítico en 200. |
   | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | Aumenta la velocidad de ataque del Dragón Verde un 30% cuando obtiene escudo. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Guardia de Cristal> El Dragón Verde se protege con un recubrimiento de cristal que bloquea daño 5 veces. Tras bloquear daño por quinta vez, la <Guardia de Cristal> desaparece, las unidades enemigas cercanas reciben un daño equivalente al 100% del ATQ del Dragón Verde y quedan cristalizadas durante 3 s. Obtiene <Guardia de Cristal> cada 20 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Guardia de Cristal> El Dragón Verde se protege con un recubrimiento de cristal que bloquea daño 5 veces. Tras bloquear daño por quinta vez, la <Guardia de Cristal> desaparece y todas las unidades amistosas se disipan de efectos adversos y obtienen inmunidad temporal a envenenamiento y aturdimiento. Su reducción de daño de unidad también aumenta un 20% durante 3 s. <Guardia de Cristal> se puede activar una vez cada 15 s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | La penetración del Dragón Verde aumenta en 25 por cada ataque. Se acumula hasta 20 veces. Las acumulaciones se pierden al cambiar el objetivo de los ataques. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Imparable> Si el objetivo atacado está ralentizado, le inflige un daño equivalente al 100% de su propio ATQ y lo ciega durante 5 s. La recarga es de 18 s. Si la unidad objetivo está vinculada, inflige daño equivalente al 100% de su propio ATQ y reduce su DEF un 15%. Dura 5 s. La recarga es de 18 s. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Espinas de Diamante> Condensa y libera una gran cantidad de cristales afiladísimos que infligen un daño equivalente al 100% de su propio ATQ a las unidad enemigas en una zona grande frente a ellos. El daño se duplica para las unidades cegadas. La recarga es de 21 s. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Imparable> Si el objetivo atacado está ralentizado, le inflige un daño equivalente al 100% de su propio ATQ y lo ciega durante 5 s. La recarga es de 18 s. Si la unidad objetivo está bajo los efectos de sangrado, inflige daño equivalente al 100% de su propio ATQ y reduce su DEF un 15%. Dura 5 s. La recarga es de 18 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Ala de Dragón Resplandeciente](/ItemsES/con_976/) | <Espinas de Diamante> Condensa y libera una gran cantidad de cristales afiladísimos que infligen un daño equivalente al 100% de su propio ATQ a las unidad enemigas en una zona grande frente a ellos. El daño se duplica para las unidades ralentizadas. La recarga es de 21 s. |
 
 
 ## Subir de nivel

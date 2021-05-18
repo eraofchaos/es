@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-5  Exploración de la muerte"
 permalink: /Underground/Chapter 30_5/
 excerpt: "Capítulo 30 - 5. Era of Chaos  Subterráneo - Capítulo 30_5. 30-5  Exploración de la muerte"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 30_5.md"
 toc: false

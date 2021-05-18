@@ -2,7 +2,7 @@
 title: "Adalid Floral"
 permalink: /equipment/Flower Overlord/
 excerpt: "Era of Chaos Adalid Floral. Adalid Floral"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Flower Overlord.md"
 toc: false

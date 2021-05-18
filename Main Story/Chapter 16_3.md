@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-3 Mago Viajero"
 permalink: /Main Story/Chapter 16_3/
 excerpt: "Capítulo 16 - 3. Era of Chaos  Historia principal - Capítulo 16_3. 16-3 Mago Viajero"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 16_3.md"
 toc: false

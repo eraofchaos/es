@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 Pacto con el Demonio"
 permalink: /Underground/Chapter 29/
 excerpt: "Capítulo 29 Pacto con el Demonio. Era of Chaos  Subterráneo - Capítulo 29. Pacto con el Demonio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 29.md"
 toc: false

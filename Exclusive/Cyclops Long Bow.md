@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Cíclope Exclusivo."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Cyclops Arco largo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Lanzamiento de pedruscos> lanza rocas que infligen daño igual al 200% de los PV máximos a todos los enemigos en la zona objetivo. Puede activarse cada 15 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Lanzamiento de pedruscos> Lanza rocas que infligen daño equivalente al 120% de su ATQ a todos los enemigos en la zona objetivo y los aturde durante 4 s. Puede activarse cada 15 s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/ItemsES/con_914/) | Usa <Lanzamiento de pedruscos> cuando los Cíclopes ataquen por primera vez. |
   | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el daño de la unidad de Cíclopes y la velocidad de ataque un 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/ItemsES/con_914/) | Cuando se reducen los PV por debajo del 30% por primera vez, el Cíclope desata Sacudida de tierra una vez, lo que aumenta su velocidad de ataque un 25% de manera permanente. |

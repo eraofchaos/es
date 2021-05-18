@@ -2,7 +2,7 @@
 title: "Yelmo Pesado de Previda"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Era of Chaos Yelmo Pesado de Previda. Yelmo Pesado de Previda"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Heavy Helm of Pre-life.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Dragón de Hueso. Dragón de Hueso Unidades. Dragón Fantasma. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Dragón de Hueso"
 toc: true

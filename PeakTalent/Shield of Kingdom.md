@@ -2,7 +2,7 @@
 title: "Escudo del Reino. Poder Máximo - Escudo del Reino"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Era of Chaos Poder Máximo Escudo del Reino. Poder Máximo Escudo del Reino. Escudo del Reino"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Shield of Kingdom.md"
 toc: false

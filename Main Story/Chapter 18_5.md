@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-5 El Sindicato de los Bandidos"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "Capítulo 18 - 5. Era of Chaos  Historia principal - Capítulo 18_5. 18-5 El Sindicato de los Bandidos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 18_5.md"
 toc: false

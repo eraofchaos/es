@@ -2,7 +2,7 @@
 title: "Espaldar de Gorgona"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Era of Chaos Espaldar de Gorgona. Espaldar de Gorgona"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Gorgon Shoulder-guards.md"
 toc: false

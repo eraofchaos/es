@@ -2,7 +2,7 @@
 title: "Entrenamiento de artillería. Poder Máximo - Entrenamiento de artillería"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Era of Chaos Poder Máximo Entrenamiento de artillería. Poder Máximo Entrenamiento de artillería. Entrenamiento de artillería"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Gunnery Training.md"
 toc: false

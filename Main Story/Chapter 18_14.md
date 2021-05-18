@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-14 Quien Traicionó una Vez..."
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Capítulo 18 - 14. Era of Chaos  Historia principal - Capítulo 18_14. 18-14 Quien Traicionó una Vez..."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 18_14.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Arpía. Arpía Unidades. Bruja Arpía. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Arpía"
 toc: true

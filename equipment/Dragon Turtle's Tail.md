@@ -2,7 +2,7 @@
 title: "Cola de Tortuga Dragón"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Era of Chaos Cola de Tortuga Dragón. Cola de Tortuga Dragón"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Dragon Turtle's Tail.md"
 toc: false

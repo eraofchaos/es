@@ -2,7 +2,7 @@
 title: "Pupilo de Pesadilla"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Pupilo de Pesadilla. Pupilo de Pesadilla"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Nightmare Pupil.md"
 toc: false

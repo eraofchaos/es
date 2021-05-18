@@ -2,7 +2,7 @@
 title: "Garras de Llama Virulenta"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Era of Chaos Garras de Llama Virulenta. Garras de Llama Virulenta"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Claws of Raging Flame.md"
 toc: false

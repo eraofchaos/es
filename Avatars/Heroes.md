@@ -2,7 +2,7 @@
 title: "Avatar - Héroes"
 permalink: /Avatars/Heroes/
 excerpt: "Era of Chaos  Héroes"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Heroes.md"
 toc: false

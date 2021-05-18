@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Goblin)"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Goblin Exclusivo."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Goblin Espada.md"
 toc: false

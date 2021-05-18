@@ -2,7 +2,7 @@
 title: "Blasón del Imperio"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Blasón del Imperio. Blasón del Imperio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Empire's Crest.md"
 toc: false

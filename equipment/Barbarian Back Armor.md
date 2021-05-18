@@ -2,7 +2,7 @@
 title: "Armadura Trasera de Bárbaro"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Armadura Trasera de Bárbaro. Armadura Trasera de Bárbaro"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Barbarian Back Armor.md"
 toc: false

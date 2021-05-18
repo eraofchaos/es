@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Neutral"
 permalink: /Emblem/Type Neutral/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Neutral. Era of Chaos Neutral"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "typeNeutral.md"
 toc: false

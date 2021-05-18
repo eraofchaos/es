@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 El camino del peregrino"
 permalink: /Underground/Chapter 27/
 excerpt: "Capítulo 27 El camino del peregrino. Era of Chaos  Subterráneo - Capítulo 27. El camino del peregrino"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 27.md"
 toc: false

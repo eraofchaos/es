@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 Corazón de Grifo"
 permalink: /Underground/Chapter 10/
 excerpt: "Capítulo 10 Corazón de Grifo. Era of Chaos  Subterráneo - Capítulo 10. Corazón de Grifo"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 10.md"
 toc: false

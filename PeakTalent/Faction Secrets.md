@@ -2,7 +2,7 @@
 title: "Secretos de la facción. Poder Máximo - Secretos de la facción"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Era of Chaos Poder Máximo Secretos de la facción. Poder Máximo Secretos de la facción. Secretos de la facción"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Faction Secrets.md"
 toc: false

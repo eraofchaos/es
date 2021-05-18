@@ -2,7 +2,7 @@
 title: "Avatar - Puente de los Amores estrellados"
 permalink: /Avatars/Starry Lovers' Bridge/
 excerpt: "Era of Chaos  Puente de los Amores estrellados"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Starry Lovers' Bridge.md"
 toc: false

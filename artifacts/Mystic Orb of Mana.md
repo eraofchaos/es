@@ -2,7 +2,7 @@
 title: "Artefacto - Pozo del Hechicero - Orbe Místico de Maná"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Era of Chaos  Pozo del Hechicero - Orbe Místico de Maná. Una bola de cristal con magia fuerte. Uno de los componentes del Pozo del Hechicero."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Mystic Orb of Mana.md"
 toc: false

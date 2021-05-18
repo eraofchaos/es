@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 - 25-3 Hoja Ensangrentada"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Capítulo 25 - 3. Era of Chaos  Subterráneo - Capítulo 25_3. 25-3 Hoja Ensangrentada"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "Chapter 25_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: es
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 22 | ![Domador de Tiburones](/images/u/ti_xunshashi.jpg) | [Domador de Tiburones](/es/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Jinete de tiburones  |
   | 23 | ![Dragón Negro](/images/u/ti_heilong.jpg) | [Dragón Negro](/es/units/Black Dragon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Rey Dragón Negro  |
   | 24 | ![Dragón Rojo](/images/u/ti_chilong.jpg) | [Dragón Rojo](/es/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 25 | ![Dragón Verde](/images/u/ti_lvlong.jpg) | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Dragón Dorado  |
+  | 25 | ![Dragón Verde](/images/u/ti_lvlong.jpg) | [Dragón Verde](/es/units/Green Dragon/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Dragón Dorado  |
   | 26 | ![Dragón de Hueso](/images/u/ti_gulong.jpg) | [Dragón de Hueso](/es/units/Bone Dragon/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Dragón Fantasma  |
   | 27 | ![Druida](/images/u/ti_deluyi.jpg) | [Druida](/es/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Archidruida  |
   | 28 | ![Duendecillo](/images/u/ti_conglinyaojing.jpg) | [Duendecillo](/es/units/Leprechaun/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Duendecillo maestro  |
