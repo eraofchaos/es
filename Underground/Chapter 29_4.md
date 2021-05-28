@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-4  Glotón con parrilla"
 permalink: /Underground/Chapter 29_4/
 excerpt: "Capítulo 29 - 4. Era of Chaos  Subterráneo - Capítulo 29_4. 29-4  Glotón con parrilla"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 29_4.md"
 toc: false

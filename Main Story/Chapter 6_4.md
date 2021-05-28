@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-4 Maldición Letal"
 permalink: /Main Story/Chapter 6_4/
 excerpt: "Capítulo 6 - 4. Era of Chaos  Historia principal - Capítulo 6_4. 6-4 Maldición Letal"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 6_4.md"
 toc: false

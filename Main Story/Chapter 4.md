@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 Acantilados de los Grifos"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capítulo 4. Era of Chaos  Historia principal - Capítulo 4. Acantilados de los Grifos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Escudo de acero"
 permalink: /equipment/Steel Shield/
 excerpt: "Era of Chaos Escudo de acero. Escudo de acero"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Steel Shield.md"
 toc: false

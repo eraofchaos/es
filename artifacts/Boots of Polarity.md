@@ -2,7 +2,7 @@
 title: "Artefacto - Piedra Rúnica de Antimagia - Botas de Polaridad"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Era of Chaos  Piedra Rúnica de Antimagia - Botas de Polaridad. Unas botas con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Boots of Polarity.md"
 toc: false

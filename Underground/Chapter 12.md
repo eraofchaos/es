@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 Castigo corpóreo"
 permalink: /Underground/Chapter 12/
 excerpt: "Capítulo 12 Castigo corpóreo. Era of Chaos  Subterráneo - Capítulo 12. Castigo corpóreo"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 12.md"
 toc: false

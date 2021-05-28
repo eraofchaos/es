@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 - 25-2 Marioneta de Hierro"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Capítulo 25 - 2. Era of Chaos  Subterráneo - Capítulo 25_2. 25-2 Marioneta de Hierro"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 25_2.md"
 toc: false

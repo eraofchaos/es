@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-14 Templo de alto rango"
 permalink: /Main Story/Chapter 29_14/
 excerpt: "Capítulo 29 - 14. Era of Chaos  Historia principal - Capítulo 29_14. 29-14 Templo de alto rango"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 29_14.md"
 toc: false

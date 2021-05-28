@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 - 10-3 El Cadáver del Rey"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Capítulo 10 - 3. Era of Chaos  Subterráneo - Capítulo 10_3. 10-3 El Cadáver del Rey"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 10_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-5 Rescate"
 permalink: /Main Story/Chapter 8_5/
 excerpt: "Capítulo 8 - 5. Era of Chaos  Historia principal - Capítulo 8_5. 8-5 Rescate"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 8_5.md"
 toc: false

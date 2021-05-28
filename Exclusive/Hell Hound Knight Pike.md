@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Sabueso Infernal Exclusivo."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Hell Hound Pica de Caballero.md"
 toc: false

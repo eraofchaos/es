@@ -2,7 +2,7 @@
 title: "Artefacto - Ojo de halcón - Vigía Estoico"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Ojo de halcón - Vigía Estoico. Una escultura de aventurero con ojos de fuego. Uno de los componentes del Ojo de halcón."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Stoic Watchman.md"
 toc: false

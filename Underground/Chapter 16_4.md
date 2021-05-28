@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 16 - 16-4 Ecos de Guerra"
 permalink: /Underground/Chapter 16_4/
 excerpt: "Capítulo 16 - 4. Era of Chaos  Subterráneo - Capítulo 16_4. 16-4 Ecos de Guerra"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 16_4.md"
 toc: false

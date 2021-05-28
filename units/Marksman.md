@@ -3,7 +3,7 @@ title: "Ballestero"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Ballestero. Ballestero Unidades. Arquero Maestro. Era of Chaos Los Ballesteros son soldados curtidos, capaces de debilitar al enemigo antes de entrar en combate cuerpo a cuerpo. Sus letales ballestas infunden el miedo en el corazón del enemigo."
 unitID: 102
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Ballestero"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nombre:** [Arco largo](/es/Exclusive/Marksman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Arco Largo](/ItemsES/con_914/)
 

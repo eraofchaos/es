@@ -2,7 +2,7 @@
 title: "Espada de la gloria. Poder Máximo - Espada de la gloria"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "Era of Chaos Poder Máximo Espada de la gloria. Poder Máximo Espada de la gloria. Espada de la gloria"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Sword of Glory.md"
 toc: false

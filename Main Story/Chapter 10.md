@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 Marjalia"
 permalink: /Main Story/Chapter 10/
 excerpt: "Capítulo 10. Era of Chaos  Historia principal - Capítulo 10. Marjalia"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-4 La Creencia del Dios Dragón"
 permalink: /Main Story/Chapter 22_4/
 excerpt: "Capítulo 22 - 4. Era of Chaos  Historia principal - Capítulo 22_4. 22-4 La Creencia del Dios Dragón"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 22_4.md"
 toc: false

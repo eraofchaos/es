@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 - 17-1 Cueva de Cristal"
 permalink: /Underground/Chapter 17_1/
 excerpt: "Capítulo 17 - 1. Era of Chaos  Subterráneo - Capítulo 17_1. 17-1 Cueva de Cristal"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 17_1.md"
 toc: false

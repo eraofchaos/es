@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Exclusivo Castle. Exclusivo Castle. List of Exclusivo Castle in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Exclusive Castle"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Piquero](/es/units/Pikeman/) | [Espada](/es/Exclusive/Pikeman Sword/) | - | Carga | [Ficha de espada](/ItemsES/con_912/) | - |
-  | 2  | [Ballestero](/es/units/Marksman/) | [Arco largo](/es/Exclusive/Marksman Long Bow/) | - | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
+  | 2  | [Ballestero](/es/units/Marksman/) | [Arco largo](/es/Exclusive/Marksman Long Bow/) | + | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
   | 3  | [Grifo](/es/units/Griffin/) | [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
   | 4  | [Espadachín](/es/units/Swordsman/) | [Escudo Iris](/es/Exclusive/Swordsman Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
   | 5  | [Monje](/es/units/Monk/) | [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |

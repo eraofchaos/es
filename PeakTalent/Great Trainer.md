@@ -2,7 +2,7 @@
 title: "Gran entrenador. Poder Máximo - Gran entrenador"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Era of Chaos Poder Máximo Gran entrenador. Poder Máximo Gran entrenador. Gran entrenador"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Great Trainer.md"
 toc: false

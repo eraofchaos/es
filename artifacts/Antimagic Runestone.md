@@ -2,7 +2,7 @@
 title: "Artefacto - Piedra Rúnica de Antimagia"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Era of Chaos  Piedra Rúnica de Antimagia. Piedra Rúnica de Antimagia Una piedra rúnica de antimagia forjada a partir de objetos encantados. Capaz de resistir daño de hechizo."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Antimagic Runestone.md"
 toc: false

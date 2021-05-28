@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-5 La Esencia de la Vida"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Capítulo 22 - 5. Era of Chaos  Subterráneo - Capítulo 22_5. 22-5 La Esencia de la Vida"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 22_5.md"
 toc: false

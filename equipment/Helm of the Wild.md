@@ -2,7 +2,7 @@
 title: "Yelmo de la Naturaleza"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Era of Chaos Yelmo de la Naturaleza. Yelmo de la Naturaleza"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Helm of the Wild.md"
 toc: false

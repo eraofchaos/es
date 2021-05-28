@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Cíclope Exclusivo."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Cyclops Arco largo.md"
 toc: false

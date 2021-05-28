@@ -2,7 +2,7 @@
 title: "Avatar - El Páramo"
 permalink: /Avatars/The Moor/
 excerpt: "Era of Chaos  El Páramo"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "The Moor.md"
 toc: false

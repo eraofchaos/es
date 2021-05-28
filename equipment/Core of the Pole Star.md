@@ -2,7 +2,7 @@
 title: "Núcleo de la Estrella Polar"
 permalink: /equipment/Core of the Pole Star/
 excerpt: "Era of Chaos Núcleo de la Estrella Polar. Núcleo de la Estrella Polar"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Core of the Pole Star.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Juez de la Luz sagrada"
 permalink: /Avatars/Holy Light Judge/
 excerpt: "Era of Chaos  Juez de la Luz sagrada"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Holy Light Judge.md"
 toc: false

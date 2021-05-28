@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-3 Los Orcos del Puente"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Capítulo 18 - 3. Era of Chaos  Historia principal - Capítulo 18_3. 18-3 Los Orcos del Puente"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 18_3.md"
 toc: false

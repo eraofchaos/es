@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 Un plan diabólico"
 permalink: /Underground/Chapter 4/
 excerpt: "Capítulo 4 Un plan diabólico. Era of Chaos  Subterráneo - Capítulo 4. Un plan diabólico"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 4.md"
 toc: false

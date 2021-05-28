@@ -2,7 +2,7 @@
 title: "Espada de gladiadores. Poder Máximo - Espada de gladiadores"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Era of Chaos Poder Máximo Espada de gladiadores. Poder Máximo Espada de gladiadores. Espada de gladiadores"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Sword of Gladiators.md"
 toc: false

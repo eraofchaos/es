@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-15 A Río Revuelto, Ganancia de Pescadores"
 permalink: /Main Story/Chapter 11_15/
 excerpt: "Capítulo 11 - 15. Era of Chaos  Historia principal - Capítulo 11_15. 11-15 A Río Revuelto, Ganancia de Pescadores"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 11_15.md"
 toc: false

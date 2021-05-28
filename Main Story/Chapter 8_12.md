@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-12 Hermano Mayor"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Capítulo 8 - 12. Era of Chaos  Historia principal - Capítulo 8_12. 8-12 Hermano Mayor"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 8_12.md"
 toc: false

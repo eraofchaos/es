@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-1 Arcas Vacías"
 permalink: /Underground/Chapter 7_1/
 excerpt: "Capítulo 7 - 1. Era of Chaos  Subterráneo - Capítulo 7_1. 7-1 Arcas Vacías"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 7_1.md"
 toc: false

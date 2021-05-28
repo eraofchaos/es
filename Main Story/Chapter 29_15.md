@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-15 Sima Rocanegra"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Capítulo 29 - 15. Era of Chaos  Historia principal - Capítulo 29_15. 29-15 Sima Rocanegra"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 29_15.md"
 toc: false

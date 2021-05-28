@@ -2,7 +2,7 @@
 title: "Artefacto - Sombrero del Encantador - Tomo de magia de agua"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Era of Chaos  Sombrero del Encantador - Tomo de magia de agua. Este libro de hechizos incluye enseñanzas de magia de agua avanzada. Te lo dio Adelaide. Uno de los componentes del Sombrero del Encantador."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Tome of Water Magic.md"
 toc: false

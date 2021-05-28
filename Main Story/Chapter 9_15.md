@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-15 Un Ángel Desciende"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Capítulo 9 - 15. Era of Chaos  Historia principal - Capítulo 9_15. 9-15 Un Ángel Desciende"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 9_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-3 Un Camino Difícil"
 permalink: /Main Story/Chapter 11_3/
 excerpt: "Capítulo 11 - 3. Era of Chaos  Historia principal - Capítulo 11_3. 11-3 Un Camino Difícil"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 11_3.md"
 toc: false

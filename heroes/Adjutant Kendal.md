@@ -2,7 +2,7 @@
 title: "Ayudante Kendal"
 permalink: /heroes/Adjutant Kendal/
 excerpt: "Era of Chaos  Ayudante Kendal"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Adjutant Kendal.md"
 QR: adhero_60104

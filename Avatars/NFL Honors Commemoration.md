@@ -2,7 +2,7 @@
 title: "Avatar - Conmemoración de NFL Honors"
 permalink: /Avatars/NFL Honors Commemoration/
 excerpt: "Era of Chaos  Conmemoración de NFL Honors"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "NFL Honors Commemoration.md"
 toc: false

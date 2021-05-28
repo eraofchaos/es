@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Trueno del Titán. Trueno del Titán Una reliquia sagrada legendaria forjada a partir de los tesoros de un Gigante. Desata una descarga eléctrica sobre cualquier enemigo."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Nombre: Trueno del Titán**
 
- **Effect:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia.
+ **Effect:** Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas a cierta distancia.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
-  | **5** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
-  | **8** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
-  | **11** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
-  | **14** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
+  | **2** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
+  | **5** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
+  | **8** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas a cierta distancia. | 
+  | **11** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de hechizo de tipo aire a las unidades enemigas a cierta distancia y reduce la precisión de los objetivos un 30%. | 
+  | **14** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> daño de hechizo de tipo aire a las unidades enemigas a cierta distancia. También inflige daño adicional equivalente al 15% de los PV máximos y reduce la precisión de los objetivos un 30%. | 
   | **17** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas en una zona grande e inflige un daño adicional igual al 15% de su vida máxima. También reduce su precisión un 30% y les causa <span style="color: #e07c44;font-size:20px">estática</span>. | 
   | **20** | Inflige <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> de daño de aire a las unidades enemigas en una zona grande e inflige un daño adicional igual al 15% de su vida máxima. También reduce su precisión un 60% y les causa <span style="color: #e07c44;font-size:20px">estática</span>. | 

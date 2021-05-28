@@ -2,7 +2,7 @@
 title: "Avatar - Soberano del Cielo"
 permalink: /Avatars/Ruler of Sky/
 excerpt: "Era of Chaos  Soberano del Cielo"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Ruler of Sky.md"
 toc: false

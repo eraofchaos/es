@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Profecía rota"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Profecía rota. Profecía rota. Era of Chaos Emblema Sagrado Profecía rota. Era of Chaos Maligno Profecía rota"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Broken Prophecy.md"
 toc: false

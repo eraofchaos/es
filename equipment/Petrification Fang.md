@@ -2,7 +2,7 @@
 title: "Colmillo de Petrificación"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Colmillo de Petrificación. Colmillo de Petrificación"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Petrification Fang.md"
 toc: false

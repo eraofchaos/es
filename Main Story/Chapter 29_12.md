@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-12 Acantilado del Dragón Verde"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Capítulo 29 - 12. Era of Chaos  Historia principal - Capítulo 29_12. 29-12 Acantilado del Dragón Verde"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 29_12.md"
 toc: false

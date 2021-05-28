@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 23  Semana de Conflujo
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **7 Jun** | **5x [Hada](/ItemsES/unt_262/)**  | ¡Un escuadrón de Hadas se une a tu ejército y te vuelves más fuerte! |
+  | **8 Jun** | **3x [Elemental de Hielo](/ItemsES/unt_264/)**  | ¡Un escuadrón de Elementales de Hielo se une a tu ejército y te vuelves más fuerte! |
+  | **9 Jun** | **100x <i class="fas fa-gem"/>**  | ¡Las criaturas del Plano del Conflujo te han traído un pequeño cúmulo de diamantes! |
+  | **10 Jun** | **3x [Elemental de Piedra](/ItemsES/unt_266/)**  | ¡Un escuadrón de Elementales de Piedra se une a tu ejército y te vuelves más fuerte! |
+  | **11 Jun** | **3x [Elemental de Tormenta](/ItemsES/unt_263/)**  | ¡Un escuadrón de Elementales de Tormenta se une a tu ejército y te vuelves más fuerte! |
+  | **12 Jun** | **5x [Cofre de unidad de Conflujo](/ItemsES/con_1275/)**  | ¡Tus tropas te han traído cofres llenos de poder elemental! |
+  | **13 Jun** | **5x [Luna](/ItemsES/her_378/)**  | ¡El poder de los elementos concentrado en tu territorio ha ocasionado la visita de una Maga Elemental! |
+
 
 #### 2021 Week 22  Semana del Castillo
 

@@ -2,7 +2,7 @@
 title: "Exclusivo - Arco largo (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arco largo. Arco largo. Era of Chaos Exclusivo Arco largo. Ballestero Exclusivo."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Marksman Arco largo.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1440
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 300% de su propio ATQ e ignora 1000 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
+  |  Despertar  | **100x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Flecha Penetraarmaduras> Inflige daño al objetivo actual equivalente al 200% de su propio ATQ e ignora 500 puntos de DEF de la unidad objetivo. La recarga es de 15 s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el ATQ del Ballestero un 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta la DEF del Ballestero un 20% cuando el Ballestero tiene la moral alta. |
   | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Arco Largo](/ItemsES/con_914/) | Los ataques del Ballestero infligen Castigo a las unidades enemigas. Al atacar a la misma unidad objetivo un total de 18 veces, esta recibe daño adicional equivalente al 200% del ATQ del Ballestero. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta el daño de unidad Ballestero un 20%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Arco Largo](/ItemsES/con_914/) | Aumenta la resistencia mágica del Ballestero un 40%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Juramento de Muerte> Cuando la unidad recibe daño letal, esta no muere y obtiene invencibilidad, aumenta su daño de unidad un 50%, la velocidad de ataque un 150%, el golpe crítico en 500 y la absorción de vida un 20% durante 5 s. Este efecto se puede activar una vez por unidad a lo largo de toda la batalla. <Flecha Penetraarmaduras> se activa de inmediato la primera vez que una unidad activa <Juramento de Muerte>. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Arco Largo](/ItemsES/con_914/) | <Juramento de Muerte> Cuando la unidad recibe daño letal, esta no muere y obtiene invencibilidad, aumenta su daño de unidad un 20%, la velocidad de ataque un 100%, el golpe crítico en 500 y la absorción de vida un 20% durante 5 s. Este efecto se puede activar una vez por unidad a lo largo de toda la batalla. <Flecha Penetraarmaduras> se activa de inmediato la primera vez que una unidad activa <Juramento de Muerte>. |
 
 
 ## Subir de nivel

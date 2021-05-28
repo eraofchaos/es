@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza - Reloj de Arena Olvidado"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Era of Chaos  Espejo de Venganza - Reloj de Arena Olvidado. Al utilizar hechizos prohibidos, protege al lanzahechizos del contraataque de las fuerzas malignas. Uno de los componentes del Espejo de Venganza."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Forgotten Hourglass.md"
 toc: false

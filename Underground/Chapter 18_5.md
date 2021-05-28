@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 - 18-5 Tras la Pista de la Llama"
 permalink: /Underground/Chapter 18_5/
 excerpt: "Capítulo 18 - 5. Era of Chaos  Subterráneo - Capítulo 18_5. 18-5 Tras la Pista de la Llama"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 18_5.md"
 toc: false

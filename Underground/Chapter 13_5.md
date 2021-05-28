@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 - 13-5 El Juicio del Séptimo Día"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Capítulo 13 - 5. Era of Chaos  Subterráneo - Capítulo 13_5. 13-5 El Juicio del Séptimo Día"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 13_5.md"
 toc: false

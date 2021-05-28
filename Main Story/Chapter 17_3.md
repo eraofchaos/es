@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-3 Comida de Muertos Vivientes"
 permalink: /Main Story/Chapter 17_3/
 excerpt: "Capítulo 17 - 3. Era of Chaos  Historia principal - Capítulo 17_3. 17-3 Comida de Muertos Vivientes"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 17_3.md"
 toc: false

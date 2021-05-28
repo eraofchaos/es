@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 6 - 6-2 Nuevas Metas"
 permalink: /Underground/Chapter 6_2/
 excerpt: "Capítulo 6 - 2. Era of Chaos  Subterráneo - Capítulo 6_2. 6-2 Nuevas Metas"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 6_2.md"
 toc: false

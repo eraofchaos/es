@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-4 Canta al Son"
 permalink: /Main Story/Chapter 19_4/
 excerpt: "Capítulo 19 - 4. Era of Chaos  Historia principal - Capítulo 19_4. 19-4 Canta al Son"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Chapter 19_4.md"
 toc: false

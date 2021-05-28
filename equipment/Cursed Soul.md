@@ -2,7 +2,7 @@
 title: "Alma Impía"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Alma Impía. Alma Impía"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Cursed Soul.md"
 toc: false

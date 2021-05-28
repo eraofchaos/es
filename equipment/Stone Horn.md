@@ -2,7 +2,7 @@
 title: "Cuerno de Piedra"
 permalink: /equipment/Stone Horn/
 excerpt: "Era of Chaos Cuerno de Piedra. Cuerno de Piedra"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: es
 ref: "Stone Horn.md"
 toc: false
