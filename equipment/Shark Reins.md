@@ -2,7 +2,7 @@
 title: "Riendas de tiburón"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Riendas de tiburón. Riendas de tiburón"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Shark Reins.md"
 toc: false

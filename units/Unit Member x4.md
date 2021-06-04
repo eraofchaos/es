@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Unit Member x4"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Pájaro Ígneo](/images/u/ti_fenghuang.jpg) | [Pájaro Ígneo](/es/units/Firebird/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fénix  |
   | 6 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
   | 7 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
-  | 8 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señor del Abismo  |
+  | 8 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señora del Abismo  |
   | 9 | ![Efrit](/images/u/ti_liehuojingling.jpg) | [Efrit](/es/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultán Efrit  |
   | 10 | ![Archimaga](/images/u/ti_dafashi.jpg) | [Archimaga](/es/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimaga  |
   | 11 | ![Serpiente Regnan](/images/u/ti_yurenyongshi.jpg) | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
@@ -28,7 +28,7 @@ classes: wide
   | 14 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/es/units/Mermaid/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Espadachín](/images/u/ti_shizijun.jpg) | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
   | 16 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reina Medusa  |
-  | 17 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
+  | 17 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanático  |
   | 18 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 19 | ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg) | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

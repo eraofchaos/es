@@ -2,7 +2,7 @@
 title: "Artefacto - Armadura de los Condenados - Espada del Fuego Infernal"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Era of Chaos  Armadura de los Condenados - Espada del Fuego Infernal. Una espada que alberga un poder oscuro. Uno de los componentes de la Armadura de los Condenados."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Sword of Hellfire.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Descripción:** Una espada que alberga un poder oscuro. Uno de los componentes de la Armadura de los Condenados.
 
- **Part of Artifact:** ![Armadura de los Condenados](/images/t/icon_artifact_30.png) [Armadura de los Condenados](/es/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armadura de los Condenados](/images/t/icon_artifact_30.png) [Armadura de los Condenados](/es/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Esencia de Artefacto](/ItemsES/con_905/)
 

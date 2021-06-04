@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Era of Chaos  List of all Orange Artifact Components . Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Orange Artifact Components.md"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
  | [Espinilleras de Hueso de Dragón](/es/artifacts/Dragonbone Greaves/){: .btn .btn--era5} | **Vida de la unidad**: 8+(LEVEL\*3.2) %<br/>**Daño Mágico**: 2+(LEVEL\*0.8) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Unas espinilleras hechas a partir de los huesos de las espinillas del Rey Dragón. Uno de los componentes del Poder del Padre de los Dragones. | 
  | [Lengua Ígnea del Dragón Rojo](/es/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} | **Ataque de la unidad**: 6+(LEVEL\*2.4) %<br/>**Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Ataque del Héroe**: 10+(LEVEL\*4) | Una espada forjada a partir de cristales de dragón de fuego. Uno de los componentes del Poder del Padre de los Dragones. | 
  | [Corona de Diente de Dragón](/es/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | **Vida de la unidad**: 3+(LEVEL\*1.2) %<br/>**Daño Mágico**: 6+(LEVEL\*2.4) %<br/>**Defensa del Héroe**: 10+(LEVEL\*4) | Un casco hecho de dientes de dragón. Uno de los componentes del Poder del Padre de los Dragones. | 
- | [Armadura de Escama de Dragón](/es/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Un cofre bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones. | 
+ | [Armadura de Escama de Dragón](/es/artifacts/Dragon Scale Armor/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4)<br/>**Sabiduría del Héroe**: 16+(LEVEL\*6.4) | Un cofre bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones. | 
  | [Colgante de Dientes de Dragón](/es/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | **Ataque de la unidad**: 4+(LEVEL\*1.6) %<br/>**Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 12+(LEVEL\*4.8) | Un collar bendecido por el Dragón Sagrado. Uno de los componentes del Poder del Padre de los Dragones. | 
  | [Gladius del Titán](/es/artifacts/Titan's Gladius/){: .btn .btn--era5} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4)<br/>**Inteligencia del Héroe**: 10+(LEVEL\*4) | Una espada que fue blandida por un Gigante antiguo. Uno de los componentes del Trueno del Titán. | 
  | [Escudo del Centinela](/es/artifacts/Sentinel's Shield/){: .btn .btn--era5} | **Vida de la unidad**: 6+(LEVEL\*2.4) %<br/>**Sabiduría del Héroe**: 12+(LEVEL\*4.8) | Un escudo bendecido con un poder sagrado. Uno de los componentes del Trueno del Titán. | 

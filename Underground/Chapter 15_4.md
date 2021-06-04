@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-4 Pasadizo Infernal"
 permalink: /Underground/Chapter 15_4/
 excerpt: "Capítulo 15 - 4. Era of Chaos  Subterráneo - Capítulo 15_4. 15-4 Pasadizo Infernal"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 15_4.md"
 toc: false

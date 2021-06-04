@@ -2,7 +2,7 @@
 title: "Escápula del Guerrero"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Escápula del Guerrero. Escápula del Guerrero"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Warrior's Scapula.md"
 toc: false

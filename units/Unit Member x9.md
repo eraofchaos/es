@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Unit Member x9"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 4 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/es/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
   | 5 | ![Gólem de Hierro](/images/u/ti_tieren.jpg) | [Gólem de Hierro](/es/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gólem de Oro  |
-  | 6 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elemental de la Marea  |
+  | 6 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elemental de la Marea  |
   | 7 | ![Gárgola de Piedra](/images/u/ti_shixianggui.jpg) | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 9 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |

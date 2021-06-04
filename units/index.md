@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: false
@@ -38,7 +38,7 @@ classes: wide
   | 16 | ![Cíclope](/images/u/ti_duyanjuren.jpg) | [Cíclope](/es/units/Cyclops/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cíclope Rey  |
   | 17 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
   | 18 | ![Demonio de Hielo](/images/u/ti_bingmo.jpg) | [Demonio de Hielo](/es/units/Ice Demon/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 19 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señor del Abismo  |
+  | 19 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señora del Abismo  |
   | 20 | ![Diablillo](/images/u/ti_xiaoemo.jpg) | [Diablillo](/es/units/Imp/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 21 | ![Diablo](/images/u/ti_daemo.jpg) | [Diablo](/es/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiablo  |
   | 22 | ![Domador de Tiburones](/images/u/ti_xunshashi.jpg) | [Domador de Tiburones](/es/units/Shark Trainer/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Jinete de tiburones  |
@@ -54,7 +54,7 @@ classes: wide
   | 32 | ![Elemental de Hielo](/images/u/ti_bingyuansu2.jpg) | [Elemental de Hielo](/es/units/Ice Elemental/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Espíritu de las Nieves Silencioso  |
   | 33 | ![Elemental de Piedra](/images/u/ti_shiyuansu.jpg) | [Elemental de Piedra](/es/units/Stone Elemental/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 34 | ![Elemental de Tormenta](/images/u/ti_leiyuansu2.jpg) | [Elemental de Tormenta](/es/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tormenta de rayos  |
-  | 35 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elemental de la Marea  |
+  | 35 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elemental de la Marea  |
   | 36 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |
   | 37 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 38 | ![Engendro Venenoso](/images/u/ti_yanmo.jpg) | [Engendro Venenoso](/es/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
@@ -87,7 +87,7 @@ classes: wide
   | 65 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/es/units/Medusa/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Reina Medusa  |
   | 66 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 67 | ![Momia](/images/u/ti_munaiyi.jpg) | [Momia](/es/units/Mummy/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Rey Momia  |
-  | 68 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanático  |
+  | 68 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanático  |
   | 69 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 70 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/es/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Reina  |
   | 71 | ![Observador](/images/u/ti_xieyan.jpg) | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |

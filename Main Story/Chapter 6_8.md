@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-8 La Plaga"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Capítulo 6 - 8. Era of Chaos  Historia principal - Capítulo 6_8. 6-8 La Plaga"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 6_8.md"
 toc: false

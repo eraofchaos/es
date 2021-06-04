@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Sea Elemental)"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Elemental del Mar Exclusivo."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Sea Elemental Canto Arcano.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 

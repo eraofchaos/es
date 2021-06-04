@@ -3,7 +3,7 @@ title: "Libélula Menor"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Libélula Menor. Libélula Menor Unidades. Libélula. Era of Chaos Seres rápidos en propagarse, cuyas presas son el perfecto huésped e incubadora para su progenie."
 unitID: 803
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Libélula Menor"
 toc: true
@@ -209,7 +209,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Libélula Menor pestilente en el Subterráneo: niveles 15-2 y 15-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Libélula en el Subterráneo: niveles 15-2 y 15-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Despliega una Libélula Menor con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Fortaleza y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 

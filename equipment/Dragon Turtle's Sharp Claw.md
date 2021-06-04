@@ -2,7 +2,7 @@
 title: "Garra Afilada de Tortuga Dragón"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Era of Chaos Garra Afilada de Tortuga Dragón. Garra Afilada de Tortuga Dragón"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

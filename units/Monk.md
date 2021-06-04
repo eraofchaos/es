@@ -3,7 +3,7 @@ title: "Monje"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Monje. Monje Unidades. Fanático. Era of Chaos Los Monjes son creyentes devotos. Son famosos por sus hechizos de bendición, que usan para proteger a sus aliados, pero también son capaces de cargar con bravura en el fragor de la batalla."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Monje"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nombre:** [Canto Arcano](/es/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Canto Arcano](/ItemsES/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
 * [Enfado](/es/Emblem/Anger/) (Caos)
+* [Fuente de inmortalidad](/es/Emblem/Spring of Immortality/) (Bien)
 
 ## Información de combinación
 

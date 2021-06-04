@@ -2,7 +2,7 @@
 title: "Artefacto"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artefacto. Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Pozo del Hechicero](/images/t/icon_artifact_21.png) [Pozo del Hechicero](/es/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Un objeto mágico forjado para matar demonios. Capaz de aumentar la velocidad de regeneración de puntos de hechizo. |
   | 4   | ![Anillo de la Maga](/images/t/icon_artifact_22.png) [Anillo de la Maga](/es/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Un anillo mágico forjado a partir de objetos encantados. Capaz de aumentar el daño de hechizo. |
   | 5   | ![Piedra Rúnica de Antimagia](/images/t/icon_artifact_23.png) [Piedra Rúnica de Antimagia](/es/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Una piedra rúnica de antimagia forjada a partir de objetos encantados. Capaz de resistir daño de hechizo. |
-  | 6   | ![Armadura de los Condenados](/images/t/icon_artifact_30.png) [Armadura de los Condenados](/es/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | Un objeto forjado a partir de reliquias de no muertos mágicas. Permite al portador debilitar las habilidades del enemigo. |
+  | 6   | ![Armadura de los Condenados](/images/t/icon_artifact_30.png) [Armadura de los Condenados](/es/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | Un objeto forjado a partir de reliquias de no muertos mágicas. Permite al portador debilitar las habilidades del enemigo. |
   | 7   | ![Hacha de la Ferocidad](/images/t/icon_artifact_31.png) [Hacha de la Ferocidad](/es/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | Un arma forjada a partir de reliquias sagradas de razas distintas. Capaz de amplificar la habilidad de combate a corta distancia. |
   | 8   | ![Arco del Tirador](/images/t/icon_artifact_10.png) [Arco del Tirador](/es/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Una reliquia sagrada forjada a partir de los tesoros élficos. Capaz de aumentar el ataque a distancia. |
   | 9   | ![Capa del Rey No Muerto](/images/t/icon_artifact_32.png) [Capa del Rey No Muerto](/es/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Una reliquia sagrada forjada por un rey no muerto para ocultar su rostro. Capaz de invocar un ejército de Esqueletos. |
@@ -31,6 +31,7 @@ classes: wide
   | 16   | ![Espada del Apocalipsis](/images/t/icon_artifact_44.png) [Espada del Apocalipsis](/es/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | 60 | La llama maldita consumirá tu alma |
   | 17   | ![Alianza Angelical](/images/t/icon_artifact_41.png) [Alianza Angelical](/es/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | 60 | Una reliquia sagrada forjada por el poder de un Ángel a partir de objetos valiosos. Capaz de aumentar el poder de tus aliados. |
   | 18   | ![Fragmento del Edén](/images/t/icon_artifact_49.png) [Fragmento del Edén](/es/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | 35 | Un obsequio de la antigua civilización de los precursores. Cuenta la leyenda que es un artefacto capaz de manipular todo lo que tenga vida. |
+  | 19   | [Pluma del enviado](/es/artifacts/Envoy's Pen/) | 4 | 1 | Un símbolo de fuerza y poder. Una reliquia venerada reservada para los vencedores. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/es/artifacts/Artifacts Upgrade/)

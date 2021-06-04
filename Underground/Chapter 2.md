@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 Ángel guardián"
 permalink: /Underground/Chapter 2/
 excerpt: "Capítulo 2 Ángel guardián. Era of Chaos  Subterráneo - Capítulo 2. Ángel guardián"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 2.md"
 toc: false

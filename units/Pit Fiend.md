@@ -1,9 +1,9 @@
 ---
 title: "Demonio del Abismo"
 permalink: /units/Pit Fiend/
-excerpt: "Era of Chaos Demonio del Abismo. Demonio del Abismo Unidades. Señor del Abismo. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
+excerpt: "Era of Chaos Demonio del Abismo. Demonio del Abismo Unidades. Señora del Abismo. Era of Chaos Los Demonios del Abismo son demonios curtidos al frente de miles de tropas del Infierno. Solo ansían una cosa: derramar sangre."
 unitID: 505
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Demonio del Abismo"
 toc: true
@@ -182,12 +182,12 @@ toc: true
 
 ## Awaking
 
-  ![Señor del Abismo](/images/u/tia_diyulingzhu.jpg)
+  ![Señora del Abismo](/images/u/tia_diyulingzhu.jpg)
 
 ### Awaking Detalles
  **Is it possible right now?** YES
 
- **Awaking Name:** Señor del Abismo
+ **Awaking Name:** Señora del Abismo
 
  **Awaking Descripción:** Aplasta con orgullo a sus oponentes y contagia su entusiasmo a todos los guerreros infernales. Su piel cubierta de magma vuelve loco al Diablo y convierte la batalla en un festejo.
 

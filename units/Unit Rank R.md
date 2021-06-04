@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Unit Rank R"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | 1 | ![Diablillo](/images/u/ti_xiaoemo.jpg) | [Diablillo](/es/units/Imp/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Familiar  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/es/units/Gog/) | Lanzador | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 3 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/es/units/Gremlin/) | A distancia | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 4 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elemental de la Marea  |
+  | 4 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elemental de la Marea  |
   | 5 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 6 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |
   | 7 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |

@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genio. Genio Unidades. Genio Maestra. Era of Chaos Son criaturas mágicas que solo existen para conceder deseos a los mortales. La magia por la que están confinados es a la vez su hogar y su prisión."
 unitID: 605
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Genio"
 toc: true
@@ -92,6 +92,7 @@ toc: true
 ## Emblemas Sagrados recomendados
 
 * [Secreto interminable](/es/Emblem/Everlasting Secret/) (Orden)
+* [Fuente de inmortalidad](/es/Emblem/Spring of Immortality/) (Bien)
 * [Enfado](/es/Emblem/Anger/) (Caos)
 
 ## Información de combinación

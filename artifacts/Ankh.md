@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Fragmento del Edén - Ankh. Una cruz que concede inmortalidad a su portador. Nadie sabe qué fue de su anterior dueño."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Ankh.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Medalla de gladiadores. Poder Máximo - Medalla de gladiadores"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Era of Chaos Poder Máximo Medalla de gladiadores. Poder Máximo Medalla de gladiadores. Medalla de gladiadores"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Medal of Gladiators.md"
 toc: false

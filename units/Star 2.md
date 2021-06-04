@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Star 2"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Cíclope](/images/u/ti_duyanjuren.jpg) | [Cíclope](/es/units/Cyclops/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cíclope Rey  |
   | 4 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
   | 5 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
-  | 6 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señor del Abismo  |
+  | 6 | ![Demonio del Abismo](/images/u/ti_diyulingzhu.jpg) | [Demonio del Abismo](/es/units/Pit Fiend/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Señora del Abismo  |
   | 7 | ![Gólem de Hierro](/images/u/ti_tieren.jpg) | [Gólem de Hierro](/es/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gólem de Oro  |
   | 8 | ![Efrit](/images/u/ti_liehuojingling.jpg) | [Efrit](/es/units/Efreeti/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Sultán Efrit  |
   | 9 | ![Gárgola de Piedra](/images/u/ti_shixianggui.jpg) | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |

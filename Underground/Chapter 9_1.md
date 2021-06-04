@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 9 - 9-1 Una Batalla de Dos Ejércitos"
 permalink: /Underground/Chapter 9_1/
 excerpt: "Capítulo 9 - 1. Era of Chaos  Subterráneo - Capítulo 9_1. 9-1 Una Batalla de Dos Ejércitos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 9_1.md"
 toc: false

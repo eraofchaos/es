@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-7 El Ladrón de Caballos"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Capítulo 2 - 7. Era of Chaos  Historia principal - Capítulo 2_7. 2-7 El Ladrón de Caballos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 2_7.md"
 toc: false

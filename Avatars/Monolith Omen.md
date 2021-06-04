@@ -2,7 +2,7 @@
 title: "Avatar - Augurio de Monolito"
 permalink: /Avatars/Monolith Omen/
 excerpt: "Era of Chaos  Augurio de Monolito"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Monolith Omen.md"
 toc: false

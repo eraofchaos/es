@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Sirena. Sirena Unidades. null. Era of Chaos El propio mar protege a su hija, quien cura a sus compañeros con el poder del océano."
 unitID: 9905
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Sirena"
 toc: true
@@ -87,6 +87,7 @@ toc: true
 
 ## Emblemas Sagrados recomendados
 
+* [Fuente de inmortalidad](/es/Emblem/Spring of Immortality/) (Bien)
 * [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/) (Neutral)
 * [Principios legales del sucesor](/es/Emblem/Successors' Legal Principles/) (Neutral)
 

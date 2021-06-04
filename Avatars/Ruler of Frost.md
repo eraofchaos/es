@@ -2,7 +2,7 @@
 title: "Avatar - Soberano de la Escarcha"
 permalink: /Avatars/Ruler of Frost/
 excerpt: "Era of Chaos  Soberano de la Escarcha"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Ruler of Frost.md"
 toc: false

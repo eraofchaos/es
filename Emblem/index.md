@@ -2,7 +2,7 @@
 title: "Emblema Sagrado"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Equipar Emblemas Sagrados aumenta mucho el Poder de las unidades. Los Emblemas Sagrados tienen varias combinaciones de facción y calidad. Los conjuntos de Emblemas Sagrados conceden atributos adicionales geniales."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: false
@@ -27,28 +27,30 @@ classes: wide
   | 5 | ![Ficha de Aksoe](/images/r/rune_icon_303.png) | [Ficha de Aksoe](/es/Emblem/Aksoe Token/) | Neutral | Recomendado para unidades que ralentizan a los enemigos | 
   | 6 | ![Arrogancia](/images/r/rune_icon_402.png) | [Arrogancia](/es/Emblem/Arrogance/) | Caos | Recomendado para unidades DPS | 
   | 7 | ![Santuario de Kosmos](/images/r/rune_icon_307.png) | [Santuario de Kosmos](/es/Emblem/Sanctuary of Kosmos/) | Orden | Recomendado para unidades defensivas | 
-  | 8 | ![Autónimo olvidado](/images/r/rune_icon_501.png) | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/) | Maligno | Adecuado para cualquier unidad | 
-  | 9 | ![Culpabilidad de Tarnum](/images/r/rune_icon_305.png) | [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/) | Neutral | Adecuado para cualquier unidad | 
-  | 10 | ![Avaricia](/images/r/rune_icon_404.png) | [Avaricia](/es/Emblem/Greed/) | Caos | Recomendado para unidades defensivas | 
-  | 11 | ![Bendición de la Reina](/images/r/rune_icon_105.png) | [Bendición de la Reina](/es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
-  | 12 | ![Profeta Verde](/images/r/rune_icon_204.png) | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
-  | 13 | ![Profecía rota](/images/r/rune_icon_503.png) | [Profecía rota](/es/Emblem/Broken Prophecy/) | Maligno | Recomendado para unidades de 9 miembros | 
-  | 14 | ![Legado de Puño de Hierro](/images/r/rune_icon_103.png) | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
-  | 15 | ![Muro de la Sabiduría](/images/r/rune_icon_202.png) | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
-  | 16 | ![El juicio de los padres](/images/r/rune_icon_301.png) | [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) | Neutral | Recomendado para unidades que aturden a los enemigos | 
-  | 17 | ![Fuego antiguo](/images/r/rune_icon_101.png) | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
-  | 18 | ![La senda del Asesino](/images/r/rune_icon_107.png) | [La senda del Asesino](/es/Emblem/Path of an Assassin/) | Neutral | Recomendado para unidades DPS | 
-  | 19 | ![Aliento del Rey Dragón](/images/r/rune_icon_505.png) | [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) | Maligno | Recomendado para unidades defensivas | 
-  | 20 | ![Engranaje del tiempo](/images/r/rune_icon_205.png) | [Engranaje del tiempo](/es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
-  | 21 | ![Llave de piedra a los Portales](/images/r/rune_icon_302.png) | [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) | Neutral | Recomendado para unidades que hacen sangrar a los enemigos | 
-  | 22 | ![Envidia](/images/r/rune_icon_401.png) | [Envidia](/es/Emblem/Jealousy/) | Caos | Recomendado para unidades DPS | 
-  | 23 | ![Secreto interminable](/images/r/rune_icon_104.png) | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
-  | 24 | ![Ángel Guardián](/images/r/rune_icon_203.png) | [Ángel Guardián](/es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
-  | 25 | ![Calamidad del Rey](/images/r/rune_icon_502.png) | [Calamidad del Rey](/es/Emblem/King's Calamity/) | Maligno | Recomendado para unidades que queman a los enemigos | 
-  | 26 | ![Núcleo de la red global](/images/r/rune_icon_304.png) | [Núcleo de la red global](/es/Emblem/Core of the Global Network/) | Neutral | Adecuado para cualquier unidad | 
-  | 27 | ![Enfado](/images/r/rune_icon_403.png) | [Enfado](/es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 
-  | 28 | ![Alas de Grifo](/images/r/rune_icon_102.png) | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
-  | 29 | ![Testigo](/images/r/rune_icon_201.png) | [Testigo](/es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 
+  | 8 | ![Fuente de inmortalidad](/images/r/rune_icon_206.png) | [Fuente de inmortalidad](/es/Emblem/Spring of Immortality/) | Bien | null | 
+  | 9 | ![Autónimo olvidado](/images/r/rune_icon_501.png) | [Autónimo olvidado](/es/Emblem/Forgotten Autonym/) | Maligno | Adecuado para cualquier unidad | 
+  | 10 | ![Culpabilidad de Tarnum](/images/r/rune_icon_305.png) | [Culpabilidad de Tarnum](/es/Emblem/Tarnum's Culpability/) | Neutral | Adecuado para cualquier unidad | 
+  | 11 | ![Avaricia](/images/r/rune_icon_404.png) | [Avaricia](/es/Emblem/Greed/) | Caos | Recomendado para unidades defensivas | 
+  | 12 | ![Bendición de la Reina](/images/r/rune_icon_105.png) | [Bendición de la Reina](/es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
+  | 13 | ![Profeta Verde](/images/r/rune_icon_204.png) | [Profeta Verde](/es/Emblem/Green Prophet/) | Bien | Adecuado para cualquier unidad | 
+  | 14 | ![Profecía rota](/images/r/rune_icon_503.png) | [Profecía rota](/es/Emblem/Broken Prophecy/) | Maligno | Recomendado para unidades de 9 miembros | 
+  | 15 | ![Legado de Puño de Hierro](/images/r/rune_icon_103.png) | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
+  | 16 | ![Muro de la Sabiduría](/images/r/rune_icon_202.png) | [Muro de la Sabiduría](/es/Emblem/Wall of Knowledge/) | Bien | Adecuado para cualquier unidad | 
+  | 17 | ![El juicio de los padres](/images/r/rune_icon_301.png) | [El juicio de los padres](/es/Emblem/The Judgment of Fathers/) | Neutral | Recomendado para unidades que aturden a los enemigos | 
+  | 18 | ![Fuego antiguo](/images/r/rune_icon_101.png) | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
+  | 19 | ![La senda del Asesino](/images/r/rune_icon_107.png) | [La senda del Asesino](/es/Emblem/Path of an Assassin/) | Neutral | Recomendado para unidades DPS | 
+  | 20 | ![Aliento del Rey Dragón](/images/r/rune_icon_505.png) | [Aliento del Rey Dragón](/es/Emblem/Dragon King's Breath/) | Maligno | Recomendado para unidades defensivas | 
+  | 21 | ![El precio de la lealtad](/images/r/rune_icon_106.png) | [El precio de la lealtad](/es/Emblem/The Price of Loyalty/) | Orden | Recomendado para unidades DPS | 
+  | 22 | ![Engranaje del tiempo](/images/r/rune_icon_205.png) | [Engranaje del tiempo](/es/Emblem/Gear of Time/) | Bien | Recomendado para unidades defensivas | 
+  | 23 | ![Llave de piedra a los Portales](/images/r/rune_icon_302.png) | [Llave de piedra a los Portales](/es/Emblem/Stone Key to the Gates/) | Neutral | Recomendado para unidades que hacen sangrar a los enemigos | 
+  | 24 | ![Envidia](/images/r/rune_icon_401.png) | [Envidia](/es/Emblem/Jealousy/) | Caos | Recomendado para unidades DPS | 
+  | 25 | ![Secreto interminable](/images/r/rune_icon_104.png) | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
+  | 26 | ![Ángel Guardián](/images/r/rune_icon_203.png) | [Ángel Guardián](/es/Emblem/Guardian Angel/) | Bien | Recomendado para unidades DPS | 
+  | 27 | ![Calamidad del Rey](/images/r/rune_icon_502.png) | [Calamidad del Rey](/es/Emblem/King's Calamity/) | Maligno | Recomendado para unidades que queman a los enemigos | 
+  | 28 | ![Núcleo de la red global](/images/r/rune_icon_304.png) | [Núcleo de la red global](/es/Emblem/Core of the Global Network/) | Neutral | Adecuado para cualquier unidad | 
+  | 29 | ![Enfado](/images/r/rune_icon_403.png) | [Enfado](/es/Emblem/Anger/) | Caos | Adecuado para cualquier unidad | 
+  | 30 | ![Alas de Grifo](/images/r/rune_icon_102.png) | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
+  | 31 | ![Testigo](/images/r/rune_icon_201.png) | [Testigo](/es/Emblem/Witness/) | Bien | Recomendado para unidades DPS | 
 
 ## Normas
 

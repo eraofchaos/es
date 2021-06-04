@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-9 Intercambio Mágico"
 permalink: /Main Story/Chapter 20_9/
 excerpt: "Capítulo 20 - 9. Era of Chaos  Historia principal - Capítulo 20_9. 20-9 Intercambio Mágico"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 20_9.md"
 toc: false

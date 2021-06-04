@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 Ángel guardián"
 permalink: /Main Story/Chapter 3/
 excerpt: "Capítulo 3. Era of Chaos  Historia principal - Capítulo 3. Ángel guardián"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 3.md"
 toc: false

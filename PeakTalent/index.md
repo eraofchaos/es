@@ -2,7 +2,7 @@
 title: "Poder Máximo"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Poder Máximo. Poder Máximo. Los talentos máximos estarán disponibles a nvl. 110"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: false
@@ -107,6 +107,13 @@ sidebar:
   | 1 | ![Espada de la gloria](/images/pt/talent_4201.png) | [Espada de la gloria](/es/PeakTalent/Sword of Glory/) | Los habilidosos y feroces gladiadores alcanzan la gloria. |
   | 2 | ![Escudo de la gloria](/images/pt/talent_4202.png) | [Escudo de la gloria](/es/PeakTalent/Shield of Glory/) | Los gladiadores capaces de resistir todos los ataques alcanzan la gloria. |
   | 3 | ![Medalla de la gloria](/images/pt/talent_4203.png) | [Medalla de la gloria](/es/PeakTalent/Medal of Glory/) | Los gladiadores intrépidos alcanzan la gloria. |
+
+
+  | Nr | Icon | Nombre | Descripción |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Espada de los Señores](/images/pt/talent_4301.png) | [Espada de los Señores](/es/PeakTalent/Sword of Lords/) | Los Señores habilidosos y feroces se hacen con la victoria. |
+  | 2 | ![Escudo de los Señores](/images/pt/talent_4302.png) | [Escudo de los Señores](/es/PeakTalent/Shield of Lords/) | Los Señores capaces de resistir todos los ataques se hacen con la victoria. |
+  | 3 | ![Medalla de los Señores](/images/pt/talent_4303.png) | [Medalla de los Señores](/es/PeakTalent/Medal of Lords/) | Los Señores intrépidos se hacen con la victoria. |
 
 
   | Nr | Icon | Nombre | Descripción |

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-6 Plantación de Hongos"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "Capítulo 27 - 6. Era of Chaos  Historia principal - Capítulo 27_6. 27-6 Plantación de Hongos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 27_6.md"
 toc: false

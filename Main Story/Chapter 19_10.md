@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-10 Magia de la Memoria"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Capítulo 19 - 10. Era of Chaos  Historia principal - Capítulo 19_10. 19-10 Magia de la Memoria"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 19_10.md"
 toc: false

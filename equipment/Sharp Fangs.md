@@ -2,7 +2,7 @@
 title: "Colmillos afilados"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Colmillos afilados. Colmillos afilados"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Sharp Fangs.md"
 toc: false

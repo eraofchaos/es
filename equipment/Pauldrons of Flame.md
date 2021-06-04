@@ -2,7 +2,7 @@
 title: "Hombreras de Llamas"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Era of Chaos Hombreras de Llamas. Hombreras de Llamas"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Pauldrons of Flame.md"
 toc: false

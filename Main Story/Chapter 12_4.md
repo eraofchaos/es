@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-4 Intolerancia"
 permalink: /Main Story/Chapter 12_4/
 excerpt: "Capítulo 12 - 4. Era of Chaos  Historia principal - Capítulo 12_4. 12-4 Intolerancia"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 12_4.md"
 toc: false

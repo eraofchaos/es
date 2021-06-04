@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Arco Forestal"
 permalink: /artifacts/Forest Bow/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Arco Forestal. Un arco usado a menudo por las Elfas del Bosque. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Forest Bow.md"
 toc: false

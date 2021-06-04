@@ -2,7 +2,7 @@
 title: "Pedrusco en cadena"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Pedrusco en cadena. Pedrusco en cadena"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chained Boulder.md"
 toc: false

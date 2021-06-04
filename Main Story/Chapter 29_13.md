@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-13 Campo de entrenamiento de mercenarios"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "Capítulo 29 - 13. Era of Chaos  Historia principal - Capítulo 29_13. 29-13 Campo de entrenamiento de mercenarios"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 29_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 - 17-5 Sangre y Custodia"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Capítulo 17 - 5. Era of Chaos  Subterráneo - Capítulo 17_5. 17-5 Sangre y Custodia"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 17_5.md"
 toc: false

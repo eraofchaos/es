@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 24  Semana de la Mazmorra
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **14 Jun** | **5x [Troglodita](/ItemsES/unt_244/)**  | ¡Un escuadrón de Trogloditas se une a tu ejército y te vuelves más fuerte! |
+  | **15 Jun** | **3x [Arpía](/ItemsES/unt_245/)**  | ¡Un escuadrón de Arpías se une a tu ejército y te vuelves más fuerte! |
+  | **16 Jun** | **100x <i class="fas fa-gem"/>**  | ¡Las criaturas del Subterráneo oscuro te han traído un pequeño cúmulo de diamantes! |
+  | **17 Jun** | **3x [Minotauro](/ItemsES/unt_248/)**  | ¡Un escuadrón de Minotauros se une a tu ejército y te vuelves más fuerte! |
+  | **18 Jun** | **5x [Cofre de facción de Mazmorra](/ItemsES/con_1276/)**  | Tu ejército busca cofres del tesoro perdidos en el Subterráneo. |
+  | **19 Jun** | **3x [Mantícora](/ItemsES/unt_249/)**  | ¡Un escuadrón de Mantícoras se ha unido a tu ejército y te vuelves más fuerte! |
+  | **20 Jun** | **5x [Mutare](/ItemsES/her_389/)**  | ¡Siguiendo la guía del dragón antiguo, Mutare se une a tu ejército! |
+
 
 #### 2021 Week 23  Semana de Conflujo
 

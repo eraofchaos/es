@@ -1,8 +1,8 @@
 ---
 title: "Maestro pescador"
 permalink: /Fishing Master/
-excerpt: "Era of Chaos  Maestro pescador - 　　Querido Señor: aquí tienes tus recompensas por completar intentos de pesca. Echa un vistazo."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Maestro pescador - []　　Querido Señor: aquí tienes tus recompensas por completar intentos de pesca. Echa un vistazo.[]"
+last_modified_at: 2021-06-03
 locale: es
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ sidebar:
 
 <br/>  <span style="color: #3c2a1e">4. Puedes tocar el botón Actualizar para restablecer los premios. Restablecer los premios costará más diamantes en función de la cantidad de veces que actualices. El coste de diamantes se restablecerá a su valor inicial cuando obtengas una recompensa de calidad naranja en una ronda.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">5. Cuando obtengas la cantidad máxima de un tipo de recompensa, no aparecerán más de ese tipo al actualizar. Cuando obtengas recompensas de alta calidad, la actualización llenará el bote de premios con recompensas de la siguiente calidad máxima, con 10 recompensas en cada ronda. </span><br/>
+<br/>  <span style="color: #3c2a1e">5. Cuando obtengas la cantidad máxima de un tipo de recompensa, no aparecerán más de ese tipo al actualizar. Cuando obtengas recompensas de alta calidad, la actualización llenará el bote de premios con recompensas de la siguiente calidad máxima, con 10 recompensas en cada ronda.</span>
 
 <br/>  <span style="color: #3c2a1e">6. Las recompensas principales del bote de premios actual se muestran en la esquina superior izquierda de la página del evento. Toca el botón Vista previa para ver las recompensas de la ronda actual, así como el total de recompensas.</span><br/>
 

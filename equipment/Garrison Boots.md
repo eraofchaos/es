@@ -2,7 +2,7 @@
 title: "Botas de guarnición"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Botas de guarnición. Botas de guarnición"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Garrison Boots.md"
 toc: false

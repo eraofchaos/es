@@ -2,7 +2,7 @@
 title: "Información de combinación for Ralentizar"
 permalink: /combination/Slow/
 excerpt: "Información de combinación - Ralentizar. Units and Heroes Formation."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Ralentizar.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Era of Chaos  List of all Violet Artifact Components . Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Violet Artifact Components.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
  | ![Espada del Fuego Infernal](/images/t/artifact_40301.png) [Espada del Fuego Infernal](/es/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Ataque del Héroe**: 6+(LEVEL\*2.4) | Una espada que alberga un poder oscuro. Uno de los componentes de la Armadura de los Condenados. | 
  | ![Escudo de la Muerte](/images/t/artifact_40302.png) [Escudo de la Muerte](/es/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Defensa del Héroe**: 6+(LEVEL\*2.4) | Un escudo formado a partir de huesos de no muertos. Uno de los componentes de la Armadura de los Condenados. | 
  | ![Casco de Cráneo](/images/t/artifact_40303.png) [Casco de Cráneo](/es/artifacts/Skull Helmet/){: .btn .btn--era4} | **Daño Mágico**: 4+(LEVEL\*1.6) %<br/>**Inteligencia del Héroe**: 6+(LEVEL\*2.4) | Un casco encontrado en el Mundo Subterráneo. Uno de los componentes de la Armadura de los Condenados. | 
- | ![Armadura Ósea](/images/t/artifact_40304.png) [Armadura Ósea](/es/artifacts/Bone Armour/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un escudo compuesto de huesos duros. Uno de los componentes de la Armadura de los Condenados. | 
+ | ![Armadura Ósea](/images/t/artifact_40304.png) [Armadura Ósea](/es/artifacts/Bone Armor/){: .btn .btn--era4} | **Vida de la unidad**: 4+(LEVEL\*1.6) %<br/>**Sabiduría del Héroe**: 6+(LEVEL\*2.4) | Un escudo compuesto de huesos duros. Uno de los componentes de la Armadura de los Condenados. | 
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/es/artifacts/Artifacts Upgrade/)

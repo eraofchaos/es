@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-1 Estrategas"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Capítulo 8 - 1. Era of Chaos  Subterráneo - Capítulo 8_1. 8-1 Estrategas"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 8_1.md"
 toc: false

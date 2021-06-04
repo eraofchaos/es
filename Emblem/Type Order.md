@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Orden"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Orden. Era of Chaos Orden"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "typeOrden.md"
 toc: false
@@ -18,5 +18,6 @@ classes: wide
   | 2 | ![Bendición de la Reina](/images/r/rune_icon_105.png) | [Bendición de la Reina](/es/Emblem/Queen's Blessing/) | Orden | Recomendado para unidades defensivas | 
   | 3 | ![Legado de Puño de Hierro](/images/r/rune_icon_103.png) | [Legado de Puño de Hierro](/es/Emblem/Ironfist's Legacy/) | Orden | Recomendado para unidades DPS | 
   | 4 | ![Fuego antiguo](/images/r/rune_icon_101.png) | [Fuego antiguo](/es/Emblem/Ancient Fire/) | Orden | Adecuado para cualquier unidad | 
-  | 5 | ![Secreto interminable](/images/r/rune_icon_104.png) | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
-  | 6 | ![Alas de Grifo](/images/r/rune_icon_102.png) | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 
+  | 5 | ![El precio de la lealtad](/images/r/rune_icon_106.png) | [El precio de la lealtad](/es/Emblem/The Price of Loyalty/) | Orden | Recomendado para unidades DPS | 
+  | 6 | ![Secreto interminable](/images/r/rune_icon_104.png) | [Secreto interminable](/es/Emblem/Everlasting Secret/) | Orden | Adecuado para cualquier unidad | 
+  | 7 | ![Alas de Grifo](/images/r/rune_icon_102.png) | [Alas de Grifo](/es/Emblem/Griffin Wings/) | Orden | Recomendado para unidades DPS | 

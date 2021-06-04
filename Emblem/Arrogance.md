@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Arrogancia"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Arrogancia. Arrogancia. Era of Chaos Emblema Sagrado Arrogancia. Era of Chaos Caos Arrogancia"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Arrogance.md"
 toc: false

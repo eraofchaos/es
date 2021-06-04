@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 Pionero"
 permalink: /Underground/Chapter 5/
 excerpt: "Capítulo 5 Pionero. Era of Chaos  Subterráneo - Capítulo 5. Pionero"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 5.md"
 toc: false

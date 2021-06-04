@@ -2,7 +2,7 @@
 title: "Pupilo de la Muerte"
 permalink: /equipment/Pupil of Death/
 excerpt: "Era of Chaos Pupilo de la Muerte. Pupilo de la Muerte"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Pupil of Death.md"
 toc: false

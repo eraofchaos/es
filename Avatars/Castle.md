@@ -2,7 +2,7 @@
 title: "Avatar - Castillo"
 permalink: /Avatars/Castle/
 excerpt: "Era of Chaos  Castillo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Castle.md"
 toc: false

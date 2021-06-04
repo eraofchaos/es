@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 - 27-4 El Poeta y sus Manías"
 permalink: /Underground/Chapter 27_4/
 excerpt: "Capítulo 27 - 4. Era of Chaos  Subterráneo - Capítulo 27_4. 27-4 El Poeta y sus Manías"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 27_4.md"
 toc: false

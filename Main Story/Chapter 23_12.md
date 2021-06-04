@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-12 Baño de Sangre de Dragón"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Capítulo 23 - 12. Era of Chaos  Historia principal - Capítulo 23_12. 23-12 Baño de Sangre de Dragón"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 23_12.md"
 toc: false

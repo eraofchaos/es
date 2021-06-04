@@ -2,7 +2,7 @@
 title: "Gorra de Prestigio"
 permalink: /equipment/Cap of Prestige/
 excerpt: "Era of Chaos Gorra de Prestigio. Gorra de Prestigio"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Cap of Prestige.md"
 toc: false

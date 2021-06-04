@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-2 Huida en la Portela del Dragón"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Capítulo 17 - 2. Era of Chaos  Historia principal - Capítulo 17_2. 17-2 Huida en la Portela del Dragón"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 17_2.md"
 toc: false

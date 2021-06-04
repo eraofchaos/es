@@ -2,7 +2,7 @@
 title: "Dientes Hirvientes"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Dientes Hirvientes. Dientes Hirvientes"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Scalding Teeth.md"
 toc: false

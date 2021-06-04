@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-6 Hogar Roto"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Capítulo 7 - 6. Era of Chaos  Historia principal - Capítulo 7_6. 7-6 Hogar Roto"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 7_6.md"
 toc: false

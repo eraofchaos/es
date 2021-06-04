@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-14 Armadura de Dragón"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Capítulo 5 - 14. Era of Chaos  Historia principal - Capítulo 5_14. 5-14 Armadura de Dragón"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Chapter 5_14.md"
 toc: false

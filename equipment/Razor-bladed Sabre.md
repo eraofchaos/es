@@ -2,7 +2,7 @@
 title: "Sable Afilado"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "Era of Chaos Sable Afilado. Sable Afilado"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Razor-bladed Sabre.md"
 toc: false

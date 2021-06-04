@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán - Escudo del Centinela"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Era of Chaos  Trueno del Titán - Escudo del Centinela. Un escudo bendecido con un poder sagrado. Uno de los componentes del Trueno del Titán."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: es
 ref: "Sentinel's Shield.md"
 toc: false
