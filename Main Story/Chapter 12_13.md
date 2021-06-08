@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-13 El Secreto Oculto"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Capítulo 12 - 13. Era of Chaos  Historia principal - Capítulo 12_13. 12-13 El Secreto Oculto"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 12_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Fuego en el Abismo"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Fuego en el Abismo. Fuego en el Abismo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Fire in the Abyss.md"
 toc: false

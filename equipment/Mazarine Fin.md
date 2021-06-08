@@ -2,7 +2,7 @@
 title: "Aleta Añil"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Aleta Añil. Aleta Añil"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Mazarine Fin.md"
 toc: false

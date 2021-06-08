@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-8 Mina Enana"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Capítulo 17 - 8. Era of Chaos  Historia principal - Capítulo 17_8. 17-8 Mina Enana"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 17_8.md"
 toc: false

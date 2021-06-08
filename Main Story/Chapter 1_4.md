@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-4 Árbol de la Sabiduría"
 permalink: /Main Story/Chapter 1_4/
 excerpt: "Capítulo 1 - 4. Era of Chaos  Historia principal - Capítulo 1_4. 1-4 Árbol de la Sabiduría"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 1_4.md"
 toc: false

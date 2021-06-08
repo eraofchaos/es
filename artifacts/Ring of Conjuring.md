@@ -2,7 +2,7 @@
 title: "Artefacto - Anillo de la Maga - Anillo de Hechicería"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Era of Chaos  Anillo de la Maga - Anillo de Hechicería. Un anillo misterioso con magia fuerte. Uno de los componentes del Anillo de la Maga."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Ring of Conjuring.md"
 toc: false

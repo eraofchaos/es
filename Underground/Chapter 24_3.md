@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 24 - 24-3 El Poder del Rayo"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Capítulo 24 - 3. Era of Chaos  Subterráneo - Capítulo 24_3. 24-3 El Poder del Rayo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 24_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Cristal de Hielo Profundo"
 permalink: /Avatars/Deep Ice Crystal/
 excerpt: "Era of Chaos  Cristal de Hielo Profundo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Deep Ice Crystal.md"
 toc: false

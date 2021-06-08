@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "index.md"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 28 | ![Corazón de fuego](/images/a/avatarFrame_23.png) | [Corazón de fuego](/es/Avatars/Heart of Fire/) | + | Marco de avatar de Corazón de fuego |
   | 29 | ![Cristal de Hielo Profundo](/images/a/avatarFrame_91.png) | [Cristal de Hielo Profundo](/es/Avatars/Deep Ice Crystal/) | + | Marco de avatar Cristal de Hielo Profundo |
   | 30 | ![Danza de hojas](/images/a/avatarFrame_26.png) | [Danza de hojas](/es/Avatars/Dance of the Blades/) | + | Marco de avatar de Danza de hojas |
-  | 31 |  | [Demonio Infernal](/es/Avatars/Inferno Demon/) | - | Marco de avatar Demonio Infernal |
+  | 31 |  | [Demonio Infernal](/es/Avatars/Inferno Demon/) | + | Marco de avatar Demonio Infernal |
   | 32 | ![Dominación de la oscuridad](/images/a/avatarFrame_34.png) | [Dominación de la oscuridad](/es/Avatars/Darkness Dominance/) | + | Marco de avatar de Dominación de la oscuridad |
   | 33 | ![El Páramo](/images/a/avatarFrame_70.png) | [El Páramo](/es/Avatars/The Moor/) | + | Marco de avatar de Calamidad del Páramo |
   | 34 | ![Escama de fútbol](/images/a/avatarFrame_83.png) | [Escama de fútbol](/es/Avatars/Foolbatt's Squama/) | + | Marco de avatar de Escama de fútbol |

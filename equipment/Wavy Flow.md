@@ -2,7 +2,7 @@
 title: "Río Ondulante"
 permalink: /equipment/Wavy Flow/
 excerpt: "Era of Chaos Río Ondulante. Río Ondulante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Wavy Flow.md"
 toc: false

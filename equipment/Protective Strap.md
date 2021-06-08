@@ -2,7 +2,7 @@
 title: "Correa protectora"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Correa protectora. Correa protectora"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Protective Strap.md"
 toc: false

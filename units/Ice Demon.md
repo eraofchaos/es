@@ -3,7 +3,7 @@ title: "Demonio de Hielo"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Demonio de Hielo. Demonio de Hielo Unidades. null. Era of Chaos Una Demonio de Hielo es un ser extraño hasta para el Plano del Conflujo. Es un trozo de hielo que jamás se derretirá. Es capaz de cegarte la vista y robarte el aliento. Se asemeja a los cadáveres enterrados en tumbas gélidas."
 unitID: 908
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Demonio de Hielo"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
- **Race:** Amaestrador
+ **Race:** Diablo
 
  **Members:** [x1](/es/units/Unit Member x1/)
 

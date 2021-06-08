@@ -2,7 +2,7 @@
 title: "Capa Cortavientos"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Capa Cortavientos. Capa Cortavientos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Windproof Cloak.md"
 toc: false

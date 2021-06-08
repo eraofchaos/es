@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-10 La Encrucijada"
 permalink: /Main Story/Chapter 22_10/
 excerpt: "Capítulo 22 - 10. Era of Chaos  Historia principal - Capítulo 22_10. 22-10 La Encrucijada"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 22_10.md"
 toc: false

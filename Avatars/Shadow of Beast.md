@@ -2,7 +2,7 @@
 title: "Avatar - Sombra de la bestia"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Era of Chaos  Sombra de la bestia"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Shadow of Beast.md"
 toc: false

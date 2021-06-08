@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-2 Reunión de Ejércitos"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Capítulo 6 - 2. Era of Chaos  Historia principal - Capítulo 6_2. 6-2 Reunión de Ejércitos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 6_2.md"
 toc: false

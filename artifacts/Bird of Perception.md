@@ -2,7 +2,7 @@
 title: "Artefacto - Ojo de halcón - Ave de Percepción"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Ojo de halcón - Ave de Percepción. Una escultura de Ojo de halcón encantada por el poder de una bruja. Uno de los componentes del Ojo de halcón."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Bird of Perception.md"
 toc: false

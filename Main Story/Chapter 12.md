@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 Mar de hielo"
 permalink: /Main Story/Chapter 12/
 excerpt: "Capítulo 12. Era of Chaos  Historia principal - Capítulo 12. Mar de hielo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 12.md"
 toc: false

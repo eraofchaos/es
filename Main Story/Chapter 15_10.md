@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-10 Cambio de Hombre"
 permalink: /Main Story/Chapter 15_10/
 excerpt: "Capítulo 15 - 10. Era of Chaos  Historia principal - Capítulo 15_10. 15-10 Cambio de Hombre"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 15_10.md"
 toc: false

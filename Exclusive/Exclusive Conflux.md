@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Conflux"
 permalink: /Exclusive/Exclusive Conflux/
 excerpt: "Era of Chaos Exclusivo Conflux. Exclusivo Conflux. List of Exclusivo Conflux in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Exclusive Conflux"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 3  | [Elemental de Hielo](/es/units/Ice Elemental/) | [Canto Arcano](/es/Exclusive/Ice Elemental Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
   | 4  | [Elemental de Fuego](/es/units/Fire Elemental/) | [Energía de fuego](/es/Exclusive/Fire Elemental Fire Energy/) | - | A distancia | [Ficha de Energía de fuego](/ItemsES/con_998/) | [Aspecto Especial de Energía de fuego](/ItemsES/con_666/) |
   | 5  | [Elemental de Piedra](/es/units/Stone Elemental/) | [Núcleo de Energía](/es/Exclusive/Stone Elemental Energy Core/) | - | A distancia | [Ficha de Núcleo de energía](/ItemsES/con_999/) | [Aspecto Especial de Núcleo de energía](/ItemsES/con_667/) |
-  | 6  | [Elemental Psíquico](/es/units/Psychic Elemental/) | [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) | - | Asistencia técnica | [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | [Aspecto Especial de Núcleo Espiritual](/ItemsES/con_668/) |
+  | 6  | [Elemental Psíquico](/es/units/Psychic Elemental/) | [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) | + | Asistencia técnica | [Ficha de Núcleo Espiritual](/ItemsES/con_1000/) | [Aspecto Especial de Núcleo Espiritual](/ItemsES/con_668/) |
   | 7  | [Pájaro Ígneo](/es/units/Firebird/) | [Llama eterna](/es/Exclusive/Firebird Eternal Flame/) | + | A distancia | [Ficha de Llama eterna](/ItemsES/con_1001/) | [Aspecto Especial de Llama eterna](/ItemsES/con_669/) |
   | 8  | [Demonio de Hielo](/es/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [Duendecillo](/es/units/Leprechaun/) | [Espinas](/es/Exclusive/Leprechaun Thorns/) | - | Asistencia técnica | - | - |

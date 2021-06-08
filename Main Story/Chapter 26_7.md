@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-7 La Gratitud del Sabio"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Capítulo 26 - 7. Era of Chaos  Historia principal - Capítulo 26_7. 26-7 La Gratitud del Sabio"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 26_7.md"
 toc: false

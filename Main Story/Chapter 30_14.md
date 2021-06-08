@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-14 Cuartel general del Infierno"
 permalink: /Main Story/Chapter 30_14/
 excerpt: "Capítulo 30 - 14. Era of Chaos  Historia principal - Capítulo 30_14. 30-14 Cuartel general del Infierno"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 30_14.md"
 toc: false

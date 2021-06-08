@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-12 La Batalla de la Llanura"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Capítulo 13 - 12. Era of Chaos  Historia principal - Capítulo 13_12. 13-12 La Batalla de la Llanura"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 13_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Abeja Asesina"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Abeja Asesina. Abeja Asesina"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Killer Bee.md"
 toc: false

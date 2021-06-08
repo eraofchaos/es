@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-7 Guerra sin Cuartel"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "Capítulo 8 - 7. Era of Chaos  Historia principal - Capítulo 8_7. 8-7 Guerra sin Cuartel"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 8_7.md"
 toc: false

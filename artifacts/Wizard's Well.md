@@ -2,7 +2,7 @@
 title: "Artefacto - Pozo del Hechicero"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Era of Chaos  Pozo del Hechicero. Pozo del Hechicero Un objeto mágico forjado para matar demonios. Capaz de aumentar la velocidad de regeneración de puntos de hechizo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Wizard's Well.md"
 toc: false

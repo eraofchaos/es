@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-12 Academia de Combate"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Capítulo 25 - 12. Era of Chaos  Historia principal - Capítulo 25_12. 25-12 Academia de Combate"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 25_12.md"
 toc: false

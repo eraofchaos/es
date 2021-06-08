@@ -2,7 +2,7 @@
 title: "Avatar - Corazón de fuego"
 permalink: /Avatars/Heart of Fire/
 excerpt: "Era of Chaos  Corazón de fuego"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Heart of Fire.md"
 toc: false

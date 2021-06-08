@@ -3,7 +3,7 @@ title: "Elemental Psíquico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Elemental Psíquico. Elemental Psíquico Unidades. Elemental de Magia. Era of Chaos Un ente de energía surgido de las ideas del mundo material. Es capaz de atacar la mente de sus enemigos. Aquellos sin gran resistencia mental acabaran trastocados o delirantes."
 unitID: 906
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Elemental Psíquico"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
- **Race:** Amaestrador
+ **Race:** Diablo
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **Nombre:** [Núcleo Espiritual](/es/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Núcleo Espiritual](/ItemsES/con_1000/)
 

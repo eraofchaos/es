@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Principios legales del sucesor"
 permalink: /Emblem/Successors' Legal Principles/
 excerpt: "Era of Chaos Principios legales del sucesor. Principios legales del sucesor. Era of Chaos Emblema Sagrado Principios legales del sucesor. Era of Chaos Neutral Principios legales del sucesor"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Successors' Legal Principles.md"
 toc: false

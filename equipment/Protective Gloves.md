@@ -2,7 +2,7 @@
 title: "Guantes protectores"
 permalink: /equipment/Protective Gloves/
 excerpt: "Era of Chaos Guantes protectores. Guantes protectores"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Protective Gloves.md"
 toc: false

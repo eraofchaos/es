@@ -2,7 +2,7 @@
 title: "VIP - VIP 10"
 permalink: /VIP/VIP 10/
 excerpt: "Era of Chaos  Sistema VIP. VIP 10"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "VIP 10.md"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
 
  **4** <span style="color: black"><span style="color: #00FF1E;font-size:19px"> Te permite acelerar cada uno de los Barracones 3 veces al día.</span><span style="color: black">[pic=vip_newImg.png]</span><span style="color: black">
 
- **5** <span style="color: black"><span style="color: #FFECCD"> Te permite comprar acceso a la Arena Gloriosa </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #FFECCD"> veces al día.</span><span style="color: black">
+ **5** <span style="color: black"><span style="color: #462800"> Te permite comprar acceso a la Arena Gloriosa </span><span style="color: black"><span style="color: #00FF1E;font-size:20px">12</span><span style="color: black"><span style="color: #462800"> veces al día.</span><span style="color: black">
 
  **6** <span style="color: black"><span style="color: #462800"> Te permite adivinar</span><span style="color: black"><span style="color: #00FF1E;font-size:19px"> 30 </span><span style="color: black"><span style="color: #462800">veces al día.</span><span style="color: black">
 

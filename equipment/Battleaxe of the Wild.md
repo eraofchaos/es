@@ -2,7 +2,7 @@
 title: "Hacha de Guerra de la Naturaleza"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Hacha de Guerra de la Naturaleza. Hacha de Guerra de la Naturaleza"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Battleaxe of the Wild.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-11 La Mano de Obra de Deyja"
 permalink: /Main Story/Chapter 17_11/
 excerpt: "Capítulo 17 - 11. Era of Chaos  Historia principal - Capítulo 17_11. 17-11 La Mano de Obra de Deyja"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 17_11.md"
 toc: false

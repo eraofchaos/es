@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-4 La Devorahombres"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "Capítulo 28 - 4. Era of Chaos  Historia principal - Capítulo 28_4. 28-4 La Devorahombres"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 28_4.md"
 toc: false

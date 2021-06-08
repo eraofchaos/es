@@ -2,7 +2,7 @@
 title: "Espada del Reino. Poder Máximo - Espada del Reino"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Era of Chaos Poder Máximo Espada del Reino. Poder Máximo Espada del Reino. Espada del Reino"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Sword of Kingdom.md"
 toc: false

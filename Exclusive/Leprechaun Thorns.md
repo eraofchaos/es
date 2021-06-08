@@ -2,7 +2,7 @@
 title: "Exclusivo - Espinas (Leprechaun)"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Espinas. Espinas. Era of Chaos Exclusivo Espinas. Duendecillo Exclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Leprechaun Espinas.md"
 toc: false

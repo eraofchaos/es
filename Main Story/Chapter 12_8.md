@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-8 Batalla Relámpago"
 permalink: /Main Story/Chapter 12_8/
 excerpt: "Capítulo 12 - 8. Era of Chaos  Historia principal - Capítulo 12_8. 12-8 Batalla Relámpago"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 12_8.md"
 toc: false

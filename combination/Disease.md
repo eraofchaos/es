@@ -2,7 +2,7 @@
 title: "Información de combinación for Enfermedad"
 permalink: /combination/Disease/
 excerpt: "Información de combinación - Enfermedad. Units and Heroes Formation."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Enfermedad.md"
 toc: false

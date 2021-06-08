@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-5 Perspicacia Fina"
 permalink: /Main Story/Chapter 27_5/
 excerpt: "Capítulo 27 - 5. Era of Chaos  Historia principal - Capítulo 27_5. 27-5 Perspicacia Fina"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 27_5.md"
 toc: false

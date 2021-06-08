@@ -2,7 +2,7 @@
 title: "Avatar - Comandante táctico"
 permalink: /Avatars/Tactical Commander/
 excerpt: "Era of Chaos  Comandante táctico"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Tactical Commander.md"
 toc: false

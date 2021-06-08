@@ -2,7 +2,7 @@
 title: "Artefacto - Hacha de la Ferocidad - Túnica del Rey Cíclope"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "Era of Chaos  Hacha de la Ferocidad - Túnica del Rey Cíclope. Un abrigo perdido por un Cíclope bañista despistado. Uno de los componentes del Hacha de la Ferocidad."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Tunic of the Cyclops King.md"
 toc: false

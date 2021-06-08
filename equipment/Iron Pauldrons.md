@@ -2,7 +2,7 @@
 title: "Hombreras de hierro"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Era of Chaos Hombreras de hierro. Hombreras de hierro"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Iron Pauldrons.md"
 toc: false

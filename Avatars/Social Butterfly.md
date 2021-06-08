@@ -2,7 +2,7 @@
 title: "Avatar - Mariposa social"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Era of Chaos  Mariposa social"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Social Butterfly.md"
 toc: false

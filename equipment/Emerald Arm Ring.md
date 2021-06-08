@@ -2,7 +2,7 @@
 title: "Brazal Esmeralda"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Brazal Esmeralda. Brazal Esmeralda"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Emerald Arm Ring.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-8 El Paradero del Explorador"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Capítulo 23 - 8. Era of Chaos  Historia principal - Capítulo 23_8. 23-8 El Paradero del Explorador"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 23_8.md"
 toc: false

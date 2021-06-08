@@ -2,7 +2,7 @@
 title: "Golpe desquiciado. Poder Máximo - Golpe desquiciado"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Poder Máximo Golpe desquiciado. Poder Máximo Golpe desquiciado. Golpe desquiciado"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Crazy Smite.md"
 toc: false

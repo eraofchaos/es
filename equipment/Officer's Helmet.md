@@ -2,7 +2,7 @@
 title: "Casco de Oficial"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Casco de Oficial. Casco de Oficial"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Officer's Helmet.md"
 toc: false

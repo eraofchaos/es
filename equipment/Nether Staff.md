@@ -2,7 +2,7 @@
 title: "Báculo del Inframundo"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Báculo del Inframundo. Báculo del Inframundo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Nether Staff.md"
 toc: false

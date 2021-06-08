@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-3 Tromba Caótica"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Capítulo 23 - 3. Era of Chaos  Subterráneo - Capítulo 23_3. 23-3 Tromba Caótica"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 23_3.md"
 toc: false

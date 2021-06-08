@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-2 Huellas de las Sombras Oscuras"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Capítulo 1 - 2. Era of Chaos  Subterráneo - Capítulo 1_2. 1-2 Huellas de las Sombras Oscuras"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 1_2.md"
 toc: false

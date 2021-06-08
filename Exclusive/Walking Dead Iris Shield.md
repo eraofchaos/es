@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Muerto Viviente Exclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Walking Dead Escudo Iris.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Si el objetivo tiene «Moral baja», la velocidad de ataque del Muerto Viviente y su absorción de vida aumentan un 20%. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Los Muertos Vivientes restauran 1% de sus PV máximos por segundo. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Los Muertos Vivientes reducen la DEF de las unidades hostiles a su alrededor en 25 cada 4 s durante 5 s. Este efecto se acumula. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Al principio de la batalla, la velocidad de movimiento de las unidades hostiles se reduce en 30 durante 4 s. Aumenta el daño de las unidades de Necrópolis amistosas un 20% durante 20 s cuando recuperan su velocidad de movimiento. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Al principio de la batalla, la velocidad de movimiento de las unidades hostiles y amistosas se reduce en 30 durante 4 s. Aumenta el daño de las unidades de Necrópolis amistosas un 20% durante 20 s cuando recuperan su velocidad de movimiento. |
 
 
 ## Subir de nivel

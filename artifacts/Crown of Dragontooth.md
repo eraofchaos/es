@@ -2,7 +2,7 @@
 title: "Artefacto - Poder del Padre de los Dragones - Corona de Diente de Dragón"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Era of Chaos  Poder del Padre de los Dragones - Corona de Diente de Dragón. Un casco hecho de dientes de dragón. Uno de los componentes del Poder del Padre de los Dragones."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Crown of Dragontooth.md"
 toc: false

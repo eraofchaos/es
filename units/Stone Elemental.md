@@ -3,7 +3,7 @@ title: "Elemental de Piedra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Elemental de Piedra. Elemental de Piedra Unidades. null. Era of Chaos El Elemental de Piedra es el resultado de la fusión de múltiples minerales a través de procesos geológicos. Se divide en Elementales de Piedra más pequeños que continúan luchando."
 unitID: 905
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Elemental de Piedra"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Facción:** [Conflujo](/es/units/Faction Conflux/)
 
- **Race:** Amaestrador
+ **Race:** Diablo
 
  **Members:** [x4](/es/units/Unit Member x4/)
 

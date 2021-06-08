@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Wight)"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Aparición Exclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Wight Canto Arcano.md"
 toc: false

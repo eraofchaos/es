@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 - 18-2 La Llama Infernal"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Capítulo 18 - 2. Era of Chaos  Subterráneo - Capítulo 18_2. 18-2 La Llama Infernal"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 18_2.md"
 toc: false

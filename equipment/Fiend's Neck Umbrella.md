@@ -2,7 +2,7 @@
 title: "Ala de Cuello de Demonio"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Ala de Cuello de Demonio. Ala de Cuello de Demonio"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Fiend's Neck Umbrella.md"
 toc: false

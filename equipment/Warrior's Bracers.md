@@ -2,7 +2,7 @@
 title: "Brazaletes del Guerrero"
 permalink: /equipment/Warrior's Bracers/
 excerpt: "Era of Chaos Brazaletes del Guerrero. Brazaletes del Guerrero"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Warrior's Bracers.md"
 toc: false

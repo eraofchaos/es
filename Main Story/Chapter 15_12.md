@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-12 La Crisis"
 permalink: /Main Story/Chapter 15_12/
 excerpt: "Capítulo 15 - 12. Era of Chaos  Historia principal - Capítulo 15_12. 15-12 La Crisis"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 15_12.md"
 toc: false

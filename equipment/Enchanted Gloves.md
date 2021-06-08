@@ -2,7 +2,7 @@
 title: "Guantes Encantados"
 permalink: /equipment/Enchanted Gloves/
 excerpt: "Era of Chaos Guantes Encantados. Guantes Encantados"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Enchanted Gloves.md"
 toc: false

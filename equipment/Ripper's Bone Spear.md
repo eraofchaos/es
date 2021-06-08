@@ -2,7 +2,7 @@
 title: "Lanza Ósea del Destripador"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Lanza Ósea del Destripador. Lanza Ósea del Destripador"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Ripper's Bone Spear.md"
 toc: false

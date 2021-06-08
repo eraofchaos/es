@@ -2,7 +2,7 @@
 title: "Refuerzos de batalla"
 permalink: /Backup/
 excerpt: "Era of Chaos  Refuerzos de batalla - Las Magas pueden desgarrar un portal en el espacio del campo de batalla, transportando 3 unidades de refuerzo al campo de batalla mientras generan un fuerte aura de hechizo. Tus enemigos temblarán."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "index.md"
 toc: false

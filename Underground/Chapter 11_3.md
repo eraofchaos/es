@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-3 ¡A cubierto!"
 permalink: /Underground/Chapter 11_3/
 excerpt: "Capítulo 11 - 3. Era of Chaos  Subterráneo - Capítulo 11_3. 11-3 ¡A cubierto!"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 11_3.md"
 toc: false

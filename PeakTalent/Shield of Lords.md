@@ -2,7 +2,7 @@
 title: "Escudo de los Señores. Poder Máximo - Escudo de los Señores"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Era of Chaos Poder Máximo Escudo de los Señores. Poder Máximo Escudo de los Señores. Escudo de los Señores"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Shield of Lords.md"
 toc: false

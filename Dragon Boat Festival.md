@@ -2,7 +2,7 @@
 title: "Festival del Barco del Dragón"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Festival del Barco del Dragón - Misión del Barco del Dragón"
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: es
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ sidebar:
 
   <span style="color: #3c2a1e">1. Durante el Festival del Barco del Dragón, le ordenaron a un Piquero que cogiera un Barco del Dragón y explorara el misterioso dominio acuático recién descubierto. Una vez allí, encontró muchos alimentos mágicos denominados \"empanadillas de arroz mágicas\".</span><br/>
 
-<br/>  <span style="color: #3c2a1e">2. Cada dominio acuático tiene %s empanadilla(s) de arroz mágica(s). Toca la empanadilla de arroz mágica para abrirla y obtener un objeto poco común o activar un evento.</span><br/>
+<br/>  <span style="color: #3c2a1e">2. Cada dominio acuático tiene 20 empanadilla(s) de arroz mágica(s). Toca la empanadilla de arroz mágica para abrirla y obtener un objeto poco común o activar un evento.</span><br/>
 
 <br/>  <span style="color: #3c2a1e">3. Cada dominio acuático tiene 1 evento garantizado. Una vez activado el evento, puedes navegar con el Barco del Dragón hasta el siguiente dominio acuático. Después de llegar al siguiente dominio acuático, no podrás regresar al dominio acuático anterior.</span><br/>
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Misión del Barco del Dragón
 
-  **Talk Pikeman:** ¡Gracias por encontrarme! Permíteme remar en el Barco del Dragón.
+  **Talk Pikeman:** [color=000000]¡Gracias por encontrarme! Permíteme remar en el Barco del Dragón.[-]
 
-  **Talk Mermaid:** ¡Tienes suerte de haberme encontrado! Deja que te ayude.
+  **Talk Mermaid:** [color=000000]¡Tienes suerte de haberme encontrado! Deja que te ayude.[-]
 
-  **First Talk Regnan Seer :** Tu perseverancia me conmueve, valiente guerrero del Barco del Dragón. Ven y elige tu recompensa.
+  **First Talk Regnan Seer :** [color=000000]Tu perseverancia me conmueve, valiente guerrero del Barco del Dragón. Ven y elige tu recompensa.[-]
 
-  **Second Talk Regnan Seer:** Volvemos a encontrarnos valiente guerrero del Barco del Dragón. Tu perseverancia es digna de elogio. Ven y elige tu recompensa.
+  **Second Talk Regnan Seer:** [color=000000]Volvemos a encontrarnos valiente guerrero del Barco del Dragón. Tu perseverancia es digna de elogio. Ven y elige tu recompensa.[-]
 
-  **Final Talk Regnan Seer:** Aquí terminan las recompensas, valiente guerrero del Barco del Dragón. ¡Enhorabuena por completar la aventura!
+  **Final Talk Regnan Seer:** [color=000000]Aquí terminan las recompensas, valiente guerrero del Barco del Dragón. ¡Enhorabuena por completar la aventura![-]
 
   **Movement Notification 1:** Ahora que contamos con personal nuevo a bordo, el Barco del Dragón puede navegar hasta dominios acuáticos aún más lejanos.
 

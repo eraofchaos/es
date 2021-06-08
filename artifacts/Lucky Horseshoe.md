@@ -2,7 +2,7 @@
 title: "Artefacto - Herradura de la Suerte"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Era of Chaos  Herradura de la Suerte. Herradura de la Suerte Una reliquia sagrada rebosante de fuerza. Capaz de aumentar el ataque de todo un ejército."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Lucky Horseshoe.md"
 toc: false

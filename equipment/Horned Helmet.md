@@ -2,7 +2,7 @@
 title: "Yelmo Astado"
 permalink: /equipment/Horned Helmet/
 excerpt: "Era of Chaos Yelmo Astado. Yelmo Astado"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Horned Helmet.md"
 toc: false

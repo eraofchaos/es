@@ -2,7 +2,7 @@
 title: "Avatar - Se hará como desees"
 permalink: /Avatars/All Goes as You Wish/
 excerpt: "Era of Chaos  Se hará como desees"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "All Goes as You Wish.md"
 toc: false

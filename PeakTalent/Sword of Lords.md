@@ -2,7 +2,7 @@
 title: "Espada de los Señores. Poder Máximo - Espada de los Señores"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Era of Chaos Poder Máximo Espada de los Señores. Poder Máximo Espada de los Señores. Espada de los Señores"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Sword of Lords.md"
 toc: false

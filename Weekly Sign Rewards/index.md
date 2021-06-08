@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 25  Semana del Infierno
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **21 Jun** | **5x [Diablillo](/ItemsES/unt_226/)**  | ¡Un escuadrón de Diablillos se une a tu ejército y te vuelves más fuerte! |
+  | **22 Jun** | **5x [Gog](/ItemsES/unt_227/)**  | ¡Un escuadrón de Gog se une a tu ejército y te vuelves más fuerte! |
+  | **23 Jun** | **3x [Sabueso Infernal](/ItemsES/unt_228/)**  | ¡Un escuadrón de Sabuesos Infernales se une a tu ejército y te vuelves más fuerte! |
+  | **24 Jun** | **5x [Cofre de unidad del Infierno](/ItemsES/con_1273/)**  | ¡Tus tropas del Infierno te han traído varios cofres del tesoro! |
+  | **25 Jun** | **3x [Demonio](/ItemsES/unt_229/)**  | ¡Un escuadrón de Demonios se une a tu ejército y te vuelves más fuerte! |
+  | **26 Jun** | **3x [Demonio del Abismo](/ItemsES/unt_230/)**  | ¡Un escuadrón de Demonios del Abismo se une a tu ejército y te vuelves más fuerte! |
+  | **27 Jun** | **5x [Rashka](/ItemsES/her_384/)**  | ¡El Héroe Rashka se ha interesado por tu expansión y quiere unirse a tu facción! |
+
 
 #### 2021 Week 24  Semana de la Mazmorra
 

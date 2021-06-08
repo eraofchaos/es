@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Naga. Naga Unidades. Naga Reina. Era of Chaos El combate fluye por la sangre de estos monstruos de muchos brazos. Cuanto más débil es el enemigo, mayor es su ansia de matar."
 unitID: 606
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Naga"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Facción:** [Torre](/es/units/Faction Tower/)
 
- **Race:** Humano
+ **Race:** Hechicero
 
  **Members:** [x1](/es/units/Unit Member x1/)
 

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-2 El Poder de la Defensa"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Capítulo 23 - 2. Era of Chaos  Subterráneo - Capítulo 23_2. 23-2 El Poder de la Defensa"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 23_2.md"
 toc: false

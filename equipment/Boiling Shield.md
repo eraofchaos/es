@@ -2,7 +2,7 @@
 title: "Escudo Sofocante"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Escudo Sofocante. Escudo Sofocante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Boiling Shield.md"
 toc: false

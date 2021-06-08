@@ -3,7 +3,7 @@ title: "Gólem Dragón"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Gólem Dragón. Gólem Dragón Unidades. null. Era of Chaos Es el mayor invento creado con tecnología de los Enanos. Cada pieza es una combinación perfecta de maquinaria y magia, y rebosa de un poder inagotable."
 unitID: 609
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Gólem Dragón"
 toc: true
@@ -22,7 +22,7 @@ toc: true
 
  **Facción:** [Torre](/es/units/Faction Tower/)
 
- **Race:** Dragón
+ **Race:** Diablo
 
  **Members:** [x1](/es/units/Unit Member x1/)
 

@@ -2,7 +2,7 @@
 title: "Ala de Cuello de Basilisco"
 permalink: /equipment/Basilisk's Neck Umbrella/
 excerpt: "Era of Chaos Ala de Cuello de Basilisco. Ala de Cuello de Basilisco"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Basilisk's Neck Umbrella.md"
 toc: false

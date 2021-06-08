@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-6 Cabaña élfica"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Capítulo 29 - 6. Era of Chaos  Historia principal - Capítulo 29_6. 29-6 Cabaña élfica"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 29_6.md"
 toc: false

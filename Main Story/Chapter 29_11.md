@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-11 Tumba del guerrero"
 permalink: /Main Story/Chapter 29_11/
 excerpt: "Capítulo 29 - 11. Era of Chaos  Historia principal - Capítulo 29_11. 29-11 Tumba del guerrero"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 29_11.md"
 toc: false

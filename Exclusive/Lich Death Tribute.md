@@ -2,7 +2,7 @@
 title: "Exclusivo - Tributo de Muerte (Lich)"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Tributo de Muerte. Tributo de Muerte. Era of Chaos Exclusivo Tributo de Muerte. Liche Exclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Lich Tributo de Muerte.md"
 toc: false

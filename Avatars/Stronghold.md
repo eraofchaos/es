@@ -2,7 +2,7 @@
 title: "Avatar - Bastión"
 permalink: /Avatars/Stronghold/
 excerpt: "Era of Chaos  Bastión"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Stronghold.md"
 toc: false

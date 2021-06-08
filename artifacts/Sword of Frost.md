@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Era of Chaos  Espada de Escarcha. Espada de Escarcha El inmenso glaciar destruye la ciudad donde se originó"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Sword of Frost.md"
 toc: false

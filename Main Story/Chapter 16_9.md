@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-9 La Capa de la Cueva"
 permalink: /Main Story/Chapter 16_9/
 excerpt: "Capítulo 16 - 9. Era of Chaos  Historia principal - Capítulo 16_9. 16-9 La Capa de la Cueva"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 16_9.md"
 toc: false

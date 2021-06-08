@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 6 - 6-1 Una Plaga de Demonios"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Capítulo 6 - 1. Era of Chaos  Subterráneo - Capítulo 6_1. 6-1 Una Plaga de Demonios"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 6_1.md"
 toc: false

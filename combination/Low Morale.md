@@ -2,7 +2,7 @@
 title: "Información de combinación for Moral baja"
 permalink: /combination/Low Morale/
 excerpt: "Información de combinación - Moral baja. Units and Heroes Formation."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Moral baja.md"
 toc: false

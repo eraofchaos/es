@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 - 13-3 El Campo Sangrante"
 permalink: /Underground/Chapter 13_3/
 excerpt: "Capítulo 13 - 3. Era of Chaos  Subterráneo - Capítulo 13_3. 13-3 El Campo Sangrante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Chapter 13_3.md"
 toc: false

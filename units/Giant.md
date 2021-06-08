@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Gigante. Gigante Unidades. Titán. Era of Chaos Estos gigantes con armaduras de oro y lanzadores de rayos habitan en las nubes. La leyenda dice que estas criaturas inmortales fueron creadas por seres ancestrales que dominaron el mundo en el pasado."
 unitID: 607
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: es
 ref: "Gigante"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Facción:** [Torre](/es/units/Faction Tower/)
 
- **Race:** Humano
+ **Race:** Diablo
 
  **Members:** [x1](/es/units/Unit Member x1/)
 
