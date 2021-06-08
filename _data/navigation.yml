@@ -57,5 +57,7 @@ docs:
       - title: "Español"
         url: https://eraofchaos.github.io/es/
         isactive: 1
+      - title: "漢語中文"
+        url: https://eraofchaos.github.io/cn/
 
 
