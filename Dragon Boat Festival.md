@@ -42,7 +42,7 @@ sidebar:
 
 ## Tijeras Mágicas
 
-  **Event Item:** Tijeras Mágicas
+  **Event Item:** [Tijeras Mágicas](/es/Items/con_2175/)
 
   **Descripción:** Objeto del evento Festival del Barco del Dragón. Estas tijeras están imbuidas de una magia misteriosa. Se pueden usar para cortar el ribete de las empanadillas de arroz mágicas, pero se destruirán al utilizarlas.
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Misión del Barco del Dragón
 
-  **Talk Pikeman:** [color=000000]¡Gracias por encontrarme! Permíteme remar en el Barco del Dragón.[-]
+  **Talk Pikeman:** <span style="color: #000000">¡Gracias por encontrarme! Permíteme remar en el Barco del Dragón.</span>
 
-  **Talk Mermaid:** [color=000000]¡Tienes suerte de haberme encontrado! Deja que te ayude.[-]
+  **Talk Mermaid:** <span style="color: #000000">¡Tienes suerte de haberme encontrado! Deja que te ayude.</span>
 
-  **First Talk Regnan Seer :** [color=000000]Tu perseverancia me conmueve, valiente guerrero del Barco del Dragón. Ven y elige tu recompensa.[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">Tu perseverancia me conmueve, valiente guerrero del Barco del Dragón. Ven y elige tu recompensa.</span>
 
-  **Second Talk Regnan Seer:** [color=000000]Volvemos a encontrarnos valiente guerrero del Barco del Dragón. Tu perseverancia es digna de elogio. Ven y elige tu recompensa.[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">Volvemos a encontrarnos valiente guerrero del Barco del Dragón. Tu perseverancia es digna de elogio. Ven y elige tu recompensa.</span>
 
-  **Final Talk Regnan Seer:** [color=000000]Aquí terminan las recompensas, valiente guerrero del Barco del Dragón. ¡Enhorabuena por completar la aventura![-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">Aquí terminan las recompensas, valiente guerrero del Barco del Dragón. ¡Enhorabuena por completar la aventura!</span>
 
   **Movement Notification 1:** Ahora que contamos con personal nuevo a bordo, el Barco del Dragón puede navegar hasta dominios acuáticos aún más lejanos.
 
