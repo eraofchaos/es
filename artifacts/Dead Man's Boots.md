@@ -2,7 +2,7 @@
 title: "Artefacto - Capa del Rey No Muerto - Botas del Muerto"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Era of Chaos  Capa del Rey No Muerto - Botas del Muerto. Una bota que vuelve a su portador rápido como el viento. Uno de los componentes de la Capa del Rey No Muerto."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Dead Man's Boots.md"
 toc: false

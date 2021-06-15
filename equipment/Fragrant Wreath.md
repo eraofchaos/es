@@ -2,7 +2,7 @@
 title: "Guirnalda Fragante"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Guirnalda Fragante. Guirnalda Fragante"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Fragrant Wreath.md"
 toc: false

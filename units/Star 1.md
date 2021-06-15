@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Star 1"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 10 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanático  |
   | 11 | ![Catafracto](/images/u/ti_qishi.jpg) | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Caballeros Campeones  |
   | 12 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/es/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Esqueleto Guerrero  |
-  | 13 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 13 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Maga Elfa  |
   | 14 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 15 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/es/units/Goblin/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 16 | ![Jinete Lupino](/images/u/ti_langqibing.jpg) | [Jinete Lupino](/es/units/Wolf Rider/) | Carga | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Incursor Lupino  |

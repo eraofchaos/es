@@ -2,7 +2,7 @@
 title: "Artefacto - Pluma del enviado"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Era of Chaos  Pluma del enviado. Pluma del enviado Un símbolo de fuerza y poder. Una reliquia venerada reservada para los vencedores."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Envoy's Pen.md"
 toc: false

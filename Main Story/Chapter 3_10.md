@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-10 Plumablanca"
 permalink: /Main Story/Chapter 3_10/
 excerpt: "Capítulo 3 - 10. Era of Chaos  Historia principal - Capítulo 3_10. 3-10 Plumablanca"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 3_10.md"
 toc: false

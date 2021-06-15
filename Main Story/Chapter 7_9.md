@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-9 Por el Hogar"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "Capítulo 7 - 9. Era of Chaos  Historia principal - Capítulo 7_9. 7-9 Por el Hogar"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 7_9.md"
 toc: false

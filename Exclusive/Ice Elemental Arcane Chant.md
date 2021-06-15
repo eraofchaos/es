@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Ice Elemental)"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Elemental de Hielo Exclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Ice Elemental Canto Arcano.md"
 toc: false

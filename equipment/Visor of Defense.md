@@ -2,7 +2,7 @@
 title: "Visera de Defensa"
 permalink: /equipment/Visor of Defense/
 excerpt: "Era of Chaos Visera de Defensa. Visera de Defensa"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Visor of Defense.md"
 toc: false

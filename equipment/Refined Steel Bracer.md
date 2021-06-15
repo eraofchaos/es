@@ -2,7 +2,7 @@
 title: "Brazalete de Acero Refinado"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "Era of Chaos Brazalete de Acero Refinado. Brazalete de Acero Refinado"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Refined Steel Bracer.md"
 toc: false

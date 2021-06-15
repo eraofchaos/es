@@ -2,7 +2,7 @@
 title: "Arco Largo Silvano"
 permalink: /equipment/Sylvan Longbow/
 excerpt: "Era of Chaos Arco Largo Silvano. Arco Largo Silvano"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Sylvan Longbow.md"
 toc: false

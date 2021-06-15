@@ -2,7 +2,7 @@
 title: "Runa de Revivir"
 permalink: /equipment/Rune of Resurrection/
 excerpt: "Era of Chaos Runa de Revivir. Runa de Revivir"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Rune of Resurrection.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bendiciones de la suerte"
 permalink: /equipment/Lucky Blessings/
 excerpt: "Era of Chaos Bendiciones de la suerte. Bendiciones de la suerte"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Lucky Blessings.md"
 toc: false

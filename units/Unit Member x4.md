@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Mantícora](/images/u/ti_shixie.jpg) | [Mantícora](/es/units/Manticore/) | Carga | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Escorpícora  |
   | 24 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/es/units/Pegasus/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Plateada  |
   | 25 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/es/units/Basilisk/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Maga Elfa  |
   | 27 | ![Piratas Regnan](/images/u/ti_haidao.jpg) | [Piratas Regnan](/es/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Rey de los Piratas  |
   | 28 | ![Guardia Dendroide](/images/u/ti_shuyao.jpg) | [Guardia Dendroide](/es/units/Dendroid Guard/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldado Dendroide  |
   | 29 | ![Elemental de Tormenta](/images/u/ti_leiyuansu2.jpg) | [Elemental de Tormenta](/es/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tormenta de rayos  |

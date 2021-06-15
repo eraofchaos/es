@@ -2,7 +2,7 @@
 title: "Núcleo de Elemental de Agua"
 permalink: /equipment/Core of Water Elemental/
 excerpt: "Era of Chaos Núcleo de Elemental de Agua. Núcleo de Elemental de Agua"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Core of Water Elemental.md"
 toc: false

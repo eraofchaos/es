@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "index.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 2 | ![Aeronave Mágica](/images/u/ti_reqiqiu.jpg) | [Aeronave Mágica](/es/units/Magic Airship/) | Lanzador | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 3 | ![Aparición](/images/u/ti_youling.jpg) | [Aparición](/es/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Espectro  |
   | 4 | ![Archimaga](/images/u/ti_dafashi.jpg) | [Archimaga](/es/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimaga  |
-  | 5 | ![Arpía](/images/u/ti_yingshenren.jpg) | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Bruja Arpía  |
+  | 5 | ![Arpía](/images/u/ti_yingshenren.jpg) | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Bruja Arpía  |
   | 6 | ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg) | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 7 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 8 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |
@@ -74,7 +74,7 @@ classes: wide
   | 52 | ![Gárgola de Piedra](/images/u/ti_shixianggui.jpg) | [Gárgola de Piedra](/es/units/Stone Gargoyle/) | Ofensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 53 | ![Gólem Dragón](/images/u/ti_kuileilong.jpg) | [Gólem Dragón](/es/units/Dragon Golem/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 54 | ![Gólem de Hierro](/images/u/ti_tieren.jpg) | [Gólem de Hierro](/es/units/Iron Golem/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Gólem de Oro  |
-  | 55 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 55 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Maga Elfa  |
   | 56 | ![Hechicera Maligna](/images/u/ti_xiemonv.jpg) | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 57 | ![Hidra](/images/u/ti_duotoulong.jpg) | [Hidra](/es/units/Hydra/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Hidra del Caos  |
   | 58 | ![Hierbavispa](/images/u/ti_dufengcao.jpg) | [Hierbavispa](/es/units/Waspwort/) | A distancia | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |

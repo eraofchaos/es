@@ -2,7 +2,7 @@
 title: "Hoz del silencio"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Hoz del silencio. Hoz del silencio"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Sickle of Silence.md"
 toc: false

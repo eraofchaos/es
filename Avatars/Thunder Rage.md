@@ -2,7 +2,7 @@
 title: "Avatar - Furia del trueno"
 permalink: /Avatars/Thunder Rage/
 excerpt: "Era of Chaos  Furia del trueno"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Thunder Rage.md"
 toc: false

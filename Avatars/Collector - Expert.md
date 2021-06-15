@@ -2,7 +2,7 @@
 title: "Avatar - Coleccionista: Experto"
 permalink: /Avatars/Collector - Expert/
 excerpt: "Era of Chaos  Coleccionista: Experto"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Collector - Expert.md"
 toc: false

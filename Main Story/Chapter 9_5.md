@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-5 Pesar de los Elfos"
 permalink: /Main Story/Chapter 9_5/
 excerpt: "Capítulo 9 - 5. Era of Chaos  Historia principal - Capítulo 9_5. 9-5 Pesar de los Elfos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 9_5.md"
 toc: false

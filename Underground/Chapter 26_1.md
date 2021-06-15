@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 - 26-1 Arpía"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Capítulo 26 - 1. Era of Chaos  Subterráneo - Capítulo 26_1. 26-1 Arpía"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 26_1.md"
 toc: false

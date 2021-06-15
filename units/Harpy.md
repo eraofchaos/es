@@ -3,7 +3,7 @@ title: "Arpía"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Arpía. Arpía Unidades. Bruja Arpía. Era of Chaos Este monstruo es mitad humano, mitad pájaro. Sus chillidos, capaces de atravesar las nubes, son insoportables."
 unitID: 702
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Arpía"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Nombre:** [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 

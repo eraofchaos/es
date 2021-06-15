@@ -3,7 +3,7 @@ title: "Elfa del Bosque"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Elfa del Bosque. Elfa del Bosque Unidades. Gran Elfa. Era of Chaos Los Elfos de AvLee sobresalen en el manejo del arco. Protegen el bosque en que viven dejando caer una lluvia de flechas sobre los intrusos."
 unitID: 203
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Elfa del Bosque"
 toc: true

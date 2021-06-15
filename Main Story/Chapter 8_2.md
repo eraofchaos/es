@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-2 Interminable"
 permalink: /Main Story/Chapter 8_2/
 excerpt: "Capítulo 8 - 2. Era of Chaos  Historia principal - Capítulo 8_2. 8-2 Interminable"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 8_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Murallas"
 permalink: /Avatars/Rampart/
 excerpt: "Era of Chaos  Murallas"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Rampart.md"
 toc: false

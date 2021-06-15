@@ -2,7 +2,7 @@
 title: "Brazalete de Pesadilla"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Brazalete de Pesadilla. Brazalete de Pesadilla"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Bracer of Nightmares.md"
 toc: false

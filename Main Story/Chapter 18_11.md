@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-11 El Palacio de la Cueva"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Capítulo 18 - 11. Era of Chaos  Historia principal - Capítulo 18_11. 18-11 El Palacio de la Cueva"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 18_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-3 Otra Crisis"
 permalink: /Underground/Chapter 2_3/
 excerpt: "Capítulo 2 - 3. Era of Chaos  Subterráneo - Capítulo 2_3. 2-3 Otra Crisis"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 2_3.md"
 toc: false

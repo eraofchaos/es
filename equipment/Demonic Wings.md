@@ -2,7 +2,7 @@
 title: "Alas demoníacas"
 permalink: /equipment/Demonic Wings/
 excerpt: "Era of Chaos Alas demoníacas. Alas demoníacas"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Demonic Wings.md"
 toc: false

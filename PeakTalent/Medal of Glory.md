@@ -2,7 +2,7 @@
 title: "Medalla de la gloria. Poder Máximo - Medalla de la gloria"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Era of Chaos Poder Máximo Medalla de la gloria. Poder Máximo Medalla de la gloria. Medalla de la gloria"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Medal of Glory.md"
 toc: false

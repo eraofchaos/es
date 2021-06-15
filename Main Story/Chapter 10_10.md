@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-10 Adquirir Espíritu"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Capítulo 10 - 10. Era of Chaos  Historia principal - Capítulo 10_10. 10-10 Adquirir Espíritu"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 10_10.md"
 toc: false

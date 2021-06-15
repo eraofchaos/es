@@ -2,7 +2,7 @@
 title: "Sistema de despegue"
 permalink: /equipment/Lift-off System/
 excerpt: "Era of Chaos Sistema de despegue. Sistema de despegue"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Lift-off System.md"
 toc: false

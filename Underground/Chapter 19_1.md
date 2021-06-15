@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 - 19-1 Hierro y Sangre"
 permalink: /Underground/Chapter 19_1/
 excerpt: "Capítulo 19 - 1. Era of Chaos  Subterráneo - Capítulo 19_1. 19-1 Hierro y Sangre"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 19_1.md"
 toc: false

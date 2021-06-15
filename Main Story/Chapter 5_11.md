@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-11 Un Ángel Desciende"
 permalink: /Main Story/Chapter 5_11/
 excerpt: "Capítulo 5 - 11. Era of Chaos  Historia principal - Capítulo 5_11. 5-11 Un Ángel Desciende"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 5_11.md"
 toc: false

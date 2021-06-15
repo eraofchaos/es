@@ -2,7 +2,7 @@
 title: "Banda de cuero"
 permalink: /equipment/Leather Band/
 excerpt: "Era of Chaos Banda de cuero. Banda de cuero"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Leather Band.md"
 toc: false

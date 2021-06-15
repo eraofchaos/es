@@ -2,7 +2,7 @@
 title: "Artefacto - Armadura de los Condenados - Casco de Cráneo"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Era of Chaos  Armadura de los Condenados - Casco de Cráneo. Un casco encontrado en el Mundo Subterráneo. Uno de los componentes de la Armadura de los Condenados."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Skull Helmet.md"
 toc: false

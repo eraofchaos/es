@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Exclusivo Dungeon. Exclusivo Dungeon. List of Exclusivo Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodita](/es/units/Troglodyte/) | [Espada](/es/Exclusive/Troglodyte Sword/) | - | Carga | [Ficha de espada](/ItemsES/con_912/) | - |
-  | 2  | [Arpía](/es/units/Harpy/) | [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) | - | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
+  | 2  | [Arpía](/es/units/Harpy/) | [Pica de Caballero](/es/Exclusive/Harpy Knight Pike/) | + | Carga | [Ficha de Pica de Caballero](/ItemsES/con_916/) | - |
   | 3  | [Observador](/es/units/Beholder/) | [Mirada Oscura](/es/Exclusive/Beholder Dark Gaze/) | - | A distancia | [Ficha de Mirada Oscura](/ItemsES/con_990/) | [Aspecto Especial de Mirada Oscura](/ItemsES/con_658/) |
   | 4  | [Medusa](/es/units/Medusa/) | [Arco de Medusa](/es/Exclusive/Medusa Medusa's Bow/) | + | A distancia | [Ficha de Arco de Medusa](/ItemsES/con_991/) | [Aspecto Especial de Arco de Medusa](/ItemsES/con_659/) |
   | 5  | [Minotauro](/es/units/Minotaur/) | [Escudo Iris](/es/Exclusive/Minotaur Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |

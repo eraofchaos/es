@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Iron Golem)"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Gólem de Hierro Exclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Iron Golem Escudo Iris.md"
 toc: false

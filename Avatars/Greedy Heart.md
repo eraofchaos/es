@@ -2,7 +2,7 @@
 title: "Avatar - Corazón avaricioso"
 permalink: /Avatars/Greedy Heart/
 excerpt: "Era of Chaos  Corazón avaricioso"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Greedy Heart.md"
 toc: false

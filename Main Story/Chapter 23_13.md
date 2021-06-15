@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-13 Custodiando el Tesoro"
 permalink: /Main Story/Chapter 23_13/
 excerpt: "Capítulo 23 - 13. Era of Chaos  Historia principal - Capítulo 23_13. 23-13 Custodiando el Tesoro"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 23_13.md"
 toc: false

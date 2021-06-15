@@ -1,9 +1,9 @@
 ---
 title: "Hada"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Hada. Hada Unidades. . Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
+excerpt: "Era of Chaos Hada. Hada Unidades. Maga Elfa. Era of Chaos Una bella Hada que solo existe en leyendas y fábulas. Cualquier personaje que la trate mal sufrirá el desprecio del lector, y se verá abocado a un final triste."
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Hada"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![Maga Elfa](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Maga Elfa
 
  **Awaking Descripción:** Estás delante de la ventana contemplando las flores, sin saber que un Hada te observa a ti desde ellas. Del mismo modo que las flores frescas adornan los hogares de las Hadas, estas embellecen los sueños de otros.
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descripción:** 
+### 1st Skill (or 2nd): Dinamita de energía
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Quiebre de energía&gt;</span><span style="color: #645252;font-size:18px"> Cada 20 s, inflige daño equivalente al 200% de su propio ATQ a la unidad objetivo.</span>
 
-### 2nd Skill (or 1st): 
- **Descripción:** 
+### 2nd Skill (or 1st): Energía de vértigo
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Quiebre de energía&gt;</span><span style="color: #645252;font-size:18px"> El primer ataque contra la unidad objetivo inflige daño equivalente al 200% de su propio ATQ.</span>
 
-### 3rd Skill (or 4th): 
- **Descripción:** 
+### 3rd Skill (or 4th): Favor de las Hadas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bendición de las Hadas&gt;</span><span style="color: #645252;font-size:18px"> De forma adicional, aumenta un 10% la reducción de daño de unidad de todas las unidades amistosas a su paso. El efecto se duplica para el lanzador.</span>
 
-### 4th Skill (or 3rd): 
- **Descripción:** 
+### 4th Skill (or 3rd): Bendición del sirviente
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Bendición de las Hadas&gt;</span><span style="color: #645252;font-size:18px"> De forma adicional, reduce un 10% el daño de unidad y el ATQ de todas las unidades enemigas a su paso.</span>
 
-### 5th Skill (or 6th): 
- **Descripción:** 
+### 5th Skill (or 6th): Tributo
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dedicación&gt;</span><span style="color: #645252;font-size:18px"> De forma adicional, inflige silencio a 3 unidades aleatorias en el campo de batalla. Dura 4 s.</span>
 
-### 6th Skill (or 5th): 
- **Descripción:** 
+### 6th Skill (or 5th): Palabras de los muertos
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dedicación&gt;</span><span style="color: #645252;font-size:18px"> El efecto de la habilidad se amplifica para infligir silencio al objetivo y disminuir un 15% su reducción de daño de unidad. Dura 4 s.</span>
 
 ## Technical info
  **runart:** 1

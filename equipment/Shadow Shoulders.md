@@ -2,7 +2,7 @@
 title: "Hombreras Sombrías"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Era of Chaos Hombreras Sombrías. Hombreras Sombrías"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Shadow Shoulders.md"
 toc: false

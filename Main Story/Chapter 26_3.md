@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-3 Lago de la Oscuridad"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Capítulo 26 - 3. Era of Chaos  Historia principal - Capítulo 26_3. 26-3 Lago de la Oscuridad"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 26_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Cinto de Almas"
 permalink: /equipment/Soul Belt/
 excerpt: "Era of Chaos Cinto de Almas. Cinto de Almas"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Soul Belt.md"
 toc: false

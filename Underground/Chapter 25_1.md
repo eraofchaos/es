@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 - 25-1 Secreto Arcano"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Capítulo 25 - 1. Era of Chaos  Subterráneo - Capítulo 25_1. 25-1 Secreto Arcano"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 25_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Llama imperecedera"
 permalink: /Avatars/Everlasting Flame/
 excerpt: "Era of Chaos  Llama imperecedera"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Everlasting Flame.md"
 toc: false

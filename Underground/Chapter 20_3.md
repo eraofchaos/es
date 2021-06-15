@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 - 20-3 Los Pupilos de Dios"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Capítulo 20 - 3. Era of Chaos  Subterráneo - Capítulo 20_3. 20-3 Los Pupilos de Dios"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 20_3.md"
 toc: false

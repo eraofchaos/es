@@ -3,7 +3,7 @@ title: "Mantis"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Mantis. Mantis Unidades. null. Era of Chaos Sus enormes y afiladísimas cuchillas son el gran orgullo de esta legendaria criatura. Los Elfos de Vori le concedieron a la Mantis una fuerte vitalidad."
 unitID: 209
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Mantis"
 toc: true

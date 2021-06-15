@@ -2,7 +2,7 @@
 title: "Guanteletes ligeros"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Era of Chaos Guanteletes ligeros. Guanteletes ligeros"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Light Gauntlets.md"
 toc: false

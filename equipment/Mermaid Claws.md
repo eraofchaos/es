@@ -2,7 +2,7 @@
 title: "Garras de Sirena"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Garras de Sirena. Garras de Sirena"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Mermaid Claws.md"
 toc: false

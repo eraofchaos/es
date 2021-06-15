@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Arpía Exclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Harpy Pica de Caballero.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,10 +29,10 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Vuelo Acrobático> La Arpía lanza un poderoso golpe a una unidad objetivo y le inflige daño equivalente al 300% de su propio ATQ. A continuación, eleva el vuelo para disparar flechas de plumas que infligen daño equivalente al 10% de los PV máximos a las unidades enemigas en una zona grande y les causa Veneno de Halcón durante 5 s. La recarga es de 15 s. |
+  |  Despertar  | **100x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Vuelo Acrobático> La Arpía lanza un poderoso golpe a una unidad objetivo y le inflige daño equivalente al 250% de su propio ATQ. A continuación, eleva el vuelo para disparar flechas de plumas que infligen daño equivalente al 10% de los PV máximos a las unidades enemigas en una zona grande y les causa Veneno de Halcón durante 5 s. La recarga es de 20 s. |
   | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta el daño de unidad de la Arpía un 20%. |
   | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta el ATQ de la Arpía un 40% al luchar contra unidades voladoras. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Buche Venenoso> Al luchar contra objetivos envenenados, la Arpía se lanza en su persecución e inflige daño equivalente al 300% de su propio ATQ. La recarga es de 10 s. Si el objetivo recibiera un ataque de <Explosión de Veneno>, quedaría aturdido además 5 s. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | <Buche Venenoso> Al luchar contra objetivos envenenados, la Arpía inicia una persecución e inflige daño equivalente al 200% de su propio ATQ. La recarga es de 10 s. Si el objetivo recibe un ataque de <Explosión de veneno>, también quedará aturdido durante 4 s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la velocidad de ataque de la Arpía un 15%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Aumenta la esquiva de la Arpía en 500. Cuando una Arpía recibe daño superior al 35% de los PV máximos en un solo ataque, se vuelve inmune al daño por encima de ese 35%. |
   | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Pica de Caballero](/ItemsES/con_916/) | Cuando el objetivo actual queda aturdido por <Buche Venenoso>, aumenta su daño de unidad un 20%. Cuando el objetivo actual recibe Veneno de Halcón, aumenta la absorción de vida un 20%. Cuando el objetivo actual tiene más de 5 acumulaciones de Veneno de Serpiente, aumenta su propio daño de golpe crítico un 20%. Todos estos efectos duran 5 s. |

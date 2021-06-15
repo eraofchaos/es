@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 26  Semana de la Fortaleza
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **28 Jun** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
+  | **29 Jun** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
+  | **30 Jun** | **100x <i class="fas fa-gem"/>**  | ¡Tu ejército ha encontrado un montón de tesoros en la ciénaga oscura! |
+  | **1 Jul** | **3x [Hombre Lagarto](/ItemsES/unt_254/)**  | ¡Un escuadrón de Hombres Lagarto se une a tu ejército y te vuelves más fuerte! |
+  | **2 Jul** | **5x [Runas de Lista de Fortaleza](/ItemsES/con_818/)**  | ¡Tus tropas del Infierno te han traído varias runas valiosas! |
+  | **3 Jul** | **3x [Libélula Menor](/ItemsES/unt_255/)**  | ¡Un escuadrón de Libélulas Menores se une a tu ejército y te vuelves más fuerte! |
+  | **4 Jul** | **5x [Korbac](/ItemsES/her_394/)**  | ¡Un valiente Amaestrador ha visitado tu territorio! |
+
 
 #### 2021 Week 25  Semana del Infierno
 

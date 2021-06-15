@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-9 Cabaña de caza"
 permalink: /Main Story/Chapter 29_9/
 excerpt: "Capítulo 29 - 9. Era of Chaos  Historia principal - Capítulo 29_9. 29-9 Cabaña de caza"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 29_9.md"
 toc: false

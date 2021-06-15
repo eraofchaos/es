@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 1 - 1-1 Guardianes de la Isla"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Capítulo 1 - 1. Era of Chaos  Historia principal - Capítulo 1_1. 1-1 Guardianes de la Isla"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Chapter 1_1.md"
 toc: false

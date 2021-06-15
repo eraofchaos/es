@@ -2,7 +2,7 @@
 title: "Espada de los Dioses. Poder Máximo - Espada de los Dioses"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "Era of Chaos Poder Máximo Espada de los Dioses. Poder Máximo Espada de los Dioses. Espada de los Dioses"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: es
 ref: "Sword of Gods.md"
 toc: false
