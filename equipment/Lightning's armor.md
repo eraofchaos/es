@@ -2,7 +2,7 @@
 title: "Armadura del Relámpago"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Armadura del Relámpago. Armadura del Relámpago"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Lightning's armor.md"
 toc: false

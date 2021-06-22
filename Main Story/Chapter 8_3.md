@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-3 Un Lamento"
 permalink: /Main Story/Chapter 8_3/
 excerpt: "Capítulo 8 - 3. Era of Chaos  Historia principal - Capítulo 8_3. 8-3 Un Lamento"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 8_3.md"
 toc: false

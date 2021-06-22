@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén - Calavera de Cristal"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Era of Chaos  Fragmento del Edén - Calavera de Cristal. Una calavera de cristal fabricada por una civilización desconocida. Tiene la propiedad de ver a través del corazón de los hombres."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Crystal Skull.md"
 toc: false

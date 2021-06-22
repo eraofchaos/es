@@ -2,7 +2,7 @@
 title: "Cuerno de batalla. Poder Máximo - Cuerno de batalla"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Era of Chaos Poder Máximo Cuerno de batalla. Poder Máximo Cuerno de batalla. Cuerno de batalla"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Battle Horn.md"
 toc: false

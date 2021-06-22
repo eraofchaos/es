@@ -2,7 +2,7 @@
 title: "Artefacto - Ojo de halcón"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Era of Chaos  Ojo de halcón. Ojo de halcón Sobrevive. Después, contemplarás más riquezas"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Live Hawkeye.md"
 toc: false

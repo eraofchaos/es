@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-5 El Castillo Fantasmal"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Capítulo 3 - 5. Era of Chaos  Historia principal - Capítulo 3_5. 3-5 El Castillo Fantasmal"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 3_5.md"
 toc: false

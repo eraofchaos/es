@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Guardia Dendroide Exclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Dendroid Guard Escudo Iris.md"
 toc: false

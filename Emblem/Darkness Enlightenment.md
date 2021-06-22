@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Iluminación de oscuridad"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Iluminación de oscuridad. Iluminación de oscuridad. Era of Chaos Emblema Sagrado Iluminación de oscuridad. Era of Chaos Maligno Iluminación de oscuridad"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Darkness Enlightenment.md"
 toc: false

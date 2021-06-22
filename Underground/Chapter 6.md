@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 6 Caída de la capital"
 permalink: /Underground/Chapter 6/
 excerpt: "Capítulo 6 Caída de la capital. Era of Chaos  Subterráneo - Capítulo 6. Caída de la capital"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 6.md"
 toc: false

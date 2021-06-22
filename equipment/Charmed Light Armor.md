@@ -2,7 +2,7 @@
 title: "Armadura Ligera Encantada"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Armadura Ligera Encantada. Armadura Ligera Encantada"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Charmed Light Armor.md"
 toc: false

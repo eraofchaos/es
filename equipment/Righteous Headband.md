@@ -2,7 +2,7 @@
 title: "Cintillo de Rectitud"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Cintillo de Rectitud. Cintillo de Rectitud"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Righteous Headband.md"
 toc: false

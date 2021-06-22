@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 14 - 14-4 Una Lucha de Sangre"
 permalink: /Underground/Chapter 14_4/
 excerpt: "Capítulo 14 - 4. Era of Chaos  Subterráneo - Capítulo 14_4. 14-4 Una Lucha de Sangre"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 14_4.md"
 toc: false

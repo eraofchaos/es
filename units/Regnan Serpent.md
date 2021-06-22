@@ -1,9 +1,9 @@
 ---
 title: "Serpiente Regnan"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Serpiente Regnan. Serpiente Regnan Unidades. . Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
+excerpt: "Era of Chaos Serpiente Regnan. Serpiente Regnan Unidades. Guardián de la Marea. Era of Chaos El siervo más leal del trono marino. Utiliza su poder sobre las olas para defender la dignidad del Rey del Mar."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Serpiente Regnan"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Guardián de la Marea](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Guardián de la Marea
 
- **Awaking Descripción:** 
+ **Awaking Descripción:** Las violentas olas de la noche lluviosa han ahuyentado a todas las barcas pesqueras, pero para las Serpientes Regnan se trata de un gran acontecimiento. Flotan hacia la superficie en tropel y se regocijan al sentir el poder de la naturaleza en la lluvia y las olas entre las que se deslizan. Es como una especie de rito para ellas. Aquí, las Serpientes Regnan despiertan.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Despliega una Serpiente Regnan con al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Cala y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> piezas de equipo en una Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Guardián de la Marea en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Despliega una Serpiente Regnan y gana </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descripción:** 
+### 1st Skill (or 2nd): Seísmo de las profundidades
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pisotón de las profundidades&gt;</span><span style="color: #645252;font-size:18px"> El daño se duplica y el daño de unidad de las unidades enemigas se reduce un 20% durante 5 s.</span>
 
-### 2nd Skill (or 1st): 
- **Descripción:** 
+### 2nd Skill (or 1st): Seísmo de mares distantes
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Pisotón de las profundidades&gt;</span><span style="color: #645252;font-size:18px"> El daño se duplica y la reducción de daño de unidad de las unidades enemigas se reduce un 20% durante 5 s.</span>
 
-### 3rd Skill (or 4th): 
- **Descripción:** 
+### 3rd Skill (or 4th): Protección de la marea
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Guía de la marea&gt;</span><span style="color: #645252;font-size:18px"> La ventaja de esta habilidad se puede acumular 2 veces más.</span>
 
-### 4th Skill (or 3rd): 
- **Descripción:** 
+### 4th Skill (or 3rd): Guía de la subcorriente
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Guía de la marea&gt;</span><span style="color: #645252;font-size:18px"> El efecto de la ventaja de cada acumulación de esta habilidad aumenta un 50%.</span>
 
-### 5th Skill (or 6th): 
- **Descripción:** 
+### 5th Skill (or 6th): Corneta del Tiburón Guardián
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cuerno de batalla&gt;</span><span style="color: #645252;font-size:18px"> Reduce la DEF de las unidades enemigas alrededor en una zona grande un 20% y su tenacidad en 100 durante 7 s. Este efecto aumenta un 50% para las unidades enemigas afectadas con ralentización.</span>
 
-### 6th Skill (or 5th): 
- **Descripción:** 
+### 6th Skill (or 5th): Corneta de la Sirena
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Cuerno de batalla&gt;</span><span style="color: #645252;font-size:18px"> Reduce la velocidad de ataque de las unidades enemigas alrededor en una zona grande un 20% y su golpe crítico en 100 durante 7 s. Este efecto aumenta un 50% para las unidades enemigas afectadas con ralentización.</span>
 
 ## Technical info
  **runart:** 1

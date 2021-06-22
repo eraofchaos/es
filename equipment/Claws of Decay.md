@@ -2,7 +2,7 @@
 title: "Garras de Descomposición"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Garras de Descomposición. Garras de Descomposición"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Claws of Decay.md"
 toc: false

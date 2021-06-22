@@ -2,7 +2,7 @@
 title: "Alas de Relámpago"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Era of Chaos Alas de Relámpago. Alas de Relámpago"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Wings of a Thunderbolt.md"
 toc: false

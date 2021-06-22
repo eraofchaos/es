@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-2 Brotes de Guerra"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "Capítulo 15 - 2. Era of Chaos  Historia principal - Capítulo 15_2. 15-2 Brotes de Guerra"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 15_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Garras del Abismo"
 permalink: /equipment/Abyss Claw/
 excerpt: "Era of Chaos Garras del Abismo. Garras del Abismo"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Abyss Claw.md"
 toc: false

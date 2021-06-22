@@ -2,7 +2,7 @@
 title: "Ballesta ligera"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Ballesta ligera. Ballesta ligera"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Light Crossbow.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 27  Semana de la Cala
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Jul** | **3x [Elemental del Mar](/ItemsES/unt_275/)**  | ¡Un escuadrón de Elementales del Mar se une a tu ejército y te vuelves más fuerte! |
+  | **6 Jul** | **3x [Piratas Regnan](/ItemsES/unt_273/)**  | ¡Un escuadrón de Piratas Regnan se une a tu ejército y te vuelves más fuerte! |
+  | **7 Jul** | **100x <i class="fas fa-gem"/>**  | ¡Las criaturas del puerto pirata te han traído un pequeño cúmulo de diamantes! |
+  | **8 Jul** | **3x [Cofre de facción de la Cala](/ItemsES/con_1278/)**  | ¡Tus tropas del Puerto te han traído varios cofres del tesoro valiosos! |
+  | **9 Jul** | **3x [Runas de Lista de Cala](/ItemsES/con_868/)**  | ¡Tus tropas del Puerto te han traído varias runas del tesoro valiosas! |
+  | **10 Jul** | **1x [Tortuga Dragón](/ItemsES/unt_278/)**  | ¡Un escuadrón de Tortugas Dragón se une a tu ejército y te vuelves más fuerte! |
+  | **11 Jul** | **1x [Fichas de Héroe universal](/ItemsES/her_358/)**  | ¡Las criaturas de la Cala pirata te otorgan una ficha de Héroe universal! |
+
 
 #### 2021 Week 26  Semana de la Fortaleza
 

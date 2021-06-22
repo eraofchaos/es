@@ -2,7 +2,7 @@
 title: "Orbe de Llamas"
 permalink: /equipment/Orb of Flame/
 excerpt: "Era of Chaos Orbe de Llamas. Orbe de Llamas"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Orb of Flame.md"
 toc: false

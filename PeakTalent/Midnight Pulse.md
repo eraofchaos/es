@@ -2,7 +2,7 @@
 title: "Latido de medianoche. Poder Máximo - Latido de medianoche"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Poder Máximo Latido de medianoche. Poder Máximo Latido de medianoche. Latido de medianoche"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Midnight Pulse.md"
 toc: false

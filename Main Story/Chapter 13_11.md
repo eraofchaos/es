@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-11 Los Albores de la Guerra"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Capítulo 13 - 11. Era of Chaos  Historia principal - Capítulo 13_11. 13-11 Los Albores de la Guerra"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 13_11.md"
 toc: false

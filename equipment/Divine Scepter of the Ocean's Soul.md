@@ -2,7 +2,7 @@
 title: "Cetro Divino del Alma del Océano"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Cetro Divino del Alma del Océano. Cetro Divino del Alma del Océano"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 - 3-2 La Marca del Dragón"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Capítulo 3 - 2. Era of Chaos  Subterráneo - Capítulo 3_2. 3-2 La Marca del Dragón"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 3_2.md"
 toc: false

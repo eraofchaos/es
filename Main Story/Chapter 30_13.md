@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-13 Tierra chamuscada por la lava"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Capítulo 30 - 13. Era of Chaos  Historia principal - Capítulo 30_13. 30-13 Tierra chamuscada por la lava"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 30_13.md"
 toc: false

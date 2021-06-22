@@ -2,7 +2,7 @@
 title: "Sangre de Ácido Potente"
 permalink: /equipment/Blood of Strong Acid/
 excerpt: "Era of Chaos Sangre de Ácido Potente. Sangre de Ácido Potente"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Blood of Strong Acid.md"
 toc: false

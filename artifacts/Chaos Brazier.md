@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza - Brasero del Caos"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Era of Chaos  Espejo de Venganza - Brasero del Caos. Un objeto utilizado para almacenar magia de fuego poderosa. Uno de los componentes del Espejo de Venganza."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chaos Brazier.md"
 toc: false

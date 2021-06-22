@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-2  Torera"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Capítulo 29 - 2. Era of Chaos  Subterráneo - Capítulo 29_2. 29-2  Torera"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 29_2.md"
 toc: false

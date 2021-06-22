@@ -2,7 +2,7 @@
 title: "Lanza perforadora"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Lanza perforadora. Lanza perforadora"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Piercing Spear.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-4 Corona Regida por el Corazón"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Capítulo 17 - 4. Era of Chaos  Historia principal - Capítulo 17_4. 17-4 Corona Regida por el Corazón"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 17_4.md"
 toc: false

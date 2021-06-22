@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Tridente del Fondo Marino"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Era of Chaos  Espada de Escarcha - Tridente del Fondo Marino. Un arma utilizada por Poseidón. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Deep-Sea Trident.md"
 toc: false

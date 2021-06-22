@@ -2,7 +2,7 @@
 title: "Presagios de la guerra. Poder Máximo - Presagios de la guerra"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Era of Chaos Poder Máximo Presagios de la guerra. Poder Máximo Presagios de la guerra. Presagios de la guerra"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Omens of the War.md"
 toc: false

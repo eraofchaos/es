@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 Del día a la noche"
 permalink: /Underground/Chapter 13/
 excerpt: "Capítulo 13 Del día a la noche. Era of Chaos  Subterráneo - Capítulo 13. Del día a la noche"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 13.md"
 toc: false

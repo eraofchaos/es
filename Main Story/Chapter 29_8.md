@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-8 La Foresta Marchita"
 permalink: /Main Story/Chapter 29_8/
 excerpt: "Capítulo 29 - 8. Era of Chaos  Historia principal - Capítulo 29_8. 29-8 La Foresta Marchita"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 29_8.md"
 toc: false

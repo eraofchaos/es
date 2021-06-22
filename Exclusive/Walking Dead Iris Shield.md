@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Muerto Viviente Exclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Walking Dead Escudo Iris.md"
 toc: false

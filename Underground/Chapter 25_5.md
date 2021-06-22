@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 - 25-5 Lluvia de Meteoros"
 permalink: /Underground/Chapter 25_5/
 excerpt: "Capítulo 25 - 5. Era of Chaos  Subterráneo - Capítulo 25_5. 25-5 Lluvia de Meteoros"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 25_5.md"
 toc: false

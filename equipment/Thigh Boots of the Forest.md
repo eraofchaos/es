@@ -2,7 +2,7 @@
 title: "Botas Altas del Bosque"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Botas Altas del Bosque. Botas Altas del Bosque"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Thigh Boots of the Forest.md"
 toc: false

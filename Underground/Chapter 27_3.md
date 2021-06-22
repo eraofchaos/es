@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 27 - 27-3 El Profeta Oriental"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Capítulo 27 - 3. Era of Chaos  Subterráneo - Capítulo 27_3. 27-3 El Profeta Oriental"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 27_3.md"
 toc: false

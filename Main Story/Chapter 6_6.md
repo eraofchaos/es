@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-6 Aniquilación"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Capítulo 6 - 6. Era of Chaos  Historia principal - Capítulo 6_6. 6-6 Aniquilación"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 6_6.md"
 toc: false

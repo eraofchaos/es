@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 3 Acantilados de los Grifos"
 permalink: /Underground/Chapter 3/
 excerpt: "Capítulo 3 Acantilados de los Grifos. Era of Chaos  Subterráneo - Capítulo 3. Acantilados de los Grifos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 3.md"
 toc: false

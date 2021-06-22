@@ -2,7 +2,7 @@
 title: "Fisura de armadura"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Fisura de armadura. Fisura de armadura"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Breach Armor.md"
 toc: false

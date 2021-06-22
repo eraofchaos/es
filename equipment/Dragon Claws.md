@@ -2,7 +2,7 @@
 title: "Garras de Dragón"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Garras de Dragón. Garras de Dragón"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Dragon Claws.md"
 toc: false

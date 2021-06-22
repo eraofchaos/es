@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-14 Ataque de Caballería"
 permalink: /Main Story/Chapter 11_14/
 excerpt: "Capítulo 11 - 14. Era of Chaos  Historia principal - Capítulo 11_14. 11-14 Ataque de Caballería"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 11_14.md"
 toc: false

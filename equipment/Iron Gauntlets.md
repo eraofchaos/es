@@ -2,7 +2,7 @@
 title: "Guanteletes de Hierro"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Guanteletes de Hierro. Guanteletes de Hierro"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Iron Gauntlets.md"
 toc: false

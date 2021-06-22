@@ -2,7 +2,7 @@
 title: "Artefacto - Pluma del enviado - Medalla del estadista"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Era of Chaos  Pluma del enviado - Medalla del estadista. Esta medalla graba los increíbles logros de quien la porta. Uno de los componentes de la Pluma del enviado."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Statesman's Medal.md"
 toc: false

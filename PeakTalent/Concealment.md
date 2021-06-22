@@ -2,7 +2,7 @@
 title: "Ocultamiento. Poder Máximo - Ocultamiento"
 permalink: /PeakTalent/Concealment/
 excerpt: "Era of Chaos Poder Máximo Ocultamiento. Poder Máximo Ocultamiento. Ocultamiento"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Concealment.md"
 toc: false

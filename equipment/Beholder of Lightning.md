@@ -2,7 +2,7 @@
 title: "Observador de Relámpago"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Observador de Relámpago. Observador de Relámpago"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Beholder of Lightning.md"
 toc: false

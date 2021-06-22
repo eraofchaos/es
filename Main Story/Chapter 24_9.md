@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-9 Un Pasatiempos Insólito"
 permalink: /Main Story/Chapter 24_9/
 excerpt: "Capítulo 24 - 9. Era of Chaos  Historia principal - Capítulo 24_9. 24-9 Un Pasatiempos Insólito"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 24_9.md"
 toc: false

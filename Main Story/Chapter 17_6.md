@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-6 Taberna Enana"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "Capítulo 17 - 6. Era of Chaos  Historia principal - Capítulo 17_6. 17-6 Taberna Enana"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 17_6.md"
 toc: false

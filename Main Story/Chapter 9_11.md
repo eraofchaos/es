@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-11 Plan de Rescate"
 permalink: /Main Story/Chapter 9_11/
 excerpt: "Capítulo 9 - 11. Era of Chaos  Historia principal - Capítulo 9_11. 9-11 Plan de Rescate"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 9_11.md"
 toc: false

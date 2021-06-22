@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-6 El Dragón y el Clima"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "Capítulo 22 - 6. Era of Chaos  Historia principal - Capítulo 22_6. 22-6 El Dragón y el Clima"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 22_6.md"
 toc: false

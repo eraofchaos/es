@@ -2,7 +2,7 @@
 title: "Cicatriz de veterano. Poder Máximo - Cicatriz de veterano"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Poder Máximo Cicatriz de veterano. Poder Máximo Cicatriz de veterano. Cicatriz de veterano"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Veteran Scar.md"
 toc: false

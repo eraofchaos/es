@@ -2,7 +2,7 @@
 title: "Cuerno venenoso"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Cuerno venenoso. Cuerno venenoso"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Venomous Horn.md"
 toc: false

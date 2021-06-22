@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-8 Intercambio Cordial"
 permalink: /Main Story/Chapter 2_8/
 excerpt: "Capítulo 2 - 8. Era of Chaos  Historia principal - Capítulo 2_8. 2-8 Intercambio Cordial"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 2_8.md"
 toc: false

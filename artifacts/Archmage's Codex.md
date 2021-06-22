@@ -2,7 +2,7 @@
 title: "Artefacto - Códice del Archimago"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Era of Chaos  Códice del Archimago. Códice del Archimago Registra hechizos arcanos. Fortaleza a las unidades a distancia y lanzadoras."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Archmage's Codex.md"
 toc: false

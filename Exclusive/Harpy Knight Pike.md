@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Arpía Exclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Harpy Pica de Caballero.md"
 toc: false

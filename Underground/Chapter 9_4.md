@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 9 - 9-4 Reparto de Territorios"
 permalink: /Underground/Chapter 9_4/
 excerpt: "Capítulo 9 - 4. Era of Chaos  Subterráneo - Capítulo 9_4. 9-4 Reparto de Territorios"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: es
 ref: "Chapter 9_4.md"
 toc: false
