@@ -2,7 +2,7 @@
 title: "Hombreras del Imperio"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Era of Chaos Hombreras del Imperio. Hombreras del Imperio"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Empire's Pauldrons.md"
 toc: false

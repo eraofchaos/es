@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-15 Nido del Viento"
 permalink: /Main Story/Chapter 4_15/
 excerpt: "Capítulo 4 - 15. Era of Chaos  Historia principal - Capítulo 4_15. 4-15 Nido del Viento"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 4_15.md"
 toc: false

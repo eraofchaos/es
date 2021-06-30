@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-3 Manantial de Pegaso"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Capítulo 30 - 3. Era of Chaos  Historia principal - Capítulo 30_3. 30-3 Manantial de Pegaso"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 30_3.md"
 toc: false

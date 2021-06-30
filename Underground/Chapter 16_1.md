@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 16 - 16-1 El Ardid de la Muerte"
 permalink: /Underground/Chapter 16_1/
 excerpt: "Capítulo 16 - 1. Era of Chaos  Subterráneo - Capítulo 16_1. 16-1 El Ardid de la Muerte"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 16_1.md"
 toc: false

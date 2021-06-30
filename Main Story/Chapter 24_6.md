@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-6 Secretos Draconianos"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Capítulo 24 - 6. Era of Chaos  Historia principal - Capítulo 24_6. 24-6 Secretos Draconianos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 24_6.md"
 toc: false

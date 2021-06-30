@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-4 Valle de la Oscuridad"
 permalink: /Main Story/Chapter 26_4/
 excerpt: "Capítulo 26 - 4. Era of Chaos  Historia principal - Capítulo 26_4. 26-4 Valle de la Oscuridad"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 26_4.md"
 toc: false

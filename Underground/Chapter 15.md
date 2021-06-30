@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 Frente unido"
 permalink: /Underground/Chapter 15/
 excerpt: "Capítulo 15 Frente unido. Era of Chaos  Subterráneo - Capítulo 15. Frente unido"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 15.md"
 toc: false

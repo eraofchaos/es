@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 21 - 21-2 Elemental de Fuego"
 permalink: /Underground/Chapter 21_2/
 excerpt: "Capítulo 21 - 2. Era of Chaos  Subterráneo - Capítulo 21_2. 21-2 Elemental de Fuego"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 21_2.md"
 toc: false

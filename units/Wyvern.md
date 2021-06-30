@@ -3,7 +3,7 @@ title: "Guiverno"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Guiverno. Guiverno Unidades. Guiverno Monarca. Era of Chaos Un ser deformado y tóxico que carcome la ciénaga. La leyenda dice que esta cosa vomitó el miasma que impregna la ciénaga."
 unitID: 806
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Guiverno"
 toc: true

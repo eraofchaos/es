@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis - Espada de Caballero"
 permalink: /artifacts/Knight Sword/
 excerpt: "Era of Chaos  Espada del Apocalipsis - Espada de Caballero. Una espada blandida por los héroes de los castillos. Uno de los componentes de la Espada del Apocalipsis."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Knight Sword.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-12 Torre de Caoba"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Capítulo 3 - 12. Era of Chaos  Historia principal - Capítulo 3_12. 3-12 Torre de Caoba"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 3_12.md"
 toc: false

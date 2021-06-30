@@ -2,7 +2,7 @@
 title: "Avatar - Competidor"
 permalink: /Avatars/Competitor/
 excerpt: "Era of Chaos  Competidor"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Competitor.md"
 toc: false

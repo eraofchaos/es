@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-3 Resurrección"
 permalink: /Main Story/Chapter 10_3/
 excerpt: "Capítulo 10 - 3. Era of Chaos  Historia principal - Capítulo 10_3. 10-3 Resurrección"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 10_3.md"
 toc: false

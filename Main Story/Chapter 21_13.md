@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-13 Hermanos de Sufrimiento"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Capítulo 21 - 13. Era of Chaos  Historia principal - Capítulo 21_13. 21-13 Hermanos de Sufrimiento"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 21_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avambrazo Poderoso"
 permalink: /equipment/Mighty Vambrace/
 excerpt: "Era of Chaos Avambrazo Poderoso. Avambrazo Poderoso"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Mighty Vambrace.md"
 toc: false

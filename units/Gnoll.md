@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Gnoll. Gnoll Unidades. Guerrero Gnoll. Era of Chaos Una feroz criatura que habita las ciénagas. Ataca en manada para rodear a una presa solitaria o débil."
 unitID: 801
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Gnoll"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Nombre:** [Espada](/es/Exclusive/Gnoll Sword/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de espada](/ItemsES/con_912/)
 

@@ -2,7 +2,7 @@
 title: "Gema de Alma"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Gema de Alma. Gema de Alma"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Soul Gem.md"
 toc: false

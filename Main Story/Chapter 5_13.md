@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 5 - 5-13 Venganza Apasionada"
 permalink: /Main Story/Chapter 5_13/
 excerpt: "Capítulo 5 - 13. Era of Chaos  Historia principal - Capítulo 5_13. 5-13 Venganza Apasionada"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 5_13.md"
 toc: false

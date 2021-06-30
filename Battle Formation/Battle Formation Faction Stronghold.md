@@ -2,7 +2,7 @@
 title: "Formación de batalla Bastión"
 permalink: /Battle Formation/Battle Formation Faction Stronghold
 excerpt: "Formación de batalla Bastión"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "BattleFormationFactionStronghold"
 toc: false

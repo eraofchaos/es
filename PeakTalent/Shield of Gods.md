@@ -2,7 +2,7 @@
 title: "Escudo de los Dioses. Poder Máximo - Escudo de los Dioses"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Poder Máximo Escudo de los Dioses. Poder Máximo Escudo de los Dioses. Escudo de los Dioses"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Shield of Gods.md"
 toc: false

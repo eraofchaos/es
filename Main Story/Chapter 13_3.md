@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-3 Asistencia"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Capítulo 13 - 3. Era of Chaos  Historia principal - Capítulo 13_3. 13-3 Asistencia"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 13_3.md"
 toc: false

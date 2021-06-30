@@ -2,7 +2,7 @@
 title: "Elfo de la naturaleza. Poder Máximo - Elfo de la naturaleza"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Era of Chaos Poder Máximo Elfo de la naturaleza. Poder Máximo Elfo de la naturaleza. Elfo de la naturaleza"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Nature Elf.md"
 toc: false

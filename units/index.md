@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "index.md"
 toc: false
@@ -62,7 +62,7 @@ classes: wide
   | 40 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/es/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 41 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/es/units/Genie/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio Maestra  |
   | 42 | ![Gigante](/images/u/ti_taitan.jpg) | [Gigante](/es/units/Giant/) | Lanzador | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titán  |
-  | 43 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrero Gnoll  |
+  | 43 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
   | 44 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/es/units/Goblin/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 45 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/es/units/Gog/) | Lanzador | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 46 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |

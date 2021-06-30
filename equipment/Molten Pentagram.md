@@ -2,7 +2,7 @@
 title: "Pentagrama Fundido"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Pentagrama Fundido. Pentagrama Fundido"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Molten Pentagram.md"
 toc: false

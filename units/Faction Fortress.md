@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Faction Fortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Tigre Blanco](/images/u/ti_baihu.jpg) | [Tigre Blanco](/es/units/White Tiger/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 2 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrero Gnoll  |
+  | 2 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
   | 3 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 4 | ![Libélula Menor](/images/u/ti_longying.jpg) | [Libélula Menor](/es/units/Serpent Fly/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Libélula  |
   | 5 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/es/units/Basilisk/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

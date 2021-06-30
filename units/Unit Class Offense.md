@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Unit Class Offense"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Diablo](/images/u/ti_daemo.jpg) | [Diablo](/es/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiablo  |
   | 9 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |
   | 10 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/es/units/Naga/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Naga Reina  |
-  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerrero Gnoll  |
+  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
   | 12 | ![Ángel](/images/u/ti_datianshi.jpg) | [Ángel](/es/units/Angel/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcángel  |
   | 13 | ![Piratas Regnan](/images/u/ti_haidao.jpg) | [Piratas Regnan](/es/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Rey de los Piratas  |
   | 14 | ![Dragón Rojo](/images/u/ti_chilong.jpg) | [Dragón Rojo](/es/units/Red Dragon/) | Ofensa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |

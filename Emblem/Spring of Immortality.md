@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Fuente de inmortalidad"
 permalink: /Emblem/Spring of Immortality/
 excerpt: "Era of Chaos Fuente de inmortalidad. Fuente de inmortalidad. Era of Chaos Emblema Sagrado Fuente de inmortalidad. Era of Chaos Bien Fuente de inmortalidad"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Spring of Immortality.md"
 toc: false

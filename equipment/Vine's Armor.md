@@ -2,7 +2,7 @@
 title: "Armadura de Vid"
 permalink: /equipment/Vine's Armor/
 excerpt: "Era of Chaos Armadura de Vid. Armadura de Vid"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Vine's Armor.md"
 toc: false

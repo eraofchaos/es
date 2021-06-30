@@ -2,7 +2,7 @@
 title: "Exclusivo - Energía de fuego (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energía de fuego. Energía de fuego. Era of Chaos Exclusivo Energía de fuego. Elemental de Fuego Exclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Fire Elemental Energía de fuego.md"
 toc: false

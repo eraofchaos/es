@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 24 Marea elemental"
 permalink: /Underground/Chapter 24/
 excerpt: "Capítulo 24 Marea elemental. Era of Chaos  Subterráneo - Capítulo 24. Marea elemental"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 24.md"
 toc: false

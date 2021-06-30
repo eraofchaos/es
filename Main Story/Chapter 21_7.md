@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-7 Nunca Seas un Esclavo"
 permalink: /Main Story/Chapter 21_7/
 excerpt: "Capítulo 21 - 7. Era of Chaos  Historia principal - Capítulo 21_7. 21-7 Nunca Seas un Esclavo"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 21_7.md"
 toc: false

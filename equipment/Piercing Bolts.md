@@ -2,7 +2,7 @@
 title: "Virotes Perforadores"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Virotes Perforadores. Virotes Perforadores"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Piercing Bolts.md"
 toc: false

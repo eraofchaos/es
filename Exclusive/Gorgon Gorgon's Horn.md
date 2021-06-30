@@ -2,7 +2,7 @@
 title: "Exclusivo - Cuerno de Gorgona (Gorgon)"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Cuerno de Gorgona. Cuerno de Gorgona. Era of Chaos Exclusivo Cuerno de Gorgona. Gorgona Exclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Gorgon Cuerno de Gorgona.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-7 Las Alas de un Ángel"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Capítulo 11 - 7. Era of Chaos  Historia principal - Capítulo 11_7. 11-7 Las Alas de un Ángel"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 11_7.md"
 toc: false

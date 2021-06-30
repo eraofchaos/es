@@ -2,7 +2,7 @@
 title: "Garra de Dragón de Plaga"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Garra de Dragón de Plaga. Garra de Dragón de Plaga"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Plague Dragon Claw.md"
 toc: false

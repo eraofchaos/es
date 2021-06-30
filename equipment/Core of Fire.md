@@ -2,7 +2,7 @@
 title: "Núcleo de Fuego"
 permalink: /equipment/Core of Fire/
 excerpt: "Era of Chaos Núcleo de Fuego. Núcleo de Fuego"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Core of Fire.md"
 toc: false

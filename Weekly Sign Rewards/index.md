@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 28  Semana de las Murallas
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Jul** | **5x [Centauro](/ItemsES/unt_199/)**  | ¡Un escuadrón de Centauros se une a tu ejército y te vuelves más fuerte! |
+  | **13 Jul** | **3x [Elfa del Bosque](/ItemsES/unt_201/)**  | ¡Un escuadrón de Elfas del Bosque se une a tu ejército y te vuelves más fuerte! |
+  | **14 Jul** | **3x [Pegaso](/ItemsES/unt_202/)**  | ¡Un escuadrón de Pegasos se une a tu ejército y te vuelves más fuerte! |
+  | **15 Jul** | **3x [Unicornio](/ItemsES/unt_204/)**  | ¡Un escuadrón de Unicornios se une a tu ejército y te vuelves más fuerte! |
+  | **16 Jul** | **3x [Enano](/ItemsES/unt_200/)**  | ¡Un escuadrón de Enanos se une a tu ejército y te vuelves más fuerte! |
+  | **17 Jul** | **3x [Guardia Dendroide](/ItemsES/unt_203/)**  | ¡Un escuadrón de Guardias Dendroides se une a tu ejército y te vuelves más fuerte! |
+  | **18 Jul** | **5x [Ryland](/ItemsES/her_368/)**  | ¡El Héroe Ryland respeta tus acciones para proteger a la naturaleza y desea servirte! |
+
 
 #### 2021 Week 27  Semana de la Cala
 

@@ -2,7 +2,7 @@
 title: "Artefacto - Espada del Apocalipsis"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Era of Chaos  Espada del Apocalipsis. Espada del Apocalipsis La llama maldita consumirá tu alma"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Armageddon's Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 12 - 12-5 La Batalla Final"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Capítulo 12 - 5. Era of Chaos  Subterráneo - Capítulo 12_5. 12-5 La Batalla Final"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 12_5.md"
 toc: false

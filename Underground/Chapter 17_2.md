@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 - 17-2 El Recuerdo del Mago"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Capítulo 17 - 2. Era of Chaos  Subterráneo - Capítulo 17_2. 17-2 El Recuerdo del Mago"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 17_2.md"
 toc: false

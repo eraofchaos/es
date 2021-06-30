@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 - 5-3 ¡Larga Vida a la Reina!"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Capítulo 5 - 3. Era of Chaos  Subterráneo - Capítulo 5_3. 5-3 ¡Larga Vida a la Reina!"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 5_3.md"
 toc: false

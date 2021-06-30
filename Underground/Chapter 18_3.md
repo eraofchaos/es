@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 18 - 18-3 Restricción Racial"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Capítulo 18 - 3. Era of Chaos  Subterráneo - Capítulo 18_3. 18-3 Restricción Racial"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 18_3.md"
 toc: false

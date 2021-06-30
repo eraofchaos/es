@@ -2,7 +2,7 @@
 title: "Hombreras de Oro Puro"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Era of Chaos Hombreras de Oro Puro. Hombreras de Oro Puro"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Pauldrons of Pure Gold.md"
 toc: false

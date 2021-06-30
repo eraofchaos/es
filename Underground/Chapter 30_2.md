@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-2  Banquete sangriento"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Capítulo 30 - 2. Era of Chaos  Subterráneo - Capítulo 30_2. 30-2  Banquete sangriento"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 30_2.md"
 toc: false

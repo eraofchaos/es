@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-3 Peligro Insospechado"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Capítulo 1 - 3. Era of Chaos  Subterráneo - Capítulo 1_3. 1-3 Peligro Insospechado"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 1_3.md"
 toc: false

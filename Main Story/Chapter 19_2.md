@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-2 Las Crueldades del Imperio"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Capítulo 19 - 2. Era of Chaos  Historia principal - Capítulo 19_2. 19-2 Las Crueldades del Imperio"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Chapter 19_2.md"
 toc: false

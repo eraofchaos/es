@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Piratas Regnan Exclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Regnan Pirates Espada.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Soberano de las Llamas"
 permalink: /Avatars/Ruler of Flames/
 excerpt: "Era of Chaos  Soberano de las Llamas"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: es
 ref: "Ruler of Flames.md"
 toc: false
