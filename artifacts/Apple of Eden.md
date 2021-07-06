@@ -2,7 +2,7 @@
 title: "Artefacto - Fragmento del Edén"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Era of Chaos  Fragmento del Edén. Fragmento del Edén Un obsequio de la antigua civilización de los precursores. Cuenta la leyenda que es un artefacto capaz de manipular todo lo que tenga vida."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Apple of Eden.md"
 toc: false

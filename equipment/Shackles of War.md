@@ -2,7 +2,7 @@
 title: "Grilletes de la Guerra"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Grilletes de la Guerra. Grilletes de la Guerra"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Shackles of War.md"
 toc: false

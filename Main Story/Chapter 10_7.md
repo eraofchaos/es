@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 10 - 10-7 Medallón de la Calma"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Capítulo 10 - 7. Era of Chaos  Historia principal - Capítulo 10_7. 10-7 Medallón de la Calma"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 10_7.md"
 toc: false

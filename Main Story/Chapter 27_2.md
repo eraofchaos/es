@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-2 Vórtice Mágico"
 permalink: /Main Story/Chapter 27_2/
 excerpt: "Capítulo 27 - 2. Era of Chaos  Historia principal - Capítulo 27_2. 27-2 Vórtice Mágico"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 27_2.md"
 toc: false

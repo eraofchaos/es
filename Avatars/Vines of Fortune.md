@@ -2,7 +2,7 @@
 title: "Avatar - Vides de la Fortuna"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Era of Chaos  Vides de la Fortuna"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Vines of Fortune.md"
 toc: false

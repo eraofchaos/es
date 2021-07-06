@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 Túneles y trogloditas"
 permalink: /Main Story/Chapter 20/
 excerpt: "Capítulo 20. Era of Chaos  Historia principal - Capítulo 20. Túneles y trogloditas"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 20.md"
 toc: false

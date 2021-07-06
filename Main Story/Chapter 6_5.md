@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-5 Grandes Bajas"
 permalink: /Main Story/Chapter 6_5/
 excerpt: "Capítulo 6 - 5. Era of Chaos  Historia principal - Capítulo 6_5. 6-5 Grandes Bajas"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 6_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 - 30-10 Ciudad Sulfúrica"
 permalink: /Main Story/Chapter 30_10/
 excerpt: "Capítulo 30 - 10. Era of Chaos  Historia principal - Capítulo 30_10. 30-10 Ciudad Sulfúrica"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 30_10.md"
 toc: false

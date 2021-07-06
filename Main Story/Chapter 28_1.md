@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-1 Hacia las profundidades"
 permalink: /Main Story/Chapter 28_1/
 excerpt: "Capítulo 28 - 1. Era of Chaos  Historia principal - Capítulo 28_1. 28-1 Hacia las profundidades"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 28_1.md"
 toc: false

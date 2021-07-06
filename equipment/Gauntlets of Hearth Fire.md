@@ -2,7 +2,7 @@
 title: "Guanteletes del Fuego de Hogar"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Era of Chaos Guanteletes del Fuego de Hogar. Guanteletes del Fuego de Hogar"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

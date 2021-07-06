@@ -2,7 +2,7 @@
 title: "Garras Hirvientes"
 permalink: /equipment/Scalding Claws/
 excerpt: "Era of Chaos Garras Hirvientes. Garras Hirvientes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Scalding Claws.md"
 toc: false

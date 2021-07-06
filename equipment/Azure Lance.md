@@ -2,7 +2,7 @@
 title: "Lanza Azur"
 permalink: /equipment/Azure Lance/
 excerpt: "Era of Chaos Lanza Azur. Lanza Azur"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Azure Lance.md"
 toc: false

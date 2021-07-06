@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-6 Entramado Desvelado"
 permalink: /Main Story/Chapter 8_6/
 excerpt: "Capítulo 8 - 6. Era of Chaos  Historia principal - Capítulo 8_6. 8-6 Entramado Desvelado"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 8_6.md"
 toc: false

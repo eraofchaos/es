@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-4  Nadie puede pasar"
 permalink: /Underground/Chapter 30_4/
 excerpt: "Capítulo 30 - 4. Era of Chaos  Subterráneo - Capítulo 30_4. 30-4  Nadie puede pasar"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 30_4.md"
 toc: false

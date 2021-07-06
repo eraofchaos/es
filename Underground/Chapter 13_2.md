@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 - 13-2 Un Poder Maligno"
 permalink: /Underground/Chapter 13_2/
 excerpt: "Capítulo 13 - 2. Era of Chaos  Subterráneo - Capítulo 13_2. 13-2 Un Poder Maligno"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 13_2.md"
 toc: false

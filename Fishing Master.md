@@ -2,7 +2,7 @@
 title: "Maestro pescador"
 permalink: /Fishing Master/
 excerpt: "Era of Chaos  Maestro pescador - []　　Querido Señor: aquí tienes tus recompensas por completar intentos de pesca. Echa un vistazo.[]"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "index.md"
 toc: false

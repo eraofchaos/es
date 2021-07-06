@@ -2,7 +2,7 @@
 title: "Exclusivo - Cabeza de Hidra (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Cabeza de Hidra. Cabeza de Hidra. Era of Chaos Exclusivo Cabeza de Hidra. Hidra Exclusivo."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Hydra Cabeza de Hidra.md"
 toc: false

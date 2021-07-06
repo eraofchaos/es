@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 21 - 21-5 Kerr, el Rey Bárbaro"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "Capítulo 21 - 5. Era of Chaos  Historia principal - Capítulo 21_5. 21-5 Kerr, el Rey Bárbaro"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 21_5.md"
 toc: false

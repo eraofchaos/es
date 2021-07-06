@@ -2,7 +2,7 @@
 title: "Puñalada Rompecolumnas"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Puñalada Rompecolumnas. Puñalada Rompecolumnas"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Spine-breaking Stab.md"
 toc: false

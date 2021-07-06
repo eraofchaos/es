@@ -2,7 +2,7 @@
 title: "Chakra de Espinas"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Chakra de Espinas. Chakra de Espinas"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Thorn's Chakram.md"
 toc: false

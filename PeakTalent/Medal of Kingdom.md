@@ -2,7 +2,7 @@
 title: "Medalla del Reino. Poder Máximo - Medalla del Reino"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Era of Chaos Poder Máximo Medalla del Reino. Poder Máximo Medalla del Reino. Medalla del Reino"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Medal of Kingdom.md"
 toc: false

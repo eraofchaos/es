@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 17 Liberación del imperio"
 permalink: /Underground/Chapter 17/
 excerpt: "Capítulo 17 Liberación del imperio. Era of Chaos  Subterráneo - Capítulo 17. Liberación del imperio"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 17.md"
 toc: false

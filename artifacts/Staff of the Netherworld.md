@@ -2,7 +2,7 @@
 title: "Artefacto - Espada de Escarcha - Báculo del Inframundo"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Era of Chaos  Espada de Escarcha - Báculo del Inframundo. Un báculo definitivo sellado en Deyja. Uno de los componentes de la Espada de Escarcha."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Staff of the Netherworld.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-3  Tiro de Gracia"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Capítulo 30 - 3. Era of Chaos  Subterráneo - Capítulo 30_3. 30-3  Tiro de Gracia"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 30_3.md"
 toc: false

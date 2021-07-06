@@ -2,7 +2,7 @@
 title: "Avatar - Amo del destino (14 días)"
 permalink: /Avatars/Fate Dominator (14 Days)/
 excerpt: "Era of Chaos  Amo del destino (14 días)"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Fate Dominator (14 Days).md"
 toc: false

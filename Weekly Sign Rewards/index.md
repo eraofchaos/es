@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 29  Semana de la Necrópolis
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Jul** | **3x [Esqueleto](/ItemsES/unt_208/)**  | ¡Un escuadrón de Esqueletos se une a tu ejército y te vuelves más fuerte! |
+  | **20 Jul** | **3x [Muerto Viviente](/ItemsES/unt_209/)**  | ¡Un escuadrón de Muertos Vivientes se une a tu ejército y te vuelves más fuerte! |
+  | **21 Jul** | **100x <i class="fas fa-gem"/>**  | ¡Tus tropas han encontrado varios tesoros en la tumba antigua destruida! |
+  | **22 Jul** | **2x [Vampiro](/ItemsES/unt_211/)**  | ¡Un escuadrón de Vampiros se une a tu ejército y te vuelves más fuerte! |
+  | **23 Jul** | **2x [Aparición](/ItemsES/unt_210/)**  | ¡Un escuadrón de Apariciones se une a tu ejército y te vuelves más fuerte! |
+  | **24 Jul** | **5x [Cofre de unidad de Necrópolis](/ItemsES/con_1271/)**  | ¡Tus unidades de Necrópolis te han traído varios cofres del tesoro! |
+  | **25 Jul** | **3x [Vidomina](/ItemsES/her_372/)**  | ¡A Vidomina le interesan tus guerreros no muertos y está dispuesta a unirse a tu equipo! |
+
 
 #### 2021 Week 28  Semana de las Murallas
 

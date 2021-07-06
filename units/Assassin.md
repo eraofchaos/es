@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Asesino. Asesino Unidades. null. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Asesino"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [Botas de cuero](/es/equipment/Leather Boots/) | **PV** | **DEF** | 
 
 ## Exclusivo
+
+ **Nombre:** [Hoja oculta](/es/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to Subir rango:** [Ficha de Hoja oculta](/es/Items/con_2200/)
+
+ **Aspecto:** [Aspecto Especial de Hoja oculta](/es/Items/con_2199/)
 
 
 ## Emblemas Sagrados recomendados

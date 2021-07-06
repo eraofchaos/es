@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Señal ominosa"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Señal ominosa. Señal ominosa. Era of Chaos Emblema Sagrado Señal ominosa. Era of Chaos Maligno Señal ominosa"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Ominous Sign.md"
 toc: false

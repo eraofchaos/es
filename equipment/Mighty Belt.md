@@ -2,7 +2,7 @@
 title: "Cinturón Poderoso"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Cinturón Poderoso. Cinturón Poderoso"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Mighty Belt.md"
 toc: false

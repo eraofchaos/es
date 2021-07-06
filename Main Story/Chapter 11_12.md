@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 11 - 11-12 Mariquita de Buen Agüero"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Capítulo 11 - 12. Era of Chaos  Historia principal - Capítulo 11_12. 11-12 Mariquita de Buen Agüero"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 11_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Melena Brumosa"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Melena Brumosa. Melena Brumosa"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Misty Mane.md"
 toc: false

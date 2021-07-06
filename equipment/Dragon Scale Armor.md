@@ -2,7 +2,7 @@
 title: "Armadura de Escamas de Dragón"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Era of Chaos Armadura de Escamas de Dragón. Armadura de Escamas de Dragón"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Dragon Scale Armor.md"
 toc: false

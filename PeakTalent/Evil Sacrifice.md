@@ -2,7 +2,7 @@
 title: "Sacrificio maligno. Poder Máximo - Sacrificio maligno"
 permalink: /PeakTalent/Evil Sacrifice/
 excerpt: "Era of Chaos Poder Máximo Sacrificio maligno. Poder Máximo Sacrificio maligno. Sacrificio maligno"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Evil Sacrifice.md"
 toc: false

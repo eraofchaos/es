@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-4 El Pozo Mágico"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Capítulo 2 - 4. Era of Chaos  Historia principal - Capítulo 2_4. 2-4 El Pozo Mágico"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 2_4.md"
 toc: false

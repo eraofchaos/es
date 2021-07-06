@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-5 El Misterio de la Cueva"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "Capítulo 24 - 5. Era of Chaos  Historia principal - Capítulo 24_5. 24-5 El Misterio de la Cueva"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 24_5.md"
 toc: false

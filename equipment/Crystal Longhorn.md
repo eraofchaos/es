@@ -2,7 +2,7 @@
 title: "Cuerno Largo de Cristal"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Era of Chaos Cuerno Largo de Cristal. Cuerno Largo de Cristal"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Crystal Longhorn.md"
 toc: false

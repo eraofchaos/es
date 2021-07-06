@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "index.md"
 toc: false
@@ -25,8 +25,8 @@ classes: wide
   | 3 | ![Aparición](/images/u/ti_youling.jpg) | [Aparición](/es/units/Wight/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Espectro  |
   | 4 | ![Archimaga](/images/u/ti_dafashi.jpg) | [Archimaga](/es/units/Arch Mage/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Archimaga  |
   | 5 | ![Arpía](/images/u/ti_yingshenren.jpg) | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Bruja Arpía  |
-  | 6 | ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg) | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tiradora Regnan  |
-  | 7 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 6 | ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg) | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tiradora Regnan  |
+  | 7 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 8 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |
   | 9 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/es/units/Basilisk/) | Defensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 10 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/es/units/Behemoth/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Antiguo Behemoth  |

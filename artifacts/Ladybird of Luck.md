@@ -2,7 +2,7 @@
 title: "Artefacto - Herradura de la Suerte - Mariquita de Buen Agüero"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Era of Chaos  Herradura de la Suerte - Mariquita de Buen Agüero. Una estatua de ave resplandeciente. Uno de los componentes de la Herradura de la Suerte."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Ladybird of Luck.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-9 Torre de Investigación"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Capítulo 4 - 9. Era of Chaos  Historia principal - Capítulo 4_9. 4-9 Torre de Investigación"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 4_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armadura ligera de batalla"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Armadura ligera de batalla. Armadura ligera de batalla"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Light Battle Armor.md"
 toc: false

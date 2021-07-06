@@ -2,7 +2,7 @@
 title: "Avatar - Señor"
 permalink: /Avatars/Lord/
 excerpt: "Era of Chaos  Señor"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Lord.md"
 toc: false

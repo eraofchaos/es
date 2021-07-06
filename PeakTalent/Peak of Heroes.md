@@ -2,7 +2,7 @@
 title: "La culminación de los Héroes. Poder Máximo - La culminación de los Héroes"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Era of Chaos Poder Máximo La culminación de los Héroes. Poder Máximo La culminación de los Héroes. La culminación de los Héroes"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Peak of Heroes.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-7 ¡Arriba!"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Capítulo 7 - 7. Era of Chaos  Historia principal - Capítulo 7_7. 7-7 ¡Arriba!"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 7_7.md"
 toc: false

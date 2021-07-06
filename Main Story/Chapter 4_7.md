@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 4 - 4-7 Torre de Aerollamada"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "Capítulo 4 - 7. Era of Chaos  Historia principal - Capítulo 4_7. 4-7 Torre de Aerollamada"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 4_7.md"
 toc: false

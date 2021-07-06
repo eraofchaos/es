@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-7 Nigromante y Traidor"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Capítulo 16 - 7. Era of Chaos  Historia principal - Capítulo 16_7. 16-7 Nigromante y Traidor"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 16_7.md"
 toc: false

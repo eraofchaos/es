@@ -2,7 +2,7 @@
 title: "Ascendencia salvaje. Poder Máximo - Ascendencia salvaje"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Era of Chaos Poder Máximo Ascendencia salvaje. Poder Máximo Ascendencia salvaje. Ascendencia salvaje"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Savage Descent.md"
 toc: false

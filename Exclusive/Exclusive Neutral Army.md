@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Era of Chaos Exclusivo Neutral Army. Exclusivo Neutral Army. List of Exclusivo Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Asesino](/es/units/Assassin/) | - | - | - | none | none |
+  | 1  | [Asesino](/es/units/Assassin/) | [Hoja oculta](/es/Exclusive/Assassin Hidden Blade/) | + | Asistencia técnica | [Ficha de Hoja oculta](/es/Items/con_2200/) | [Aspecto Especial de Hoja oculta](/es/Items/con_2199/) |
   | 2  | [Guerreros espartanos](/es/units/Spartan Warriors/) | - | - | - | none | none |

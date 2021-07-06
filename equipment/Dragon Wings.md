@@ -2,7 +2,7 @@
 title: "Alas de Dragón"
 permalink: /equipment/Dragon Wings/
 excerpt: "Era of Chaos Alas de Dragón. Alas de Dragón"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Dragon Wings.md"
 toc: false

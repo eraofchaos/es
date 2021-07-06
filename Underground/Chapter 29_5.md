@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 29 - 29-5  Momento incendiario"
 permalink: /Underground/Chapter 29_5/
 excerpt: "Capítulo 29 - 5. Era of Chaos  Subterráneo - Capítulo 29_5. 29-5  Momento incendiario"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 29_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-6 Huyendo en Busca de Ayuda"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "Capítulo 13 - 6. Era of Chaos  Historia principal - Capítulo 13_6. 13-6 Huyendo en Busca de Ayuda"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 13_6.md"
 toc: false

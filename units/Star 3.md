@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Star 3"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/es/units/Berserker/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Aullador de Muerte  |
   | 12 | ![Duendecillo](/images/u/ti_conglinyaojing.jpg) | [Duendecillo](/es/units/Leprechaun/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Duendecillo maestro  |
   | 13 | ![Trol](/images/u/ti_suoerjuren.jpg) | [Trol](/es/units/Troll/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 14 | ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg) | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tiradora Regnan  |
+  | 14 | ![Arquera Regnan](/images/u/ti_ruigenanushou.jpg) | [Arquera Regnan](/es/units/Regnan Archer/) | A distancia | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Tiradora Regnan  |
   | 15 | ![Diablo](/images/u/ti_daemo.jpg) | [Diablo](/es/units/Devil/) | Ofensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Archidiablo  |
   | 16 | ![Serpiente Regnan](/images/u/ti_yurenyongshi.jpg) | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardián de la Marea  |
   | 17 | ![Pesadilla](/images/u/ti_mengyanshou.jpg) | [Pesadilla](/es/units/Nightmare/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Rey de la Pesadilla  |
@@ -50,7 +50,7 @@ classes: wide
   | 36 | ![Gorgona](/images/u/ti_manniu.jpg) | [Gorgona](/es/units/Gorgon/) | Defensa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gran Gorgona  |
   | 37 | ![Hechicera Maligna](/images/u/ti_xiemonv.jpg) | [Hechicera Maligna](/es/units/Evil Sorceress/) | Carga | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Guiverno](/images/u/ti_feilong.jpg) | [Guiverno](/es/units/Wyvern/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Guiverno Monarca  |
-  | 39 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 39 | ![Asesino](/images/u/ti_cishazhe.jpg) | [Asesino](/es/units/Assassin/) | Carga | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 269.0 | 2119 |   -   |
   | 40 | ![Druida](/images/u/ti_deluyi.jpg) | [Druida](/es/units/Druid/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Archidruida  |
   | 41 | ![Mantis](/images/u/ti_tanglang.jpg) | [Mantis](/es/units/Mantis/) | Ofensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 42 | ![Caballero Negro](/images/u/ti_siwangqishi.jpg) | [Caballero Negro](/es/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Caballero del Terror  |

@@ -2,7 +2,7 @@
 title: "Exclusivo - Espada (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Espada. Espada. Era of Chaos Exclusivo Espada. Troglodita Exclusivo."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Troglodyte Espada.md"
 toc: false

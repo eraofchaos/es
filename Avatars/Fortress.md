@@ -2,7 +2,7 @@
 title: "Avatar - Fortaleza"
 permalink: /Avatars/Fortress/
 excerpt: "Era of Chaos  Fortaleza"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Fortress.md"
 toc: false

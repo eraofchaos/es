@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Arquera Regnan. Arquera Regnan Unidades. Tiradora Regnan. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -187,40 +187,40 @@ toc: true
   ![Tiradora Regnan](/images/u/tia_baozang.jpg)
 
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Tiradora Regnan
 
  **Awaking Descripción:** Las damas piratas tienen ojos rojos que infunden temor en los corazones de los hombres. Los necios ignorantes se quedan extasiados al verlos, pero aquellos dotados de verdadera inteligencia nunca permiten que su mirada los atrape.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Despliega una Arquera Regnan con al menos </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> unidades de Cala y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Recoge </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> recursos durante una Aventura de Gremio.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> almas de Tiradora Regnan en el Subterráneo: niveles 16-2 y 16-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Despliega una Arquera Regnan con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unidades de Cala y gana 3 batallas en Campaña. (Los saltos no cuentan para la misión).</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Flecha robaalmas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha letal&gt;</span><span style="color: #645252;font-size:18px"> 8 s después del comienzo de la batalla, inflige daño equivalente al 500% de su propio ATQ a la unidad objetivo y le causa sangrado, lo que reduce un 1% de los PV máximos por segundo. Dura 10 s. Puede infligir daño a objetivos inmunes al sangrado. La recarga es de 20 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha letal&gt;</span><span style="color: #645252;font-size:18px"> 8 s después del comienzo de la batalla, inflige daño equivalente al 400% de su propio ATQ a la unidad objetivo y le causa sangrado, lo que reduce un 1% de los PV máximos por segundo. Dura 10 s. Puede infligir daño a objetivos inmunes al sangrado. La recarga es de 25 s.</span>
 
 ### 2nd Skill (or 1st): Flecha robavidas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha letal&gt;</span><span style="color: #645252;font-size:18px"> 8 s después del comienzo de la batalla, inflige daño equivalente al 500% de su propio ATQ a una unidad objetivo y le causa ralentización, lo que reduce un 1% de los PV máximos por segundo. Dura 10 s. Puede infligir daño a objetivos inmunes a la ralentización. La recarga es de 20 s.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha letal&gt;</span><span style="color: #645252;font-size:18px"> 8 s después del comienzo de la batalla, inflige daño equivalente al 400% de su propio ATQ a una unidad objetivo y le causa ralentización, lo que reduce un 1% de los PV máximos por segundo. Dura 10 s. Puede infligir daño a objetivos inmunes a la ralentización. La recarga es de 25 s.</span>
 
 ### 3rd Skill (or 4th): Esquiva de Tácticas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de aturdimiento, petrificación, cristalización, congelación o detener el tiempo, concede una burbuja equivalente al 30% de los PV máximos y aumenta la DEF un 15%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de aturdimiento, petrificación, cristalización, congelación o detener el tiempo, concede una burbuja equivalente al 30% de los PV máximos y aumenta la DEF un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
 
 ### 4th Skill (or 3rd): Equipo táctico
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de silencio, moral baja, parálisis, desaliento o ceguera, aumenta la velocidad de ataque un 30% y el daño de golpe crítico un 15%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de silencio, moral baja, parálisis, desaliento o ceguera, aumenta la velocidad de ataque un 30% y el daño de golpe crítico un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
 
 ### 5th Skill (or 6th): Tiro de cerca
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cada 13 s, se activa &lt;Tiro de cerca&gt; contra la unidad enemiga más cercana, lo que le inflige daño equivalente al 230% de su propio ATQ. El daño se duplica contra las unidades bajo los efectos de demacración.</span>
 
 ### 6th Skill (or 5th): Apoyo de potencia de fuego
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cuando una unidad amistosa soporta daño superior al 20% de sus PV máximos, la Arquera Regnan lanza &lt;Apoyo de potencia de fuego&gt;, lo que aumenta su golpe crítico en 200 y su ATQ un 40%. Dura 5 s. Se acumula hasta 2 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cuando una unidad amistosa soporta daño superior al 20% de sus PV máximos, la Arquera Regnan lanza &lt;Apoyo de potencia de fuego&gt;, lo que aumenta su golpe crítico en 300 y su ATQ un 40%. Dura 5 s. Se acumula hasta 2 veces.</span>
 
 ## Technical info
  **runart:** 0

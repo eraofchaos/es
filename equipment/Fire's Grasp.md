@@ -2,7 +2,7 @@
 title: "Agarre ígneo"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Era of Chaos Agarre ígneo. Agarre ígneo"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Fire's Grasp.md"
 toc: false

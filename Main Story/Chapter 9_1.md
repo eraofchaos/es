@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-1 Vestigios de los Elfos"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Capítulo 9 - 1. Era of Chaos  Historia principal - Capítulo 9_1. 9-1 Vestigios de los Elfos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 9_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 30 - 30-1  Inmóvil"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Capítulo 30 - 1. Era of Chaos  Subterráneo - Capítulo 30_1. 30-1  Inmóvil"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: es
 ref: "Chapter 30_1.md"
 toc: false
