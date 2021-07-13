@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 1 - 1-1 Hacia el Mundo Subterráneo"
 permalink: /Underground/Chapter 1_1/
 excerpt: "Capítulo 1 - 1. Era of Chaos  Subterráneo - Capítulo 1_1. 1-1 Hacia el Mundo Subterráneo"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 1_1.md"
 toc: false

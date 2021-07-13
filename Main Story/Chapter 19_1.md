@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-1 Imperio de los Magos"
 permalink: /Main Story/Chapter 19_1/
 excerpt: "Capítulo 19 - 1. Era of Chaos  Historia principal - Capítulo 19_1. 19-1 Imperio de los Magos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 19_1.md"
 toc: false

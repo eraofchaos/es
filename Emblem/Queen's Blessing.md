@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Bendición de la Reina"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Bendición de la Reina. Bendición de la Reina. Era of Chaos Emblema Sagrado Bendición de la Reina. Era of Chaos Orden Bendición de la Reina"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Queen's Blessing.md"
 toc: false

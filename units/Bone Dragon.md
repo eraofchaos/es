@@ -3,7 +3,7 @@ title: "Dragón de Hueso"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Dragón de Hueso. Dragón de Hueso Unidades. Dragón Fantasma. Era of Chaos Los Dragones de Hueso son los combatientes más feroces de la Necrópolis. Son muy poderosos, puede que tanto como sus némesis: los dragones."
 unitID: 307
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Dragón de Hueso"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay un Dragón de Hueso en el campo de batalla, la reducción de daño de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">.

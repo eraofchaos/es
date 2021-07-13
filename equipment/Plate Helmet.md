@@ -2,7 +2,7 @@
 title: "Yelmo Chapado"
 permalink: /equipment/Plate Helmet/
 excerpt: "Era of Chaos Yelmo Chapado. Yelmo Chapado"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Plate Helmet.md"
 toc: false

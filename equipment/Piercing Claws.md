@@ -2,7 +2,7 @@
 title: "Garras Perforadoras"
 permalink: /equipment/Piercing Claws/
 excerpt: "Era of Chaos Garras Perforadoras. Garras Perforadoras"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Piercing Claws.md"
 toc: false

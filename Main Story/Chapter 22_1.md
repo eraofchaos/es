@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-1 Creación de Cristal"
 permalink: /Main Story/Chapter 22_1/
 excerpt: "Capítulo 22 - 1. Era of Chaos  Historia principal - Capítulo 22_1. 22-1 Creación de Cristal"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 22_1.md"
 toc: false

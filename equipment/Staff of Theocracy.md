@@ -2,7 +2,7 @@
 title: "Báculo de la Teocracia"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Báculo de la Teocracia. Báculo de la Teocracia"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Staff of Theocracy.md"
 toc: false

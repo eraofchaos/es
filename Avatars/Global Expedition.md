@@ -2,7 +2,7 @@
 title: "Avatar - Expedición global"
 permalink: /Avatars/Global Expedition/
 excerpt: "Era of Chaos  Expedición global"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Global Expedition.md"
 toc: false

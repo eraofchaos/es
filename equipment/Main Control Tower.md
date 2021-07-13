@@ -2,7 +2,7 @@
 title: "Torre de control principal"
 permalink: /equipment/Main Control Tower/
 excerpt: "Era of Chaos Torre de control principal. Torre de control principal"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Main Control Tower.md"
 toc: false

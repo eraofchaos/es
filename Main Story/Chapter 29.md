@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 Pacto con el Demonio"
 permalink: /Main Story/Chapter 29/
 excerpt: "Capítulo 29. Era of Chaos  Historia principal - Capítulo 29. Pacto con el Demonio"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 29.md"
 toc: false

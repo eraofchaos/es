@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán - Gladius del Titán"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Trueno del Titán - Gladius del Titán. Una espada que fue blandida por un Gigante antiguo. Uno de los componentes del Trueno del Titán."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Titan's Gladius.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-3 Los Albores de la Guerra"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Capítulo 6 - 3. Era of Chaos  Historia principal - Capítulo 6_3. 6-3 Los Albores de la Guerra"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 6_3.md"
 toc: false

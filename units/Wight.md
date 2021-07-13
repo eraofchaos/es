@@ -3,7 +3,7 @@ title: "Aparición"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Aparición. Aparición Unidades. Espectro. Era of Chaos Las Apariciones ansían una sola cosa: la vida. Absorben la energía vital de otros en cuanto pueden. Los Nigromantes usan a las Apariciones para atormentar las almas de los vivos."
 unitID: 303
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Aparición"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta la resistencia mágica de la Aparición un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando recibe daño de hechizo enemigo, el Héroe restaura 10 de maná.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black">.

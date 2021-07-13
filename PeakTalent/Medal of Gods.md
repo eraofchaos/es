@@ -2,7 +2,7 @@
 title: "Medalla de los Dioses. Poder Máximo - Medalla de los Dioses"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Era of Chaos Poder Máximo Medalla de los Dioses. Poder Máximo Medalla de los Dioses. Medalla de los Dioses"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Medal of Gods.md"
 toc: false

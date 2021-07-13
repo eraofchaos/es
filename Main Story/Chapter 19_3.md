@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-3 El Pilar de Kurl"
 permalink: /Main Story/Chapter 19_3/
 excerpt: "Capítulo 19 - 3. Era of Chaos  Historia principal - Capítulo 19_3. 19-3 El Pilar de Kurl"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 19_3.md"
 toc: false

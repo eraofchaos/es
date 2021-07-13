@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Exclusivo Rampart. Exclusivo Rampart. List of Exclusivo Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Exclusivo | Open  |    Type   |  Item to Rank UP      |  Aspecto   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centauro](/es/units/Centaur/) | [Escudo Iris](/es/Exclusive/Centaur Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
+  | 1  | [Centauro](/es/units/Centaur/) | [Escudo Iris](/es/Exclusive/Centaur Iris Shield/) | + | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
   | 2  | [Enano](/es/units/Dwarf/) | [Escudo Iris](/es/Exclusive/Dwarf Iris Shield/) | - | Carga | [Ficha de Escudo Iris](/ItemsES/con_913/) | - |
   | 3  | [Elfa del Bosque](/es/units/Wood Elf/) | [Arco largo](/es/Exclusive/Wood Elf Long Bow/) | - | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
   | 4  | [Pegaso](/es/units/Pegasus/) | [Arco largo](/es/Exclusive/Pegasus Long Bow/) | + | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |

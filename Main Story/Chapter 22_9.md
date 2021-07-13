@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-9 Reina Dragón Dorada"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Capítulo 22 - 9. Era of Chaos  Historia principal - Capítulo 22_9. 22-9 Reina Dragón Dorada"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 22_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artefacto - Pluma del enviado - Fajín del embajador"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Era of Chaos  Pluma del enviado - Fajín del embajador. Has ayudado al embajador a corregir su eje. A cambio, te obsequia con una medalla y te asegura que «Puede servirte para persuadir a la gente». Uno de los componentes de la Pluma del enviado."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Ambassador's Sash.md"
 toc: false

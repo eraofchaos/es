@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "index.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 12 | ![Caballero Negro](/images/u/ti_siwangqishi.jpg) | [Caballero Negro](/es/units/Black Knight/) | Carga | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Caballero del Terror  |
   | 13 | ![Campeón Oscuro](/images/u/ti_sishen.jpg) | [Campeón Oscuro](/es/units/Dark Champion/) | Ofensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 14 | ![Catafracto](/images/u/ti_qishi.jpg) | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Caballeros Campeones  |
-  | 15 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitán Centauro  |
+  | 15 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitán Centauro  |
   | 16 | ![Cíclope](/images/u/ti_duyanjuren.jpg) | [Cíclope](/es/units/Cyclops/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Cíclope Rey  |
   | 17 | ![Demonio](/images/u/ti_changjiaoemo.jpg) | [Demonio](/es/units/Demon/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia del Infierno  |
   | 18 | ![Demonio de Hielo](/images/u/ti_bingmo.jpg) | [Demonio de Hielo](/es/units/Ice Demon/) | A distancia | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
@@ -56,7 +56,7 @@ classes: wide
   | 34 | ![Elemental de Tormenta](/images/u/ti_leiyuansu2.jpg) | [Elemental de Tormenta](/es/units/Storm Elemental/) | A distancia | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tormenta de rayos  |
   | 35 | ![Elemental del Mar](/images/u/ti_haiyuansu.jpg) | [Elemental del Mar](/es/units/Sea Elemental/) | Lanzador | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elemental de la Marea  |
   | 36 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |
-  | 37 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 37 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Enano de batalla  |
   | 38 | ![Engendro Venenoso](/images/u/ti_yanmo.jpg) | [Engendro Venenoso](/es/units/Venom Spawn/) | Defensa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 39 | ![Espadachín](/images/u/ti_shizijun.jpg) | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
   | 40 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/es/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Esqueleto Guerrero  |

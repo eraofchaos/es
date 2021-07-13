@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Unit Member x9"
 toc: false
@@ -25,9 +25,9 @@ classes: wide
   | 11 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |
   | 12 | ![Grifo](/images/u/ti_shijiu.jpg) | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 13 | ![Observador](/images/u/ti_xieyan.jpg) | [Observador](/es/units/Beholder/) | Lanzador | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Ojo maléfico  |
-  | 14 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitán Centauro  |
+  | 14 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitán Centauro  |
   | 15 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
-  | 16 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 16 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Enano de batalla  |
   | 17 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |
   | 18 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/es/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 19 | ![Muerto Viviente](/images/u/ti_jiangshi.jpg) | [Muerto Viviente](/es/units/Walking Dead/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-15 Ciudad Atardecer"
 permalink: /Main Story/Chapter 28_15/
 excerpt: "Capítulo 28 - 15. Era of Chaos  Historia principal - Capítulo 28_15. 28-15 Ciudad Atardecer"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 28_15.md"
 toc: false

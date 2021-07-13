@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 - 10-4 Cuerpo y Alma Unidos"
 permalink: /Underground/Chapter 10_4/
 excerpt: "Capítulo 10 - 4. Era of Chaos  Subterráneo - Capítulo 10_4. 10-4 Cuerpo y Alma Unidos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 10_4.md"
 toc: false

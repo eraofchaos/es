@@ -3,7 +3,7 @@ title: "Caballero Negro"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Caballero Negro. Caballero Negro Unidades. Caballero del Terror. Era of Chaos Los Caballeros Negros se hallan poseídos por terribles maldiciones. Deambulan por Necrópolis matando con cualquier ser vivo que se cruce en su camino."
 unitID: 306
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Caballero Negro"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el golpe crítico del Caballero Negro en </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño crítico un 50%.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black">.

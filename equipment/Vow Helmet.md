@@ -2,7 +2,7 @@
 title: "Yelmo del Juramento"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Yelmo del Juramento. Yelmo del Juramento"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Vow Helmet.md"
 toc: false

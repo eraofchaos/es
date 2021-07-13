@@ -2,7 +2,7 @@
 title: "Escama Adamantina"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Escama Adamantina. Escama Adamantina"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Adamantine Scale.md"
 toc: false

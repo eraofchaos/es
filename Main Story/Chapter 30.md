@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 30 La Salvación del Rey"
 permalink: /Main Story/Chapter 30/
 excerpt: "Capítulo 30. Era of Chaos  Historia principal - Capítulo 30. La Salvación del Rey"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Chapter 30.md"
 toc: false

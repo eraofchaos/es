@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Star 2"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 11 | ![Arpía](/images/u/ti_yingshenren.jpg) | [Arpía](/es/units/Harpy/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Bruja Arpía  |
   | 12 | ![Grifo](/images/u/ti_shijiu.jpg) | [Grifo](/es/units/Griffin/) | Carga | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifo real  |
   | 13 | ![Espadachín](/images/u/ti_shizijun.jpg) | [Espadachín](/es/units/Swordsman/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Cruzado  |
-  | 14 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 14 | ![Enano](/images/u/ti_airen.jpg) | [Enano](/es/units/Dwarf/) | Defensa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Enano de batalla  |
   | 15 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/es/units/Minotaur/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Minotauro Rey  |
   | 16 | ![Hombre Lagarto](/images/u/ti_xiyiren.jpg) | [Hombre Lagarto](/es/units/Lizardman/) | A distancia | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 17 | ![Elfa del Bosque](/images/u/ti_mujingling.jpg) | [Elfa del Bosque](/es/units/Wood Elf/) | A distancia | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Gran Elfa  |

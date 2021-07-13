@@ -3,7 +3,7 @@ title: "Esqueleto"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Esqueleto. Esqueleto Unidades. Esqueleto Guerrero. Era of Chaos Sus frágiles huesos parecen inservibles, pero no tardaran en minar la moral de sus enemigos."
 unitID: 301
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Esqueleto"
 toc: true
@@ -122,7 +122,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Los Esqueletos son inmunes a </span><span style="color: black"><span style="color: #48b946;font-size:20px">sangrado</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño que reciben de las unidades a distancia se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">.

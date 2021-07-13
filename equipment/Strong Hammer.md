@@ -2,7 +2,7 @@
 title: "Mazo Vigoroso"
 permalink: /equipment/Strong Hammer/
 excerpt: "Era of Chaos Mazo Vigoroso. Mazo Vigoroso"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Strong Hammer.md"
 toc: false

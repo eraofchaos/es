@@ -2,7 +2,7 @@
 title: "Artefacto - Códice del Archimago - Medallón de la Negatividad"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Era of Chaos  Códice del Archimago - Medallón de la Negatividad. Un ornamente con la forma y el poder del relámpago. Uno de los códices del Archimago."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Pendant of Negativity.md"
 toc: false

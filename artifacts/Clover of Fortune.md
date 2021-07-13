@@ -2,7 +2,7 @@
 title: "Artefacto - Herradura de la Suerte - Trébol de la Fortuna"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Era of Chaos  Herradura de la Suerte - Trébol de la Fortuna. Un trébol que trae una gran fortuna. Uno de los componentes de la Herradura de la Suerte."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Clover of Fortune.md"
 toc: false

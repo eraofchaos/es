@@ -2,7 +2,7 @@
 title: "Medalla de los Señores. Poder Máximo - Medalla de los Señores"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Era of Chaos Poder Máximo Medalla de los Señores. Poder Máximo Medalla de los Señores. Medalla de los Señores"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Medal of Lords.md"
 toc: false

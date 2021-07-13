@@ -1,9 +1,9 @@
 ---
 title: "Enano"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Enano. Enano Unidades. null. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
+excerpt: "Era of Chaos Enano. Enano Unidades. Enano de batalla. Era of Chaos Los Enanos son defensivos hasta la médula, capaces de repeler al enemigo con una determinación férrea. Tienen mal carácter y el entrechocar de sus martillos y escudos basta para que desfallezca cualquiera que se les oponga."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Enano"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Enano de batalla](/images/u/unknown.png)
+
 ### Awaking Detalles
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Enano de batalla
 
- **Awaking Descripción:** null
+ **Awaking Descripción:** Una vez me llamaron Enano. Tengo 333 años y vivo en AvLee. Aún no me he casado. Trabajo en la Tesorería Enana todos los días y doblego a mis colegas, que terminan abrumados. Echo horas extra hasta las 5:00 de la mañana, entonces, me marcho a casa. Luego, sin retrasarme ni un minuto, tengo que volver a repetirlo todo otra vez.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Despliega Piqueros y al menos </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unidades de Castillo para matar a </span><span style="color: #1ca216;font-size:18px">1.000</span><span style="color: #3c2a1e;font-size:18px"> Enanos de un solo ataque en la Tesorería Enana. (La incursión no cuenta para la misión).</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Despliega un Enano con al menos 3 unidades de Murallas y completa Utopía del Dragón 1 vez en nivel despiadado o superior. (Los saltos no cuentan para la misión).</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Mata a </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> monstruos durante una Aventura de Gremio.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Recoge 5 recursos durante una Aventura de Gremio.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Consigue </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> almas de Alabardero en el Subterráneo: niveles 14-2 y 14-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Consigue 100 almas de Enano de batalla en el Subterráneo: niveles 15-2 y 15-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Despliega un Enano y gana 1 batalla del Duelo de Campeones.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Barrido de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Su objetivo ha cambiado a unidades enemigas más grandes.</span>
+### 1st Skill (or 2nd): Aullido de desesperación
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Aullido de desesperación&gt;</span><span style="color: #645252;font-size:18px"> El alcance del &lt;Aullido enano&gt; abarca todo el campo de batalla y aumenta el daño de unidad de las unidades amistosas un 10%.</span>
 
-### 2nd Skill (or 1st): Ataque sorpresa de formación de lanzas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Formación de lanzas&gt;</span><span style="color: #645252;font-size:18px">: Aumenta su daño al 150%, y el efecto de aturdir a 4,5 segundos</span>
+### 2nd Skill (or 1st): Aullido de las Murallas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Aullido de las Murallas&gt;</span><span style="color: #645252;font-size:18px"> &lt;Aullido enano&gt; concede además un escudo equivalente al 15% de los PV máximos a las unidades amistosas a cierta distancia. Dura 20 s.</span>
 
-### 3rd Skill (or 4th): Formación densa
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la reducción de daño de la unidad un 30% al combatir con «moral alta» durante 10 s</span>
+### 3rd Skill (or 4th): Estallido de espinas
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Estallido de espinas&gt;</span><span style="color: #645252;font-size:18px"> Al activar la habilidad, disminuye más la reducción de daño de unidad de la unidad objetivo un 20% durante 5 s.</span>
 
-### 4th Skill (or 3rd): Formación traicionera
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Liderazgo&gt;</span><span style="color: #645252;font-size:18px">: Aumenta la resistencia mágica un 30% al combatir con «Moral alta» durante 10 s</span>
+### 4th Skill (or 3rd): Elixir de jaqueca
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Elixir de jaqueca&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la duración del efecto de aturdimiento de la habilidad en 4 s. Si la unidad objetivo está también bajo los efectos de sangrado, disminuye adicionalmente su daño de unidad un 10%. Dura 8 s.</span>
 
-### 5th Skill (or 6th): Estrategia de infiltración
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Dragon Slaying&gt;</span><span style="color: #645252;font-size:18px">Aplica &lt;deterrence&gt; al objetivo al enfrentarse a unidades de 1 o 4 miembros. &lt;Deterrence&gt;: Reduce el golpe crítico del objetivo en 300</span>
+### 5th Skill (or 6th): Despliegue de madera afilada
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Despliegue de madera afilada&gt;</span><span style="color: #645252;font-size:18px"> Además, aumenta la tenacidad de las unidades amistosas en el sudario en 300.</span>
 
-### 6th Skill (or 5th): Ataque debilitador
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Matanza de Dragones&gt;</span><span style="color: #645252;font-size:18px">Reduce la evasión del objetivo en 300 al enfrentarse a unidades de 1 o 4 miembros</span>
+### 6th Skill (or 5th): Muro de abedul de hierro
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Muro de abedul de hierro&gt;</span><span style="color: #645252;font-size:18px"> Además, aumenta la reducción de daño de golpe crítico de las unidades amistosas en el sudario un 20%.</span>
 
 ## Technical info
  **runart:** 1

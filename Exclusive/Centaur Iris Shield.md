@@ -2,7 +2,7 @@
 title: "Exclusivo - Escudo Iris (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Escudo Iris. Escudo Iris. Era of Chaos Exclusivo Escudo Iris. Centauro Exclusivo."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Centaur Escudo Iris.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carga
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1440
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Efecto |
   |:-------------|:---------------:|:---------------:|
-  |  Despertar  | **100x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Sacudida Salvaje> Cuando concluye <Pisotón de Batalla> del Centauro, se genera una onda expansiva que ralentiza a los enemigos que se encuentren dentro de su alcance y reduce su daño de unidad un 20% durante 10 s. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Al principio de la batalla, el Centauro otorga a las unidades de vanguardia amistosas un escudo equivalente al 20% de los PV máximos durante 20 s. |
+  |  Despertar  | **100x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Sacudida Salvaje> Cuando concluye <Pisotón de Batalla> del Centauro, se genera una onda expansiva que ralentiza a los enemigos que se encuentren dentro de su alcance y reduce su daño de unidad un 15% durante 8 s. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Al principio de la batalla, el Centauro otorga a las unidades de vanguardia amistosas un escudo equivalente al 15% de los PV máximos durante 15 s. |
   | **2x** <i class="fas fa-star"/> | **90x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Cuando el Centauro obtiene un escudo, aumenta su DEF un 20% durante 10 s. Este efecto no se puede acumular. |
   | **3x** <i class="fas fa-star"/> | **130x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Sacudida Salvaje> Prolonga la duración 10 s e inflige daño a todas las unidades enemigas equivalente al 10% de su propio ATQ cada 0,5 s. |
   | **4x** <i class="fas fa-star"/> | **170x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta los PV del Centauro un 10% cada vez que se despliega una unidad de Murallas. |
   | **5x** <i class="fas fa-star"/> | **210x** [Ficha de Escudo Iris](/ItemsES/con_913/) | Aumenta la reducción de daño de unidad del Centauro un 3% cada vez que se despliega una unidad de Murallas. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Pisotón de Batalla> Lanza <Pisotón de Batalla> de inmediato cuando el Centauro gana un escudo, lo que inflige daño equivalente al 100% de su propio ATQ a los enemigos dentro del alcance y aturde a los enemigos ralentizados entre 1 y 3 s. La recarga es de 5 s. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Ficha de Escudo Iris](/ItemsES/con_913/) | <Pisotón de Batalla> Lanza <Pisotón de Batalla> de inmediato cuando el Centauro gana un escudo, lo que inflige daño equivalente al 100% de su propio ATQ a los enemigos dentro del alcance y aturde a los enemigos ralentizados entre 1 y 3 s. La recarga es de 9 s. |
 
 
 ## Subir de nivel

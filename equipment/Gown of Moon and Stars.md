@@ -2,7 +2,7 @@
 title: "Toga de Luna y Estrellas"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Toga de Luna y Estrellas. Toga de Luna y Estrellas"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Gown of Moon and Stars.md"
 toc: false

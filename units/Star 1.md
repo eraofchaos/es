@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Star 1"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 6 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |
   | 7 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |
-  | 8 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitán Centauro  |
+  | 8 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitán Centauro  |
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
   | 10 | ![Monje](/images/u/ti_senglv.jpg) | [Monje](/es/units/Monk/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanático  |
   | 11 | ![Catafracto](/images/u/ti_qishi.jpg) | [Catafracto](/es/units/Cavalier/) | Carga | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Caballeros Campeones  |

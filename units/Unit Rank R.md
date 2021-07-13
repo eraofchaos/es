@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Unit Rank R"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 5 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 6 | ![Ballestero](/images/u/ti_nushou.jpg) | [Ballestero](/es/units/Marksman/) | A distancia | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Arquero Maestro  |
   | 7 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/es/units/Troglodyte/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita Oscuro  |
-  | 8 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitán Centauro  |
+  | 8 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/es/units/Centaur/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitán Centauro  |
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/es/units/Gnoll/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerrero Gnoll  |
   | 10 | ![Esqueleto](/images/u/ti_kulouzhanshi.jpg) | [Esqueleto](/es/units/Skeleton/) | Defensa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Esqueleto Guerrero  |
   | 11 | ![Hada](/images/u/ti_mofaxianling.jpg) | [Hada](/es/units/Sprite/) | Carga | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Maga Elfa  |

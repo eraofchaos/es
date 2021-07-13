@@ -3,7 +3,7 @@ title: "Liche"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Liche. Liche Unidades. Archiliche. Era of Chaos El cuerpo de los Liches está agostado, retorcido y descompuesto. Aborrecen cualquier atisbo de vida y no desean otra cosa que no sea causar enfermedad y destrucción."
 unitID: 305
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Liche"
 toc: true
@@ -121,7 +121,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Si hay una Liche en el campo de batalla, aumenta el ATQ y los PV un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los Esqueletos y los Dragones de Hueso.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
- **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen los entornos lúgubres, lo que aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> cuando se enfrentan a unidades con &lt;Moral baja&gt;.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Habilidad especial de la facción II : Harmonía de hechizo
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black">.

@@ -2,7 +2,7 @@
 title: "Inmunidad elemental. Poder Máximo - Inmunidad elemental"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Era of Chaos Poder Máximo Inmunidad elemental. Poder Máximo Inmunidad elemental. Inmunidad elemental"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: es
 ref: "Elemental Immunization.md"
 toc: false
