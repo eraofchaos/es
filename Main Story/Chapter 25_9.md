@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-9 Llueve en el Subterráneo"
 permalink: /Main Story/Chapter 25_9/
 excerpt: "Capítulo 25 - 9. Era of Chaos  Historia principal - Capítulo 25_9. 25-9 Llueve en el Subterráneo"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 25_9.md"
 toc: false

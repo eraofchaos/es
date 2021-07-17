@@ -2,7 +2,7 @@
 title: "Trago mortífero"
 permalink: /equipment/Swallow of Death/
 excerpt: "Era of Chaos Trago mortífero. Trago mortífero"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Swallow of Death.md"
 toc: false

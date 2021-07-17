@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-10 Noche de la Desesperación"
 permalink: /Main Story/Chapter 6_10/
 excerpt: "Capítulo 6 - 10. Era of Chaos  Historia principal - Capítulo 6_10. 6-10 Noche de la Desesperación"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 6_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 Sangre del padre de los dragones"
 permalink: /Main Story/Chapter 27/
 excerpt: "Capítulo 27. Era of Chaos  Historia principal - Capítulo 27. Sangre del padre de los dragones"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 27.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Exclusivo - Hoja oculta (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Hoja oculta. Hoja oculta. Era of Chaos Exclusivo Hoja oculta. Asesino Exclusivo."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Assassin Hoja oculta.md"
 toc: false

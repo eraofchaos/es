@@ -2,7 +2,7 @@
 title: "Exclusivo - Canto Arcano (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Canto Arcano. Canto Arcano. Era of Chaos Exclusivo Canto Arcano. Libélula Menor Exclusivo."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Serpent Fly Canto Arcano.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 7 - 7-5 Un País en Guerra"
 permalink: /Main Story/Chapter 7_5/
 excerpt: "Capítulo 7 - 5. Era of Chaos  Historia principal - Capítulo 7_5. 7-5 Un País en Guerra"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 7_5.md"
 toc: false

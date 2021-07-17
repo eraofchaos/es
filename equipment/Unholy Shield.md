@@ -2,7 +2,7 @@
 title: "Escudo Impía"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Escudo Impía. Escudo Impía"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Unholy Shield.md"
 toc: false

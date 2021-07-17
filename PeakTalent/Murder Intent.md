@@ -2,7 +2,7 @@
 title: "Intención de matar. Poder Máximo - Intención de matar"
 permalink: /PeakTalent/Murder Intent/
 excerpt: "Era of Chaos Poder Máximo Intención de matar. Poder Máximo Intención de matar. Intención de matar"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Murder Intent.md"
 toc: false

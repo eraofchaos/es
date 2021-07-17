@@ -2,7 +2,7 @@
 title: "Cortesía. Poder Máximo - Cortesía"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Era of Chaos Poder Máximo Cortesía. Poder Máximo Cortesía. Cortesía"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chivalry.md"
 toc: false

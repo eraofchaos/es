@@ -3,7 +3,7 @@ title: "Espadachín"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Espadachín. Espadachín Unidades. Cruzado. Era of Chaos Los Cruzados solo acogen en sus filas a los soldados más valientes, heroicos y experimentados. Se los conoce por todo el reino por sus técnicas de combate."
 unitID: 104
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Espadachín"
 toc: true

@@ -2,7 +2,7 @@
 title: "Lobo solitario. Poder Máximo - Lobo solitario"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Era of Chaos Poder Máximo Lobo solitario. Poder Máximo Lobo solitario. Lobo solitario"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Lone Wolf.md"
 toc: false

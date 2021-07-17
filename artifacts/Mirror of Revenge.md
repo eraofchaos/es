@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Espejo de Venganza. Espejo de Venganza Una maga débil utilizó hechizos prohibidos para crear este artefacto maligno con el objetivo de vengarse. Este artefacto puede potenciar el poder de combate de tus tropas."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Mirror of Revenge.md"
 toc: false

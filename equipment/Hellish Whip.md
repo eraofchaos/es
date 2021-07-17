@@ -2,7 +2,7 @@
 title: "Látigo Infernal"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Látigo Infernal. Látigo Infernal"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Hellish Whip.md"
 toc: false

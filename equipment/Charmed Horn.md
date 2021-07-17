@@ -2,7 +2,7 @@
 title: "Cuerno Encantado"
 permalink: /equipment/Charmed Horn/
 excerpt: "Era of Chaos Cuerno Encantado. Cuerno Encantado"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Charmed Horn.md"
 toc: false

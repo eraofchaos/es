@@ -2,7 +2,7 @@
 title: "Artefacto - Sombrero del Encantador"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Era of Chaos  Sombrero del Encantador. Sombrero del Encantador Un Sombrero del Encantador que representa el honor máximo de los Magos. Solo pueden llevarlo los Magos veteranos que dominan el fuego, agua, aire y tierra. El sombrero es capaz de mejorar enormemente la afinidad de los Elementales de Magia."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Spellbinder's Hat.md"
 toc: false

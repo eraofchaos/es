@@ -2,7 +2,7 @@
 title: "Maestro de la guerra. Poder Máximo - Maestro de la guerra"
 permalink: /PeakTalent/War Master/
 excerpt: "Era of Chaos Poder Máximo Maestro de la guerra. Poder Máximo Maestro de la guerra. Maestro de la guerra"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "War Master.md"
 toc: false

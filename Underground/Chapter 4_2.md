@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 4 - 4-2 Bajo Asedio"
 permalink: /Underground/Chapter 4_2/
 excerpt: "Capítulo 4 - 2. Era of Chaos  Subterráneo - Capítulo 4_2. 4-2 Bajo Asedio"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 4_2.md"
 toc: false

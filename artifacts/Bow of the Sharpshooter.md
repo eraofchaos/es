@@ -2,7 +2,7 @@
 title: "Artefacto - Arco del Tirador"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Era of Chaos  Arco del Tirador. Arco del Tirador Una reliquia sagrada forjada a partir de los tesoros élficos. Capaz de aumentar el ataque a distancia."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Bow of the Sharpshooter.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 21 - 21-3 Bálsamos de Guerra"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Capítulo 21 - 3. Era of Chaos  Subterráneo - Capítulo 21_3. 21-3 Bálsamos de Guerra"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 21_3.md"
 toc: false

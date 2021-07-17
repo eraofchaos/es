@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 Independencia"
 permalink: /Underground/Chapter 23/
 excerpt: "Capítulo 23 Independencia. Era of Chaos  Subterráneo - Capítulo 23. Independencia"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 23.md"
 toc: false

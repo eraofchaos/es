@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-1 Noche Oscura"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Capítulo 8 - 1. Era of Chaos  Historia principal - Capítulo 8_1. 8-1 Noche Oscura"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 8_1.md"
 toc: false

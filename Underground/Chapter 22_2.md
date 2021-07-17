@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 22 - 22-2 Decisiones para el Futuro"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Capítulo 22 - 2. Era of Chaos  Subterráneo - Capítulo 22_2. 22-2 Decisiones para el Futuro"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 22_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armadura del Abismo"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Armadura del Abismo. Armadura del Abismo"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Abyss Armor.md"
 toc: false

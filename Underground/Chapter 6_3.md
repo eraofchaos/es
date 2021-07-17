@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 6 - 6-3 Un Avance Veloz"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Capítulo 6 - 3. Era of Chaos  Subterráneo - Capítulo 6_3. 6-3 Un Avance Veloz"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 6_3.md"
 toc: false

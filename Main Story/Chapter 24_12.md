@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-12 Una Ciudad sin Dragones"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "Capítulo 24 - 12. Era of Chaos  Historia principal - Capítulo 24_12. 24-12 Una Ciudad sin Dragones"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 24_12.md"
 toc: false

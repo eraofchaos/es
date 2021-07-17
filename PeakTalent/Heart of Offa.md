@@ -2,7 +2,7 @@
 title: "Corazón de Offa. Poder Máximo - Corazón de Offa"
 permalink: /PeakTalent/Heart of Offa/
 excerpt: "Era of Chaos Poder Máximo Corazón de Offa. Poder Máximo Corazón de Offa. Corazón de Offa"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Heart of Offa.md"
 toc: false

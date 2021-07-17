@@ -2,7 +2,7 @@
 title: "Información de combinación for Sangrado"
 permalink: /combination/Bleeding/
 excerpt: "Información de combinación - Sangrado. Units and Heroes Formation."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Sangrado.md"
 toc: false

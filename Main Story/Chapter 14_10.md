@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-10 El Manipulador Invisible"
 permalink: /Main Story/Chapter 14_10/
 excerpt: "Capítulo 14 - 10. Era of Chaos  Historia principal - Capítulo 14_10. 14-10 El Manipulador Invisible"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 14_10.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-3 Descenso o vuelo"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Capítulo 28 - 3. Era of Chaos  Historia principal - Capítulo 28_3. 28-3 Descenso o vuelo"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Chapter 28_3.md"
 toc: false

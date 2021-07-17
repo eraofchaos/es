@@ -2,7 +2,7 @@
 title: "Blue Artifacts"
 permalink: /artifacts/Blue Artifacts/
 excerpt: "Era of Chaos  List of all Blue Artifacts . Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Blue Artifacts.md"
 toc: false

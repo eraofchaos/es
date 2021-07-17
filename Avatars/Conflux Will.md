@@ -2,7 +2,7 @@
 title: "Avatar - Voluntad del Conflujo"
 permalink: /Avatars/Conflux Will/
 excerpt: "Era of Chaos  Voluntad del Conflujo"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: es
 ref: "Conflux Will.md"
 toc: false
