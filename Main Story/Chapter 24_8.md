@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-8 Decisiones Confusas"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Capítulo 24 - 8. Era of Chaos  Historia principal - Capítulo 24_8. 24-8 Decisiones Confusas"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 24_8.md"
 toc: false

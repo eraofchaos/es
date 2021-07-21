@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 - 26-5 El Final del Destino"
 permalink: /Underground/Chapter 26_5/
 excerpt: "Capítulo 26 - 5. Era of Chaos  Subterráneo - Capítulo 26_5. 26-5 El Final del Destino"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 26_5.md"
 toc: false

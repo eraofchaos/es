@@ -2,7 +2,7 @@
 title: "Avatar - Señor del Cielo"
 permalink: /Avatars/Lord of Heaven/
 excerpt: "Era of Chaos  Señor del Cielo"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Lord of Heaven.md"
 toc: false

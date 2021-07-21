@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 14 - 14-3 Unidad de Guardia"
 permalink: /Underground/Chapter 14_3/
 excerpt: "Capítulo 14 - 3. Era of Chaos  Subterráneo - Capítulo 14_3. 14-3 Unidad de Guardia"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 14_3.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Guerreros espartanos"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Guerreros espartanos. Guerreros espartanos Unidades. null. Era of Chaos ¡Guerreros de las Termópilas! Aquí nos enfrentaremos por última vez con los invasores. ¡Por Esparta!"
 unitID: 9702
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Guerreros espartanos"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Clase Descripción:** Las unidades ofensivas pueden reducir el porcentaje de armadura del objetivo. Este efecto no se acumula.
 
- **Facción:** [Ejército Neutral](/es/units/Faction Neutral Army/)
+ **Facción:** [Neutral](/es/units/Faction Neutral/)
 
  **Race:** Gremio de Asesinos
 

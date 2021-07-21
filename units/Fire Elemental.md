@@ -3,7 +3,7 @@ title: "Elemental de Fuego"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Elemental de Fuego. Elemental de Fuego Unidades. Elemental de Energía. Era of Chaos Un ente inestable hecho de pura energía. Al ser destruido, la energía inestable de su interior es liberada y daña el enemigo."
 unitID: 904
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Elemental de Fuego"
 toc: true

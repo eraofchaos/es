@@ -3,7 +3,7 @@ title: "Asesino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Asesino. Asesino Unidades. null. Era of Chaos Trabajamos en la oscuridad para servir a la luz. Nada es verdad, todo está permitido."
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Asesino"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Clase Descripción:** Carga: Las unidades de carga atacan a los enemigos en la retaguardia, lo que aumenta el daño de golpe crítico contra las unidades a distancia y lanzadoras.
 
- **Facción:** [Ejército Neutral](/es/units/Faction Neutral Army/)
+ **Facción:** [Neutral](/es/units/Faction Neutral/)
 
  **Race:** Gremio de Asesinos
 

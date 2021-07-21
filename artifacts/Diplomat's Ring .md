@@ -2,7 +2,7 @@
 title: "Artefacto - Pluma del enviado - Anillo del diplomático"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Era of Chaos  Pluma del enviado - Anillo del diplomático. Este anillo reluciente indica el nivel de nobleza de quien lo porta a las masas. Uno de los componentes de la Pluma del enviado."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Diplomat's Ring .md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Garrote de Púas"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Garrote de Púas. Garrote de Púas"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Spiked Club.md"
 toc: false

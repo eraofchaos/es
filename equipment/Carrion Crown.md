@@ -2,7 +2,7 @@
 title: "Corona de Carroña"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Corona de Carroña. Corona de Carroña"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Carrion Crown.md"
 toc: false

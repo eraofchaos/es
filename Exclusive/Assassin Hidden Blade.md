@@ -2,13 +2,13 @@
 title: "Exclusivo - Hoja oculta (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Hoja oculta. Hoja oculta. Era of Chaos Exclusivo Hoja oculta. Asesino Exclusivo."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Assassin Hoja oculta.md"
 toc: false
 classes: wide
 ---
- [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--success} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Ejército Neutral](/es/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutral](/es/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Conflujo](/es/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Infierno](/es/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Mazmorra](/es/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Fortaleza](/es/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Murallas](/es/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Castillo](/es/Exclusive/Exclusive Castle/){: .btn .btn--success} [Torre](/es/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Bastión](/es/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Cala](/es/Exclusive/Exclusive Cove/){: .btn .btn--info} [Necrópolis](/es/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Detalles
  **Nombre: Hoja oculta** 

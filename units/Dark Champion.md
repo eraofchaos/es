@@ -3,7 +3,7 @@ title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Campeón Oscuro. Campeón Oscuro Unidades. null. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Campeón Oscuro"
 toc: true
@@ -110,7 +110,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Si los PV del objetivo están por debajo del 40%, el Campeón Oscuro entierra a la unidad objetivo bajo una lápida durante </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> s. La unidad enterrada está silenciada y no puede recibir curación, moverse o atacar. Durante la duración, el daño recibido se traslada a 4 unidades enemigas a distancia aleatorias. Mientras la lápida exista, todas las unidades de Necrópolis amistosas dentro del alcance restauran </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> de los PV máximos por segundo. La recarga es de 28 s</span><span style="color: black">
 
 ### Habilidad normal 3 : Monarca de huesos
- **Descripción:** <span style="color: #645252;font-size:20px">Aumenta el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los PV otorgados por El fin del destino aumentan un 4% más por cada unidad de Necrópolis en el campo de batalla. Los PV otorgados por El fin del destino aumentan un 1% más por cada unidad que la Necrópolis invoque al campo de batalla. Los PV otorgados por El fin del destino aumentan hasta un máximo de un 25%. Cuando un Héroe amistoso lanza un conjuro de tierra, reduce el tiempo de recarga de un hechizo aleatorio en 4 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Su reducción de daño de unidad y su daño de unidad aumentan un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Los PV otorgados por El fin del destino aumentan un 4% más por cada unidad de Necrópolis en el campo de batalla. Los PV otorgados por El fin del destino aumentan un 1% más por cada unidad que la Necrópolis invoque al campo de batalla. Los PV otorgados por El fin del destino aumentan hasta un máximo de un 25%. Cuando un Héroe amistoso lanza un conjuro de tierra, reduce el tiempo de recarga de un hechizo aleatorio en 4 s.</span><span style="color: black">
 
 ### Habilidad especial de la facción I : Defensa lúgubre
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis conocen bien los entornos lúgubres. Aumenta la reducción de daño de unidad al luchar contra unidades que estén bajo los efectos de moral baja un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">

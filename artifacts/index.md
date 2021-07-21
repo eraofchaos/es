@@ -2,7 +2,7 @@
 title: "Artefacto"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Artefacto. Recoge artefactos para mejorar los atributos de tus héroes y desbloquear poderosas habilidades."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "index.md"
 toc: false

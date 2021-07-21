@@ -2,7 +2,7 @@
 title: "Artefacto - Sombrero del Encantador - Tomo de magia de aire"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Era of Chaos  Sombrero del Encantador - Tomo de magia de aire. Este libro de hechizos incluye enseñanzas de magia de aire avanzada. Al leerlo, sentirás el elemental de aire. Uno de los componentes del Sombrero del Encantador."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Tome of Air Magic.md"
 toc: false

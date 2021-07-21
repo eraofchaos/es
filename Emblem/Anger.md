@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Enfado"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Enfado. Enfado. Era of Chaos Emblema Sagrado Enfado. Era of Chaos Caos Enfado"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Anger.md"
 toc: false

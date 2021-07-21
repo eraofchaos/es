@@ -2,7 +2,7 @@
 title: "Artefacto - Piedra Rúnica de Antimagia - Sobrevesta de Contrapeso"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "Era of Chaos  Piedra Rúnica de Antimagia - Sobrevesta de Contrapeso. Un manto con el símbolo del yin-yang grabado. Uno de los componentes de la piedra rúnica de antimagia."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Surcoat of Counterpoise.md"
 toc: false

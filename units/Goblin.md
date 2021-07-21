@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Goblin. Goblin Unidades. Hobgoblin. Era of Chaos Los Goblins llevan armaduras ligeras y blanden armas pesadas. Estos brutales e implacables guerreros destrozan rápidamente las defensas del enemigo."
 unitID: 401
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Goblin"
 toc: true

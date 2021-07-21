@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Dungeon -  Units"
 permalink: /units/Faction Dungeon/
 excerpt: "Era of Chaos Faction Dungeon. Faction Dungeon. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Faction Dungeon"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Formación de batalla](/es/Battle Formation/Battle Formation Faction Dungeon)
 
- [Conflujo](/es/units/Faction Conflux/){: .btn .btn--primary} [Infierno](/es/units/Faction Inferno/){: .btn .btn--success} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--warning} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--danger} [Murallas](/es/units/Faction Rampart/){: .btn .btn--info} [Castillo](/es/units/Faction Castle/){: .btn .btn--primary} [Torre](/es/units/Faction Tower/){: .btn .btn--success} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--warning} [Cala](/es/units/Faction Cove/){: .btn .btn--danger} [Ejército Neutral](/es/units/Faction Neutral Army/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
+ [Neutral](/es/units/Faction Neutral/){: .btn .btn--primary} [Conflujo](/es/units/Faction Conflux/){: .btn .btn--success} [Infierno](/es/units/Faction Inferno/){: .btn .btn--warning} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--danger} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--info} [Murallas](/es/units/Faction Rampart/){: .btn .btn--primary} [Castillo](/es/units/Faction Castle/){: .btn .btn--success} [Torre](/es/units/Faction Tower/){: .btn .btn--warning} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--danger} [Cala](/es/units/Faction Cove/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|

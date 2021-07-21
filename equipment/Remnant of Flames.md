@@ -2,7 +2,7 @@
 title: "Remanente de llamas"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Era of Chaos Remanente de llamas. Remanente de llamas"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Remnant of Flames.md"
 toc: false

@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Unidades"
 permalink: /units/
 excerpt: "Era of Chaos Unidades. List of ALL Unidades in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Facción: [Conflujo](/es/units/Faction Conflux/){: .btn .btn--primary} [Infierno](/es/units/Faction Inferno/){: .btn .btn--success} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--warning} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--danger} [Murallas](/es/units/Faction Rampart/){: .btn .btn--info} [Castillo](/es/units/Faction Castle/){: .btn .btn--primary} [Torre](/es/units/Faction Tower/){: .btn .btn--success} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--warning} [Cala](/es/units/Faction Cove/){: .btn .btn--danger} [Ejército Neutral](/es/units/Faction Neutral Army/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Facción: [Neutral](/es/units/Faction Neutral/){: .btn .btn--primary} [Conflujo](/es/units/Faction Conflux/){: .btn .btn--success} [Infierno](/es/units/Faction Inferno/){: .btn .btn--warning} [Mazmorra](/es/units/Faction Dungeon/){: .btn .btn--danger} [Fortaleza](/es/units/Faction Fortress/){: .btn .btn--info} [Murallas](/es/units/Faction Rampart/){: .btn .btn--primary} [Castillo](/es/units/Faction Castle/){: .btn .btn--success} [Torre](/es/units/Faction Tower/){: .btn .btn--warning} [Bastión](/es/units/Faction Stronghold/){: .btn .btn--danger} [Cala](/es/units/Faction Cove/){: .btn .btn--info} [Necrópolis](/es/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Clase: [A distancia](/es/units/Unit Class Ranged/){: .btn .btn--primary} [Carga](/es/units/Unit Class Charging/){: .btn .btn--success} [Lanzador](/es/units/Unit Class Caster/){: .btn .btn--warning} [Ofensa](/es/units/Unit Class Offense/){: .btn .btn--danger} [Defensa](/es/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -99,7 +99,7 @@ classes: wide
   | 77 | ![Piquero](/images/u/ti_jibing.jpg) | [Piquero](/es/units/Pikeman/) | Ofensa | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardero  |
   | 78 | ![Piratas Regnan](/images/u/ti_haidao.jpg) | [Piratas Regnan](/es/units/Regnan Pirates/) | Ofensa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Rey de los Piratas  |
   | 79 | ![Pájaro Ígneo](/images/u/ti_fenghuang.jpg) | [Pájaro Ígneo](/es/units/Firebird/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fénix  |
-  | 80 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
+  | 80 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/es/units/Revyaratan/) | Ofensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Monstruo Marino Ancestral  |
   | 81 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/es/units/Roc/) | Lanzador | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Ave de Trueno  |
   | 82 | ![Sabueso Infernal](/images/u/ti_santouquan.jpg) | [Sabueso Infernal](/es/units/Hell Hound/) | Carga | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 83 | ![Serpiente Regnan](/images/u/ti_yurenyongshi.jpg) | [Serpiente Regnan](/es/units/Regnan Serpent/) | Defensa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardián de la Marea  |

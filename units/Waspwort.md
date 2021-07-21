@@ -3,7 +3,7 @@ title: "Hierbavispa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Hierbavispa. Hierbavispa Unidades. null. Era of Chaos Una extraña planta que crece en las ciénagas tóxicas. El fuerte zumbido que emite es una pesadilla para cualquier criatura."
 unitID: 808
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Hierbavispa"
 toc: true

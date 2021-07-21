@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-10 Refuerzos"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Capítulo 13 - 10. Era of Chaos  Historia principal - Capítulo 13_10. 13-10 Refuerzos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 13_10.md"
 toc: false

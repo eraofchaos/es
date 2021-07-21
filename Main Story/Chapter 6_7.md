@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 - 6-7 La Ciénaga de Sangre"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Capítulo 6 - 7. Era of Chaos  Historia principal - Capítulo 6_7. 6-7 La Ciénaga de Sangre"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 6_7.md"
 toc: false

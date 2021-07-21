@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 Temporada de cosecha"
 permalink: /Underground/Chapter 11/
 excerpt: "Capítulo 11 Temporada de cosecha. Era of Chaos  Subterráneo - Capítulo 11. Temporada de cosecha"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 11.md"
 toc: false

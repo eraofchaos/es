@@ -2,7 +2,7 @@
 title: "Colmillo de Ponzoña Letal"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Colmillo de Ponzoña Letal. Colmillo de Ponzoña Letal"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Fatal Poison Fang.md"
 toc: false

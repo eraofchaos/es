@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 24 - 24-3 Amistad entre Mortales"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Capítulo 24 - 3. Era of Chaos  Historia principal - Capítulo 24_3. 24-3 Amistad entre Mortales"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 24_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-3 Una Visita Nigromántica"
 permalink: /Underground/Chapter 8_3/
 excerpt: "Capítulo 8 - 3. Era of Chaos  Subterráneo - Capítulo 8_3. 8-3 Una Visita Nigromántica"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 8_3.md"
 toc: false

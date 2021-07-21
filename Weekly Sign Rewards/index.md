@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 31  Semana del Bastión
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **2 Aug** | **5x [Goblin](/ItemsES/unt_217/)**  | ¡Un escuadrón de Goblins se une a tu ejército y te vuelves más fuerte! |
+  | **3 Aug** | **5x [Jinete Lupino](/ItemsES/unt_218/)**  | ¡Un escuadrón de Jinetes Lupinos se une a tu ejército y te vuelves más fuerte! |
+  | **4 Aug** | **100x <i class="fas fa-gem"/>**  | ¡Los orcos bajo tu mando han saqueado un montón de diamantes para ti! |
+  | **5 Aug** | **5x [Orco](/ItemsES/unt_219/)**  | ¡Un escuadrón de Orcos se une a tu ejército y te vuelves más fuerte! |
+  | **6 Aug** | **3x [Ogro](/ItemsES/unt_220/)**  | ¡Un escuadrón de Ogros se une a tu ejército y te vuelves más fuerte! |
+  | **7 Aug** | **3x [Cíclope](/ItemsES/unt_222/)**  | ¡Un escuadrón de Cíclopes se une a tu ejército y te vuelves más fuerte! |
+  | **8 Aug** | **5x [Crag Hack](/ItemsES/her_375/)**  | ¡Tu continua expedición ha llevado al Héroe Crag Hack a unirse a tu ejército! |
+
 
 #### 2021 Week 30  Semana del Castillo
 

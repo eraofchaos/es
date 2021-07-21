@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-6 Nuevos Asesinatos"
 permalink: /Main Story/Chapter 9_6/
 excerpt: "Capítulo 9 - 6. Era of Chaos  Historia principal - Capítulo 9_6. 9-6 Nuevos Asesinatos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 9_6.md"
 toc: false

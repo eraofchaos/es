@@ -3,7 +3,7 @@ title: "Domador de Tiburones"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Domador de Tiburones. Domador de Tiburones Unidades. Jinete de tiburones. Era of Chaos La Pesadilla Letal se mece en el mar con su cimitarra conforme se adentra en el territorio de un tiburón."
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Domador de Tiburones"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Olas de ruptura](/es/Items/con_2225/)
 
- **Aspecto:** -
+ **Aspecto:** [Aspecto Especial de Olas de ruptura](/es/Items/con_2223/)
 
 
 ## Emblemas Sagrados recomendados

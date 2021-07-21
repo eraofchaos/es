@@ -2,7 +2,7 @@
 title: "Carnicero. Poder Máximo - Carnicero"
 permalink: /PeakTalent/Butcher/
 excerpt: "Era of Chaos Poder Máximo Carnicero. Poder Máximo Carnicero. Carnicero"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Butcher.md"
 toc: false

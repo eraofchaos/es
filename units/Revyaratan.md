@@ -3,7 +3,7 @@ title: "Revyaratan"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Revyaratan. Revyaratan Unidades. Monstruo Marino Ancestral. Era of Chaos Un monstruo que surca las profundidades. Sus enormes fauces parecen devorarlo todo."
 unitID: 9908
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Revyaratan"
 toc: true
@@ -80,11 +80,11 @@ toc: true
 
  **Nombre:** [Mareas Sombrías](/es/Exclusive/Revyaratan Gloom Tides/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
- **Item to Subir rango:** -
+ **Item to Subir rango:** [Ficha de Mareas Sombrías](/es/Items/con_2224/)
 
- **Aspecto:** -
+ **Aspecto:** [Aspecto Especial de Mareas Sombrías](/es/Items/con_2222/)
 
 
 ## Emblemas Sagrados recomendados

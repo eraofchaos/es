@@ -2,7 +2,7 @@
 title: "Yelmo frígido"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Yelmo frígido. Yelmo frígido"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Frigid Helm.md"
 toc: false

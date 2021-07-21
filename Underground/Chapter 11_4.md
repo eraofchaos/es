@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-4 Aliados en Combate"
 permalink: /Underground/Chapter 11_4/
 excerpt: "Capítulo 11 - 4. Era of Chaos  Subterráneo - Capítulo 11_4. 11-4 Aliados en Combate"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 11_4.md"
 toc: false

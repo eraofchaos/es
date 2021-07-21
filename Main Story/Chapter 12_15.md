@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 12 - 12-15 Cada Minuto Cuenta"
 permalink: /Main Story/Chapter 12_15/
 excerpt: "Capítulo 12 - 15. Era of Chaos  Historia principal - Capítulo 12_15. 12-15 Cada Minuto Cuenta"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 12_15.md"
 toc: false

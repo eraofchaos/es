@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-15 Guardia Enano"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Capítulo 16 - 15. Era of Chaos  Historia principal - Capítulo 16_15. 16-15 Guardia Enano"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 16_15.md"
 toc: false

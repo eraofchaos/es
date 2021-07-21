@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "index.md"
 toc: false
@@ -80,7 +80,7 @@ classes: wide
   | 67 | ![Poder de Poseidón](/images/a/avatarFrame_82.png) | [Poder de Poseidón](/es/Avatars/Power of Poseidon/) | + | Marco de avatar de Poder de Poseidón |
   | 68 | ![Puente de los Amores estrellados](/images/a/avatarFrame_27.png) | [Puente de los Amores estrellados](/es/Avatars/Starry Lovers' Bridge/) | - | Marco de avatar de Puente de los Amores estrellados |
   | 69 | ![Rabia Berserker](/images/a/avatarFrame_73.png) | [Rabia Berserker](/es/Avatars/Berserker Rage/) | + | Marco de avatar de Furia del Berserker |
-  | 70 | ![Reino de la Muerte](/images/a/avatarFrame_86.png) | [Reino de la Muerte](/es/Avatars/Death Kingdom/) | - | Marco de avatar de Reino de la Muerte |
+  | 70 | ![Reino de la Muerte](/images/a/avatarFrame_86.png) | [Reino de la Muerte](/es/Avatars/Death Kingdom/) | + | Marco de avatar de Reino de la Muerte |
   | 71 | ![Rey del abismo](/images/a/avatarFrame_36.png) | [Rey del abismo](/es/Avatars/King of Abyss/) | + | Marco de avatar de Rey del abismo |
   | 72 |  | [Se hará como desees](/es/Avatars/All Goes as You Wish/) | - | Marco de avatar Se Hará como Desees |
   | 73 | ![Secretos de la Esfinge](/images/a/avatarFrame_25.png) | [Secretos de la Esfinge](/es/Avatars/Sphinx's Secrets/) | + | Marco de avatar de Secretos de la Esfinge |
@@ -112,7 +112,8 @@ classes: wide
   | 99 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/es/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 100 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/es/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 101 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/es/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 102 | ![Vides de la Fortuna](/images/a/avatarFrame_92.png) | [Vides de la Fortuna](/es/Avatars/Vines of Fortune/) | + | Marco de avatar Vides de la Fortuna |
-  | 103 | ![Voluntad de los dioses](/images/a/avatarFrame_30.png) | [Voluntad de los dioses](/es/Avatars/Will of the Gods/) | + | Marco de avatar de Voluntad de los dioses |
-  | 104 | ![Voluntad del Conflujo](/images/a/avatarFrame_117.png) | [Voluntad del Conflujo](/es/Avatars/Conflux Will/) | + | Marco de avatar de Voluntad del Conflujo |
-  | 105 | ![¡A luchar!](/images/a/avatarFrame_84.png) | [¡A luchar!](/es/Avatars/Let's Fight!/) | - | Marco de avatar de En guerra |
+  | 102 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/es/Avatars/Unknown Avatar Frame 1126/) | + |  |
+  | 103 | ![Vides de la Fortuna](/images/a/avatarFrame_92.png) | [Vides de la Fortuna](/es/Avatars/Vines of Fortune/) | + | Marco de avatar Vides de la Fortuna |
+  | 104 | ![Voluntad de los dioses](/images/a/avatarFrame_30.png) | [Voluntad de los dioses](/es/Avatars/Will of the Gods/) | + | Marco de avatar de Voluntad de los dioses |
+  | 105 | ![Voluntad del Conflujo](/images/a/avatarFrame_117.png) | [Voluntad del Conflujo](/es/Avatars/Conflux Will/) | + | Marco de avatar de Voluntad del Conflujo |
+  | 106 | ![¡A luchar!](/images/a/avatarFrame_84.png) | [¡A luchar!](/es/Avatars/Let's Fight!/) | - | Marco de avatar de En guerra |

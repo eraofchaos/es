@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 17 - 17-14 Los Supervivientes"
 permalink: /Main Story/Chapter 17_14/
 excerpt: "Capítulo 17 - 14. Era of Chaos  Historia principal - Capítulo 17_14. 17-14 Los Supervivientes"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: es
 ref: "Chapter 17_14.md"
 toc: false
