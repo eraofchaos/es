@@ -2,7 +2,7 @@
 title: "Piedras de Soñador"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Piedras de Soñador. Piedras de Soñador"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Dreamer's Stones.md"
 toc: false

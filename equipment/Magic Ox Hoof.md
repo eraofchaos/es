@@ -2,7 +2,7 @@
 title: "Pezuña de Buey Mágica"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Pezuña de Buey Mágica. Pezuña de Buey Mágica"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Magic Ox Hoof.md"
 toc: false

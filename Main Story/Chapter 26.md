@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 Aumentar la ventaja"
 permalink: /Main Story/Chapter 26/
 excerpt: "Capítulo 26. Era of Chaos  Historia principal - Capítulo 26. Aumentar la ventaja"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 26.md"
 toc: false

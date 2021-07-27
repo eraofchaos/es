@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 8 - 8-9 Cabañas Élficas"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Capítulo 8 - 9. Era of Chaos  Historia principal - Capítulo 8_9. 8-9 Cabañas Élficas"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 8_9.md"
 toc: false

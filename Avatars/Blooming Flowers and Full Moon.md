@@ -2,7 +2,7 @@
 title: "Avatar - Plantas en flor y luna llena"
 permalink: /Avatars/Blooming Flowers and Full Moon/
 excerpt: "Era of Chaos  Plantas en flor y luna llena"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Blooming Flowers and Full Moon.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Hombreras del Ritual"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Era of Chaos Hombreras del Ritual. Hombreras del Ritual"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Pauldrons of Ritual.md"
 toc: false

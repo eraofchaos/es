@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-10 Cuernos de la victoria"
 permalink: /Main Story/Chapter 28_10/
 excerpt: "Capítulo 28 - 10. Era of Chaos  Historia principal - Capítulo 28_10. 28-10 Cuernos de la victoria"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 28_10.md"
 toc: false

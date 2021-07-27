@@ -2,7 +2,7 @@
 title: "Armadura Ligera del Inframundo"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Era of Chaos Armadura Ligera del Inframundo. Armadura Ligera del Inframundo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Light Armor of the Netherworld.md"
 toc: false

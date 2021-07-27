@@ -2,7 +2,7 @@
 title: "Espina Tóxica"
 permalink: /equipment/Toxic Thorn/
 excerpt: "Era of Chaos Espina Tóxica. Espina Tóxica"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Toxic Thorn.md"
 toc: false

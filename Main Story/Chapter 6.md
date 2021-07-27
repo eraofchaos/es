@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 6 Abrirse camino"
 permalink: /Main Story/Chapter 6/
 excerpt: "Capítulo 6. Era of Chaos  Historia principal - Capítulo 6. Abrirse camino"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 6.md"
 toc: false

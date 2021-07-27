@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-8 La Treta de Centauro"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Capítulo 16 - 8. Era of Chaos  Historia principal - Capítulo 16_8. 16-8 La Treta de Centauro"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 16_8.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Grifo"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Grifo. Grifo Unidades. Grifo real. Era of Chaos Los Grifos, símbolo de Erathia, dominan los cielos del reino. Estas feroces bestias son leales y valientes, y lucharán hasta el último aliento."
 unitID: 103
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Grifo"
 toc: true
@@ -83,7 +83,7 @@ toc: true
 
  **Nombre:** [Pica de Caballero](/es/Exclusive/Griffin Knight Pike/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Subir rango:** [Ficha de Pica de Caballero](/ItemsES/con_916/)
 

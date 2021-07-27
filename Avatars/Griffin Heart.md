@@ -2,7 +2,7 @@
 title: "Avatar - Corazón de Grifo"
 permalink: /Avatars/Griffin Heart/
 excerpt: "Era of Chaos  Corazón de Grifo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Griffin Heart.md"
 toc: false

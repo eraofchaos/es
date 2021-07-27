@@ -2,7 +2,7 @@
 title: "Pantalones de cuero"
 permalink: /equipment/Leather Trousers/
 excerpt: "Era of Chaos Pantalones de cuero. Pantalones de cuero"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Leather Trousers.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 26 - 26-1 Conciencia Nacional"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Capítulo 26 - 1. Era of Chaos  Historia principal - Capítulo 26_1. 26-1 Conciencia Nacional"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 26_1.md"
 toc: false

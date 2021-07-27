@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 2 - 2-3 Refugio"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Capítulo 2 - 3. Era of Chaos  Historia principal - Capítulo 2_3. 2-3 Refugio"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 2_3.md"
 toc: false

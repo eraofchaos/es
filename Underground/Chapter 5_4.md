@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 5 - 5-4 La Guerra de Restauración"
 permalink: /Underground/Chapter 5_4/
 excerpt: "Capítulo 5 - 4. Era of Chaos  Subterráneo - Capítulo 5_4. 5-4 La Guerra de Restauración"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 5_4.md"
 toc: false

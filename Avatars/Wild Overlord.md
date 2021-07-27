@@ -2,7 +2,7 @@
 title: "Avatar - Adalid salvaje"
 permalink: /Avatars/Wild Overlord/
 excerpt: "Era of Chaos  Adalid salvaje"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Wild Overlord.md"
 toc: false

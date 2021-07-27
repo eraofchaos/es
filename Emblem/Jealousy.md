@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Envidia"
 permalink: /Emblem/Jealousy/
 excerpt: "Era of Chaos Envidia. Envidia. Era of Chaos Emblema Sagrado Envidia. Era of Chaos Caos Envidia"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Jealousy.md"
 toc: false

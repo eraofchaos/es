@@ -2,7 +2,7 @@
 title: "Cola Tóxica"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Cola Tóxica. Cola Tóxica"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Toxic Tail.md"
 toc: false

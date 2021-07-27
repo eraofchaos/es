@@ -2,7 +2,7 @@
 title: "Garra Afilada Añil"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Garra Afilada Añil. Garra Afilada Añil"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Navy Blue Sharp Claw.md"
 toc: false

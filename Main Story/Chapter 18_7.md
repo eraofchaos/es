@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-7 Canto del Poeta"
 permalink: /Main Story/Chapter 18_7/
 excerpt: "Capítulo 18 - 7. Era of Chaos  Historia principal - Capítulo 18_7. 18-7 Canto del Poeta"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 18_7.md"
 toc: false

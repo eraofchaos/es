@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - El precio de la lealtad"
 permalink: /Emblem/The Price of Loyalty/
 excerpt: "Era of Chaos El precio de la lealtad. El precio de la lealtad. Era of Chaos Emblema Sagrado El precio de la lealtad. Era of Chaos Orden El precio de la lealtad"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "The Price of Loyalty.md"
 toc: false

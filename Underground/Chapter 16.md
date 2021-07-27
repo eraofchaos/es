@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 16 Por el rey y la nación"
 permalink: /Underground/Chapter 16/
 excerpt: "Capítulo 16 Por el rey y la nación. Era of Chaos  Subterráneo - Capítulo 16. Por el rey y la nación"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 16.md"
 toc: false

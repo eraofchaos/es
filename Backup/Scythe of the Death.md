@@ -2,7 +2,7 @@
 title: "Backup - Guadaña de la Muerte"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Guadaña de la Muerte"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Scythe of the Death.md"
 toc: false

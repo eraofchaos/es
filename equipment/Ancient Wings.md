@@ -2,7 +2,7 @@
 title: "Alas Ancestrales"
 permalink: /equipment/Ancient Wings/
 excerpt: "Era of Chaos Alas Ancestrales. Alas Ancestrales"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Ancient Wings.md"
 toc: false

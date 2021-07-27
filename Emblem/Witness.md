@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Testigo"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Testigo. Testigo. Era of Chaos Emblema Sagrado Testigo. Era of Chaos Bien Testigo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Witness.md"
 toc: false

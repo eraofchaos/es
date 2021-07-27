@@ -2,7 +2,7 @@
 title: "Poder Máximo EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "Era of Chaos Poder Máximo EXP. Poder Máximo EXP"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Peak Talent EXP.md"
 toc: false

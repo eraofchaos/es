@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. De niña, los Elfos Oscuros la capturaron y traficaron con ella. Al final, Jenova pudo escapar de su deplorable vida gracias a un Unicornio vengativo. Desde entonces, decidió venerar a estas criaturas tan misteriosas en los bosques y pasar su vida junto a ellas. Nadie conoce mejor a los Unicornios que Jenova, que aprovecha la velocidad y el poder de estos para aventajar en combate."
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Jenova"
 toc: true

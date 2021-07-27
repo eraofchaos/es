@@ -3,7 +3,7 @@ title: "Campeón Oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Campeón Oscuro. Campeón Oscuro Unidades. null. Era of Chaos Él es el Rey Inmortal, pero también el Señor de la Oscuridad. Matará cruelmente a cualquier ser vivo para quedarse con su alma."
 unitID: 309
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Campeón Oscuro"
 toc: true
@@ -119,7 +119,7 @@ toc: true
  **Descripción:** <span style="color: #645252;font-size:20px">Las unidades de Necrópolis son expertas en la represión con hechizos. Si está en el campo de batalla, la resistencia mágica de las unidades hostiles se reduce un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">.
 
 ### Habilidad normal 6 : Cementerio silencioso
- **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan tres unidades de Necrópolis, el Campeón Oscuro aumenta su propia velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se lanza [Misfortune Curse], aparece un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que dura 15 s. Su dominio se expande a medida que aumenta el nivel de la habilidad. La recarga es de 30 s.</span><span style="color: black">
+ **Descripción:** <span style="color: #645252;font-size:20px">Cuando se despliegan tres unidades de Necrópolis, el Campeón Oscuro aumenta su propia velocidad de ataque un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> y el daño de la unidad un </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Cuando se lanza &lt;Misfortune Curse&gt;, aparece un </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;Silent Graveyard&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> que dura 15 s. Su dominio se expande a medida que aumenta el nivel de la habilidad. La recarga es de 30 s.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -229,7 +229,7 @@ toc: true
 
  **Rush:** 1
 
- **Speedattack:** 120
+ **Speedattack:** 100
 
  **Attack Show:** 8.0
 
@@ -253,7 +253,7 @@ toc: true
 
  **label1:** 1
 
- **speedmove:** 100
+ **speedmove:** 50
 
  **posclass:** 1
 

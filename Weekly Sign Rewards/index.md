@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 32  Semana de la Torre
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **9 Aug** | **5x [Gremlin](/ItemsES/unt_235/)**  | ¡Un escuadrón de Gremlins se une a tu ejército y te vuelves más fuerte! |
+  | **10 Aug** | **3x [Gárgola de Piedra](/ItemsES/unt_236/)**  | ¡Un escuadrón de Gárgolas de Piedra se une a tu ejército y te vuelves más fuerte! |
+  | **11 Aug** | **100x <i class="fas fa-gem"/>**  | ¡Te llevas sorpresas inesperadas durante tu estudio de la alquimia! |
+  | **12 Aug** | **3x [Gólem de Hierro](/ItemsES/unt_237/)**  | ¡Un escuadrón de Gólems de Hierro se une a tu ejército y te vuelves más fuerte! |
+  | **13 Aug** | **3x [Cofre de unidad de Torre](/ItemsES/con_1274/)**  | ¡Has descubierto varios cofres preciosos en el laboratorio arcano de la Torre! |
+  | **14 Aug** | **3x [Maga](/ItemsES/unt_238/)**  | ¡Un escuadrón de Magas se une a tu ejército y te vuelves más fuerte! |
+  | **15 Aug** | **5x [Solmyr](/ItemsES/her_386/)**  | ¡Tus investigaciones arcanas llevan a Solmyr a unirse a tu ejército! |
+
 
 #### 2021 Week 31  Semana del Bastión
 

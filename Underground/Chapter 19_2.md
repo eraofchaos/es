@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 - 19-2 Culto al Alma"
 permalink: /Underground/Chapter 19_2/
 excerpt: "Capítulo 19 - 2. Era of Chaos  Subterráneo - Capítulo 19_2. 19-2 Culto al Alma"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 19_2.md"
 toc: false

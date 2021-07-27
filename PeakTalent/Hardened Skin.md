@@ -2,7 +2,7 @@
 title: "Piel endurecida. Poder Máximo - Piel endurecida"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Era of Chaos Poder Máximo Piel endurecida. Poder Máximo Piel endurecida. Piel endurecida"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Hardened Skin.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 14 - 14-1 Sigilo"
 permalink: /Main Story/Chapter 14_1/
 excerpt: "Capítulo 14 - 1. Era of Chaos  Historia principal - Capítulo 14_1. 14-1 Sigilo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 14_1.md"
 toc: false

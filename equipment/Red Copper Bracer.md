@@ -2,7 +2,7 @@
 title: "Brazalete de Cobre Rojo"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Era of Chaos Brazalete de Cobre Rojo. Brazalete de Cobre Rojo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Red Copper Bracer.md"
 toc: false

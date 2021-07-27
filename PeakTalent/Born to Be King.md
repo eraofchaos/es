@@ -2,7 +2,7 @@
 title: "Nacido para ser Rey. Poder Máximo - Nacido para ser Rey"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Poder Máximo Nacido para ser Rey. Poder Máximo Nacido para ser Rey. Nacido para ser Rey"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Born to Be King.md"
 toc: false

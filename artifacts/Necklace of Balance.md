@@ -2,7 +2,7 @@
 title: "Artefacto - Espejo de Venganza - Collar de Equilibrio"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Era of Chaos  Espejo de Venganza - Collar de Equilibrio. Un objeto utilizado para controlar y regular la magia durante la fusión de poderes mágicos. Uno de los componentes del Espejo de Venganza."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Necklace of Balance.md"
 toc: false

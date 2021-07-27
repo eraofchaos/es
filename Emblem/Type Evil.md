@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Maligno"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Emblema Sagrado. Emblema Sagrado. Era of Chaos Emblema Sagrado Maligno. Era of Chaos Maligno"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "typeMaligno.md"
 toc: false

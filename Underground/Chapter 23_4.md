@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 23 - 23-4 El Renacer de la Llama Eterna"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Capítulo 23 - 4. Era of Chaos  Subterráneo - Capítulo 23_4. 23-4 El Renacer de la Llama Eterna"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 23_4.md"
 toc: false

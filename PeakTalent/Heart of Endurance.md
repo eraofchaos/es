@@ -2,7 +2,7 @@
 title: "Corazón resistente. Poder Máximo - Corazón resistente"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Era of Chaos Poder Máximo Corazón resistente. Poder Máximo Corazón resistente. Corazón resistente"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Heart of Endurance.md"
 toc: false

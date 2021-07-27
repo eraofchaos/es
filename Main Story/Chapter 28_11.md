@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-11 Fosa común"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "Capítulo 28 - 11. Era of Chaos  Historia principal - Capítulo 28_11. 28-11 Fosa común"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 28_11.md"
 toc: false

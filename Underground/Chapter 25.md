@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 25 Tierra del sueño"
 permalink: /Underground/Chapter 25/
 excerpt: "Capítulo 25 Tierra del sueño. Era of Chaos  Subterráneo - Capítulo 25. Tierra del sueño"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 25.md"
 toc: false

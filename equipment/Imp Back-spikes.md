@@ -2,7 +2,7 @@
 title: "Púas Traseras de Diablillo"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Púas Traseras de Diablillo. Púas Traseras de Diablillo"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Imp Back-spikes.md"
 toc: false

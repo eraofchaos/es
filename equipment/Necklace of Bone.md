@@ -2,7 +2,7 @@
 title: "Collar de Hueso"
 permalink: /equipment/Necklace of Bone/
 excerpt: "Era of Chaos Collar de Hueso. Collar de Hueso"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Necklace of Bone.md"
 toc: false

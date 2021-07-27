@@ -2,7 +2,7 @@
 title: "Avatar - Adalid del océano"
 permalink: /Avatars/Ocean Overlord/
 excerpt: "Era of Chaos  Adalid del océano"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Ocean Overlord.md"
 toc: false

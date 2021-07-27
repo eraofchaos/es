@@ -2,7 +2,7 @@
 title: "Ayudante Catherine"
 permalink: /heroes/Adjutant Catherine/
 excerpt: "Era of Chaos  Ayudante Catherine"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Adjutant Catherine.md"
 QR: adhero_60102

@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "index.md"
 toc: false
@@ -112,7 +112,7 @@ classes: wide
   | 99 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/es/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 100 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/es/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 101 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/es/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 102 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/es/Avatars/Unknown Avatar Frame 1126/) | + |  |
+  | 102 | ![Verano relajado](/images/a/avatarFrame_126.png) | [Verano relajado](/es/Avatars/Chilled-out Summer/) | + | Marco de avatar de Verano relajado |
   | 103 | ![Vides de la Fortuna](/images/a/avatarFrame_92.png) | [Vides de la Fortuna](/es/Avatars/Vines of Fortune/) | + | Marco de avatar Vides de la Fortuna |
   | 104 | ![Voluntad de los dioses](/images/a/avatarFrame_30.png) | [Voluntad de los dioses](/es/Avatars/Will of the Gods/) | + | Marco de avatar de Voluntad de los dioses |
   | 105 | ![Voluntad del Conflujo](/images/a/avatarFrame_117.png) | [Voluntad del Conflujo](/es/Avatars/Conflux Will/) | + | Marco de avatar de Voluntad del Conflujo |

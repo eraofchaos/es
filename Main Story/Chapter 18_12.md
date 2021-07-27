@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-12 La unidad secreta"
 permalink: /Main Story/Chapter 18_12/
 excerpt: "Capítulo 18 - 12. Era of Chaos  Historia principal - Capítulo 18_12. 18-12 La unidad secreta"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 18_12.md"
 toc: false

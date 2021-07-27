@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 3 - 3-4 Cámara del Héroe"
 permalink: /Main Story/Chapter 3_4/
 excerpt: "Capítulo 3 - 4. Era of Chaos  Historia principal - Capítulo 3_4. 3-4 Cámara del Héroe"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 3_4.md"
 toc: false

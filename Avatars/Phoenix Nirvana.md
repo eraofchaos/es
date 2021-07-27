@@ -2,7 +2,7 @@
 title: "Avatar - Nirvana del Fénix"
 permalink: /Avatars/Phoenix Nirvana/
 excerpt: "Era of Chaos  Nirvana del Fénix"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Phoenix Nirvana.md"
 toc: false

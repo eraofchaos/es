@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 - 7-4 Locura Dorada"
 permalink: /Underground/Chapter 7_4/
 excerpt: "Capítulo 7 - 4. Era of Chaos  Subterráneo - Capítulo 7_4. 7-4 Locura Dorada"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Chapter 7_4.md"
 toc: false

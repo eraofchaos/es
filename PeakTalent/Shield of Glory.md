@@ -2,7 +2,7 @@
 title: "Escudo de la gloria. Poder Máximo - Escudo de la gloria"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Era of Chaos Poder Máximo Escudo de la gloria. Poder Máximo Escudo de la gloria. Escudo de la gloria"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: es
 ref: "Shield of Glory.md"
 toc: false
