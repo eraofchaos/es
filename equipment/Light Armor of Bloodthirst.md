@@ -2,7 +2,7 @@
 title: "Armadura Ligera de Sed de Sangre"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "Era of Chaos Armadura Ligera de Sed de Sangre. Armadura Ligera de Sed de Sangre"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Light Armor of Bloodthirst.md"
 toc: false

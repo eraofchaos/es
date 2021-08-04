@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 22 - 22-8 Dragón Arcoíris"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "Capítulo 22 - 8. Era of Chaos  Historia principal - Capítulo 22_8. 22-8 Dragón Arcoíris"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 22_8.md"
 toc: false

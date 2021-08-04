@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 29 - 29-5 Villatrébol"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Capítulo 29 - 5. Era of Chaos  Historia principal - Capítulo 29_5. 29-5 Villatrébol"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 29_5.md"
 toc: false

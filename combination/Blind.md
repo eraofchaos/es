@@ -2,7 +2,7 @@
 title: "Información de combinación for Ceguera"
 permalink: /combination/Blind/
 excerpt: "Información de combinación - Ceguera. Units and Heroes Formation."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Ceguera.md"
 toc: false

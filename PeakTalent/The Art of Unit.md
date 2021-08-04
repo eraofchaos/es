@@ -2,7 +2,7 @@
 title: "El arte de la unidad. Poder Máximo - El arte de la unidad"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Era of Chaos Poder Máximo El arte de la unidad. Poder Máximo El arte de la unidad. El arte de la unidad"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "The Art of Unit.md"
 toc: false

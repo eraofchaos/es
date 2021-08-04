@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 8 - 8-5 El Ejército de la Muerte"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Capítulo 8 - 5. Era of Chaos  Subterráneo - Capítulo 8_5. 8-5 El Ejército de la Muerte"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 8_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Forma inestable. Poder Máximo - Forma inestable"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Era of Chaos Poder Máximo Forma inestable. Poder Máximo Forma inestable. Forma inestable"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "The Unstable Form.md"
 toc: false

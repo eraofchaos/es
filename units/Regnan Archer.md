@@ -3,7 +3,7 @@ title: "Arquera Regnan"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Arquera Regnan. Arquera Regnan Unidades. Tiradora Regnan. Era of Chaos Su objetivo es la riqueza. Sus flechas aciertan a quienquiera que tenga por objetivo."
 unitID: 9902
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Arquera Regnan"
 toc: true
@@ -211,16 +211,16 @@ toc: true
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Flecha letal&gt;</span><span style="color: #645252;font-size:18px"> 8 s después del comienzo de la batalla, inflige daño equivalente al 400% de su propio ATQ a una unidad objetivo y le causa ralentización, lo que reduce un 1% de los PV máximos por segundo. Dura 10 s. Puede infligir daño a objetivos inmunes a la ralentización. La recarga es de 25 s.</span>
 
 ### 3rd Skill (or 4th): Esquiva de Tácticas
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de aturdimiento, petrificación, cristalización, congelación o detener el tiempo, concede una burbuja equivalente al 30% de los PV máximos y aumenta la DEF un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de aturdimiento, petrificación, cristalización, congelación o detener el tiempo, concede una burbuja equivalente al 30% de los PV máximos y aumenta la DEF un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Emblema Sagrado).</span>
 
 ### 4th Skill (or 3rd): Equipo táctico
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de silencio, moral baja, parálisis, desaliento o ceguera, aumenta la velocidad de ataque un 30% y el daño de golpe crítico un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Resplandor).</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Tácticas de entrenamiento&gt;</span><span style="color: #645252;font-size:18px"> Cuando está bajo los efectos de silencio, moral baja, parálisis, desaliento o ceguera, aumenta la velocidad de ataque un 30% y el daño de golpe crítico un 20%. Dura 6 s. La recarga es de 12 s. (Esta habilidad no surte efecto a menos que se haya equipado Emblema Sagrado).</span>
 
 ### 5th Skill (or 6th): Tiro de cerca
  **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cada 13 s, se activa &lt;Tiro de cerca&gt; contra la unidad enemiga más cercana, lo que le inflige daño equivalente al 230% de su propio ATQ. El daño se duplica contra las unidades bajo los efectos de demacración.</span>
 
 ### 6th Skill (or 5th): Apoyo de potencia de fuego
- **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cuando una unidad amistosa soporta daño superior al 20% de sus PV máximos, la Arquera Regnan lanza &lt;Apoyo de potencia de fuego&gt;, lo que aumenta su golpe crítico en 300 y su ATQ un 40%. Dura 5 s. Se acumula hasta 2 veces.</span>
+ **Descripción:** <span style="color: #48b946;font-size:18px">&lt;Apoyo de tiradores&gt;</span><span style="color: #645252;font-size:18px"> Cuando una unidad de Cala amistosa recibe daño superior al 20% de sus PV máximos, la Arquera Regnan lanza &lt;Apoyo de potencia de fuego&gt;, lo que aumenta su golpe crítico en 300 y su ATQ un 40%. Dura 5 s. Se acumula hasta 2 veces.</span>
 
 ## Technical info
  **runart:** 0

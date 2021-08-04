@@ -2,7 +2,7 @@
 title: "Capa de Sombra"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Capa de Sombra. Capa de Sombra"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Shadow Cloak.md"
 toc: false

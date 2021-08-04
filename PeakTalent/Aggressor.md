@@ -2,7 +2,7 @@
 title: "Agresor. Poder Máximo - Agresor"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Era of Chaos Poder Máximo Agresor. Poder Máximo Agresor. Agresor"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Aggressor.md"
 toc: false

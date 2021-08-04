@@ -2,7 +2,7 @@
 title: "Paño para los pies"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Paño para los pies. Paño para los pies"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Footwraps.md"
 toc: false

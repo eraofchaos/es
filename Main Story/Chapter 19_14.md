@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 19 - 19-14 Rey Inmortal"
 permalink: /Main Story/Chapter 19_14/
 excerpt: "Capítulo 19 - 14. Era of Chaos  Historia principal - Capítulo 19_14. 19-14 Rey Inmortal"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 19_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Collar de acero"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Collar de acero. Collar de acero"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Steel Necklet.md"
 toc: false

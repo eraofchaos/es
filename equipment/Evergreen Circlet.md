@@ -2,7 +2,7 @@
 title: "Diadema del Verdor"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Diadema del Verdor. Diadema del Verdor"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Evergreen Circlet.md"
 toc: false

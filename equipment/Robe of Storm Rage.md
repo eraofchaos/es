@@ -2,7 +2,7 @@
 title: "Túnica de Rabia Tormentosa"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Túnica de Rabia Tormentosa. Túnica de Rabia Tormentosa"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Robe of Storm Rage.md"
 toc: false

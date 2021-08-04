@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 19 - 19-3 De un Lado a Otro"
 permalink: /Underground/Chapter 19_3/
 excerpt: "Capítulo 19 - 3. Era of Chaos  Subterráneo - Capítulo 19_3. 19-3 De un Lado a Otro"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 19_3.md"
 toc: false

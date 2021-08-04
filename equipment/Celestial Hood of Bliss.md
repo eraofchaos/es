@@ -2,7 +2,7 @@
 title: "Capucha Celestial de la Felicidad"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Capucha Celestial de la Felicidad. Capucha Celestial de la Felicidad"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Celestial Hood of Bliss.md"
 toc: false

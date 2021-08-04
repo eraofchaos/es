@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-4 Reagruparse y Renacer"
 permalink: /Underground/Chapter 2_4/
 excerpt: "Capítulo 2 - 4. Era of Chaos  Subterráneo - Capítulo 2_4. 2-4 Reagruparse y Renacer"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 2_4.md"
 toc: false

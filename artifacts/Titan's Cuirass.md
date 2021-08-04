@@ -2,7 +2,7 @@
 title: "Artefacto - Trueno del Titán - Coraza del Titán"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Era of Chaos  Trueno del Titán - Coraza del Titán. Una armadura fabricada a partir de un meteorito. Uno de los componentes del Trueno del Titán."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Titan's Cuirass.md"
 toc: false

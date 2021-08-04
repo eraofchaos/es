@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 25 - 25-10 Setas"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Capítulo 25 - 10. Era of Chaos  Historia principal - Capítulo 25_10. 25-10 Setas"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 25_10.md"
 toc: false

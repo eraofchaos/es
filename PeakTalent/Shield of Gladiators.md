@@ -2,7 +2,7 @@
 title: "Escudo de gladiadores. Poder Máximo - Escudo de gladiadores"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Era of Chaos Poder Máximo Escudo de gladiadores. Poder Máximo Escudo de gladiadores. Escudo de gladiadores"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Shield of Gladiators.md"
 toc: false

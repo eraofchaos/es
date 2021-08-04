@@ -2,7 +2,7 @@
 title: "Avatar - Sombra de los fantasmas"
 permalink: /Avatars/Shadow of Ghosts/
 excerpt: "Era of Chaos  Sombra de los fantasmas"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Shadow of Ghosts.md"
 toc: false

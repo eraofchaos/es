@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 23 - 23-4 El Anciano Envenenado"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Capítulo 23 - 4. Era of Chaos  Historia principal - Capítulo 23_4. 23-4 El Anciano Envenenado"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 23_4.md"
 toc: false

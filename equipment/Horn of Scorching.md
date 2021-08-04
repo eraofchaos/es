@@ -2,7 +2,7 @@
 title: "Cuerno Abrasador"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Era of Chaos Cuerno Abrasador. Cuerno Abrasador"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Horn of Scorching.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Llave de piedra a los Portales"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Llave de piedra a los Portales. Llave de piedra a los Portales. Era of Chaos Emblema Sagrado Llave de piedra a los Portales. Era of Chaos Neutral Llave de piedra a los Portales"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Stone Key to the Gates.md"
 toc: false

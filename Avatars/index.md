@@ -2,7 +2,7 @@
 title: "Marco de avatar y avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Marco de avatar y avatar. Marco de avatar y avatar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "index.md"
 toc: false
@@ -114,6 +114,7 @@ classes: wide
   | 101 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/es/Avatars/Unknown Avatar Frame 1069/) | - |  |
   | 102 | ![Verano relajado](/images/a/avatarFrame_126.png) | [Verano relajado](/es/Avatars/Chilled-out Summer/) | + | Marco de avatar de Verano relajado |
   | 103 | ![Vides de la Fortuna](/images/a/avatarFrame_92.png) | [Vides de la Fortuna](/es/Avatars/Vines of Fortune/) | + | Marco de avatar Vides de la Fortuna |
-  | 104 | ![Voluntad de los dioses](/images/a/avatarFrame_30.png) | [Voluntad de los dioses](/es/Avatars/Will of the Gods/) | + | Marco de avatar de Voluntad de los dioses |
-  | 105 | ![Voluntad del Conflujo](/images/a/avatarFrame_117.png) | [Voluntad del Conflujo](/es/Avatars/Conflux Will/) | + | Marco de avatar de Voluntad del Conflujo |
-  | 106 | ![¡A luchar!](/images/a/avatarFrame_84.png) | [¡A luchar!](/es/Avatars/Let's Fight!/) | - | Marco de avatar de En guerra |
+  | 104 |  | [Viento del norte furioso](/es/Avatars/Raging Northern Wind/) | + | Marco de avatar de Viento del norte furioso |
+  | 105 | ![Voluntad de los dioses](/images/a/avatarFrame_30.png) | [Voluntad de los dioses](/es/Avatars/Will of the Gods/) | + | Marco de avatar de Voluntad de los dioses |
+  | 106 | ![Voluntad del Conflujo](/images/a/avatarFrame_117.png) | [Voluntad del Conflujo](/es/Avatars/Conflux Will/) | + | Marco de avatar de Voluntad del Conflujo |
+  | 107 | ![¡A luchar!](/images/a/avatarFrame_84.png) | [¡A luchar!](/es/Avatars/Let's Fight!/) | - | Marco de avatar de En guerra |

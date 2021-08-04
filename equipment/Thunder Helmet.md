@@ -2,7 +2,7 @@
 title: "Casco del Trueno"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Casco del Trueno. Casco del Trueno"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Thunder Helmet.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Región salvaje. Poder Máximo - Región salvaje"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Era of Chaos Poder Máximo Región salvaje. Poder Máximo Región salvaje. Región salvaje"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Wild Region.md"
 toc: false

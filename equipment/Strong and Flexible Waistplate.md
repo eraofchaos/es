@@ -2,7 +2,7 @@
 title: "Pretina Fuerte y Flexible"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Pretina Fuerte y Flexible. Pretina Fuerte y Flexible"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Strong and Flexible Waistplate.md"
 toc: false

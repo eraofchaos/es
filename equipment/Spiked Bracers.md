@@ -2,7 +2,7 @@
 title: "Brazaletes de Púas"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Brazaletes de Púas. Brazaletes de Púas"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Spiked Bracers.md"
 toc: false

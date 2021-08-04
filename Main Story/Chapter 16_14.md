@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 16 - 16-14 La Gratitud del Guardabosques"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Capítulo 16 - 14. Era of Chaos  Historia principal - Capítulo 16_14. 16-14 La Gratitud del Guardabosques"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 16_14.md"
 toc: false

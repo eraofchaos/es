@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 20 - 20-1 Aliento Mágico"
 permalink: /Underground/Chapter 20_1/
 excerpt: "Capítulo 20 - 1. Era of Chaos  Subterráneo - Capítulo 20_1. 20-1 Aliento Mágico"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 20_1.md"
 toc: false

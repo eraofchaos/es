@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 13 - 13-9 La Crisis de la Manada de Lobos"
 permalink: /Main Story/Chapter 13_9/
 excerpt: "Capítulo 13 - 9. Era of Chaos  Historia principal - Capítulo 13_9. 13-9 La Crisis de la Manada de Lobos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 13_9.md"
 toc: false

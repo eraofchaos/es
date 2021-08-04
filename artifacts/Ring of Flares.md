@@ -2,7 +2,7 @@
 title: "Artefacto - Códice del Archimago - Anillo de Llamas"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Era of Chaos  Códice del Archimago - Anillo de Llamas. Un anillo por cuya superficie fluye magia. Uno de los códices del Archimago."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Ring of Flares.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 10 - 10-1 Aguardando en la Oscuridad"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Capítulo 10 - 1. Era of Chaos  Subterráneo - Capítulo 10_1. 10-1 Aguardando en la Oscuridad"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 10_1.md"
 toc: false

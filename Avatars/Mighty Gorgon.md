@@ -2,7 +2,7 @@
 title: "Avatar - Gran Gorgona"
 permalink: /Avatars/Mighty Gorgon/
 excerpt: "Era of Chaos  Gran Gorgona"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Mighty Gorgon.md"
 toc: false

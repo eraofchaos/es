@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 7 Tierras fronterizas"
 permalink: /Underground/Chapter 7/
 excerpt: "Capítulo 7 Tierras fronterizas. Era of Chaos  Subterráneo - Capítulo 7. Tierras fronterizas"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 7.md"
 toc: false

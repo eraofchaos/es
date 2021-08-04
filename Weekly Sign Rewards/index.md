@@ -2,11 +2,24 @@
 title: "Recompensa completa"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Recompensa completa."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 33  Semana de la Fortaleza
+
+  |  Date  |  Recompensa  |  Recompensa Descripción    |
+  |:-------|:---------------|:------------------------:|
+  | **16 Aug** | **5x [Gnoll](/ItemsES/unt_253/)**  | ¡Un escuadrón de Gnolls se une a tu ejército y te vuelves más fuerte! |
+  | **17 Aug** | **5x [Cofre de facción de Fortaleza](/ItemsES/con_1277/)**  | ¡Tus tropas de la Fortaleza te han traído varios cofres del tesoro! |
+  | **18 Aug** | **100x <i class="fas fa-gem"/>**  | ¡Tu ejército ha encontrado un montón de tesoros en la ciénaga oscura! |
+  | **19 Aug** | **3x [Hombre Lagarto](/ItemsES/unt_254/)**  | ¡Un escuadrón de Hombres Lagarto se une a tu ejército y te vuelves más fuerte! |
+  | **20 Aug** | **5x [Runas de Lista de Fortaleza](/ItemsES/con_818/)**  | ¡Tus tropas del Infierno te han traído varias runas valiosas! |
+  | **21 Aug** | **3x [Libélula Menor](/ItemsES/unt_255/)**  | ¡Un escuadrón de Libélulas Menores se une a tu ejército y te vuelves más fuerte! |
+  | **22 Aug** | **5x [Korbac](/ItemsES/her_394/)**  | ¡Un valiente Amaestrador ha visitado tu territorio! |
+
 
 #### 2021 Week 32  Semana de la Torre
 

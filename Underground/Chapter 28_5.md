@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 28 - 28-5  A mitad de robo"
 permalink: /Underground/Chapter 28_5/
 excerpt: "Capítulo 28 - 5. Era of Chaos  Subterráneo - Capítulo 28_5. 28-5  A mitad de robo"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 28_5.md"
 toc: false

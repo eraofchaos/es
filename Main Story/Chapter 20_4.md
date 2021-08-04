@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 20 - 20-4 Aeronave"
 permalink: /Main Story/Chapter 20_4/
 excerpt: "Capítulo 20 - 4. Era of Chaos  Historia principal - Capítulo 20_4. 20-4 Aeronave"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 20_4.md"
 toc: false

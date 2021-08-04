@@ -2,7 +2,7 @@
 title: "Era of Chaos - Exclusivo Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Exclusivo Stronghold. Exclusivo Stronghold. List of Exclusivo Stronghold in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Exclusive Stronghold"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Roc](/es/units/Roc/) | [Canto Arcano](/es/Exclusive/Roc Arcane Chant/) | - | Carga | [Ficha de Canto Arcano](/ItemsES/con_915/) | - |
   | 6  | [Cíclope](/es/units/Cyclops/) | [Arco largo](/es/Exclusive/Cyclops Long Bow/) | + | Carga | [Ficha de Arco Largo](/ItemsES/con_914/) | - |
   | 7  | [Behemoth](/es/units/Behemoth/) | [Espíritu Sanguinario](/es/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Asistencia técnica | [Ficha de Espíritu Sanguinario](/ItemsES/con_982/) | [Aspecto Especial de Espíritu Sanguinario](/ItemsES/con_650/) |
-  | 8  | [Berserker](/es/units/Berserker/) | [Hacha de Berserker](/es/Exclusive/Berserker Berserker's Axe/) | - | Asistencia técnica | [Ficha de Hacha de Berserker](/ItemsES/con_983/) | [Aspecto Especial de Hacha de Berserker](/ItemsES/con_651/) |
+  | 8  | [Berserker](/es/units/Berserker/) | [Hacha de Berserker](/es/Exclusive/Berserker Berserker's Axe/) | + | Asistencia técnica | [Ficha de Hacha de Berserker](/ItemsES/con_983/) | [Aspecto Especial de Hacha de Berserker](/ItemsES/con_651/) |
   | 9  | [Trol](/es/units/Troll/) | - | - | - | none | none |

@@ -2,7 +2,7 @@
 title: "Fortificaciones. Poder Máximo - Fortificaciones"
 permalink: /PeakTalent/Fortifications/
 excerpt: "Era of Chaos Poder Máximo Fortificaciones. Poder Máximo Fortificaciones. Fortificaciones"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Fortifications.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Poder Máximo"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Poder Máximo. Poder Máximo. Los talentos máximos estarán disponibles a nvl. 110"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 2 - 2-2 Travesía Neblinosa"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Capítulo 2 - 2. Era of Chaos  Subterráneo - Capítulo 2_2. 2-2 Travesía Neblinosa"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 2_2.md"
 toc: false

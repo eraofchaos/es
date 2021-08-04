@@ -2,7 +2,7 @@
 title: "Armadura Portentosa"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Armadura Portentosa. Armadura Portentosa"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Armor of Wonder.md"
 toc: false

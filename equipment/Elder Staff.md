@@ -2,7 +2,7 @@
 title: "Báculo de los Ancianos"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Báculo de los Ancianos. Báculo de los Ancianos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Elder Staff.md"
 toc: false

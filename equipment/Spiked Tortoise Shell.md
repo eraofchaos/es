@@ -2,7 +2,7 @@
 title: "Caparazón de Galápago con Púas"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Caparazón de Galápago con Púas. Caparazón de Galápago con Púas"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Spiked Tortoise Shell.md"
 toc: false

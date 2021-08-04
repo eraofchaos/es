@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 15 - 15-9 El Reencuentro"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Capítulo 15 - 9. Era of Chaos  Historia principal - Capítulo 15_9. 15-9 El Reencuentro"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 15_9.md"
 toc: false

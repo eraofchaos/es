@@ -2,7 +2,7 @@
 title: "Exclusivo - Pica de Caballero (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Pica de Caballero. Pica de Caballero. Era of Chaos Exclusivo Pica de Caballero. Catafracto Exclusivo."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Cavalier Pica de Caballero.md"
 toc: false

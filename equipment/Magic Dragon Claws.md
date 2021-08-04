@@ -2,7 +2,7 @@
 title: "Garras de Dragón Mágico"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Era of Chaos Garras de Dragón Mágico. Garras de Dragón Mágico"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Magic Dragon Claws.md"
 toc: false

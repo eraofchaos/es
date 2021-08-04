@@ -2,7 +2,7 @@
 title: "Machete Endurecido"
 permalink: /equipment/Toughened Machete/
 excerpt: "Era of Chaos Machete Endurecido. Machete Endurecido"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Toughened Machete.md"
 toc: false

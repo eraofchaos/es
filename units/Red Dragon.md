@@ -3,7 +3,7 @@ title: "Dragón Rojo"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Dragón Rojo. Dragón Rojo Unidades. null. Era of Chaos Es el señor de los Dragones. Su rugido mueve a la acción a sus hermanos, pero también es una declaración de la dignidad de los Dragones."
 unitID: 708
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Dragón Rojo"
 toc: true

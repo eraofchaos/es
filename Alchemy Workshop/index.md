@@ -2,7 +2,7 @@
 title: "Taller alquímico"
 permalink: /Alchemy Workshop/
 excerpt: "Taller alquímico.El Taller alquímico es un lugar realmente maravilloso. No solo reúne la sabiduría de distintas razas, también inventa cosas increíbles una detrás de otra."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "index.md"
 toc: false

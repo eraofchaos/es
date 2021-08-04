@@ -2,7 +2,7 @@
 title: "Hoja oculta"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Hoja oculta. Hoja oculta"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Hidden Blade.md"
 toc: false

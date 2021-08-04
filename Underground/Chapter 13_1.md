@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 13 - 13-1 El Rumbo de la Guerra"
 permalink: /Underground/Chapter 13_1/
 excerpt: "Capítulo 13 - 1. Era of Chaos  Subterráneo - Capítulo 13_1. 13-1 El Rumbo de la Guerra"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 13_1.md"
 toc: false

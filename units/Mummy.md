@@ -3,7 +3,7 @@ title: "Momia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Momia. Momia Unidades. Rey Momia. Era of Chaos Los no muertos duermen en su antiguo mausoleo. Una maldición caerá sobre cualquiera que se atreva a entrar."
 unitID: 308
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Momia"
 toc: true

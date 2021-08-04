@@ -2,7 +2,7 @@
 title: "Escudo de Protección"
 permalink: /equipment/Shield of Protection/
 excerpt: "Era of Chaos Escudo de Protección. Escudo de Protección"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Shield of Protection.md"
 toc: false

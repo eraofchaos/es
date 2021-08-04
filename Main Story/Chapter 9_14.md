@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 9 - 9-14 Gloria Imperial"
 permalink: /Main Story/Chapter 9_14/
 excerpt: "Capítulo 9 - 14. Era of Chaos  Historia principal - Capítulo 9_14. 9-14 Gloria Imperial"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 9_14.md"
 toc: false

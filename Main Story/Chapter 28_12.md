@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 28 - 28-12 Templo abandonado"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "Capítulo 28 - 12. Era of Chaos  Historia principal - Capítulo 28_12. 28-12 Templo abandonado"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 28_12.md"
 toc: false

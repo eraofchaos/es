@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 18 - 18-8 El Cinturón Mágico"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Capítulo 18 - 8. Era of Chaos  Historia principal - Capítulo 18_8. 18-8 El Cinturón Mágico"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 18_8.md"
 toc: false

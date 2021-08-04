@@ -2,7 +2,7 @@
 title: "Festival del Barco del Dragón"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Festival del Barco del Dragón - Misión del Barco del Dragón"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "index.md"
 toc: false

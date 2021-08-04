@@ -2,7 +2,7 @@
 title: "Espaldar de la Encantadora"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Espaldar de la Encantadora. Espaldar de la Encantadora"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

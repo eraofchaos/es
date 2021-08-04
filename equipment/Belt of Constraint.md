@@ -2,7 +2,7 @@
 title: "Cinturón de Constricción"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Cinturón de Constricción. Cinturón de Constricción"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Belt of Constraint.md"
 toc: false

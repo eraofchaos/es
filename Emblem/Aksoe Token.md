@@ -2,7 +2,7 @@
 title: "Emblema Sagrado - Ficha de Aksoe"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Ficha de Aksoe. Ficha de Aksoe. Era of Chaos Emblema Sagrado Ficha de Aksoe. Era of Chaos Neutral Ficha de Aksoe"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Aksoe Token.md"
 toc: false

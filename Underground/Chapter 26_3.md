@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 26 - 26-3 Inolvidable"
 permalink: /Underground/Chapter 26_3/
 excerpt: "Capítulo 26 - 3. Era of Chaos  Subterráneo - Capítulo 26_3. 26-3 Inolvidable"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 26_3.md"
 toc: false

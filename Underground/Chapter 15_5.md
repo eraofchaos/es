@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 15 - 15-5 A las Puertas del Infierno"
 permalink: /Underground/Chapter 15_5/
 excerpt: "Capítulo 15 - 5. Era of Chaos  Subterráneo - Capítulo 15_5. 15-5 A las Puertas del Infierno"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 15_5.md"
 toc: false

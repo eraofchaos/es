@@ -2,7 +2,7 @@
 title: "Piel Blindada"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Piel Blindada. Piel Blindada"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Ironclad Skin.md"
 toc: false

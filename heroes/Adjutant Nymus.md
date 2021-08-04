@@ -2,7 +2,7 @@
 title: "Ayudante Nymus"
 permalink: /heroes/Adjutant Nymus/
 excerpt: "Era of Chaos  Ayudante Nymus"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Adjutant Nymus.md"
 QR: adhero_60803

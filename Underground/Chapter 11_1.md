@@ -2,7 +2,7 @@
 title: "Subterráneo - Capítulo 11 - 11-1 Camino Seguro"
 permalink: /Underground/Chapter 11_1/
 excerpt: "Capítulo 11 - 1. Era of Chaos  Subterráneo - Capítulo 11_1. 11-1 Camino Seguro"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 11_1.md"
 toc: false

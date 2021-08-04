@@ -2,7 +2,7 @@
 title: "Historia principal - Capítulo 27 - 27-12 El Padre del Dragón"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Capítulo 27 - 12. Era of Chaos  Historia principal - Capítulo 27_12. 27-12 El Padre del Dragón"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: es
 ref: "Chapter 27_12.md"
 toc: false
